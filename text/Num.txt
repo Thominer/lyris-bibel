@@ -1,0 +1,1289 @@
+1	1	Und der HERR redete zu Mose in der Wüste Sinai, im Zelt der Begegnung, am Ersten des zweiten Monats, im zweiten Jahr, nachdem sie aus dem Land Ägypten ausgezogen waren:
+1	2	«Stellt die Summe der ganzen Gemeinschaft der Kinder Israels fest, nach ihren Sippen, nach dem Haus ihrer Väter, nach der Zahl der Namen, alles Männliche, je Kopf.
+1	3	Zwanzig Jahre alt und darüber, jeder, der in Israel mit dem Heer auszieht: sie sollt ihr mustern nach ihren Heerscharen, du und Aaron.
+1	4	Und mit euch soll für jeden Stamm ein Mann sein, ein Mann, der Haupt des Hauses seiner Väter ist.
+1	5	Und dies sind die Namen der Männer, die bei euch stehen sollen: für Ruben Elizur, der Sohn Schedëurs;
+1	6	für Simeon Schelumiël, der Sohn Zurischaddais;
+1	7	für Juda Nachschon, der Sohn Amminadabs;
+1	8	für Issachar Netanel, der Sohn Zuars;
+1	9	für Sebulon Eliab, der Sohn Helons;
+1	10	für die Kinder Josefs: für Efraim Elischama, der Sohn Ammihuds, für Manasse Gamliël, der Sohn Pedazurs;
+1	11	für Benjamin Abidan, der Sohn Gidonis;
+1	12	für Dan Ahiëser, der Sohn Ammischaddais;
+1	13	für Ascher Pagiël, der Sohn Ochrans;
+1	14	für Gad Eljasaf, der Sohn Deguëls;
+1	15	für Naftali Ahira, der Sohn Enans.»
+1	16	Das sind die Gerufenen der Gemeinschaft, die Fürsten der Stämme ihrer Väter; die Häupter der Tausendschaften Israels sind sie.
+1	17	Und Mose und Aaron nahmen diese Männer, die mit Namen benannt worden waren,
+1	18	und die ganze Gemeinschaft versammelten sie am Ersten des zweiten Monats. Und sie liessen ihren Ursprung eintragen nach ihren Sippen, nach dem Haus ihrer Väter, nach der Zahl der Namen, zwanzig Jahre alt und darüber, je Kopf,
+1	19	wie der HERR Mose geboten hatte. Und er musterte sie in der Wüste Sinai.
+1	20	Die Kinder Rubens, des Erstgeborenen Israels, ihr Ursprung nach ihren Sippen, nach dem Haus ihrer Väter, nach der Zahl der Namen, je Kopf, alles Männliche, zwanzig Jahre alt und darüber, jeder, der mit dem Heer auszieht —
+1	21	ihre Gemusterten vom Stamm Ruben waren sechsundvierzigtausendfünfhundert.
+1	22	Von den Kindern Simeons, ihr Ursprung nach ihren Sippen, nach dem Haus ihrer Väter, seine Gemusterten nach der Zahl der Namen, je Kopf, alles Männliche, zwanzig Jahre alt und darüber, jeder, der mit dem Heer auszieht —
+1	23	ihre Gemusterten vom Stamm Simeon waren neunundfünfzigtausenddreihundert.
+1	24	Von den Kindern Gads, ihr Ursprung nach ihren Sippen, nach dem Haus ihrer Väter, nach der Zahl der Namen, zwanzig Jahre alt und darüber, jeder, der mit dem Heer auszieht —
+1	25	ihre Gemusterten vom Stamm Gad waren fünfundvierzigtausendsechshundertfünfzig.
+1	26	Von den Kindern Judas, ihr Ursprung nach ihren Sippen, nach dem Haus ihrer Väter, nach der Zahl der Namen, zwanzig Jahre alt und darüber, jeder, der mit dem Heer auszieht —
+1	27	ihre Gemusterten vom Stamm Juda waren vierundsiebzigtausendsechshundert.
+1	28	Von den Kindern Issachars, ihr Ursprung nach ihren Sippen, nach dem Haus ihrer Väter, nach der Zahl der Namen, zwanzig Jahre alt und darüber, jeder, der mit dem Heer auszieht —
+1	29	ihre Gemusterten vom Stamm Issachar waren vierundfünfzigtausendvierhundert.
+1	30	Von den Kindern Sebulons, ihr Ursprung nach ihren Sippen, nach dem Haus ihrer Väter, nach der Zahl der Namen, zwanzig Jahre alt und darüber, jeder, der mit dem Heer auszieht —
+1	31	ihre Gemusterten vom Stamm Sebulon waren siebenundfünfzigtausendvierhundert.
+1	32	Von den Kindern Josefs: von den Kindern Efraims, ihr Ursprung nach ihren Sippen, nach dem Haus ihrer Väter, nach der Zahl der Namen, zwanzig Jahre alt und darüber, jeder, der mit dem Heer auszieht —
+1	33	ihre Gemusterten vom Stamm Efraim waren vierzigtausendfünfhundert.
+1	34	Von den Kindern Manasses, ihr Ursprung nach ihren Sippen, nach dem Haus ihrer Väter, nach der Zahl der Namen, zwanzig Jahre alt und darüber, jeder, der mit dem Heer auszieht —
+1	35	ihre Gemusterten vom Stamm Manasse waren zweiunddreissigtausendzweihundert.
+1	36	Von den Kindern Benjamins, ihr Ursprung nach ihren Sippen, nach dem Haus ihrer Väter, nach der Zahl der Namen, zwanzig Jahre alt und darüber, jeder, der mit dem Heer auszieht —
+1	37	ihre Gemusterten vom Stamm Benjamin waren fünfunddreissigtausendvierhundert.
+1	38	Von den Kindern Dans, ihr Ursprung nach ihren Sippen, nach dem Haus ihrer Väter, nach der Zahl der Namen, zwanzig Jahre alt und darüber, jeder, der mit dem Heer auszieht —
+1	39	ihre Gemusterten vom Stamm Dan waren zweiundsechzigtausendsiebenhundert.
+1	40	Von den Kindern Aschers, ihr Ursprung nach ihren Sippen, nach dem Haus ihrer Väter, nach der Zahl der Namen, zwanzig Jahre alt und darüber, jeder, der mit dem Heer auszieht —
+1	41	ihre Gemusterten vom Stamm Ascher waren einundvierzigtausendfünfhundert.
+1	42	Die Kinder Naftalis, ihr Ursprung nach ihren Sippen, nach dem Haus ihrer Väter, nach der Zahl der Namen, zwanzig Jahre alt und darüber, jeder, der mit dem Heer auszieht —
+1	43	ihre Gemusterten vom Stamm Naftali waren dreiundfünfzigtausendvierhundert.
+1	44	Das sind die Gemusterten, die Mose und Aaron und die Fürsten Israels musterten, zwölf Männer; je ein Mann waren sie für das Haus seiner Väter.
+1	45	Und es waren alle Gemusterten der Kinder Israels nach dem Haus ihrer Väter, zwanzig Jahre alt und darüber, jeder, der in Israel mit dem Heer auszieht —
+1	46	es waren alle Gemusterten sechshundertdreitausendfünfhundertfünfzig.
+1	47	Die Leviten aber wurden nach dem Stamm ihrer Väter nicht unter ihnen gemustert.
+1	48	Und der HERR redete zu Mose:
+1	49	«Nur den Stamm Levi sollst du nicht mustern, und ihre Summe sollst du nicht feststellen inmitten der Kinder Israels.
+1	50	Du aber setze die Leviten ein über die Wohnung des Zeugnisses und über alle ihre Geräte und über alles, was zu ihr gehört. Sie sollen die Wohnung und alle ihre Geräte tragen, und sie sollen an ihr Dienst tun, und rings um die Wohnung sollen sie lagern.
+1	51	Und wenn die Wohnung aufbricht, sollen die Leviten sie abbauen, und wenn die Wohnung lagert, sollen die Leviten sie aufstellen; wer aber fremd ist und herantritt, soll zu Tode gebracht werden.
+1	52	Und die Kinder Israels sollen lagern, jeder in seinem Lager und jeder bei seinem Banner, nach ihren Heerscharen.
+1	53	Die Leviten aber sollen rings um die Wohnung des Zeugnisses lagern, damit keine Wut über die Gemeinschaft der Kinder Israels kommt; und die Leviten sollen bewahren, was an der Wohnung des Zeugnisses zu bewahren ist.»
+1	54	Und die Kinder Israels taten nach allem, was der HERR Mose geboten hatte; so taten sie.
+2	1	Und der HERR redete zu Mose und zu Aaron:
+2	2	«Jeder bei seinem Banner, bei den Zeichen des Hauses ihrer Väter, sollen die Kinder Israels lagern; gegenüber, rings um das Zelt der Begegnung, sollen sie lagern.
+2	3	Und die ostwärts, nach Osten hin, lagern: das Banner des Lagers Judas nach ihren Heerscharen; und Fürst für die Kinder Judas ist Nachschon, der Sohn Amminadabs,
+2	4	und sein Heer und ihre Gemusterten: vierundsiebzigtausendsechshundert.
+2	5	Und die neben ihm lagern: der Stamm Issachar; und Fürst für die Kinder Issachars ist Netanel, der Sohn Zuars,
+2	6	und sein Heer und seine Gemusterten: vierundfünfzigtausendvierhundert.
+2	7	Der Stamm Sebulon; und Fürst für die Kinder Sebulons ist Eliab, der Sohn Helons,
+2	8	und sein Heer und seine Gemusterten: siebenundfünfzigtausendvierhundert.
+2	9	Alle Gemusterten für das Lager Judas: hundertsechsundachtzigtausendvierhundert, nach ihren Heerscharen. Als Erste sollen sie aufbrechen.
+2	10	Das Banner des Lagers Rubens, nach Süden, nach ihren Heerscharen; und Fürst für die Kinder Rubens ist Elizur, der Sohn Schedëurs,
+2	11	und sein Heer und seine Gemusterten: sechsundvierzigtausendfünfhundert.
+2	12	Und die neben ihm lagern: der Stamm Simeon; und Fürst für die Kinder Simeons ist Schelumiël, der Sohn Zurischaddais,
+2	13	und sein Heer und ihre Gemusterten: neunundfünfzigtausenddreihundert.
+2	14	Und der Stamm Gad; und Fürst für die Kinder Gads ist Eljasaf, der Sohn Reguëls,
+2	15	und sein Heer und ihre Gemusterten: fünfundvierzigtausendsechshundertfünfzig.
+2	16	Alle Gemusterten für das Lager Rubens: hunderteinundfünfzigtausendvierhundertfünfzig, nach ihren Heerscharen. Und als Zweite sollen sie aufbrechen.
+2	17	Und das Zelt der Begegnung soll aufbrechen, das Lager der Leviten, inmitten der Lager. Wie sie lagern, so sollen sie aufbrechen, jeder an seiner Stelle, nach ihren Bannern.
+2	18	Das Banner des Lagers Efraims nach ihren Heerscharen, westwärts; und Fürst für die Kinder Efraims ist Elischama, der Sohn Ammihuds,
+2	19	und sein Heer und ihre Gemusterten: vierzigtausendfünfhundert.
+2	20	Und neben ihm der Stamm Manasse; und Fürst für die Kinder Manasses ist Gamliël, der Sohn Pedazurs,
+2	21	und sein Heer und ihre Gemusterten: zweiunddreissigtausendzweihundert.
+2	22	Und der Stamm Benjamin; und Fürst für die Kinder Benjamins ist Abidan, der Sohn Gidonis,
+2	23	und sein Heer und ihre Gemusterten: fünfunddreissigtausendvierhundert.
+2	24	Alle Gemusterten für das Lager Efraims: hundertachttausendeinhundert, nach ihren Heerscharen. Und als Dritte sollen sie aufbrechen.
+2	25	Das Banner des Lagers Dans, nordwärts, nach ihren Heerscharen; und Fürst für die Kinder Dans ist Ahiëser, der Sohn Ammischaddais,
+2	26	und sein Heer und ihre Gemusterten: zweiundsechzigtausendsiebenhundert.
+2	27	Und die neben ihm lagern: der Stamm Ascher; und Fürst für die Kinder Aschers ist Pagiël, der Sohn Ochrans,
+2	28	und sein Heer und ihre Gemusterten: einundvierzigtausendfünfhundert.
+2	29	Und der Stamm Naftali; und Fürst für die Kinder Naftalis ist Ahira, der Sohn Enans,
+2	30	und sein Heer und ihre Gemusterten: dreiundfünfzigtausendvierhundert.
+2	31	Alle Gemusterten für das Lager Dans: hundertsiebenundfünfzigtausendsechshundert. Als Letzte sollen sie aufbrechen, nach ihren Bannern.»
+2	32	Das sind die Gemusterten der Kinder Israels nach dem Haus ihrer Väter; alle Gemusterten der Lager nach ihren Heerscharen waren sechshundertdreitausendfünfhundertfünfzig.
+2	33	Die Leviten aber wurden nicht gemustert inmitten der Kinder Israels, wie der HERR Mose geboten hatte.
+2	34	Und die Kinder Israels taten nach allem, was der HERR Mose geboten hatte; so lagerten sie nach ihren Bannern, und so brachen sie auf, jeder nach seinen Sippen, beim Haus seiner Väter.
+3	1	Und dies ist der Ursprung Aarons und Moses am Tag, an dem der HERR mit Mose auf dem Berg Sinai redete.
+3	2	Und dies sind die Namen der Söhne Aarons: der Erstgeborene Nadab, und Abihu, Eleasar und Itamar.
+3	3	Das sind die Namen der Söhne Aarons, der gesalbten Priester, deren Hand man gefüllt hatte, um Priester zu sein.
+3	4	Und Nadab und Abihu starben vor dem Angesicht des HERRN, als sie in der Wüste Sinai fremdes Feuer vor dem Angesicht des HERRN darbrachten, und Söhne hatten sie keine. Und Eleasar und Itamar waren Priester vor dem Angesicht Aarons, ihres Vaters.
+3	5	Und der HERR redete zu Mose:
+3	6	«Lass den Stamm Levi nahe kommen und stelle ihn vor Aaron, den Priester, hin, damit sie ihm Dienst tun.
+3	7	Und sie sollen bewahren, was er zu bewahren hat und was die ganze Gemeinschaft zu bewahren hat, vor dem Zelt der Begegnung, um den Dienst an der Wohnung zu leisten.
+3	8	Und sie sollen alle Geräte des Zeltes der Begegnung bewahren und was die Kinder Israels zu bewahren haben, um den Dienst an der Wohnung zu leisten.
+3	9	Und du sollst die Leviten Aaron und seinen Söhnen geben; ganz gegeben sind sie ihm aus den Kindern Israels.
+3	10	Und Aaron und seine Söhne sollst du einsetzen, und sie sollen ihr Priestertum bewahren; wer aber fremd ist und herantritt, soll zu Tode gebracht werden.»
+3	11	Und der HERR redete zu Mose:
+3	12	«Und ich, siehe, ich habe die Leviten aus der Mitte der Kinder Israels genommen anstelle jedes Erstgeborenen, der den Mutterschoss öffnet unter den Kindern Israels; und die Leviten sollen mir gehören.
+3	13	Denn mir gehört jeder Erstgeborene. Am Tag, an dem ich jeden Erstgeborenen im Land Ägypten schlug, habe ich mir jeden Erstgeborenen in Israel geweiht, vom Menschen bis zum Vieh: Mir sollen sie gehören. Ich bin der HERR.»
+3	14	Und der HERR redete zu Mose in der Wüste Sinai:
+3	15	«Mustere die Kinder Levis nach dem Haus ihrer Väter, nach ihren Sippen; alles Männliche, einen Monat alt und darüber, sollst du mustern.»
+3	16	Und Mose musterte sie nach dem Mund des HERRN, wie ihm geboten worden war.
+3	17	Und dies waren die Söhne Levis mit ihren Namen: Gerschon und Kehat und Merari.
+3	18	Und dies sind die Namen der Söhne Gerschons nach ihren Sippen: Libni und Schimi.
+3	19	Und die Söhne Kehats nach ihren Sippen: Amram und Jizhar, Hebron und Usiël.
+3	20	Und die Söhne Meraris nach ihren Sippen: Machli und Muschi. Das sind die Sippen der Leviten nach dem Haus ihrer Väter.
+3	21	Von Gerschon die Sippe der Libniter und die Sippe der Schimiter; das sind die Sippen der Gerschoniter.
+3	22	Ihre Gemusterten, nach der Zahl alles Männlichen, einen Monat alt und darüber — ihre Gemusterten waren siebentausendfünfhundert.
+3	23	Die Sippen der Gerschoniter lagerten hinter der Wohnung, westwärts.
+3	24	Und Fürst des Hauses der Väter für die Gerschoniter war Eljasaf, der Sohn Laëls.
+3	25	Und was die Kinder Gerschons am Zelt der Begegnung zu bewahren hatten: die Wohnung und das Zelt, seine Decke und der Behang für den Eingang des Zeltes der Begegnung,
+3	26	und die Tücher des Hofes und der Behang für den Eingang des Hofes, der rings um die Wohnung und um den Altar liegt, und seine Spannleinen, für all seinen Dienst.
+3	27	Und von Kehat die Sippe der Amramiter und die Sippe der Jizhariter und die Sippe der Hebroniter und die Sippe der Usiëliter; das sind die Sippen der Kehatiter.
+3	28	Nach der Zahl alles Männlichen, einen Monat alt und darüber: achttausendsechshundert, die bewahrten, was am Heiligtum zu bewahren ist.
+3	29	Die Sippen der Kinder Kehats lagerten an der Seite der Wohnung, nach Süden.
+3	30	Und Fürst des Hauses der Väter für die Sippen der Kehatiter war Elizafan, der Sohn Usiëls.
+3	31	Und was sie zu bewahren hatten: die Lade und der Tisch und der Leuchter und die Altäre und die heiligen Geräte, mit denen sie Dienst tun, und der Behang und all sein Dienst.
+3	32	Und der Fürst der Fürsten der Leviten war Eleasar, der Sohn Aarons, des Priesters; er hatte das Amt über die, die bewahrten, was am Heiligtum zu bewahren ist.
+3	33	Von Merari die Sippe der Machliter und die Sippe der Muschiter; das sind die Sippen Meraris.
+3	34	Und ihre Gemusterten, nach der Zahl alles Männlichen, einen Monat alt und darüber, waren sechstausendzweihundert.
+3	35	Und Fürst des Hauses der Väter für die Sippen Meraris war Zuriël, der Sohn Abihajils; an der Seite der Wohnung lagerten sie, nordwärts.
+3	36	Und das Amt der Kinder Meraris, was sie zu bewahren hatten: die Bretter der Wohnung und ihre Riegel und ihre Säulen und ihre Sockel und alle ihre Geräte und all ihr Dienst,
+3	37	und die Säulen des Hofes ringsum und ihre Sockel und ihre Pflöcke und ihre Spannleinen.
+3	38	Und die vor der Wohnung lagerten, ostwärts, vor dem Zelt der Begegnung, nach Osten hin, waren Mose und Aaron und seine Söhne; sie bewahrten, was am Heiligtum zu bewahren ist, für das, was die Kinder Israels zu bewahren haben; wer aber fremd ist und herantritt, soll zu Tode gebracht werden.
+3	39	Alle Gemusterten der Leviten, die Mose und Aaron nach dem Mund des HERRN gemustert hatten, nach ihren Sippen, alles Männliche, einen Monat alt und darüber, waren zweiundzwanzigtausend.
+3	40	Und der HERR sagte zu Mose: «Mustere jeden männlichen Erstgeborenen unter den Kindern Israels, einen Monat alt und darüber, und stelle die Zahl ihrer Namen fest.
+3	41	Und du sollst die Leviten für mich nehmen — ich bin der HERR — anstelle jedes Erstgeborenen unter den Kindern Israels, und das Vieh der Leviten anstelle jedes Erstgeborenen unter dem Vieh der Kinder Israels.»
+3	42	Und Mose musterte, wie der HERR ihm geboten hatte, jeden Erstgeborenen unter den Kindern Israels.
+3	43	Und alle männlichen Erstgeborenen nach der Zahl der Namen, einen Monat alt und darüber, waren nach ihren Gemusterten zweiundzwanzigtausendzweihundertdreiundsiebzig.
+3	44	Und der HERR redete zu Mose:
+3	45	«Nimm die Leviten anstelle jedes Erstgeborenen unter den Kindern Israels und das Vieh der Leviten anstelle ihres Viehs, und die Leviten sollen mir gehören. Ich bin der HERR.
+3	46	Und als Loskauf für die zweihundertdreiundsiebzig von den Erstgeborenen der Kinder Israels, die über die Leviten hinaus zu viel sind,
+3	47	sollst du je fünf Schekel für den Kopf nehmen; nach dem Schekel des Heiligtums sollst du sie nehmen — zwanzig Gera hat der Schekel.
+3	48	Und das Silber sollst du Aaron und seinen Söhnen geben als Loskauf für die unter ihnen, die zu viel sind.»
+3	49	Da nahm Mose das Silber des Loskaufs von denen, die über die durch die Leviten Losgekauften hinaus zu viel waren.
+3	50	Von den Erstgeborenen der Kinder Israels nahm er das Silber: tausenddreihundertfünfundsechzig nach dem Schekel des Heiligtums.
+3	51	Und Mose gab das Silber des Loskaufs Aaron und seinen Söhnen nach dem Mund des HERRN, wie der HERR Mose geboten hatte.
+4	1	Und der HERR redete zu Mose und zu Aaron:
+4	2	«Stellt die Summe der Kinder Kehats fest, aus der Mitte der Kinder Levis, nach ihren Sippen, nach dem Haus ihrer Väter,
+4	3	von dreissig Jahren und darüber bis zu fünfzig Jahren, jeden, der zum Heerdienst kommt, um Arbeit zu tun im Zelt der Begegnung.
+4	4	Dies ist der Dienst der Kinder Kehats im Zelt der Begegnung: das Hochheilige.
+4	5	Und wenn das Lager aufbricht, sollen Aaron und seine Söhne hineingehen und den Vorhang zum Überdecken abbauen und mit ihm die Lade des Zeugnisses bedecken.
+4	6	Und sie sollen eine Bedeckung aus Tachaschleder darauflegen und ein Kleid ganz aus Blaupurpur obenauf ausbreiten und ihre Stangen anbringen.
+4	7	Und über den Tisch der Schaubrote sollen sie ein Kleid aus Blaupurpur ausbreiten und darauf die Schüsseln und die Pfannen und die Kellen und die Kannen für das Trankopfer legen; und das beständige Brot soll darauf bleiben.
+4	8	Und sie sollen ein Kleid aus Karmesin über sie ausbreiten und ihn mit einer Decke aus Tachaschleder bedecken und seine Stangen anbringen.
+4	9	Und sie sollen ein Kleid aus Blaupurpur nehmen und den Leuchter für die Leuchte bedecken und seine Lampen und seine Zangen und seine Feuerpfannen und alle Gefässe für sein Öl, mit denen sie an ihm Dienst tun.
+4	10	Und sie sollen ihn und alle seine Geräte in eine Decke aus Tachaschleder legen und ihn auf die Trage legen.
+4	11	Und über den Altar aus Gold sollen sie ein Kleid aus Blaupurpur ausbreiten und ihn mit einer Decke aus Tachaschleder bedecken und seine Stangen anbringen.
+4	12	Und sie sollen alle Dienstgeräte nehmen, mit denen sie im Heiligtum Dienst tun, und sie in ein Kleid aus Blaupurpur legen und sie mit einer Decke aus Tachaschleder bedecken und sie auf die Trage legen.
+4	13	Und sie sollen den Altar entfetten und ein Kleid aus Purpur über ihn ausbreiten
+4	14	und alle seine Geräte darauflegen, mit denen sie an ihm Dienst tun: die Feuerpfannen, die Gabeln und die Schaufeln und die Sprengschalen, alle Geräte des Altars; und sie sollen eine Bedeckung aus Tachaschleder über ihn ausbreiten und seine Stangen anbringen.
+4	15	Und wenn Aaron und seine Söhne damit zu Ende sind, das Heilige und alle Geräte des Heiligen zu bedecken, wenn das Lager aufbricht, danach sollen die Kinder Kehats kommen, um es zu tragen; aber das Heilige sollen sie nicht berühren, sonst sterben sie. Das ist die Bürde der Kinder Kehats im Zelt der Begegnung.
+4	16	Und das Amt Eleasars, des Sohnes Aarons, des Priesters: das Öl für die Leuchte und das Räucherwerk aus Spezereien und das beständige Speiseopfer und das Öl der Salbung, das Amt über die ganze Wohnung und alles, was in ihr ist, über das Heiligtum und seine Geräte.»
+4	17	Und der HERR redete zu Mose und zu Aaron:
+4	18	«Rottet den Stamm der Sippen der Kehatiter nicht aus, mitten aus den Leviten.
+4	19	Sondern das tut für sie, damit sie leben und nicht sterben, wenn sie an das Hochheilige herankommen: Aaron und seine Söhne sollen hineingehen und sie stellen, jeden einzelnen an seinen Dienst und zu seiner Bürde.
+4	20	Aber sie sollen nicht hineingehen, um zuzusehen, wie das Heilige verschlungen wird, sonst sterben sie.»
+4	21	Und der HERR redete zu Mose:
+4	22	«Stell auch die Summe der Kinder Gerschons fest, nach dem Haus ihrer Väter, nach ihren Sippen.
+4	23	Von dreissig Jahren und darüber bis zu fünfzig Jahren sollst du sie mustern, jeden, der kommt, um den Heerdienst anzutreten, um Dienst zu leisten im Zelt der Begegnung.
+4	24	Dies ist der Dienst der Sippen der Gerschoniter, beim Dienen und bei der Bürde:
+4	25	Sie sollen die Zeltbahnen der Wohnung tragen und das Zelt der Begegnung, seine Decke und die Decke aus Tachasch, die obenauf darauf liegt, und den Behang für den Eingang des Zeltes der Begegnung,
+4	26	und die Tücher des Hofes und den Behang für den Eingang des Tores des Hofes, der rings um die Wohnung und um den Altar liegt, und ihre Spannleinen und alle Geräte für ihren Dienst; und alles, was an ihnen zu tun ist, daran sollen sie dienen.
+4	27	Nach dem Mund Aarons und seiner Söhne soll aller Dienst der Kinder der Gerschoniter geschehen, bei all ihrer Bürde und bei all ihrem Dienst; und ihr sollt ihnen ihre ganze Bürde zum Bewahren anvertrauen.
+4	28	Dies ist der Dienst der Sippen der Kinder der Gerschoniter im Zelt der Begegnung; und was sie zu bewahren haben, steht unter der Hand Itamars, des Sohnes Aarons, des Priesters.
+4	29	Die Kinder Meraris: nach ihren Sippen, nach dem Haus ihrer Väter sollst du sie mustern.
+4	30	Von dreissig Jahren und darüber bis zu fünfzig Jahren sollst du sie mustern, jeden, der zum Heerdienst kommt, um den Dienst am Zelt der Begegnung zu leisten.
+4	31	Und dies ist, was sie an ihrer Bürde zu bewahren haben, für all ihren Dienst im Zelt der Begegnung: die Bretter der Wohnung und ihre Riegel und ihre Säulen und ihre Sockel
+4	32	und die Säulen des Hofes ringsum und ihre Sockel und ihre Pflöcke und ihre Spannleinen, mit all ihren Geräten und mit all ihrem Dienst; und mit Namen sollt ihr die Geräte mustern, die sie an ihrer Bürde zu bewahren haben.
+4	33	Dies ist der Dienst der Sippen der Kinder Meraris, für all ihren Dienst im Zelt der Begegnung, unter der Hand Itamars, des Sohnes Aarons, des Priesters.»
+4	34	Und Mose und Aaron und die Fürsten der Gemeinschaft musterten die Kinder der Kehatiter nach ihren Sippen und nach dem Haus ihrer Väter,
+4	35	von dreissig Jahren und darüber bis zu fünfzig Jahren, jeden, der zum Heerdienst kam, zum Dienst im Zelt der Begegnung.
+4	36	Und ihre Gemusterten nach ihren Sippen waren zweitausendsiebenhundertfünfzig.
+4	37	Das sind die Gemusterten der Sippen der Kehatiter, alle, die im Zelt der Begegnung dienten, die Mose und Aaron musterten nach dem Mund des HERRN durch die Hand des Mose.
+4	38	Und die Gemusterten der Kinder Gerschons nach ihren Sippen und nach dem Haus ihrer Väter,
+4	39	von dreissig Jahren und darüber bis zu fünfzig Jahren, jeder, der zum Heerdienst kam, zum Dienst im Zelt der Begegnung —
+4	40	ihre Gemusterten nach ihren Sippen, nach dem Haus ihrer Väter, waren zweitausendsechshundertdreissig.
+4	41	Das sind die Gemusterten der Sippen der Kinder Gerschons, alle, die im Zelt der Begegnung dienten, die Mose und Aaron musterten nach dem Mund des HERRN.
+4	42	Und die Gemusterten der Sippen der Kinder Meraris nach ihren Sippen, nach dem Haus ihrer Väter,
+4	43	von dreissig Jahren und darüber bis zu fünfzig Jahren, jeder, der zum Heerdienst kam, zum Dienst im Zelt der Begegnung —
+4	44	ihre Gemusterten nach ihren Sippen waren dreitausendzweihundert.
+4	45	Das sind die Gemusterten der Sippen der Kinder Meraris, die Mose und Aaron musterten nach dem Mund des HERRN durch die Hand des Mose.
+4	46	Alle Gemusterten, die Mose und Aaron und die Fürsten Israels musterten, die Leviten, nach ihren Sippen und nach dem Haus ihrer Väter,
+4	47	von dreissig Jahren und darüber bis zu fünfzig Jahren, jeder, der kam, um den Dienst des Dienens und den Dienst der Bürde im Zelt der Begegnung zu leisten —
+4	48	ihre Gemusterten waren achttausendfünfhundertachtzig.
+4	49	Nach dem Mund des HERRN musterte man sie durch die Hand des Mose, jeden einzelnen zu seinem Dienst und zu seiner Bürde; und seine Gemusterten: wie der HERR Mose geboten hatte.
+5	1	Und der HERR redete zu Mose:
+5	2	«Gebiete den Kindern Israels, dass sie aus dem Lager fortsenden jeden Aussätzigen und jeden, der einen Fluss hat, und jeden, der durch eine Seele unrein ist.
+5	3	Vom Männlichen bis zum Weiblichen sollt ihr sie fortsenden, hinaus, ausserhalb des Lagers sollt ihr sie fortsenden, damit sie ihre Lager nicht verunreinigen, in deren Mitte ich wohne.»
+5	4	Und die Kinder Israels taten so und sandten sie fort, hinaus, ausserhalb des Lagers; wie der HERR zu Mose geredet hatte, so taten die Kinder Israels.
+5	5	Und der HERR redete zu Mose:
+5	6	«Rede zu den Kindern Israels: ‹Wenn ein Mann oder eine Frau eine von allen Sünden der Menschen tut und damit Untreue am HERRN begeht und jene Seele sich verschuldet,
+5	7	so soll sie ihre Sünde bekennen, die sie getan hat; und er soll seine Verschuldung in der Hauptsumme zurückgeben und den Fünften davon hinzufügen und es dem geben, an dem er sich verschuldet hat.
+5	8	Hat aber der Mann keinen Erlöser, dem man die Verschuldung zurückgeben könnte, so gehört die Verschuldung, die zurückgegeben wird, dem HERRN, dem Priester, ausser dem Widder der Sühnung, mit dem er für ihn Sühne schafft.
+5	9	Und jede Abgabe von allen heiligen Dingen der Kinder Israels, die sie dem Priester darbringen, soll ihm gehören.
+5	10	Und eines jeden heilige Dinge sollen ihm gehören; was einer dem Priester gibt, soll ihm gehören.›»
+5	11	Und der HERR redete zu Mose:
+5	12	«Rede zu den Kindern Israels und sage zu ihnen: ‹Wenn die Frau irgendeines Mannes auf Abwege gerät und Untreue an ihm begeht
+5	13	und ein Mann sich zu ihr legt mit Samenerguss, und es den Augen ihres Mannes entgangen ist, und sie verborgen geblieben ist, sie aber unrein geworden ist, und kein Zeuge gegen sie da ist, und sie nicht erfasst worden ist,
+5	14	und ein Geist der Eifersucht über ihn hingeht und er eifersüchtig ist auf seine Frau, und sie unrein geworden ist — oder ein Geist der Eifersucht über ihn hingeht und er eifersüchtig ist auf seine Frau, und sie nicht unrein geworden ist —,
+5	15	so soll der Mann seine Frau zum Priester bringen und ihre Opfergabe für sie bringen, den zehnten Teil des Efa Gerstenmehl. Er soll kein Öl darauf giessen und keinen Weihrauch darauf legen; denn ein Speiseopfer der Eifersucht ist es, ein Speiseopfer des Gedenkens, das Schuld ins Gedenken bringt.
+5	16	Und der Priester soll sie nahe kommen lassen und sie vor das Angesicht des HERRN hinstellen.
+5	17	Und der Priester soll heiliges Wasser in einem tönernen Gefäss nehmen, und vom Staub, der auf dem Fussboden der Wohnung ist, soll der Priester nehmen und ins Wasser geben.
+5	18	Und der Priester soll die Frau vor das Angesicht des HERRN hinstellen und das Haupt der Frau unbedeckt machen und auf ihre Handflächen das Speiseopfer des Gedenkens legen — ein Speiseopfer der Eifersucht ist es —; und in der Hand des Priesters soll das bittere Wasser sein, das den Fluch bringt.
+5	19	Und der Priester soll sie schwören lassen und zu der Frau sagen: «Wenn kein Mann sich zu dir gelegt hat und wenn du nicht in Unreinheit auf Abwege geraten bist, während du unter deinem Mann stehst, so sei unschuldig an diesem bitteren Wasser, das den Fluch bringt.
+5	20	Du aber, wenn du auf Abwege geraten bist, während du unter deinem Mann stehst, und wenn du unrein geworden bist und ein Mann ausser deinem Mann seinen Erguss in dich gegeben hat —»
+5	21	und der Priester soll die Frau mit dem Eid des Fluches schwören lassen, und der Priester soll zu der Frau sagen: «Der HERR mache dich zum Fluch und zum Eid in der Mitte deines Volkes, indem der HERR deinen Schenkel fallen und deinen Leib schwellen lässt,
+5	22	und dieses Wasser, das den Fluch bringt, soll in deine Eingeweide kommen, um den Leib schwellen und den Schenkel fallen zu lassen.» Und die Frau soll sagen: «Amen, Amen.»
+5	23	Und der Priester soll diese Flüche in das Buch schreiben und sie in das bittere Wasser hinein auslöschen.
+5	24	Und er soll der Frau das bittere Wasser, das den Fluch bringt, zu trinken geben, und das Wasser, das den Fluch bringt, soll in sie kommen und ihr bitter werden.
+5	25	Und der Priester soll aus der Hand der Frau das Speiseopfer der Eifersucht nehmen und das Speiseopfer vor dem Angesicht des HERRN schwingen und es zum Altar darbringen.
+5	26	Und der Priester soll vom Speiseopfer eine Handvoll nehmen, seinen Gedenkteil, und auf dem Altar in Rauch aufgehen lassen; und danach soll er der Frau das Wasser zu trinken geben.
+5	27	Und hat er ihr das Wasser zu trinken gegeben, so wird es geschehen: Wenn sie unrein geworden ist und Untreue an ihrem Mann begangen hat, so wird das Wasser, das den Fluch bringt, in sie kommen und ihr bitter werden, und ihr Leib wird schwellen und ihr Schenkel wird fallen; und die Frau wird zum Fluch werden inmitten ihres Volkes.
+5	28	Wenn aber die Frau nicht unrein geworden ist und rein ist, so ist sie unschuldig und wird Samen empfangen.
+5	29	Dies ist die Weisung für die Eifersucht: wenn eine Frau auf Abwege gerät, während sie unter ihrem Mann steht, und unrein wird,
+5	30	oder wenn über einen Mann ein Geist der Eifersucht hingeht und er eifersüchtig ist auf seine Frau; dann soll er die Frau vor das Angesicht des HERRN hinstellen, und der Priester soll an ihr diese ganze Weisung tun.
+5	31	Und der Mann ist unschuldig an der Schuld, und jene Frau trägt ihre Schuld.›»
+6	1	Und der HERR redete zu Mose:
+6	2	«Rede zu den Kindern Israels und sage zu ihnen: ‹Wenn ein Mann oder eine Frau ein besonderes Gelübde tut, das Gelübde eines Nasiräers, um sich dem HERRN zu weihen,
+6	3	von Wein und berauschendem Getränk soll er sich fernhalten; Essig von Wein und Essig von berauschendem Getränk soll er nicht trinken, und keinerlei Aufguss von Trauben soll er trinken, und Trauben, saftige und getrocknete, soll er nicht essen.
+6	4	Alle Tage seiner Weihe soll er nichts essen von allem, was aus dem Weinstock gemacht wird, von den Trestern bis zum Kern.
+6	5	Alle Tage des Gelübdes seiner Weihe soll kein Schermesser über sein Haupt gehen; bis die Tage voll sind, für die er sich dem HERRN weiht, soll er heilig sein: Das Lockenhaar seines Hauptes soll er lang werden lassen.
+6	6	Alle Tage, für die er sich dem HERRN weiht, soll er zu keiner Seele eines Toten kommen.
+6	7	Um seines Vaters und um seiner Mutter willen, um seines Bruders und um seiner Schwester willen soll er sich bei ihrem Tod nicht verunreinigen; denn die Weihe seines Gottes ist auf seinem Haupt.
+6	8	Alle Tage seiner Weihe ist er dem HERRN heilig.
+6	9	Und wenn bei ihm jemand stirbt, ganz plötzlich, und das Haupt seiner Weihe verunreinigt, so soll er sein Haupt rasieren am Tag seiner Reinigung; am siebten Tag soll er es rasieren.
+6	10	Und am achten Tag soll er zwei Turteltauben oder zwei junge Tauben zum Priester bringen, an den Eingang des Zeltes der Begegnung.
+6	11	Und der Priester soll eine als Sündopfer und eine als Brandopfer zubereiten und für ihn Sühne schaffen dafür, dass er an der Seele gesündigt hat; und er soll sein Haupt an jenem Tag heiligen.
+6	12	Und er soll sich dem HERRN für die Tage seiner Weihe weihen und ein Lamm, ein Jahr alt, als Schuldopfer bringen; die früheren Tage aber fallen dahin, denn seine Weihe ist unrein geworden.
+6	13	Und dies ist die Weisung für den Nasiräer: An dem Tag, an dem die Tage seiner Weihe voll sind, soll man ihn an den Eingang des Zeltes der Begegnung bringen.
+6	14	Und er soll dem HERRN seine Opfergabe darbringen: ein Lamm, ein Jahr alt, untadelig, als Brandopfer, und ein weibliches Lamm, ein Jahr alt, untadelig, als Sündopfer, und einen Widder, untadelig, als Friedensopfer,
+6	15	und einen Korb ungesäuerter Brote, Ringbrote aus Feinmehl, mit Öl vermengt, und ungesäuerte Fladen, mit Öl gesalbt, dazu ihr Speiseopfer und ihre Trankopfer.
+6	16	Und der Priester soll sie darbringen vor das Angesicht des HERRN und sein Sündopfer und sein Brandopfer zubereiten.
+6	17	Und den Widder soll er dem HERRN als Schlachtopfer der Friedensopfer zubereiten, samt dem Korb der ungesäuerten Brote; und der Priester soll sein Speiseopfer und sein Trankopfer zubereiten.
+6	18	Und der Nasiräer soll am Eingang des Zeltes der Begegnung das Haupt seiner Weihe rasieren und das Haar des Hauptes seiner Weihe nehmen und es auf das Feuer legen, das unter dem Schlachtopfer der Friedensopfer ist.
+6	19	Und der Priester soll den gekochten Arm vom Widder nehmen und ein ungesäuertes Ringbrot aus dem Korb und einen ungesäuerten Fladen und sie auf die Hände des Nasiräers legen, nachdem er sich seine Weihe abrasiert hat.
+6	20	Und der Priester soll sie als Schwingopfer schwingen vor dem Angesicht des HERRN; heilig ist es für den Priester, samt dem Bruststück des Schwingopfers und dem Bein der Abgabe. Und danach darf der Nasiräer Wein trinken.
+6	21	Dies ist die Weisung für den Nasiräer, der seine Opfergabe für den HERRN für seine Weihe gelobt, ausser dem, was seine Hand einholt: Nach seinem Gelübde, das er gelobt, so soll er tun, über die Weisung seiner Weihe hinaus.›»
+6	22	Und der HERR redete zu Mose:
+6	23	«Rede zu Aaron und zu seinen Söhnen: ‹So sollt ihr die Kinder Israels segnen; sagt zu ihnen:
+6	24	Der HERR segne dich und behüte dich.
+6	25	Der HERR lasse sein Angesicht zu dir leuchten und sei dir gnädig.
+6	26	Der HERR hebe sein Angesicht zu dir und gebe dir Frieden.›
+6	27	Und sie sollen meinen Namen auf die Kinder Israels legen, und ich will sie segnen.»
+7	1	Und es geschah an dem Tag, an dem Mose damit zu Ende war, die Wohnung aufzustellen, da salbte er sie und heiligte sie und alle ihre Geräte, und den Altar und alle seine Geräte; und er salbte sie und heiligte sie.
+7	2	Und die Fürsten Israels brachten dar, die Häupter des Hauses ihrer Väter; das sind die Fürsten der Stämme, das sind die, die über den Gemusterten standen.
+7	3	Und sie brachten ihre Opfergabe vor das Angesicht des HERRN: sechs gedeckte Karren und zwölf Rinder, einen Karren auf zwei Fürsten und einen Ochsen auf jeden; und sie brachten sie vor der Wohnung dar.
+7	4	Und der HERR sagte zu Mose:
+7	5	«Nimm sie von ihnen, und sie sollen dazu da sein, den Dienst am Zelt der Begegnung zu leisten; und du sollst sie den Leviten geben, jedem nach seinem Dienst.»
+7	6	Da nahm Mose die Karren und die Rinder und gab sie den Leviten.
+7	7	Die zwei Karren und die vier Rinder gab er den Kindern Gerschons, nach ihrem Dienst;
+7	8	und die vier Karren und die acht Rinder gab er den Kindern Meraris, nach ihrem Dienst, unter der Hand Itamars, des Sohnes Aarons, des Priesters.
+7	9	Den Kindern Kehats aber gab er nichts; denn der Dienst am Heiligen lag auf ihnen: auf der Schulter sollten sie tragen.
+7	10	Und die Fürsten brachten die Einweihung des Altars dar, am Tag, an dem er gesalbt wurde; und die Fürsten brachten ihre Opfergabe vor dem Altar dar.
+7	11	Und der HERR sagte zu Mose: «Je Tag ein Fürst, je Tag ein Fürst sollen sie ihre Opfergabe zur Einweihung des Altars darbringen.»
+7	12	Und der am ersten Tag seine Opfergabe darbrachte, war Nachschon, der Sohn Amminadabs, vom Stamm Juda.
+7	13	Und seine Opfergabe war: eine Schüssel aus Silber, hundertdreissig ihr Gewicht, eine Sprengschale aus Silber, siebzig Schekel nach dem Schekel des Heiligtums, beide voll Feinmehl, mit Öl vermengt, als Speiseopfer;
+7	14	eine Pfanne zu zehn Goldstücken, voll Räucherwerk;
+7	15	ein Jungstier, ein junges Rind, ein Widder, ein Lamm, ein Jahr alt, als Brandopfer;
+7	16	ein Ziegenbock als Sündopfer;
+7	17	und als Schlachtopfer der Friedensopfer: zwei Rinder, fünf Widder, fünf Böcke, fünf Lämmer, ein Jahr alt. Das ist die Opfergabe Nachschons, des Sohnes Amminadabs.
+7	18	Am zweiten Tag brachte Netanel dar, der Sohn Zuars, der Fürst Issachars.
+7	19	Er brachte seine Opfergabe dar: eine Schüssel aus Silber, hundertdreissig ihr Gewicht, eine Sprengschale aus Silber, siebzig Schekel nach dem Schekel des Heiligtums, beide voll Feinmehl, mit Öl vermengt, als Speiseopfer;
+7	20	eine Pfanne zu zehn Goldstücken, voll Räucherwerk;
+7	21	ein Jungstier, ein junges Rind, ein Widder, ein Lamm, ein Jahr alt, als Brandopfer;
+7	22	ein Ziegenbock als Sündopfer;
+7	23	und als Schlachtopfer der Friedensopfer: zwei Rinder, fünf Widder, fünf Böcke, fünf Lämmer, ein Jahr alt. Das ist die Opfergabe Netanels, des Sohnes Zuars.
+7	24	Am dritten Tag der Fürst für die Kinder Sebulons: Eliab, der Sohn Helons.
+7	25	Seine Opfergabe war: eine Schüssel aus Silber, hundertdreissig ihr Gewicht, eine Sprengschale aus Silber, siebzig Schekel nach dem Schekel des Heiligtums, beide voll Feinmehl, mit Öl vermengt, als Speiseopfer;
+7	26	eine Pfanne zu zehn Goldstücken, voll Räucherwerk;
+7	27	ein Jungstier, ein junges Rind, ein Widder, ein Lamm, ein Jahr alt, als Brandopfer;
+7	28	ein Ziegenbock als Sündopfer;
+7	29	und als Schlachtopfer der Friedensopfer: zwei Rinder, fünf Widder, fünf Böcke, fünf Lämmer, ein Jahr alt. Das ist die Opfergabe Eliabs, des Sohnes Helons.
+7	30	Am vierten Tag der Fürst für die Kinder Rubens: Elizur, der Sohn Schedëurs.
+7	31	Seine Opfergabe war: eine Schüssel aus Silber, hundertdreissig ihr Gewicht, eine Sprengschale aus Silber, siebzig Schekel nach dem Schekel des Heiligtums, beide voll Feinmehl, mit Öl vermengt, als Speiseopfer;
+7	32	eine Pfanne zu zehn Goldstücken, voll Räucherwerk;
+7	33	ein Jungstier, ein junges Rind, ein Widder, ein Lamm, ein Jahr alt, als Brandopfer;
+7	34	ein Ziegenbock als Sündopfer;
+7	35	und als Schlachtopfer der Friedensopfer: zwei Rinder, fünf Widder, fünf Böcke, fünf Lämmer, ein Jahr alt. Das ist die Opfergabe Elizurs, des Sohnes Schedëurs.
+7	36	Am fünften Tag der Fürst für die Kinder Simeons: Schelumiël, der Sohn Zurischaddais.
+7	37	Seine Opfergabe war: eine Schüssel aus Silber, hundertdreissig ihr Gewicht, eine Sprengschale aus Silber, siebzig Schekel nach dem Schekel des Heiligtums, beide voll Feinmehl, mit Öl vermengt, als Speiseopfer;
+7	38	eine Pfanne zu zehn Goldstücken, voll Räucherwerk;
+7	39	ein Jungstier, ein junges Rind, ein Widder, ein Lamm, ein Jahr alt, als Brandopfer;
+7	40	ein Ziegenbock als Sündopfer;
+7	41	und als Schlachtopfer der Friedensopfer: zwei Rinder, fünf Widder, fünf Böcke, fünf Lämmer, ein Jahr alt. Das ist die Opfergabe Schelumiëls, des Sohnes Zurischaddais.
+7	42	Am sechsten Tag der Fürst für die Kinder Gads: Eljasaf, der Sohn Deguëls.
+7	43	Seine Opfergabe war: eine Schüssel aus Silber, hundertdreissig ihr Gewicht, eine Sprengschale aus Silber, siebzig Schekel nach dem Schekel des Heiligtums, beide voll Feinmehl, mit Öl vermengt, als Speiseopfer;
+7	44	eine Pfanne zu zehn Goldstücken, voll Räucherwerk;
+7	45	ein Jungstier, ein junges Rind, ein Widder, ein Lamm, ein Jahr alt, als Brandopfer;
+7	46	ein Ziegenbock als Sündopfer;
+7	47	und als Schlachtopfer der Friedensopfer: zwei Rinder, fünf Widder, fünf Böcke, fünf Lämmer, ein Jahr alt. Das ist die Opfergabe Eljasafs, des Sohnes Deguëls.
+7	48	Am siebten Tag der Fürst für die Kinder Efraims: Elischama, der Sohn Ammihuds.
+7	49	Seine Opfergabe war: eine Schüssel aus Silber, hundertdreissig ihr Gewicht, eine Sprengschale aus Silber, siebzig Schekel nach dem Schekel des Heiligtums, beide voll Feinmehl, mit Öl vermengt, als Speiseopfer;
+7	50	eine Pfanne zu zehn Goldstücken, voll Räucherwerk;
+7	51	ein Jungstier, ein junges Rind, ein Widder, ein Lamm, ein Jahr alt, als Brandopfer;
+7	52	ein Ziegenbock als Sündopfer;
+7	53	und als Schlachtopfer der Friedensopfer: zwei Rinder, fünf Widder, fünf Böcke, fünf Lämmer, ein Jahr alt. Das ist die Opfergabe Elischamas, des Sohnes Ammihuds.
+7	54	Am achten Tag der Fürst für die Kinder Manasses: Gamliël, der Sohn Pedazurs.
+7	55	Seine Opfergabe war: eine Schüssel aus Silber, hundertdreissig ihr Gewicht, eine Sprengschale aus Silber, siebzig Schekel nach dem Schekel des Heiligtums, beide voll Feinmehl, mit Öl vermengt, als Speiseopfer;
+7	56	eine Pfanne zu zehn Goldstücken, voll Räucherwerk;
+7	57	ein Jungstier, ein junges Rind, ein Widder, ein Lamm, ein Jahr alt, als Brandopfer;
+7	58	ein Ziegenbock als Sündopfer;
+7	59	und als Schlachtopfer der Friedensopfer: zwei Rinder, fünf Widder, fünf Böcke, fünf Lämmer, ein Jahr alt. Das ist die Opfergabe Gamliëls, des Sohnes Pedazurs.
+7	60	Am neunten Tag der Fürst für die Kinder Benjamins: Abidan, der Sohn Gidonis.
+7	61	Seine Opfergabe war: eine Schüssel aus Silber, hundertdreissig ihr Gewicht, eine Sprengschale aus Silber, siebzig Schekel nach dem Schekel des Heiligtums, beide voll Feinmehl, mit Öl vermengt, als Speiseopfer;
+7	62	eine Pfanne zu zehn Goldstücken, voll Räucherwerk;
+7	63	ein Jungstier, ein junges Rind, ein Widder, ein Lamm, ein Jahr alt, als Brandopfer;
+7	64	ein Ziegenbock als Sündopfer;
+7	65	und als Schlachtopfer der Friedensopfer: zwei Rinder, fünf Widder, fünf Böcke, fünf Lämmer, ein Jahr alt. Das ist die Opfergabe Abidans, des Sohnes Gidonis.
+7	66	Am zehnten Tag der Fürst für die Kinder Dans: Ahiëser, der Sohn Ammischaddais.
+7	67	Seine Opfergabe war: eine Schüssel aus Silber, hundertdreissig ihr Gewicht, eine Sprengschale aus Silber, siebzig Schekel nach dem Schekel des Heiligtums, beide voll Feinmehl, mit Öl vermengt, als Speiseopfer;
+7	68	eine Pfanne zu zehn Goldstücken, voll Räucherwerk;
+7	69	ein Jungstier, ein junges Rind, ein Widder, ein Lamm, ein Jahr alt, als Brandopfer;
+7	70	ein Ziegenbock als Sündopfer;
+7	71	und als Schlachtopfer der Friedensopfer: zwei Rinder, fünf Widder, fünf Böcke, fünf Lämmer, ein Jahr alt. Das ist die Opfergabe Ahiësers, des Sohnes Ammischaddais.
+7	72	Am elften Tag der Fürst für die Kinder Aschers: Pagiël, der Sohn Ochrans.
+7	73	Seine Opfergabe war: eine Schüssel aus Silber, hundertdreissig ihr Gewicht, eine Sprengschale aus Silber, siebzig Schekel nach dem Schekel des Heiligtums, beide voll Feinmehl, mit Öl vermengt, als Speiseopfer;
+7	74	eine Pfanne zu zehn Goldstücken, voll Räucherwerk;
+7	75	ein Jungstier, ein junges Rind, ein Widder, ein Lamm, ein Jahr alt, als Brandopfer;
+7	76	ein Ziegenbock als Sündopfer;
+7	77	und als Schlachtopfer der Friedensopfer: zwei Rinder, fünf Widder, fünf Böcke, fünf Lämmer, ein Jahr alt. Das ist die Opfergabe Pagiëls, des Sohnes Ochrans.
+7	78	Am zwölften Tag der Fürst für die Kinder Naftalis: Ahira, der Sohn Enans.
+7	79	Seine Opfergabe war: eine Schüssel aus Silber, hundertdreissig ihr Gewicht, eine Sprengschale aus Silber, siebzig Schekel nach dem Schekel des Heiligtums, beide voll Feinmehl, mit Öl vermengt, als Speiseopfer;
+7	80	eine Pfanne zu zehn Goldstücken, voll Räucherwerk;
+7	81	ein Jungstier, ein junges Rind, ein Widder, ein Lamm, ein Jahr alt, als Brandopfer;
+7	82	ein Ziegenbock als Sündopfer;
+7	83	und als Schlachtopfer der Friedensopfer: zwei Rinder, fünf Widder, fünf Böcke, fünf Lämmer, ein Jahr alt. Das ist die Opfergabe Ahiras, des Sohnes Enans.
+7	84	Dies ist die Einweihung des Altars, am Tag, an dem er gesalbt wurde, von den Fürsten Israels: zwölf Schüsseln aus Silber, zwölf Sprengschalen aus Silber, zwölf Pfannen aus Gold;
+7	85	je Schüssel hundertdreissig an Silber und je Sprengschale siebzig; alles Silber der Gefässe: zweitausendvierhundert, nach dem Schekel des Heiligtums;
+7	86	zwölf Pfannen aus Gold, voll Räucherwerk, je Pfanne zehn, nach dem Schekel des Heiligtums; alles Gold der Pfannen: hundertzwanzig.
+7	87	Alle Rinder für das Brandopfer: zwölf Jungstiere; zwölf Widder, zwölf Lämmer, ein Jahr alt, und ihr Speiseopfer; und zwölf Ziegenböcke als Sündopfer.
+7	88	Und alle Rinder des Schlachtopfers der Friedensopfer: vierundzwanzig Jungstiere; sechzig Widder, sechzig Böcke, sechzig Lämmer, ein Jahr alt. Dies ist die Einweihung des Altars, nachdem er gesalbt worden war.
+7	89	Und als Mose in das Zelt der Begegnung hineinging, um mit ihm zu reden, da hörte er die Stimme, die zu ihm redete von oberhalb des Sühnedeckels, der auf der Lade des Zeugnisses war, zwischen den beiden Keruben hervor; und er redete zu ihm.
+8	1	Und der HERR redete zu Mose:
+8	2	«Rede zu Aaron und sage zu ihm: ‹Wenn du die Lampen aufsteigen lässt, sollen die sieben Lampen nach der Vorderseite des Leuchters hin leuchten.›»
+8	3	Und Aaron tat so: Nach der Vorderseite des Leuchters hin liess er seine Lampen aufsteigen, wie der HERR Mose geboten hatte.
+8	4	Und dies ist das Werk des Leuchters: aus Gold getrieben; von seinem Schaft bis zu seinen Blüten ist er getrieben. Wie der HERR es Mose gezeigt hatte, so machte er den Leuchter.
+8	5	Und der HERR redete zu Mose:
+8	6	«Nimm die Leviten aus der Mitte der Kinder Israels und mache sie rein.
+8	7	Und so sollst du mit ihnen tun, um sie rein zu machen: Besprenge sie mit Wasser der Entsündigung, und sie sollen ein Schermesser über ihr ganzes Fleisch gehen lassen und ihre Kleider waschen und sich rein machen.
+8	8	Und sie sollen einen Jungstier nehmen, ein junges Rind, und sein Speiseopfer, Feinmehl, mit Öl vermengt; und einen zweiten Jungstier, ein junges Rind, sollst du als Sündopfer nehmen.
+8	9	Und du sollst die Leviten vor das Zelt der Begegnung nahe kommen lassen und die ganze Gemeinschaft der Kinder Israels versammeln.
+8	10	Und du sollst die Leviten vor das Angesicht des HERRN nahe kommen lassen, und die Kinder Israels sollen ihre Hände auf die Leviten stützen.
+8	11	Und Aaron soll die Leviten als Schwingopfer vor dem Angesicht des HERRN schwingen, von den Kindern Israels her, und sie sollen dazu da sein, den Dienst des HERRN zu leisten.
+8	12	Und die Leviten sollen ihre Hände auf das Haupt der Jungstiere stützen; und bereite den einen als Sündopfer und den andern als Brandopfer für den HERRN zu, um für die Leviten Sühne zu schaffen.
+8	13	Und du sollst die Leviten vor Aaron und vor seine Söhne hinstellen und sie als Schwingopfer für den HERRN schwingen.
+8	14	Und du sollst die Leviten aus der Mitte der Kinder Israels heraustrennen, und die Leviten sollen mir gehören.
+8	15	Und danach sollen die Leviten kommen, um am Zelt der Begegnung zu dienen; und du sollst sie rein machen und sie als Schwingopfer schwingen.
+8	16	Denn ganz gegeben sind sie mir aus der Mitte der Kinder Israels; anstelle dessen, was jeden Mutterschoss öffnet, anstelle jedes Erstgeborenen unter den Kindern Israels habe ich sie mir genommen.
+8	17	Denn mir gehört jeder Erstgeborene unter den Kindern Israels, an Mensch und Vieh; am Tag, an dem ich jeden Erstgeborenen im Land Ägypten schlug, habe ich sie mir geweiht.
+8	18	Und ich habe die Leviten genommen anstelle jedes Erstgeborenen unter den Kindern Israels.
+8	19	Und ich habe die Leviten als Gegebene Aaron und seinen Söhnen gegeben aus der Mitte der Kinder Israels, um den Dienst der Kinder Israels im Zelt der Begegnung zu leisten und für die Kinder Israels Sühne zu schaffen; und es soll unter den Kindern Israels keine Plage sein, wenn die Kinder Israels an das Heiligtum herankommen.»
+8	20	Und Mose und Aaron und die ganze Gemeinschaft der Kinder Israels taten so mit den Leviten; nach allem, was der HERR Mose im Blick auf die Leviten geboten hatte, so taten die Kinder Israels mit ihnen.
+8	21	Und die Leviten entsündigten sich und wuschen ihre Kleider, und Aaron schwang sie als Schwingopfer vor dem Angesicht des HERRN, und Aaron schuf Sühne für sie, um sie rein zu machen.
+8	22	Und danach kamen die Leviten, um ihren Dienst im Zelt der Begegnung zu leisten, vor Aaron und vor seinen Söhnen. Wie der HERR Mose im Blick auf die Leviten geboten hatte, so taten sie mit ihnen.
+8	23	Und der HERR redete zu Mose:
+8	24	«Dies gilt für die Leviten: Von fünfundzwanzig Jahren und darüber soll jeder kommen, um den Heerdienst anzutreten im Dienst am Zelt der Begegnung.
+8	25	Und von fünfzig Jahren an soll er aus dem Heerdienst des Dienstes zurückkehren und nicht mehr dienen.
+8	26	Und er soll seinen Brüdern im Zelt der Begegnung Dienst tun, um zu bewahren, was zu bewahren ist; aber Dienst leisten soll er nicht. So sollst du mit den Leviten tun in dem, was sie zu bewahren haben.»
+9	1	Und der HERR redete zu Mose in der Wüste Sinai, im zweiten Jahr, nachdem sie aus dem Land Ägypten ausgezogen waren, im ersten Monat:
+9	2	«Die Kinder Israels sollen das Passa halten zu seiner bestimmten Zeit.
+9	3	Am vierzehnten Tag dieses Monats, zwischen den beiden Abenden, sollt ihr es halten zu seiner bestimmten Zeit; nach all seinen Satzungen und nach all seinen Rechtsentscheiden sollt ihr es halten.»
+9	4	Und Mose redete zu den Kindern Israels, dass sie das Passa halten sollten.
+9	5	Und sie hielten das Passa im ersten Monat, am vierzehnten Tag des Monats, zwischen den beiden Abenden, in der Wüste Sinai; nach allem, was der HERR Mose geboten hatte, so taten die Kinder Israels.
+9	6	Es waren aber Männer da, die durch die Seele eines Menschen unrein waren und an jenem Tag das Passa nicht halten konnten; und sie traten an jenem Tag vor Mose und vor Aaron heran.
+9	7	Und jene Männer sagten zu ihm: «Wir sind durch die Seele eines Menschen unrein. Warum sollen wir zurückgesetzt werden, so dass wir die Opfergabe des HERRN nicht zu ihrer bestimmten Zeit darbringen inmitten der Kinder Israels?»
+9	8	Und Mose sagte zu ihnen: «Bleibt stehen, und ich will hören, was der HERR euch gebieten wird.»
+9	9	Und der HERR redete zu Mose:
+9	10	«Rede zu den Kindern Israels: ‹Jeder, der durch eine Seele unrein ist oder auf einem fernen Weg ist, sei es bei euch oder bei euren Geschlechtern, der soll dem HERRN das Passa halten.
+9	11	Im zweiten Monat, am vierzehnten Tag, zwischen den beiden Abenden, sollen sie es halten; mit ungesäuerten Broten und Bitterkräutern sollen sie es essen.
+9	12	Sie sollen nichts davon übrig lassen bis zum Morgen, und keinen Knochen sollen sie an ihm zerbrechen; nach der ganzen Satzung des Passa sollen sie es halten.
+9	13	Der Mensch aber, der rein ist und nicht auf einem Weg war und aufhört, das Passa zu halten — jene Seele soll ausgerottet werden aus ihrem Volk; denn die Opfergabe des HERRN hat er nicht zu ihrer bestimmten Zeit dargebracht. Seine Sünde wird jener Mensch tragen.
+9	14	Und wenn ein Fremder bei euch zu Gast ist und dem HERRN das Passa halten will, so soll er es nach der Satzung des Passa und nach seinem Recht halten. Eine Satzung soll für euch gelten, für den Fremden und für den Einheimischen des Landes.›»
+9	15	Und an dem Tag, an dem die Wohnung aufgestellt wurde, bedeckte die Wolke die Wohnung, das Zelt des Zeugnisses; und am Abend war es über der Wohnung anzusehen wie Feuer, bis zum Morgen.
+9	16	So war es beständig: Die Wolke bedeckte sie, und bei Nacht war sie anzusehen wie Feuer.
+9	17	Und wenn die Wolke vom Zelt aufstieg, dann brachen die Kinder Israels auf; und an dem Ort, an dem die Wolke wohnte, dort lagerten die Kinder Israels.
+9	18	Nach dem Mund des HERRN brachen die Kinder Israels auf, und nach dem Mund des HERRN lagerten sie; alle Tage, an denen die Wolke über der Wohnung wohnte, lagerten sie.
+9	19	Und wenn die Wolke lange über der Wohnung war, viele Tage, so bewahrten die Kinder Israels, was der HERR zu bewahren gab, und brachen nicht auf.
+9	20	Und manchmal war die Wolke eine geringe Zahl von Tagen über der Wohnung: Nach dem Mund des HERRN lagerten sie, und nach dem Mund des HERRN brachen sie auf.
+9	21	Und manchmal war die Wolke vom Abend bis zum Morgen da, und stieg die Wolke am Morgen auf, so brachen sie auf; oder einen Tag und eine Nacht, und stieg die Wolke auf, so brachen sie auf.
+9	22	Ob zwei Tage oder ein Monat oder ein Jahr — wenn die Wolke so lange über der Wohnung war, um auf ihr zu wohnen, lagerten die Kinder Israels und brachen nicht auf; und wenn sie aufstieg, brachen sie auf.
+9	23	Nach dem Mund des HERRN lagerten sie, und nach dem Mund des HERRN brachen sie auf; sie bewahrten, was der HERR zu bewahren gab, nach dem Mund des HERRN durch die Hand des Mose.
+10	1	Und der HERR redete zu Mose:
+10	2	«Mach dir zwei Trompeten aus Silber; getrieben sollst du sie machen. Und sie sollen dir dazu da sein, die Gemeinschaft zu rufen und die Lager aufbrechen zu lassen.
+10	3	Und stösst man in sie, so soll die ganze Gemeinschaft bei dir zusammentreffen am Eingang des Zeltes der Begegnung.
+10	4	Stösst man aber nur in eine, so sollen die Fürsten bei dir zusammentreffen, die Häupter der Tausendschaften Israels.
+10	5	Und stosst ihr einen Jubelschall, so sollen die Lager aufbrechen, die ostwärts lagern.
+10	6	Und stosst ihr ein zweites Mal einen Jubelschall, so sollen die Lager aufbrechen, die nach Süden lagern; einen Jubelschall soll man stossen zu ihrem Aufbrechen.
+10	7	Und wenn ihr die Versammlung versammelt, sollt ihr in sie stossen, aber keinen Jubelschall anstimmen.
+10	8	Und die Söhne Aarons, die Priester, sollen in die Trompeten stossen; und das soll euch eine ewige Satzung sein für eure Geschlechter.
+10	9	Und wenn ihr in eurem Land in den Krieg kommt gegen den Bedränger, der euch bedrängt, so sollt ihr mit den Trompeten Jubelschall anstimmen; und es wird euer gedacht werden vor dem Angesicht des HERRN, eures Gottes, und ihr werdet vor euren Feinden gerettet werden.
+10	10	Und am Tag eurer Freude und an euren bestimmten Zeiten und an den Häuptern eurer Monate sollt ihr in die Trompeten stossen über euren Brandopfern und über den Schlachtopfern eurer Friedensopfer; und sie sollen euch zum Gedenken sein vor dem Angesicht eures Gottes. Ich bin der HERR, euer Gott.»
+10	11	Und es geschah im zweiten Jahr, im zweiten Monat, am Zwanzigsten des Monats, da stieg die Wolke auf von der Wohnung des Zeugnisses.
+10	12	Und die Kinder Israels brachen aus der Wüste Sinai auf, Halt um Halt; und die Wolke wohnte in der Wüste Paran.
+10	13	Und sie brachen zum ersten Mal auf nach dem Mund des HERRN durch die Hand des Mose.
+10	14	Und das Banner des Lagers der Kinder Judas brach als Erstes auf, nach ihren Heerscharen; und über seinem Heer war Nachschon, der Sohn Amminadabs.
+10	15	Und über dem Heer des Stammes der Kinder Issachars war Netanel, der Sohn Zuars.
+10	16	Und über dem Heer des Stammes der Kinder Sebulons war Eliab, der Sohn Helons.
+10	17	Und die Wohnung wurde abgebaut, und die Kinder Gerschons und die Kinder Meraris brachen auf, die die Wohnung trugen.
+10	18	Und das Banner des Lagers Rubens brach auf, nach ihren Heerscharen; und über seinem Heer war Elizur, der Sohn Schedëurs.
+10	19	Und über dem Heer des Stammes der Kinder Simeons war Schelumiël, der Sohn Zurischaddais.
+10	20	Und über dem Heer des Stammes der Kinder Gads war Eljasaf, der Sohn Deguëls.
+10	21	Und die Kehatiter brachen auf, die das Heiligtum trugen; und man stellte die Wohnung auf, bis sie kamen.
+10	22	Und das Banner des Lagers der Kinder Efraims brach auf, nach ihren Heerscharen; und über seinem Heer war Elischama, der Sohn Ammihuds.
+10	23	Und über dem Heer des Stammes der Kinder Manasses war Gamliël, der Sohn Pedazurs.
+10	24	Und über dem Heer des Stammes der Kinder Benjamins war Abidan, der Sohn Gidonis.
+10	25	Und das Banner des Lagers der Kinder Dans brach auf, als Nachhut aller Lager, nach ihren Heerscharen; und über seinem Heer war Ahiëser, der Sohn Ammischaddais.
+10	26	Und über dem Heer des Stammes der Kinder Aschers war Pagiël, der Sohn Ochrans.
+10	27	Und über dem Heer des Stammes der Kinder Naftalis war Ahira, der Sohn Enans.
+10	28	Das ist das Aufbrechen der Kinder Israels nach ihren Heerscharen. Und sie brachen auf.
+10	29	Und Mose sagte zu Hobab, dem Sohn Reguëls, des Midianiters, des Schwiegervaters des Mose: «Wir brechen auf zu dem Ort, von dem der HERR gesagt hat: ‹Ihn will ich euch geben.› Komm mit uns, so wollen wir dir Gutes tun; denn der HERR hat Gutes über Israel geredet.»
+10	30	Er aber sagte zu ihm: «Ich gehe nicht; sondern in mein Land und zu meiner Verwandtschaft will ich gehen.»
+10	31	Da sagte er: «Verlass uns doch nicht! Denn darum kennst du ja unser Lagern in der Wüste, und du sollst uns Augen sein.
+10	32	Und es soll geschehen, wenn du mit uns gehst, so soll es geschehen: Mit dem Guten, das der HERR an uns tun wird, wollen wir dir Gutes tun.»
+10	33	Und sie brachen vom Berg des HERRN auf, drei Tagereisen weit; und die Lade des Bundes des HERRN brach vor ihnen her auf, drei Tagereisen weit, um ihnen eine Rast zu erkunden.
+10	34	Und die Wolke des HERRN war bei Tag über ihnen, wenn sie aus dem Lager aufbrachen.
+10	35	Und es geschah, wenn die Lade aufbrach, so sagte Mose: «Steh auf, HERR, und zerstreuen sollen sich deine Feinde, und fliehen sollen, die dich hassen, vor deinem Angesicht!»
+10	36	Und wenn sie ruhte, sagte er: «Kehre zurück, HERR, zu den zehntausendmal Tausenden Israels!»
+11	1	Und das Volk war wie solche, die über Unglück jammern, vor den Ohren des HERRN. Und der HERR hörte es, und sein Zorn entbrannte, und das Feuer des HERRN brannte unter ihnen und frass am Ende des Lagers.
+11	2	Da schrie das Volk zu Mose; und Mose betete zum HERRN, und das Feuer fiel in sich zusammen.
+11	3	Und man nannte den Namen jenes Ortes Tabera, denn das Feuer des HERRN hatte unter ihnen gebrannt.
+11	4	Und das Gesindel, das in seiner Mitte war, begehrte mit Begehren; und auch die Kinder Israels weinten wieder und sagten: «Wer gibt uns Fleisch zu essen?
+11	5	Wir gedenken der Fische, die wir in Ägypten umsonst assen, der Gurken und der Melonen und des Lauchs und der Zwiebeln und des Knoblauchs.
+11	6	Nun aber ist unsere Seele vertrocknet; nichts ist da, nur das Manna vor unseren Augen!»
+11	7	Das Manna aber war wie Koriandersamen, und sein Auge war wie das Auge des Bdelliums.
+11	8	Das Volk schweifte umher und sammelte es und mahlte es in der Mühle oder zerstampfte es im Mörser und kochte es im Kessel und machte Fladen daraus; und sein Geschmack war wie der Geschmack vom Saft des Öls.
+11	9	Und wenn nachts der Tau auf das Lager niederging, ging das Manna darauf nieder.
+11	10	Und Mose hörte das Volk weinen, nach seinen Sippen, jeden am Eingang seines Zeltes; und der Zorn des HERRN entbrannte sehr, und in den Augen des Mose war es böse.
+11	11	Und Mose sagte zum HERRN: «Warum hast du deinem Knecht Böses getan, und warum habe ich nicht Gnade gefunden in deinen Augen, dass du die Bürde dieses ganzen Volkes auf mich legst?
+11	12	Habe denn ich dieses ganze Volk empfangen, oder habe ich es geboren, dass du zu mir sagst: ‹Trag es in deinem Schoss›, wie der Pfleger den Säugling trägt, auf den Boden, den du seinen Vätern geschworen hast?
+11	13	Woher soll ich Fleisch haben, um es diesem ganzen Volk zu geben? Denn sie weinen mich an und sagen: ‹Gib uns Fleisch, damit wir essen!›
+11	14	Ich kann dieses ganze Volk nicht allein tragen, denn es ist zu schwer für mich.
+11	15	Und wenn du so mit mir tust, so töte mich doch gleich, wenn ich Gnade gefunden habe in deinen Augen, damit ich mein Unglück nicht ansehen muss.»
+11	16	Und der HERR sagte zu Mose: «Versammle mir siebzig Mann aus den Ältesten Israels, von denen du weisst, dass sie die Ältesten des Volkes und seine Amtleute sind, und nimm sie zum Zelt der Begegnung, und sie sollen sich dort bei dir aufstellen.
+11	17	Und ich will herabsteigen und dort mit dir reden; und ich will von dem Geist, der auf dir ist, abnehmen und auf sie legen, und sie sollen mit dir tragen an der Bürde des Volkes, und du sollst nicht allein tragen.
+11	18	Und zum Volk sollst du sagen: ‹Heiligt euch für morgen, so werdet ihr Fleisch essen; denn ihr habt vor den Ohren des HERRN geweint und gesagt: «Wer gibt uns Fleisch zu essen? Denn es war uns gut in Ägypten!» So wird der HERR euch Fleisch geben, und ihr werdet essen.
+11	19	Nicht einen Tag sollt ihr essen und nicht zwei Tage und nicht fünf Tage und nicht zehn Tage und nicht zwanzig Tage,
+11	20	sondern einen Monat lang, bis es euch zur Nase herauskommt und euch zum Überdruss wird, weil ihr den HERRN verworfen habt, der in eurer Mitte ist, und vor ihm geweint und gesagt habt: «Warum sind wir denn aus Ägypten ausgezogen?»›»
+11	21	Und Mose sagte: «Sechshunderttausend zu Fuss ist das Volk, in dessen Mitte ich bin, und du hast gesagt: ‹Fleisch will ich ihnen geben, und sie sollen einen Monat lang essen›!
+11	22	Sollen Schafe und Rinder für sie geschlachtet werden, dass es ihnen zureicht? Oder sollen alle Fische des Meeres für sie versammelt werden, dass es ihnen zureicht?»
+11	23	Und der HERR sagte zu Mose: «Ist die Hand des HERRN zu kurz? Jetzt wirst du sehen, ob dir mein Wort begegnet oder nicht.»
+11	24	Und Mose ging hinaus und redete zum Volk die Worte des HERRN; und er versammelte siebzig Mann aus den Ältesten des Volkes und stellte sie rings um das Zelt.
+11	25	Da stieg der HERR in der Wolke herab und redete zu ihm, und er nahm von dem Geist, der auf ihm war, ab und legte ihn auf die siebzig Mann, die Ältesten. Und es geschah, als der Geist auf ihnen ruhte, da weissagten sie; aber sie taten es nicht wieder.
+11	26	Zwei Männer aber waren im Lager übrig geblieben; der Name des einen war Eldad, und der Name des zweiten Medad. Und der Geist ruhte auf ihnen — sie waren unter den Aufgeschriebenen, waren aber nicht zum Zelt hinausgegangen —, und sie weissagten im Lager.
+11	27	Da lief ein junger Mensch hin und sagte es Mose und sprach: «Eldad und Medad weissagen im Lager!»
+11	28	Da antwortete Josua, der Sohn Nuns, der Mose Dienst tat von jung auf, und sagte: «Mein Herr Mose, wehre ihnen!»
+11	29	Mose aber sagte zu ihm: «Eiferst du für mich? Wer gäbe, dass das ganze Volk des HERRN Propheten und Prophetinnen wären, dass der HERR seinen Geist auf sie legte!»
+11	30	Und Mose begab sich ins Lager, er und die Ältesten Israels.
+11	31	Und ein Wind brach auf vom HERRN und fegte Wachteln vom Meer herüber und liess sie über dem Lager liegen, etwa eine Tagereise weit hier und etwa eine Tagereise weit dort, rings um das Lager, und etwa zwei Ellen über dem Angesicht der Erde.
+11	32	Da stand das Volk auf, jenen ganzen Tag und die ganze Nacht und den ganzen nächsten Tag, und sie sammelten die Wachteln ein — wer wenig hatte, hatte zehn Homer eingesammelt —, und sie spannten sie für sich weit aus, rings um das Lager.
+11	33	Das Fleisch war noch zwischen ihren Zähnen, noch nicht zerkaut, da entbrannte der Zorn des HERRN gegen das Volk, und der HERR schlug das Volk mit einer sehr grossen Wunde.
+11	34	Und man nannte den Namen jenes Ortes Kibrot-Taawa; denn dort begrub man das Volk, das begehrt hatte.
+11	35	Von Kibrot-Taawa brach das Volk nach Hazerot auf, und sie waren in Hazerot.
+12	1	Und Mirjam und Aaron redeten gegen Mose wegen der kuschitischen Frau, die er genommen hatte; denn eine kuschitische Frau hatte er genommen.
+12	2	Und sie sagten: «Hat der HERR denn nur, ja nur mit Mose geredet? Hat er nicht auch mit uns geredet?» Und der HERR hörte es.
+12	3	Der Mann Mose aber war sehr sanft, mehr als alle Menschen, die auf dem Angesicht des Bodens sind.
+12	4	Und der HERR sagte plötzlich zu Mose und zu Aaron und zu Mirjam: «Geht hinaus, ihr drei, zum Zelt der Begegnung!» Und die drei gingen hinaus.
+12	5	Und der HERR stieg in der Wolkensäule herab und stand am Eingang des Zeltes; und er rief Aaron und Mirjam, und die beiden gingen hinaus.
+12	6	Und er sagte: «Hört doch meine Worte! Wenn es unter euch einen Propheten gibt, so gebe ich, der HERR, mich ihm im Gesicht zu erkennen, im Traum rede ich mit ihm.
+12	7	Nicht so mein Knecht Mose: in meinem ganzen Haus ist er treu.
+12	8	Mund zu Mund rede ich mit ihm, sichtbar und nicht in Rätseln, und das Abbild des HERRN schaut er. Und warum habt ihr euch nicht gefürchtet, gegen meinen Knecht, gegen Mose zu reden?»
+12	9	Und der Zorn des HERRN entbrannte gegen sie, und er ging.
+12	10	Und die Wolke war vom Zelt gewichen, und siehe, Mirjam war aussätzig wie Schnee. Und Aaron wandte sich zu Mirjam, und siehe, sie war aussätzig.
+12	11	Und Aaron sagte zu Mose: «Mit Verlaub, mein Herr, lege uns doch keine Sünde auf dafür, dass wir töricht gehandelt und dass wir gesündigt haben!
+12	12	Sie soll doch nicht sein wie ein Toter, dem, als er aus dem Mutterschoss seiner Mutter herauskam, die Hälfte seines Fleisches gefressen war!»
+12	13	Und Mose schrie zum HERRN: «Gott, mach sie doch heil!»
+12	14	Und der HERR sagte zu Mose: «Hätte ihr Vater ihr ins Angesicht gespuckt, wäre sie dann nicht sieben Tage in Schande? Sie soll sieben Tage ausserhalb des Lagers eingeschlossen werden, und danach soll sie hereingeholt werden.»
+12	15	Und Mirjam wurde sieben Tage ausserhalb des Lagers eingeschlossen; und das Volk brach nicht auf, bis Mirjam hereingeholt war.
+12	16	Und danach brach das Volk von Hazerot auf, und sie lagerten in der Wüste Paran.
+13	1	Und der HERR redete zu Mose:
+13	2	«Sende dir Männer, damit sie das Land Kanaan erkunden, das ich den Kindern Israels gebe. Je einen Mann, je einen Mann für den Stamm seiner Väter sollt ihr senden, jeder ein Fürst unter ihnen.»
+13	3	Und Mose sandte sie aus der Wüste Paran nach dem Mund des HERRN; sie alle waren Männer, Häupter der Kinder Israels waren sie.
+13	4	Und dies sind ihre Namen: Vom Stamm Ruben: Schammua, der Sohn Sakkurs.
+13	5	Vom Stamm Simeon: Schafat, der Sohn Horis.
+13	6	Vom Stamm Juda: Kaleb, der Sohn Jefunnes.
+13	7	Vom Stamm Issachar: Jigal, der Sohn Josefs.
+13	8	Vom Stamm Efraim: Hoschea, der Sohn Nuns.
+13	9	Vom Stamm Benjamin: Palti, der Sohn Rafus.
+13	10	Vom Stamm Sebulon: Gaddiël, der Sohn Sodis.
+13	11	Vom Stamm Josef, vom Stamm Manasse: Gaddi, der Sohn Susis.
+13	12	Vom Stamm Dan: Ammiël, der Sohn Gemallis.
+13	13	Vom Stamm Ascher: Setur, der Sohn Michaels.
+13	14	Vom Stamm Naftali: Nachbi, der Sohn Wofsis.
+13	15	Vom Stamm Gad: Geuël, der Sohn Machis.
+13	16	Das sind die Namen der Männer, die Mose sandte, um das Land zu erkunden. Und Mose nannte Hoschea, den Sohn Nuns, Josua.
+13	17	Und Mose sandte sie, um das Land Kanaan zu erkunden, und sagte zu ihnen: «Steigt hier hinauf in den Negeb, und steigt hinauf auf das Bergland,
+13	18	und seht das Land an, wie es ist, und das Volk, das darauf wohnt: ob es stark ist oder schlaff, ob es wenig ist oder viel;
+13	19	und wie das Land ist, in dem es wohnt: ob es gut ist oder schlecht; und wie die Städte sind, in denen es wohnt: ob in Lagern oder in Befestigungen;
+13	20	und wie das Land ist: ob es fett ist oder karg, ob es Bäume darin gibt oder nicht. Und zeigt euch stark und nehmt von der Frucht des Landes.» Es waren aber die Tage der Frühfrüchte der Trauben.
+13	21	Und sie stiegen hinauf und erkundeten das Land, von der Wüste Zin bis Rehob, bis Lebo-Hamat.
+13	22	Und sie stiegen hinauf in den Negeb, und er kam bis Hebron; und dort waren Ahiman, Scheschai und Talmai, die Geborenen Anaks. Hebron aber war sieben Jahre vor Zoan in Ägypten gebaut worden.
+13	23	Und sie kamen bis zum Bachtal Eschkol und hieben dort eine Rebe mit einem Büschel Trauben ab und trugen es zu zweit auf einer Trage, und auch von den Granatäpfeln und von den Feigen.
+13	24	Jenen Ort nannte man Bachtal Eschkol, wegen des Büschels, das die Kinder Israels dort abgehauen hatten.
+13	25	Und sie kehrten vom Erkunden des Landes zurück am Ende von vierzig Tagen.
+13	26	Und sie gingen und kamen zu Mose und zu Aaron und zur ganzen Gemeinschaft der Kinder Israels in die Wüste Paran, nach Kadesch; und sie brachten ihnen und der ganzen Gemeinschaft Wort zurück und liessen sie die Frucht des Landes sehen.
+13	27	Und sie erzählten ihm und sagten: «Wir sind in das Land gekommen, in das du uns gesandt hast; und es fliesst ja von Milch und Honig, und das ist seine Frucht.
+13	28	Nur ist das Volk stark, das im Land wohnt, und die Städte sind befestigt, sehr gross; und auch die Geborenen Anaks haben wir dort gesehen.
+13	29	Amalek wohnt im Land des Negeb; und die Hetiter und die Jebusiter und die Amoriter wohnen im Bergland; und die Kanaaniter wohnen am Meer und längs des Jordan.»
+13	30	Da brachte Kaleb das Volk vor Mose zum Schweigen und sagte: «Hinaufsteigen wollen wir und es in Besitz nehmen; denn bezwingen werden wir es.»
+13	31	Aber die Männer, die mit ihm hinaufgestiegen waren, sagten: «Wir können nicht gegen das Volk hinaufsteigen; denn es ist stärker als wir.»
+13	32	Und sie brachten unter die Kinder Israels eine Nachrede über das Land aus, das sie erkundet hatten, und sagten: «Das Land, durch das wir gezogen sind, um es zu erkunden, ist ein Land, das frisst, die in ihm wohnen; und alles Volk, das wir in seiner Mitte gesehen haben, sind Männer von hohem Mass.
+13	33	Und dort haben wir die Nefilim gesehen, die Kinder Anaks, von den Nefilim; und wir waren in unseren Augen wie Heuschrecken, und so waren wir in ihren Augen.»
+14	1	Da hob die ganze Gemeinschaft an und liess ihre Stimme ertönen, und das Volk weinte in jener Nacht.
+14	2	Und alle Kinder Israels murrten gegen Mose und gegen Aaron, und die ganze Gemeinschaft sagte zu ihnen: «Wären wir doch im Land Ägypten gestorben, oder wären wir doch in dieser Wüste gestorben!
+14	3	Und warum bringt uns der HERR in dieses Land, damit wir durch das Schwert fallen? Unsere Frauen und unsere kleinen Kinder werden geraubt werden. Wäre es nicht besser für uns, nach Ägypten zurückzukehren?»
+14	4	Und sie sagten einer zum andern: «Wir wollen uns ein Haupt geben und nach Ägypten zurückkehren!»
+14	5	Da fielen Mose und Aaron auf ihr Angesicht vor der ganzen Versammlung der Gemeinschaft der Kinder Israels.
+14	6	Und Josua, der Sohn Nuns, und Kaleb, der Sohn Jefunnes, von denen, die das Land erkundet hatten, zerrissen ihre Kleider
+14	7	und sagten zur ganzen Gemeinschaft der Kinder Israels: «Das Land, durch das wir gezogen sind, um es zu erkunden — das Land ist sehr, sehr gut.
+14	8	Wenn der HERR Gefallen an uns hat, so wird er uns in dieses Land bringen und es uns geben, ein Land, das von Milch und Honig fliesst.
+14	9	Nur lehnt euch nicht gegen den HERRN auf! Und ihr, fürchtet das Volk des Landes nicht, denn unser Brot sind sie. Ihr Schatten ist von ihnen gewichen, und der HERR ist mit uns. Fürchtet sie nicht!»
+14	10	Und die ganze Gemeinschaft sagte, man solle sie mit Steinen steinigen. Da erschien die Herrlichkeit des HERRN am Zelt der Begegnung allen Kindern Israels.
+14	11	Und der HERR sagte zu Mose: «Wie lange noch will mich dieses Volk verschmähen, und wie lange noch wollen sie nicht an mich glauben bei all den Zeichen, die ich in seiner Mitte getan habe?
+14	12	Ich will es mit der Pest schlagen und es verdrängen; und dich will ich zu einem Volk machen, grösser und stärker als es.»
+14	13	Mose aber sagte zum HERRN: «Dann werden es die Ägypter hören — denn du hast mit deiner Kraft dieses Volk aus ihrer Mitte heraufgeholt —,
+14	14	und sie werden es dem sagen, der in diesem Land wohnt. Sie haben gehört, dass du, HERR, mitten unter diesem Volk bist; dass du, HERR, Auge in Auge erscheinst und deine Wolke über ihnen steht und du in einer Wolkensäule vor ihnen hergehst bei Tag und in einer Feuersäule bei Nacht.
+14	15	Bringst du nun dieses Volk zu Tode wie einen Mann, so werden die Völker, die die Kunde von dir gehört haben, sagen:
+14	16	‹Weil der HERR dieses Volk nicht in das Land bringen konnte, das er ihnen zugeschworen hatte, hat er sie in der Wüste geschlachtet.›
+14	17	Und nun, möge doch die Kraft des Herrn gross werden, wie du geredet hast:
+14	18	‹Der HERR, langmütig und reich an Güte, der Schuld und Verbrechen fortträgt, der aber nicht unschuldig spricht, der die Schuld der Väter heimsucht an den Kindern, an der dritten und an der vierten Generation.›
+14	19	Vergib doch die Schuld dieses Volkes nach der Grösse deiner Güte, und wie du diesem Volk fortgetragen hast von Ägypten an bis hierher!»
+14	20	Und der HERR sagte: «Ich habe vergeben nach deinem Wort.
+14	21	Doch: Ich lebe, und von der Herrlichkeit des HERRN wird die ganze Erde voll werden —
+14	22	alle die Männer, die meine Herrlichkeit gesehen haben und meine Zeichen, die ich in Ägypten und in der Wüste getan habe, und die mich nun zehnmal versucht und nicht auf meine Stimme gehört haben:
+14	23	Nie werden sie das Land sehen, das ich ihren Vätern zugeschworen habe; und alle, die mich verschmähen, werden es nicht sehen.
+14	24	Aber meinen Knecht Kaleb — dafür, dass ein anderer Geist mit ihm war und er ganz hinter mir hergegangen ist —, ihn will ich in das Land bringen, in das er gekommen ist, und seine Nachkommen werden es in Besitz nehmen.
+14	25	Die Amalekiter aber und die Kanaaniter wohnen im Tal. Morgen wendet euch und brecht auf in die Wüste, auf den Weg zum Schilfmeer.»
+14	26	Und der HERR redete zu Mose und zu Aaron:
+14	27	«Wie lange noch mit dieser bösen Gemeinschaft, die gegen mich murrt? Das Murren der Kinder Israels, mit dem sie gegen mich murren, habe ich gehört.
+14	28	Sag zu ihnen: ‹Ich lebe, Ausspruch des HERRN: Wahrlich, wie ihr vor meinen Ohren geredet habt, so werde ich euch tun.
+14	29	In dieser Wüste werden eure Kadaver fallen, und alle eure Gemusterten nach eurer ganzen Zahl, die zwanzig Jahre alt und darüber sind, die ihr gegen mich gemurrt habt.
+14	30	Nie werdet ihr in das Land kommen, für das ich meine Hand gehoben habe, euch darin wohnen zu lassen, ausser Kaleb, dem Sohn Jefunnes, und Josua, dem Sohn Nuns.
+14	31	Und eure kleinen Kinder, von denen ihr gesagt habt, sie würden geraubt werden — sie will ich hineinbringen, und sie werden das Land kennen, das ihr verworfen habt.
+14	32	Ihr aber — eure Kadaver werden in dieser Wüste fallen.
+14	33	Und eure Kinder werden Hirten sein in der Wüste, vierzig Jahre, und eure Hurerei tragen, bis es mit euren Kadavern in der Wüste aus ist.
+14	34	Nach der Zahl der Tage, die ihr das Land erkundet habt, vierzig Tage — je einen Tag für ein Jahr, je einen Tag für ein Jahr — sollt ihr eure Schuld tragen, vierzig Jahre; und ihr werdet meine Abkehr erkennen.
+14	35	Ich, der HERR, habe geredet: Wahrlich, das werde ich dieser ganzen bösen Gemeinschaft tun, die gegen mich zusammengetroffen ist; in dieser Wüste wird es mit ihnen aus sein, und dort werden sie sterben.›»
+14	36	Die Männer aber, die Mose gesandt hatte, das Land zu erkunden, und die zurückgekehrt waren und die ganze Gemeinschaft gegen ihn murren liessen, indem sie eine Nachrede über das Land ausbrachten —
+14	37	die Männer, die die böse Nachrede über das Land ausgebracht hatten, starben durch den Schlag vor dem Angesicht des HERRN.
+14	38	Josua aber, der Sohn Nuns, und Kaleb, der Sohn Jefunnes, blieben am Leben von jenen Männern, die gegangen waren, das Land zu erkunden.
+14	39	Und Mose redete diese Worte zu allen Kindern Israels; da trauerte das Volk sehr.
+14	40	Und sie standen früh am Morgen auf und stiegen hinauf zum Haupt des Berges und sagten: «Hier sind wir, und wir steigen hinauf an den Ort, von dem der HERR gesagt hat; denn wir haben gesündigt.»
+14	41	Mose aber sagte: «Warum geht ihr denn über den Mund des HERRN hinweg? Das wird kein Gelingen haben.
+14	42	Steigt nicht hinauf, denn der HERR ist nicht mitten unter euch, damit ihr nicht vor euren Feinden niedergestreckt werdet.
+14	43	Denn die Amalekiter und die Kanaaniter sind dort vor euch, und ihr werdet durch das Schwert fallen; denn weil ihr umgekehrt seid, fort vom HERRN, wird der HERR nicht mit euch sein.»
+14	44	Doch sie vermassen sich, zum Haupt des Berges hinaufzusteigen; aber die Lade des Bundes des HERRN und Mose rührten sich nicht aus der Mitte des Lagers.
+14	45	Da stiegen die Amalekiter und die Kanaaniter herab, die auf jenem Berg wohnten, und schlugen sie und zerstampften sie bis Horma.
+15	1	Und der HERR redete zu Mose:
+15	2	«Rede zu den Kindern Israels und sage zu ihnen: ‹Wenn ihr in das Land kommt, in dem ihr wohnen sollt, das ich euch gebe,
+15	3	und ihr dem HERRN ein Feueropfer zubereitet, ein Brandopfer oder ein Schlachtopfer, um ein besonderes Gelübde zu tun, oder als freiwillige Gabe oder zu euren bestimmten Zeiten, um dem HERRN einen Duft des Wohlgeruchs zuzubereiten, von den Rindern oder von den Schafen,
+15	4	so soll der, der seine Opfergabe darbringt, dem HERRN ein Speiseopfer darbringen: ein Zehntel Feinmehl, vermengt mit einem Viertel Hin Öl.
+15	5	Und Wein als Trankopfer, ein Viertel Hin, sollst du zum Brandopfer oder zum Schlachtopfer zubereiten, für das einzelne Lamm.
+15	6	Oder für den Widder sollst du ein Speiseopfer zubereiten: zwei Zehntel Feinmehl, vermengt mit Öl, einem Drittel Hin;
+15	7	und Wein als Trankopfer, ein Drittel Hin, sollst du darbringen, einen Duft des Wohlgeruchs für den HERRN.
+15	8	Und wenn du ein junges Rind als Brandopfer oder als Schlachtopfer zubereitest, um ein besonderes Gelübde zu tun, oder als Friedensopfer für den HERRN,
+15	9	so soll er zu dem jungen Rind ein Speiseopfer darbringen: drei Zehntel Feinmehl, vermengt mit Öl, einem halben Hin;
+15	10	und Wein sollst du als Trankopfer darbringen, ein halbes Hin: ein Feueropfer, ein Duft des Wohlgeruchs für den HERRN.
+15	11	So soll es getan werden für den einzelnen Ochsen oder für den einzelnen Widder oder für das Lamm, ob von den Schafen oder von den Ziegen.
+15	12	Nach der Zahl, die ihr zubereitet, so sollt ihr es für jedes einzelne tun, nach ihrer Zahl.
+15	13	Jeder Einheimische soll dies so tun, wenn er ein Feueropfer darbringt, einen Duft des Wohlgeruchs für den HERRN.
+15	14	Und wenn bei euch ein Fremder zu Gast ist oder wer in eurer Mitte ist, für eure Geschlechter, und er ein Feueropfer zubereitet, einen Duft des Wohlgeruchs für den HERRN: Wie ihr tut, so soll er tun.
+15	15	Ihr, die Versammlung: Eine Satzung soll für euch gelten und für den Fremden, der zu Gast ist, eine ewige Satzung für eure Geschlechter; wie ihr, so soll der Fremde sein vor dem Angesicht des HERRN.
+15	16	Eine Weisung und ein Recht soll für euch gelten und für den Fremden, der bei euch zu Gast ist.›»
+15	17	Und der HERR redete zu Mose:
+15	18	«Rede zu den Kindern Israels und sage zu ihnen: ‹Wenn ihr in das Land kommt, in das ich euch bringe,
+15	19	so soll es sein: Wenn ihr vom Brot des Landes esst, sollt ihr dem HERRN eine Abgabe erheben.
+15	20	Als Erstling eures Teigs sollt ihr ein Ringbrot als Abgabe erheben; wie die Abgabe von der Tenne, so sollt ihr es erheben.
+15	21	Vom Erstling eures Teigs sollt ihr dem HERRN eine Abgabe geben, für eure Geschlechter.
+15	22	Und wenn ihr abirrt und nicht alle diese Gebote tut, die der HERR zu Mose geredet hat,
+15	23	alles, was der HERR euch durch die Hand des Mose geboten hat, von dem Tag an, an dem der HERR es geboten hat, und weiterhin für eure Geschlechter —
+15	24	so soll es sein: Ist es fern von den Augen der Gemeinschaft aus Versehen getan worden, so soll die ganze Gemeinschaft einen Jungstier, ein junges Rind, als Brandopfer zubereiten, zum Duft des Wohlgeruchs für den HERRN, dazu sein Speiseopfer und sein Trankopfer nach dem Recht, und einen Ziegenbock als Sündopfer.
+15	25	Und der Priester soll für die ganze Gemeinschaft der Kinder Israels Sühne schaffen, und es wird ihnen vergeben werden; denn ein Versehen ist es, und sie haben ihre Opfergabe gebracht, ein Feueropfer für den HERRN, und ihr Sündopfer vor das Angesicht des HERRN, wegen ihres Versehens.
+15	26	Und es wird der ganzen Gemeinschaft der Kinder Israels vergeben werden und dem Fremden, der in ihrer Mitte zu Gast ist; denn dem ganzen Volk ist es aus Versehen geschehen.
+15	27	Und wenn eine einzelne Seele aus Versehen sündigt, so soll sie eine Ziege, ein Jahr alt, als Sündopfer darbringen.
+15	28	Und der Priester soll Sühne schaffen für die Seele, die geirrt hat, als sie aus Versehen sündigte, vor dem Angesicht des HERRN, um für ihn Sühne zu schaffen; und es wird ihm vergeben werden.
+15	29	Der Einheimische unter den Kindern Israels und der Fremde, der in ihrer Mitte zu Gast ist: Eine Weisung soll für euch gelten für den, der etwas aus Versehen tut.
+15	30	Die Seele aber, die etwas mit erhobener Hand tut, vom Einheimischen wie vom Fremden — der lästert den HERRN; und jene Seele soll ausgerottet werden mitten aus ihrem Volk.
+15	31	Denn das Wort des HERRN hat er verachtet und sein Gebot zunichtegemacht. Ausgerottet werden soll jene Seele; ihre Schuld ist auf ihr.›»
+15	32	Und als die Kinder Israels in der Wüste waren, fanden sie einen Mann, der am Sabbattag Holz zusammenlas.
+15	33	Und die ihn gefunden hatten, wie er Holz zusammenlas, liessen ihn zu Mose und zu Aaron und zur ganzen Gemeinschaft nahe kommen.
+15	34	Und sie liessen ihn im Gefängnis; denn es war nicht deutlich gemacht worden, was mit ihm getan werden sollte.
+15	35	Und der HERR sagte zu Mose: «Der Mann soll des Todes sterben; steinigen soll ihn die ganze Gemeinschaft mit Steinen, ausserhalb des Lagers.»
+15	36	Da führte ihn die ganze Gemeinschaft hinaus, ausserhalb des Lagers, und sie steinigten ihn mit Steinen, und er starb, wie der HERR Mose geboten hatte.
+15	37	Und der HERR sagte zu Mose:
+15	38	«Rede zu den Kindern Israels und sage zu ihnen, sie sollen sich Quasten machen an den Zipfeln ihrer Kleider, für ihre Geschlechter, und an die Quaste des Zipfels eine Kordel aus Blaupurpur anbringen.
+15	39	‹Und das soll euch zur Quaste sein, und ihr sollt sie sehen und aller Gebote des HERRN gedenken und sie tun; und ihr sollt nicht eurem Herzen und euren Augen nachspähen, denen ihr nachhurt,
+15	40	damit ihr aller meiner Gebote gedenkt und sie tut und eurem Gott heilig seid.
+15	41	Ich bin der HERR, euer Gott, der euch herausgeführt hat aus dem Land Ägypten, um euer Gott zu sein. Ich bin der HERR, euer Gott.›»
+16	1	Und Korach, der Sohn Jizhars, des Sohnes Kehats, des Sohnes Levis, nahm — dazu Datan und Abiram, die Söhne Eliabs, und On, der Sohn Pelets, von den Kindern Rubens —,
+16	2	und sie standen auf vor Mose, sie und Männer von den Kindern Israels, zweihundertfünfzig, Fürsten der Gemeinschaft, Gerufene der Begegnung, Männer von Namen.
+16	3	Und sie versammelten sich gegen Mose und gegen Aaron und sagten zu ihnen: «Genug ist es mit euch! Denn die ganze Gemeinschaft, sie alle sind heilig, und in ihrer Mitte ist der HERR. Und warum hebt ihr euch empor über die Versammlung des HERRN?»
+16	4	Und Mose hörte es und fiel auf sein Angesicht.
+16	5	Und er redete zu Korach und zu seiner ganzen Gemeinschaft: «Am Morgen wird der HERR kundtun, wer der Seine ist und wer der Heilige ist, und er wird ihn zu sich nahe kommen lassen; und wen er erwählt, den wird er zu sich nahe kommen lassen.
+16	6	Dies tut: Nehmt euch Feuerpfannen, Korach und seine ganze Gemeinschaft,
+16	7	und gebt Feuer hinein und legt Räucherwerk darauf vor dem Angesicht des HERRN, morgen. Und es soll geschehen: Der Mann, den der HERR erwählt, der ist der Heilige. Genug ist es mit euch, ihr Kinder Levis!»
+16	8	Und Mose sagte zu Korach: «Hört doch, ihr Kinder Levis!
+16	9	Ist es euch zu wenig, dass der Gott Israels euch aus der Gemeinschaft Israels herausgetrennt hat, um euch zu sich nahe kommen zu lassen, um den Dienst an der Wohnung des HERRN zu leisten und vor der Gemeinschaft zu stehen, um ihnen Dienst zu tun?
+16	10	Und er hat dich nahe kommen lassen und alle deine Brüder, die Kinder Levis, mit dir — und ihr sucht auch noch das Priestertum!
+16	11	Darum: Du und deine ganze Gemeinschaft — gegen den HERRN seid ihr zusammengetroffen! Und Aaron, was ist er, dass ihr gegen ihn murrt?»
+16	12	Und Mose sandte hin, um Datan und Abiram, die Söhne Eliabs, zu rufen. Und sie sagten: «Wir steigen nicht hinauf!
+16	13	Ist es wenig, dass du uns aus einem Land, das von Milch und Honig fliesst, heraufgeholt hast, um uns in der Wüste zu Tode zu bringen, dass du dich auch noch zum Herrscher über uns machst?
+16	14	Du hast uns gar nicht in ein Land gebracht, das von Milch und Honig fliesst, und hast uns kein Erbe an Feld und Weinberg gegeben. Willst du jenen Männern die Augen ausstechen? Wir steigen nicht hinauf!»
+16	15	Da entbrannte Mose sehr, und er sagte zum HERRN: «Wende dich ihrer Gabe nicht zu! Nicht einen Esel habe ich von ihnen davongetragen, und keinem von ihnen habe ich Böses getan.»
+16	16	Und Mose sagte zu Korach: «Du und deine ganze Gemeinschaft, seid morgen vor dem Angesicht des HERRN, du und sie und Aaron!
+16	17	Und nehmt jeder seine Feuerpfanne und gebt Räucherwerk darauf und bringt sie vor dem Angesicht des HERRN dar, jeder seine Feuerpfanne, zweihundertfünfzig Feuerpfannen; auch du und Aaron, jeder seine Feuerpfanne.»
+16	18	Und sie nahmen jeder seine Feuerpfanne und gaben Feuer darauf und legten Räucherwerk darauf und standen am Eingang des Zeltes der Begegnung, auch Mose und Aaron.
+16	19	Und Korach versammelte die ganze Gemeinschaft gegen sie an den Eingang des Zeltes der Begegnung. Und die Herrlichkeit des HERRN erschien der ganzen Gemeinschaft.
+16	20	Und der HERR redete zu Mose und zu Aaron:
+16	21	«Trennt euch aus der Mitte dieser Gemeinschaft, und ich will sie aufreiben in einem Augenblick.»
+16	22	Da fielen sie auf ihr Angesicht und sagten: «Gott, du Gott der Geister von allem Fleisch! Ein Mann sündigt, und über die ganze Gemeinschaft gerätst du in Wut?»
+16	23	Und der HERR redete zu Mose:
+16	24	«Rede zur Gemeinschaft: ‹Zieht ab von rings um die Wohnung Korachs, Datans und Abirams!›»
+16	25	Da stand Mose auf und ging zu Datan und Abiram, und die Ältesten Israels gingen hinter ihm her.
+16	26	Und er redete zur Gemeinschaft: «Weicht doch von den Zelten dieser Männer, der Frevler, und berührt nichts von allem, was ihnen gehört, damit ihr nicht weggerafft werdet in all ihren Sünden!»
+16	27	Und sie zogen ab von der Wohnung Korachs, Datans und Abirams, ringsum. Datan und Abiram aber waren hinausgegangen und standen da am Eingang ihrer Zelte, mit ihren Frauen und ihren Söhnen und ihren kleinen Kindern.
+16	28	Und Mose sagte: «Daran werdet ihr erkennen, dass der HERR mich gesandt hat, all diese Werke zu tun, dass es nicht aus meinem Herzen kommt:
+16	29	Wenn diese den Tod aller Menschen sterben und die Heimsuchung aller Menschen sie heimsucht, dann hat der HERR mich nicht gesandt.
+16	30	Wenn aber der HERR eine Schöpfung schafft und der Boden seinen Mund aufsperrt und sie verschlingt und alles, was ihnen gehört, und sie lebendig ins Totenreich hinabsteigen, dann werdet ihr erkennen, dass diese Männer den HERRN verschmäht haben.»
+16	31	Und es geschah, als er alle diese Worte zu Ende geredet hatte, da spaltete sich der Boden, der unter ihnen war,
+16	32	und die Erde öffnete ihren Mund und verschlang sie und ihre Häuser und alle Menschen, die zu Korach gehörten, und die ganze Habe.
+16	33	Und sie stiegen hinab, sie und alles, was ihnen gehörte, lebendig ins Totenreich; und die Erde bedeckte sie, und sie kamen um, mitten aus der Versammlung hinweg.
+16	34	Und ganz Israel, das rings um sie war, floh auf ihre Stimme hin; denn sie sagten: «Dass uns die Erde nicht verschlingt!»
+16	35	Und Feuer kam heraus vom HERRN und frass die zweihundertfünfzig Männer, die das Räucherwerk darbrachten.
+17	1	Und der HERR redete zu Mose:
+17	2	«Sage zu Eleasar, dem Sohn Aarons, dem Priester, er soll die Feuerpfannen mitten aus dem Brand erheben — und das Feuer zerstreue weiter weg —, denn sie sind heilig geworden.
+17	3	Die Feuerpfannen dieser Sünder, die es ihr Leben gekostet hat: Man soll sie zu gehämmerten Blechen machen, zum Überzug für den Altar; denn sie haben sie vor dem Angesicht des HERRN dargebracht, und sie sind heilig geworden. Und sie sollen den Kindern Israels zum Zeichen sein.»
+17	4	Und Eleasar, der Priester, nahm die Feuerpfannen aus Erz, die die Verbrannten dargebracht hatten, und man hämmerte sie zum Überzug für den Altar,
+17	5	als Gedenken für die Kinder Israels, damit keiner herantritt, der fremd ist, der nicht von den Nachkommen Aarons ist, um Räucherwerk vor dem Angesicht des HERRN zu räuchern, und damit er nicht wird wie Korach und seine Gemeinschaft — wie der HERR durch die Hand des Mose zu ihm geredet hatte.
+17	6	Und am nächsten Tag murrte die ganze Gemeinschaft der Kinder Israels gegen Mose und gegen Aaron und sagte: «Ihr habt das Volk des HERRN zu Tode gebracht!»
+17	7	Und es geschah, als sich die Gemeinschaft gegen Mose und gegen Aaron versammelte, da wandten sie sich zum Zelt der Begegnung, und siehe, die Wolke hatte es bedeckt, und die Herrlichkeit des HERRN erschien.
+17	8	Und Mose und Aaron kamen vor das Zelt der Begegnung.
+17	9	Und der HERR redete zu Mose:
+17	10	«Erhebt euch aus der Mitte dieser Gemeinschaft, und ich will sie aufreiben in einem Augenblick.» Da fielen sie auf ihr Angesicht.
+17	11	Und Mose sagte zu Aaron: «Nimm die Feuerpfanne und gib Feuer vom Altar darauf und lege Räucherwerk auf, und nimm sie eilends mit zur Gemeinschaft und schaffe Sühne für sie; denn die Wut ist herausgekommen vom Angesicht des HERRN, die Plage hat begonnen.»
+17	12	Und Aaron nahm sie, wie Mose geredet hatte, und rannte mitten in die Versammlung, und siehe, die Plage hatte im Volk begonnen. Und er gab das Räucherwerk darauf und schaffte Sühne für das Volk.
+17	13	Und er stand zwischen den Toten und den Lebenden, und der Schlag wurde aufgehalten.
+17	14	Und die Toten durch den Schlag waren vierzehntausendsiebenhundert, ausser den Toten wegen Korach.
+17	15	Und Aaron kehrte zu Mose zurück an den Eingang des Zeltes der Begegnung; und der Schlag war aufgehalten.
+17	16	Und der HERR redete zu Mose:
+17	17	«Rede zu den Kindern Israels und nimm von ihnen je einen Stab für das Haus der Väter, von all ihren Fürsten nach dem Haus ihrer Väter, zwölf Stäbe; den Namen eines jeden sollst du auf seinen Stab schreiben.
+17	18	Und den Namen Aarons sollst du auf den Stab Levis schreiben; denn ein Stab ist für das Haupt des Hauses ihrer Väter.
+17	19	Und du sollst sie im Zelt der Begegnung hinterlegen, vor dem Zeugnis, wo ich mit euch zusammentreffen will.
+17	20	Und es wird geschehen: Der Mann, den ich erwähle — sein Stab wird blühen. Und ich will das Murren der Kinder Israels, mit dem sie gegen euch murren, sich legen lassen, fort von mir.»
+17	21	Und Mose redete zu den Kindern Israels, und alle ihre Fürsten gaben ihm je einen Stab für einen Fürsten, je einen Stab für einen Fürsten, nach dem Haus ihrer Väter, zwölf Stäbe; und der Stab Aarons war inmitten ihrer Stäbe.
+17	22	Und Mose hinterlegte die Stäbe vor dem Angesicht des HERRN im Zelt des Zeugnisses.
+17	23	Und es geschah am nächsten Tag, da ging Mose in das Zelt des Zeugnisses hinein, und siehe, der Stab Aarons für das Haus Levi blühte: Er liess Blüten hervorgehen und trieb Blumen und liess Mandeln ausreifen.
+17	24	Und Mose brachte alle Stäbe heraus vom Angesicht des HERRN zu allen Kindern Israels; und sie sahen es, und sie nahmen jeder seinen Stab.
+17	25	Und der HERR sagte zu Mose: «Bring den Stab Aarons zurück vor das Zeugnis, um ihn zu bewahren als Zeichen für die, die trotzen; und lass ihr Murren zu Ende gehen, fort von mir, damit sie nicht sterben.»
+17	26	Und Mose tat es: Wie der HERR ihm geboten hatte, so tat er.
+17	27	Und die Kinder Israels sagten zu Mose: «Siehe, wir verscheiden, wir kommen um, wir alle kommen um!
+17	28	Jeder, der herantritt, der herantritt zur Wohnung des HERRN, stirbt. Ist es denn mit uns aus, und wir verscheiden?»
+18	1	Und der HERR sagte zu Aaron: «Du und deine Söhne und das Haus deines Vaters mit dir, ihr sollt die Schuld des Heiligtums tragen; und du und deine Söhne mit dir, ihr sollt die Schuld eures Priestertums tragen.
+18	2	Und auch deine Brüder, den Stamm Levi, den Stamm deines Vaters, lass mit dir nahe kommen, damit sie sich zu dir gesellen und dir Dienst tun; du aber und deine Söhne mit dir, ihr seid vor dem Zelt des Zeugnisses.
+18	3	Und sie sollen bewahren, was du zu bewahren hast und was am ganzen Zelt zu bewahren ist; nur an die heiligen Geräte und an den Altar sollen sie nicht herantreten, damit sie nicht sterben, weder sie noch ihr.
+18	4	Und sie sollen sich zu dir gesellen und bewahren, was am Zelt der Begegnung zu bewahren ist, für allen Dienst am Zelt; wer aber fremd ist, soll nicht zu euch herantreten.
+18	5	Und ihr sollt bewahren, was am Heiligtum zu bewahren ist und was am Altar zu bewahren ist, damit keine Wut mehr über die Kinder Israels kommt.
+18	6	Und ich, siehe, ich habe eure Brüder, die Leviten, aus der Mitte der Kinder Israels genommen; euch sind sie eine Gabe, als Gegebene für den HERRN, um den Dienst am Zelt der Begegnung zu leisten.
+18	7	Du aber und deine Söhne mit dir, ihr sollt euer Priestertum bewahren in allem, was den Altar betrifft, und für das, was innen hinter dem Vorhang ist, und ihr sollt dienen. Als Dienst, der eine Gabe ist, gebe ich euch euer Priestertum; wer aber fremd ist und herantritt, soll zu Tode gebracht werden.»
+18	8	Und der HERR redete zu Aaron: «Und ich, siehe, ich habe dir gegeben, was an meinen Abgaben zu bewahren ist, von allen heiligen Dingen der Kinder Israels; dir habe ich sie als Salbungsanteil gegeben und deinen Söhnen als ewige Satzung.
+18	9	Dies soll dir gehören von den hochheiligen Dingen, was vom Feuer ausgenommen ist: jede ihrer Opfergaben, von all ihren Speiseopfern und von all ihren Sündopfern und von all ihren Schuldopfern, die sie mir zurückgeben; hochheilig ist es für dich und für deine Söhne.
+18	10	Als Hochheiliges sollst du es essen; alles Männliche soll es essen; heilig soll es dir sein.
+18	11	Und dies gehört dir: die Abgabe ihrer Gabe, von allen Schwingopfern der Kinder Israels; dir habe ich sie gegeben und deinen Söhnen und deinen Töchtern mit dir als ewige Satzung. Jeder, der rein ist in deinem Haus, darf es essen.
+18	12	Alles Beste vom frischen Öl und alles Beste vom Most und vom Korn, ihren Erstling, den sie dem HERRN geben, dir habe ich sie gegeben.
+18	13	Die Frühfrüchte von allem, was in ihrem Land ist, die sie dem HERRN bringen, sollen dir gehören; jeder, der rein ist in deinem Haus, darf es essen.
+18	14	Alles Gebannte in Israel soll dir gehören.
+18	15	Alles, was den Mutterschoss öffnet, von allem Fleisch, das sie dem HERRN darbringen, vom Menschen und vom Vieh, soll dir gehören. Doch loskaufen sollst du den Erstgeborenen des Menschen, und das Erstgeborene des unreinen Viehs sollst du loskaufen.
+18	16	Und was davon loszukaufen ist, sollst du von einem Monat an loskaufen, nach deiner Schätzung: fünf Schekel Silber nach dem Schekel des Heiligtums — zwanzig Gera hat er.
+18	17	Nur ein Erstgeborenes vom Ochsen oder ein Erstgeborenes vom Lamm oder ein Erstgeborenes von der Ziege sollst du nicht loskaufen; heilig sind sie. Ihr Blut sollst du an den Altar sprengen, und ihr Fett sollst du in Rauch aufgehen lassen als Feueropfer zum Duft des Wohlgeruchs für den HERRN.
+18	18	Und ihr Fleisch soll dir gehören; wie das Bruststück des Schwingopfers und wie das rechte Bein soll es dir gehören.
+18	19	Alle Abgaben von den heiligen Dingen, die die Kinder Israels dem HERRN erheben, habe ich dir gegeben und deinen Söhnen und deinen Töchtern mit dir als ewige Satzung. Ein ewiger Bund des Salzes ist es vor dem Angesicht des HERRN, für dich und für deine Nachkommen mit dir.»
+18	20	Und der HERR sagte zu Aaron: «In ihrem Land sollst du nicht erben, und einen Anteil sollst du nicht haben in ihrer Mitte. Ich bin dein Anteil und dein Erbe inmitten der Kinder Israels.
+18	21	Und den Kindern Levis, siehe, habe ich allen Zehnten in Israel als Erbe gegeben, für ihren Dienst, den sie leisten, den Dienst am Zelt der Begegnung.
+18	22	Und die Kinder Israels sollen nicht mehr an das Zelt der Begegnung herantreten und so Sünde tragen und sterben.
+18	23	Und der Levit, er soll den Dienst am Zelt der Begegnung leisten, und sie sollen ihre Schuld tragen — eine ewige Satzung für eure Geschlechter. Und inmitten der Kinder Israels sollen sie kein Erbe erben.
+18	24	Denn den Zehnten der Kinder Israels, den sie dem HERRN als Abgabe erheben, habe ich den Leviten als Erbe gegeben; darum habe ich von ihnen gesagt: ‹Inmitten der Kinder Israels sollen sie kein Erbe erben.›»
+18	25	Und der HERR redete zu Mose:
+18	26	«Und zu den Leviten sollst du reden und zu ihnen sagen: ‹Wenn ihr von den Kindern Israels den Zehnten nehmt, den ich euch von ihnen als euer Erbe gegeben habe, so sollt ihr davon die Abgabe des HERRN erheben, den Zehnten vom Zehnten.
+18	27	Und eure Abgabe wird euch angerechnet werden wie das Korn von der Tenne und wie die Fülle aus der Kelter.
+18	28	So sollt auch ihr die Abgabe des HERRN erheben von allen euren Zehnten, die ihr von den Kindern Israels nehmt, und davon sollt ihr die Abgabe des HERRN Aaron, dem Priester, geben.
+18	29	Von allen euren Gaben sollt ihr jede Abgabe des HERRN erheben, von allem Besten davon das, was daran geheiligt ist.›
+18	30	Und du sollst zu ihnen sagen: ‹Wenn ihr das Beste davon erhebt, so wird es den Leviten angerechnet werden wie der Ertrag der Tenne und wie der Ertrag der Kelter.
+18	31	Und ihr dürft es essen an jedem Ort, ihr und euer Haus; denn Lohn ist es für euch, für euren Dienst im Zelt der Begegnung.
+18	32	Und ihr werdet seinetwegen nicht Sünde tragen, wenn ihr das Beste davon erhebt; und die heiligen Dinge der Kinder Israels sollt ihr nicht entweihen, so werdet ihr nicht sterben.›»
+19	1	Und der HERR redete zu Mose und zu Aaron:
+19	2	«Dies ist die Satzung der Weisung, die der HERR geboten hat: Rede zu den Kindern Israels, dass sie dir eine junge Kuh holen, rot und untadelig, an der kein Fehl ist, auf die kein Joch gekommen ist.
+19	3	Und ihr sollt sie Eleasar, dem Priester, geben; und man soll sie hinausführen, ausserhalb des Lagers, und man soll sie vor ihm schlachten.
+19	4	Und Eleasar, der Priester, soll mit seinem Finger von ihrem Blut nehmen und von ihrem Blut siebenmal sprengen, der Vorderseite des Zeltes der Begegnung gegenüber.
+19	5	Und man soll die junge Kuh vor seinen Augen verbrennen; ihre Haut und ihr Fleisch und ihr Blut samt ihrem Dung soll man verbrennen.
+19	6	Und der Priester soll Zedernholz und Ysop und Karmesin nehmen und es mitten in den Brand der jungen Kuh werfen.
+19	7	Und der Priester soll seine Kleider waschen und sein Fleisch im Wasser baden, und danach darf er in das Lager kommen; und der Priester ist unrein bis zum Abend.
+19	8	Und wer sie verbrennt, soll seine Kleider im Wasser waschen und sein Fleisch im Wasser baden, und er ist unrein bis zum Abend.
+19	9	Und ein Mann, der rein ist, soll die Asche der jungen Kuh einsammeln und sie ausserhalb des Lagers an einem reinen Ort hinterlegen; und sie soll für die Gemeinschaft der Kinder Israels bewahrt werden für das Wasser der Absonderung. Ein Sündopfer ist es.
+19	10	Und wer die Asche der jungen Kuh eingesammelt hat, soll seine Kleider waschen, und er ist unrein bis zum Abend. Und das soll den Kindern Israels und dem Fremden, der in ihrer Mitte zu Gast ist, eine ewige Satzung sein.
+19	11	Wer einen Toten berührt, die Seele irgendeines Menschen, der ist sieben Tage unrein.
+19	12	Er soll sich damit am dritten Tag und am siebten Tag entsündigen, so wird er rein; entsündigt er sich aber nicht am dritten Tag und am siebten Tag, so wird er nicht rein.
+19	13	Jeder, der einen Toten berührt, die Seele des Menschen, der stirbt, und sich nicht entsündigt, hat die Wohnung des HERRN verunreinigt; und jene Seele soll ausgerottet werden aus Israel. Denn das Wasser der Absonderung ist nicht auf ihn gesprengt worden; unrein ist er, seine Unreinheit ist noch an ihm.
+19	14	Dies ist die Weisung, wenn ein Mensch in einem Zelt stirbt: Jeder, der in das Zelt kommt, und alles, was im Zelt ist, ist sieben Tage unrein.
+19	15	Und jedes offene Gefäss, auf dem kein Deckel mit einer Kordel ist — unrein ist es.
+19	16	Und jeder, der auf dem Angesicht des Feldes einen vom Schwert Erschlagenen berührt oder einen Toten oder einen Menschenknochen oder ein Grab, ist sieben Tage unrein.
+19	17	Und man soll für den Unreinen vom Staub des Brandes des Sündopfers nehmen und lebendiges Wasser darauf in ein Gefäss geben.
+19	18	Und ein Mann, der rein ist, soll Ysop nehmen und in das Wasser tauchen und das Zelt besprengen und alle Geräte und die Seelen, die dort waren, und den, der den Knochen oder den Erschlagenen oder den Toten oder das Grab berührt hat.
+19	19	Und der Reine soll den Unreinen am dritten Tag und am siebten Tag besprengen, und am siebten Tag soll er ihn entsündigen; und er soll seine Kleider waschen und sich im Wasser baden, und am Abend wird er rein.
+19	20	Ein Mensch aber, der unrein wird und sich nicht entsündigt — jene Seele soll ausgerottet werden aus der Mitte der Versammlung; denn das Heiligtum des HERRN hat er verunreinigt. Das Wasser der Absonderung ist nicht auf ihn gesprengt worden; unrein ist er.
+19	21	Und das soll ihnen eine ewige Satzung sein. Und wer das Wasser der Absonderung sprengt, soll seine Kleider waschen; und wer das Wasser der Absonderung berührt, ist unrein bis zum Abend.
+19	22	Und alles, was der Unreine berührt, wird unrein; und die Seele, die es berührt, ist unrein bis zum Abend.»
+20	1	Und die Kinder Israels, die ganze Gemeinschaft, kamen in die Wüste Zin im ersten Monat, und das Volk blieb in Kadesch. Und Mirjam starb dort und wurde dort begraben.
+20	2	Und die Gemeinschaft hatte kein Wasser; da versammelten sie sich gegen Mose und gegen Aaron.
+20	3	Und das Volk stritt mit Mose, und sie sagten: «Wären wir doch verschieden, als unsere Brüder vor dem Angesicht des HERRN verschieden!
+20	4	Und warum habt ihr die Versammlung des HERRN in diese Wüste gebracht, um dort zu sterben, wir und unser Weidevieh?
+20	5	Und warum habt ihr uns aus Ägypten heraufgeholt, um uns an diesen schlechten Ort zu bringen? Das ist kein Ort für Saat und Feigenbaum und Weinstock und Granatapfel, und Wasser zum Trinken ist keines da!»
+20	6	Da kamen Mose und Aaron von der Versammlung weg an den Eingang des Zeltes der Begegnung und fielen auf ihr Angesicht; und die Herrlichkeit des HERRN erschien ihnen.
+20	7	Und der HERR redete zu Mose:
+20	8	«Nimm den Stab und versammle die Gemeinschaft, du und Aaron, dein Bruder, und redet vor ihren Augen zu der Klippe, so wird sie ihr Wasser geben. So sollst du ihnen Wasser aus der Klippe hervorgehen lassen und der Gemeinschaft und ihrem Weidevieh zu trinken geben.»
+20	9	Da nahm Mose den Stab vom Angesicht des HERRN, wie er ihm geboten hatte.
+20	10	Und Mose und Aaron versammelten die Versammlung vor die Klippe, und er sagte zu ihnen: «Hört doch, ihr, die ihr trotzt! Sollen wir euch aus dieser Klippe Wasser hervorgehen lassen?»
+20	11	Und Mose erhob seine Hand und schlug die Klippe mit seinem Stab zweimal; da ging viel Wasser hervor, und die Gemeinschaft trank und ihr Weidevieh.
+20	12	Und der HERR sagte zu Mose und zu Aaron: «Weil ihr nicht an mich geglaubt habt, um mich vor den Augen der Kinder Israels zu heiligen, darum werdet ihr diese Versammlung nicht in das Land bringen, das ich ihnen gegeben habe.»
+20	13	Das sind die Wasser von Meriba, wo die Kinder Israels mit dem HERRN stritten und er sich an ihnen als heilig erwies.
+20	14	Und Mose sandte Boten aus Kadesch zum König von Edom: «So spricht dein Bruder Israel: Du kennst all die Beschwernis, die uns getroffen hat.
+20	15	Unsere Väter stiegen nach Ägypten hinab, und wir wohnten in Ägypten viele Tage; und die Ägypter taten uns Böses und unseren Vätern.
+20	16	Da schrien wir zum HERRN, und er hörte unsere Stimme und sandte einen Engel und führte uns aus Ägypten heraus. Und siehe, wir sind in Kadesch, einer Stadt am Ende deines Gebietes.
+20	17	Lass uns doch durch dein Land ziehen! Wir wollen nicht durch Feld und Weinberg ziehen und kein Wasser aus einem Brunnen trinken; auf dem Königsweg wollen wir gehen, wir wollen nicht abbiegen, weder zur Rechten noch zur Linken, bis wir durch dein Gebiet gezogen sind.»
+20	18	Und Edom sagte zu ihm: «Du sollst nicht durch mich ziehen, sonst ziehe ich mit dem Schwert aus, dir entgegen.»
+20	19	Und die Kinder Israels sagten zu ihm: «Auf dem Hochweg wollen wir hinaufziehen; und wenn wir von deinem Wasser trinken, ich und meine Habe, so gebe ich ihren Wert. Es ist nichts weiter: Zu Fuss will ich hindurchziehen.»
+20	20	Und er sagte: «Du sollst nicht durchziehen!» Und Edom zog aus, ihm entgegen, mit schwerem Volk und mit starker Hand.
+20	21	So wollte Edom Israel nicht durch sein Gebiet ziehen lassen; und Israel bog von ihm ab.
+20	22	Und sie brachen von Kadesch auf, und die Kinder Israels, die ganze Gemeinschaft, kamen zum Berg Hor.
+20	23	Und der HERR sagte zu Mose und zu Aaron am Berg Hor, an der Grenzmarke des Landes Edom:
+20	24	«Aaron soll zu seinem Volk versammelt werden; denn er soll nicht in das Land kommen, das ich den Kindern Israels gegeben habe, weil ihr meinem Mund getrotzt habt bei den Wassern von Meriba.
+20	25	Nimm Aaron und Eleasar, seinen Sohn, und lass sie auf den Berg Hor hinaufsteigen.
+20	26	Und zieh Aaron seine Kleider aus und zieh sie Eleasar, seinem Sohn, an; und Aaron soll versammelt werden und dort sterben.»
+20	27	Und Mose tat, wie der HERR geboten hatte; und sie stiegen auf den Berg Hor hinauf vor den Augen der ganzen Gemeinschaft.
+20	28	Und Mose zog Aaron seine Kleider aus und zog sie Eleasar, seinem Sohn, an; und Aaron starb dort auf dem Haupt des Berges. Und Mose und Eleasar stiegen vom Berg herab.
+20	29	Und die ganze Gemeinschaft sah, dass Aaron verschieden war; und sie beweinten Aaron dreissig Tage lang, das ganze Haus Israel.
+21	1	Und der Kanaaniter, der König von Arad, der im Negeb wohnte, hörte, dass Israel auf dem Weg von Atarim kam; und er kämpfte gegen Israel und führte Weggeführte von ihm weg.
+21	2	Da gelobte Israel dem HERRN ein Gelübde und sagte: «Wenn du dieses Volk in meine Hand gibst, so will ich ihre Städte bannen.»
+21	3	Und der HERR hörte auf die Stimme Israels und gab die Kanaaniter hin; und Israel bannte sie und ihre Städte. Und man nannte den Namen des Ortes Horma.
+21	4	Und sie brachen vom Berg Hor auf, auf dem Weg zum Schilfmeer, um das Land Edom herumzuziehen; und die Seele des Volkes wurde kurz auf dem Weg.
+21	5	Und das Volk redete gegen Gott und gegen Mose: «Warum habt ihr uns aus Ägypten heraufgeholt, damit wir in der Wüste sterben? Denn da ist kein Brot und kein Wasser, und unsere Seele ekelt sich vor dem armseligen Brot.»
+21	6	Da sandte der HERR die Brandschlangen unter das Volk aus, und sie bissen das Volk, und es starb viel Volk aus Israel.
+21	7	Da kam das Volk zu Mose, und sie sagten: «Wir haben gesündigt, denn wir haben gegen den HERRN und gegen dich geredet. Bete zum HERRN, dass er die Schlangen von uns wegtut.» Und Mose betete für das Volk.
+21	8	Und der HERR sagte zu Mose: «Mach dir eine Brandschlange und setze sie auf ein Feldzeichen; und es wird geschehen: Jeder, der gebissen ist und sie ansieht, wird leben.»
+21	9	Da machte Mose eine Schlange aus Erz und setzte sie auf das Feldzeichen. Und es geschah: Wenn eine Schlange jemanden gebissen hatte und er auf die Schlange aus Erz schaute, so lebte er.
+21	10	Und die Kinder Israels brachen auf und lagerten in Obot.
+21	11	Und sie brachen von Obot auf und lagerten in Ije-Abarim, in der Wüste, die gegenüber Moab liegt, gegen den Aufgang der Sonne.
+21	12	Von dort brachen sie auf und lagerten im Bachtal Sered.
+21	13	Von dort brachen sie auf und lagerten jenseits des Arnon, der in der Wüste ist und aus dem Gebiet der Amoriter herauskommt; denn der Arnon ist die Grenzmarke Moabs, zwischen Moab und den Amoritern.
+21	14	Darum heisst es im Buch der Kriege des HERRN: Waheb in Sufa und die Bachtäler des Arnon
+21	15	und der Hang der Bachtäler, der sich zum Wohnort Ar neigt und sich an das Gebiet Moabs lehnt.
+21	16	Und von dort nach Beer; das ist der Brunnen, von dem der HERR zu Mose gesagt hat: «Versammle das Volk, so will ich ihnen Wasser geben.»
+21	17	Damals sang Israel dieses Lied: Steig auf, Brunnen! Antwortet ihm!
+21	18	Brunnen, den Herrscher ausgehoben, den die Edlen des Volkes gegraben haben mit dem Zepter, mit ihren Stützen. Und von der Wüste nach Mattana,
+21	19	und von Mattana nach Nahaliël, und von Nahaliël nach Bamot,
+21	20	und von Bamot zu der Schlucht, die im Feld Moabs liegt, beim Haupt des Pisga, das auf das Angesicht der Einöde herabblickt.
+21	21	Und Israel sandte Boten zu Sihon, dem König der Amoriter, und liess sagen:
+21	22	«Ich will durch dein Land ziehen. Wir wollen nicht abbiegen in Feld und Weinberg, wir wollen kein Wasser aus einem Brunnen trinken; auf dem Königsweg wollen wir gehen, bis wir durch dein Gebiet gezogen sind.»
+21	23	Aber Sihon liess Israel nicht durch sein Gebiet ziehen; und Sihon versammelte sein ganzes Volk und zog aus, Israel entgegen, in die Wüste, und er kam nach Jahaz und kämpfte gegen Israel.
+21	24	Und Israel schlug ihn mit der Schneide des Schwertes und nahm sein Land in Besitz vom Arnon bis zum Jabbok, bis zu den Kindern Ammons; denn stark war die Grenzmarke der Kinder Ammons.
+21	25	Und Israel nahm alle diese Städte, und Israel wohnte in allen Städten der Amoriter, in Heschbon und in all seinen Tochterstädten.
+21	26	Denn Heschbon war die Stadt Sihons, des Königs der Amoriter; und er hatte gegen den früheren König Moabs gekämpft und ihm sein ganzes Land aus der Hand genommen bis zum Arnon.
+21	27	Darum sagen die Gleichnisredner: Kommt nach Heschbon! Sie werde aufgebaut und stehe fest, die Stadt Sihons!
+21	28	Denn Feuer kam heraus aus Heschbon, eine Flamme aus der Stadt Sihons; es frass Ar in Moab, die Herren der Bergrücken des Arnon.
+21	29	Wehe dir, Moab! Du bist umgekommen, Volk des Kemosch! Er hat seine Söhne als Entronnene hingegeben und seine Töchter in die Wegführung, dem König der Amoriter, Sihon.
+21	30	Da schossen wir auf sie — umgekommen ist Heschbon bis Dibon —, und wir verwüsteten bis Nofach, das bis Medeba reicht.
+21	31	So wohnte Israel im Land der Amoriter.
+21	32	Und Mose sandte hin, um Jaser auszukundschaften; und sie nahmen seine Tochterstädte ein und verdrängten die Amoriter, die dort waren.
+21	33	Dann wandten sie sich und stiegen hinauf auf dem Weg nach Baschan; und Og, der König von Baschan, zog aus, ihnen entgegen, er und sein ganzes Volk, zum Krieg bei Edreï.
+21	34	Und der HERR sagte zu Mose: «Fürchte dich nicht vor ihm, denn in deine Hand habe ich ihn gegeben, ihn und sein ganzes Volk und sein Land; und du sollst mit ihm tun, wie du mit Sihon getan hast, dem König der Amoriter, der in Heschbon wohnte.»
+21	35	Und sie schlugen ihn und seine Söhne und sein ganzes Volk, bis man ihm keinen Überlebenden übrig liess; und sie nahmen sein Land in Besitz.
+22	1	Und die Kinder Israels brachen auf und lagerten in den Steppen Moabs, jenseits des Jordan bei Jericho.
+22	2	Und Balak, der Sohn Zippors, sah alles, was Israel den Amoritern getan hatte.
+22	3	Und Moab erschauerte sehr vor dem Volk, denn es war viel Volk; und es ekelte Moab vor den Kindern Israels.
+22	4	Und Moab sagte zu den Ältesten Midians: «Nun wird die Versammlung alles rings um uns her ablecken, wie der Ochse das Grün des Feldes ableckt.» Balak aber, der Sohn Zippors, war zu jener Zeit König über Moab.
+22	5	Und er sandte Boten zu Bileam, dem Sohn Beors, nach Petor, das am Strom liegt, in das Land der Kinder seines Volkes, um ihn zu rufen, und liess sagen: «Siehe, ein Volk ist aus Ägypten ausgezogen; siehe, es hat das Auge der Erde bedeckt, und es wohnt mir gegenüber.
+22	6	Und nun komm doch, verfluche mir dieses Volk, denn es ist stärker als ich; vielleicht kann ich es, dass wir es schlagen und ich es aus dem Land vertreibe. Denn ich weiss: Wen du segnest, der ist gesegnet, und wen du verfluchst, der ist verflucht.»
+22	7	Da gingen die Ältesten Moabs und die Ältesten Midians, und Wahrsagungen waren in ihrer Hand; und sie kamen zu Bileam und redeten zu ihm die Worte Balaks.
+22	8	Und er sagte zu ihnen: «Übernachtet hier diese Nacht, so will ich euch Wort zurückbringen, wie der HERR zu mir reden wird.» Da blieben die Herrscher Moabs bei Bileam.
+22	9	Und Gott kam zu Bileam und sagte: «Wer sind diese Männer bei dir?»
+22	10	Und Bileam sagte zu Gott: «Balak, der Sohn Zippors, der König von Moab, hat zu mir gesandt:
+22	11	‹Siehe, das Volk, das aus Ägypten ausgezogen ist, es hat das Auge der Erde bedeckt. Nun komm, verdamme es mir; vielleicht kann ich gegen es kämpfen und es vertreiben.›»
+22	12	Und Gott sagte zu Bileam: «Du sollst nicht mit ihnen gehen; du sollst das Volk nicht verfluchen, denn es ist gesegnet.»
+22	13	Da stand Bileam am Morgen auf und sagte zu den Herrschern Balaks: «Geht in euer Land; denn der HERR will mich nicht mit euch gehen lassen.»
+22	14	Und die Herrscher Moabs standen auf und kamen zu Balak und sagten: «Bileam will nicht mit uns gehen.»
+22	15	Da sandte Balak noch einmal Herrscher, mehr und geehrter als jene.
+22	16	Und sie kamen zu Bileam und sagten zu ihm: «So spricht Balak, der Sohn Zippors: Verweigere dich doch nicht, zu mir zu kommen!
+22	17	Denn ich will dich sehr ehren, und alles, was du zu mir sagst, will ich tun. So komm doch, verdamme mir dieses Volk!»
+22	18	Da antwortete Bileam und sagte zu den Knechten Balaks: «Wenn Balak mir sein Haus voll Silber und Gold gäbe, ich könnte nicht über den Mund des HERRN, meines Gottes, hinweggehen, um Kleines oder Grosses zu tun.
+22	19	Und nun bleibt doch auch ihr hier diese Nacht, damit ich weiss, was der HERR noch weiter mit mir reden wird.»
+22	20	Da kam Gott in der Nacht zu Bileam und sagte zu ihm: «Wenn die Männer gekommen sind, um dich zu rufen, steh auf, geh mit ihnen; aber nur das Wort, das ich zu dir rede, das sollst du tun.»
+22	21	Da stand Bileam am Morgen auf und sattelte seine Eselin und ging mit den Herrschern Moabs.
+22	22	Da entbrannte der Zorn Gottes, weil er ging; und der Engel des HERRN stellte sich auf dem Weg auf als sein Widersacher. Er aber ritt auf seiner Eselin, und zwei seiner jungen Menschen waren bei ihm.
+22	23	Und die Eselin sah den Engel des HERRN auf dem Weg dastehen, sein gezogenes Schwert in seiner Hand; und die Eselin bog vom Weg ab und ging ins Feld. Da schlug Bileam die Eselin, um sie wieder auf den Weg abbiegen zu lassen.
+22	24	Da stand der Engel des HERRN im Hohlweg der Weinberge, eine Umfriedung auf dieser und eine Umfriedung auf jener Seite.
+22	25	Und die Eselin sah den Engel des HERRN und presste sich an die Wand und presste den Fuss Bileams an die Wand; da schlug er sie wieder.
+22	26	Und der Engel des HERRN ging noch einmal vorüber und stellte sich an einen engen Ort, wo kein Weg war, abzubiegen, weder zur Rechten noch zur Linken.
+22	27	Und die Eselin sah den Engel des HERRN und lag nieder unter Bileam. Da entbrannte der Zorn Bileams, und er schlug die Eselin mit dem Stab.
+22	28	Da öffnete der HERR den Mund der Eselin, und sie sagte zu Bileam: «Was habe ich dir getan, dass du mich nun schon dreimal geschlagen hast?»
+22	29	Und Bileam sagte zu der Eselin: «Weil du dein Spiel mit mir getrieben hast! Wäre ein Schwert in meiner Hand, ich hätte dich jetzt getötet!»
+22	30	Und die Eselin sagte zu Bileam: «Bin ich nicht deine Eselin, auf der du geritten bist, seit es dich gibt, bis auf diesen Tag? War es mir je geläufig, dir so zu tun?» Und er sagte: «Nein.»
+22	31	Da deckte der HERR die Augen Bileams auf, und er sah den Engel des HERRN auf dem Weg dastehen, sein gezogenes Schwert in seiner Hand; und er verneigte sich und warf sich nieder auf sein Gesicht.
+22	32	Und der Engel des HERRN sagte zu ihm: «Warum hast du deine Eselin nun schon dreimal geschlagen? Siehe, ich bin als Widersacher ausgezogen, denn abschüssig ist der Weg vor mir.
+22	33	Die Eselin aber hat mich gesehen und ist nun schon dreimal vor mir abgebogen. Wäre sie nicht vor mir abgebogen, so hätte ich jetzt dich getötet, sie aber am Leben erhalten.»
+22	34	Da sagte Bileam zum Engel des HERRN: «Ich habe gesündigt; denn ich wusste nicht, dass du mir entgegen auf dem Weg dastandest. Und nun, wenn es ein Übel ist in deinen Augen, so will ich zurückkehren.»
+22	35	Und der Engel des HERRN sagte zu Bileam: «Geh mit den Männern; aber nur das Wort, das ich zu dir rede, das sollst du reden.» So ging Bileam mit den Herrschern Balaks.
+22	36	Und Balak hörte, dass Bileam kam, und zog hinaus, ihm entgegen, zur Stadt Moabs, die an der Grenzmarke des Arnon liegt, die am Ende des Gebiets liegt.
+22	37	Und Balak sagte zu Bileam: «Habe ich nicht eigens zu dir gesandt, um dich zu rufen? Warum bist du nicht zu mir gekommen? Sollte ich dich in der Tat nicht ehren können?»
+22	38	Und Bileam sagte zu Balak: «Siehe, ich bin zu dir gekommen. Kann ich jetzt etwa irgendetwas reden? Das Wort, das Gott mir in den Mund legt, das werde ich reden.»
+22	39	Und Bileam ging mit Balak, und sie kamen nach Kirjat-Huzot.
+22	40	Und Balak brachte Rinder und Schafe als Schlachtopfer dar und sandte zu Bileam und zu den Herrschern, die bei ihm waren.
+22	41	Und es geschah am Morgen, da nahm Balak Bileam und holte ihn hinauf nach Bamot-Baal; und er sah von dort das Ende des Volkes.
+23	1	Und Bileam sagte zu Balak: «Baue mir hier sieben Altäre und bereite mir hier sieben Jungstiere und sieben Widder.»
+23	2	Und Balak tat, wie Bileam geredet hatte; und Balak und Bileam liessen auf jedem Altar einen Jungstier und einen Widder aufsteigen.
+23	3	Und Bileam sagte zu Balak: «Stell dich bei deinem Brandopfer auf, und ich will gehen; vielleicht begegnet mir der HERR, und das Wort, das er mich sehen lässt, will ich dir künden.» Und er ging auf eine kahle Kuppe.
+23	4	Und Gott begegnete Bileam, und Bileam sagte zu ihm: «Die sieben Altäre habe ich zugerichtet und auf jedem Altar einen Jungstier und einen Widder aufsteigen lassen.»
+23	5	Da legte der HERR ein Wort in den Mund Bileams und sagte: «Kehre zurück zu Balak, und so sollst du reden.»
+23	6	Und er kehrte zu ihm zurück, und siehe, er stand da bei seinem Brandopfer, er und alle Herrscher Moabs.
+23	7	Da hob er sein Gleichnis an und sagte: Aus Aram leitete mich Balak, der König von Moab, von den Bergen des Ostens: «Komm, verfluche mir Jakob, und komm, entrüste dich über Israel!»
+23	8	Wie soll ich verdammen, wen Gott nicht verdammt hat, und wie mich entrüsten, wo der HERR sich nicht entrüstet hat?
+23	9	Denn vom Haupt der Felsen sehe ich es, und von den Hügeln habe ich es im Blick: Siehe, ein Volk, das allein wohnt und sich nicht unter die Völker rechnet.
+23	10	Wer zählt den Staub Jakobs und nach der Zahl das Viertel Israels? Meine Seele sterbe den Tod der Redlichen, und meine Zukunft sei wie die seine!
+23	11	Da sagte Balak zu Bileam: «Was hast du mir getan? Um meine Feinde zu verdammen, habe ich dich geholt, und siehe, gesegnet hast du!»
+23	12	Und er antwortete und sagte: «Muss ich nicht das, was der HERR mir in den Mund legt, bewahren, um es zu reden?»
+23	13	Da sagte Balak zu ihm: «Komm doch mit mir an einen anderen Ort, von wo aus du es sehen wirst; nur sein Ende siehst du, das Ganze aber siehst du nicht. Und verdamme es mir von dort!»
+23	14	Und er nahm ihn mit zum Feld Zofim, auf das Haupt des Pisga, und baute sieben Altäre und liess auf jedem Altar einen Jungstier und einen Widder aufsteigen.
+23	15	Und er sagte zu Balak: «Stell dich hier bei deinem Brandopfer auf, und ich will ihm dort begegnen.»
+23	16	Und der HERR begegnete Bileam und legte ein Wort in seinen Mund und sagte: «Kehre zurück zu Balak, und so sollst du reden.»
+23	17	Und er kam zu ihm, und siehe, er stand da bei seinem Brandopfer, und die Herrscher Moabs mit ihm. Und Balak sagte zu ihm: «Was hat der HERR geredet?»
+23	18	Da hob er sein Gleichnis an und sagte: Steh auf, Balak, und höre! Vernimm mich, Sohn Zippors!
+23	19	Gott ist kein Mensch, dass er lüge, und kein Menschenkind, dass es ihn reue. Hat er gesagt und sollte es nicht tun, hat er geredet und sollte es nicht bestehen lassen?
+23	20	Siehe, das Segnen habe ich übernommen; er hat gesegnet, und ich kann es nicht zurücknehmen.
+23	21	Kein Unheil schaut er in Jakob, keine Mühsal sieht er in Israel; der HERR, sein Gott, ist mit ihm, und der Jubelschall eines Königs ist in ihm.
+23	22	Gott, der sie aus Ägypten herausführt — Spitzen wie das Wildrind hat er.
+23	23	Denn es gibt kein Vorzeichen in Jakob und keine Wahrsagung in Israel; wenn es Zeit ist, wird Jakob gesagt und Israel, was Gott gewirkt hat.
+23	24	Siehe, ein Volk: wie eine Löwin steht es auf, und wie ein Löwe hebt es sich empor; es legt sich nicht hin, bis es vom Reissen frisst und das Blut von Erschlagenen trinkt.
+23	25	Da sagte Balak zu Bileam: «Du sollst es weder verdammen noch segnen!»
+23	26	Und Bileam antwortete und sagte zu Balak: «Habe ich nicht zu dir geredet: ‹Alles, was der HERR redet, das werde ich tun›?»
+23	27	Und Balak sagte zu Bileam: «Komm doch, ich will dich an einen anderen Ort mitnehmen; vielleicht ist es recht in den Augen Gottes, dass du es mir von dort verdammst.»
+23	28	Und Balak nahm Bileam mit auf das Haupt des Pegor, das auf das Angesicht der Einöde herabblickt.
+23	29	Und Bileam sagte zu Balak: «Baue mir hier sieben Altäre und bereite mir hier sieben Jungstiere und sieben Widder.»
+23	30	Und Balak tat, wie Bileam gesagt hatte, und liess auf jedem Altar einen Jungstier und einen Widder aufsteigen.
+24	1	Und Bileam sah, dass es in den Augen des HERRN gut war, Israel zu segnen; und er ging nicht wie die anderen Male den Vorzeichen entgegen, sondern setzte sein Angesicht auf die Wüste.
+24	2	Und Bileam hob seine Augen auf und sah Israel, wie es nach seinen Stämmen wohnte; und der Geist Gottes kam über ihn.
+24	3	Da hob er sein Gleichnis an und sagte: Ausspruch Bileams, des Sohnes Beors, und Ausspruch des Mannes, dessen Auge offen ist;
+24	4	Ausspruch dessen, der die Reden Gottes hört, der ein Gesicht des Allmächtigen erschaut, der hinfällt, und seine Augen sind aufgedeckt:
+24	5	Wie gut sind deine Zelte, Jakob, deine Wohnungen, Israel!
+24	6	Wie Bachtäler, die sich ausstrecken, wie Gärten am Strom, wie Aloebäume, die der HERR gepflanzt hat, wie Zedern am Wasser.
+24	7	Wasser rinnt aus seinen Eimern, und seine Nachkommen sind an vielen Wassern; und sein König erhebt sich über Agag, und sein Königtum hebt sich empor.
+24	8	Gott, der ihn aus Ägypten herausführt — Spitzen wie das Wildrind hat er. Er frisst die Völker, seine Bedränger, und ihre Knochen nagt er ab, und mit seinen Pfeilen streckt er sie nieder.
+24	9	Er sinkt in die Knie, er legt sich hin wie ein Löwe und wie eine Löwin — wer will ihn aufstehen lassen? Wer dich segnet, sei gesegnet, und wer dich verflucht, sei verflucht!
+24	10	Da entbrannte der Zorn Balaks gegen Bileam, und er schlug seine Hände zusammen. Und Balak sagte zu Bileam: «Um meine Feinde zu verdammen, habe ich dich gerufen, und siehe, gesegnet hast du, nun schon dreimal.
+24	11	Und nun flieh an deinen Ort! Ich habe gesagt, ich wolle dich sehr ehren; und siehe, der HERR hat dir das Ansehen verweigert.»
+24	12	Und Bileam sagte zu Balak: «Habe ich nicht auch zu deinen Boten, die du zu mir gesandt hast, geredet:
+24	13	‹Wenn Balak mir sein Haus voll Silber und Gold gäbe, ich könnte nicht über den Mund des HERRN hinweggehen, um aus meinem Herzen Gutes oder Böses zu tun; was der HERR redet, das werde ich reden›?
+24	14	Und nun, siehe, ich gehe zu meinem Volk. Komm, ich will dich beraten, was dieses Volk deinem Volk tun wird am Ende der Tage.»
+24	15	Da hob er sein Gleichnis an und sagte: Ausspruch Bileams, des Sohnes Beors, und Ausspruch des Mannes, dessen Auge offen ist;
+24	16	Ausspruch dessen, der die Reden Gottes hört und um das Wissen des Höchsten weiss, der ein Gesicht des Allmächtigen erschaut, der hinfällt, und seine Augen sind aufgedeckt:
+24	17	Ich sehe ihn, doch nicht jetzt; ich habe ihn im Blick, doch nicht nah. Es schreitet ein Stern aus Jakob hervor, und ein Stab steht auf aus Israel und streckt die Seiten Moabs nieder und reisst alle Kinder Sets um.
+24	18	Und Edom wird ein Erbe, und Seïr wird ein Erbe — seine Feinde; Israel aber tut Tapferes.
+24	19	Und einer aus Jakob wird walten und den Überlebenden aus der Stadt vertilgen.
+24	20	Und er sah Amalek und hob sein Gleichnis an und sagte: Der Erstling der Völker ist Amalek, doch seine Zukunft — bis er umkommt.
+24	21	Und er sah die Keniter und hob sein Gleichnis an und sagte: Unbewegt ist dein Sitz, und in die Klippe gesetzt dein Nest.
+24	22	Doch Kain soll abgebrannt werden — wie lange noch? Assur führt dich weg.
+24	23	Da hob er sein Gleichnis an und sagte: Wehe! Wer wird leben, wenn Gott es setzt?
+24	24	Und Schiffe, von der Hand der Kittäer her: sie beugen Assur und beugen Eber, und auch er — bis er umkommt.
+24	25	Und Bileam stand auf und ging und kehrte an seinen Ort zurück; und auch Balak ging seines Weges.
+25	1	Und Israel wohnte in Schittim, und das Volk begann zu huren mit den Töchtern Moabs.
+25	2	Und sie riefen das Volk zu den Schlachtopfern ihrer Götter, und das Volk ass und warf sich nieder vor ihren Göttern.
+25	3	So knüpfte sich Israel an den Baal-Pegor. Da entbrannte der Zorn des HERRN gegen Israel.
+25	4	Und der HERR sagte zu Mose: «Nimm alle Häupter des Volkes und pfähle sie für den HERRN vor der Sonne, damit die Glut des Zorns des HERRN von Israel umkehrt.»
+25	5	Da sagte Mose zu den Richtern Israels: «Tötet jeder seine Männer, die sich an den Baal-Pegor geknüpft haben!»
+25	6	Und siehe, ein Mann von den Kindern Israels kam und brachte die Midianiterin herbei zu seinen Brüdern, vor den Augen des Mose und vor den Augen der ganzen Gemeinschaft der Kinder Israels; sie aber weinten am Eingang des Zeltes der Begegnung.
+25	7	Als Pinhas, der Sohn Eleasars, des Sohnes Aarons, des Priesters, das sah, stand er auf mitten aus der Gemeinschaft und nahm einen Spiess in seine Hand
+25	8	und ging hinter dem israelitischen Mann her in das Kuppelzelt hinein und durchbohrte sie beide, den israelitischen Mann und die Frau, bis in ihren Unterleib. Da wurde der Schlag aufgehalten, fort von den Kindern Israels.
+25	9	Und die Toten durch den Schlag waren vierundzwanzigtausend.
+25	10	Und der HERR redete zu Mose:
+25	11	«Pinhas, der Sohn Eleasars, des Sohnes Aarons, des Priesters, hat meinen Grimm abgewendet von den Kindern Israels, als er in ihrer Mitte mit meinem Eifer eiferte; so habe ich die Kinder Israels nicht aufgerieben in meinem Eifer.
+25	12	Darum sage: ‹Siehe, ich gebe ihm meinen Bund des Friedens.
+25	13	Und das soll ihm und seinen Nachkommen nach ihm ein Bund ewigen Priestertums sein, dafür, dass er für seinen Gott geeifert und für die Kinder Israels Sühne geschaffen hat.›»
+25	14	Und der Name des israelitischen Mannes, des Geschlagenen, der mit der Midianiterin geschlagen wurde, war Simri, der Sohn Salus, Fürst des Hauses der Väter für die Simeoniter.
+25	15	Und der Name der geschlagenen Frau, der Midianiterin, war Kosbi, die Tochter Zurs; er war Haupt der Völkerschaften eines Hauses der Väter in Midian.
+25	16	Und der HERR redete zu Mose:
+25	17	«Bedrängt die Midianiter und schlagt sie!
+25	18	Denn sie bedrängen euch mit ihrer Tücke, mit der sie an euch Tücke geübt haben wegen Pegor und wegen Kosbi, der Tochter eines Fürsten Midians, ihrer Schwester, die am Tag des Schlages wegen Pegor geschlagen wurde.»
+25	19	Und es geschah nach dem Schlag —
+26	1	Und der HERR sagte zu Mose und zu Eleasar, dem Sohn Aarons, dem Priester:
+26	2	«Stellt die Summe der ganzen Gemeinschaft der Kinder Israels fest, zwanzig Jahre alt und darüber, nach dem Haus ihrer Väter, jeder, der in Israel mit dem Heer auszieht.»
+26	3	Und Mose und Eleasar, der Priester, redeten mit ihnen in den Steppen Moabs am Jordan bei Jericho:
+26	4	«Zwanzig Jahre alt und darüber», wie der HERR Mose und den Kindern Israels geboten hatte, die aus dem Land Ägypten ausgezogen waren.
+26	5	Ruben, der Erstgeborene Israels. Die Kinder Rubens: Henoch, die Sippe der Henochiter; von Pallu die Sippe der Palluiter;
+26	6	von Hezron die Sippe der Hezroniter; von Karmi die Sippe der Karmiter.
+26	7	Das sind die Sippen der Rubeniter; und ihre Gemusterten waren dreiundvierzigtausendsiebenhundertdreissig.
+26	8	Und die Söhne Pallus: Eliab.
+26	9	Und die Söhne Eliabs: Nemuël und Datan und Abiram. Das sind Datan und Abiram, die Gerufenen der Gemeinschaft, die gegen Mose und gegen Aaron rangen in der Gemeinschaft Korachs, als sie gegen den HERRN rangen;
+26	10	und die Erde öffnete ihren Mund und verschlang sie und Korach, als die Gemeinschaft starb, als das Feuer die zweihundertfünfzig Männer frass; und sie wurden zum Feldzeichen.
+26	11	Die Söhne Korachs aber starben nicht.
+26	12	Die Kinder Simeons nach ihren Sippen: von Nemuël die Sippe der Nemuëliter; von Jamin die Sippe der Jaminiter; von Jachin die Sippe der Jachiniter;
+26	13	von Serach die Sippe der Serachiter; von Schaul die Sippe der Schauliter.
+26	14	Das sind die Sippen der Simeoniter: zweiundzwanzigtausendzweihundert.
+26	15	Die Kinder Gads nach ihren Sippen: von Zefon die Sippe der Zefoniter; von Haggi die Sippe der Haggiter; von Schuni die Sippe der Schuniter;
+26	16	von Osni die Sippe der Osniter; von Eri die Sippe der Eriter;
+26	17	von Arod die Sippe der Aroditer; von Areli die Sippe der Areliter.
+26	18	Das sind die Sippen der Kinder Gads nach ihren Gemusterten: vierzigtausendfünfhundert.
+26	19	Die Söhne Judas: Er und Onan; und Er und Onan starben im Land Kanaan.
+26	20	Und die Kinder Judas waren nach ihren Sippen: von Schela die Sippe der Schelaniter; von Perez die Sippe der Pereziter; von Serach die Sippe der Serachiter.
+26	21	Und die Söhne des Perez waren: von Hezron die Sippe der Hezroniter; von Hamul die Sippe der Hamuliter.
+26	22	Das sind die Sippen Judas nach ihren Gemusterten: sechsundsiebzigtausendfünfhundert.
+26	23	Die Kinder Issachars nach ihren Sippen: Tola, die Sippe der Tolaiter; von Puwa die Sippe der Puniter;
+26	24	von Jaschub die Sippe der Jaschubiter; von Schimron die Sippe der Schimroniter.
+26	25	Das sind die Sippen Issachars nach ihren Gemusterten: vierundsechzigtausenddreihundert.
+26	26	Die Kinder Sebulons nach ihren Sippen: von Sered die Sippe der Serediter; von Elon die Sippe der Eloniter; von Jachleël die Sippe der Jachleëliter.
+26	27	Das sind die Sippen der Sebuloniter nach ihren Gemusterten: sechzigtausendfünfhundert.
+26	28	Die Kinder Josefs nach ihren Sippen: Manasse und Efraim.
+26	29	Die Kinder Manasses: von Machir die Sippe der Machiriter, und Machir zeugte Gilead; von Gilead die Sippe der Gileaditer.
+26	30	Das sind die Söhne Gileads: Iëser, die Sippe der Iëseriter; von Helek die Sippe der Helekiter;
+26	31	und Asriël, die Sippe der Asriëliter; und Sichem, die Sippe der Sichemiter;
+26	32	und Schemida, die Sippe der Schemidaiter; und Hefer, die Sippe der Heferiter.
+26	33	Und Zelofhad, der Sohn Hefers, hatte keine Söhne, sondern Töchter; und die Namen der Töchter Zelofhads waren Machla und Noa, Hogla, Milka und Tirza.
+26	34	Das sind die Sippen Manasses; und ihre Gemusterten waren zweiundfünfzigtausendsiebenhundert.
+26	35	Das sind die Kinder Efraims nach ihren Sippen: von Schutelach die Sippe der Schutelachiter; von Beker die Sippe der Bekeriter; von Tahan die Sippe der Tahaniter.
+26	36	Und dies sind die Söhne Schutelachs: von Eran die Sippe der Eraniter.
+26	37	Das sind die Sippen der Kinder Efraims nach ihren Gemusterten: zweiunddreissigtausendfünfhundert. Das sind die Kinder Josefs nach ihren Sippen.
+26	38	Die Kinder Benjamins nach ihren Sippen: von Bela die Sippe der Belaiter; von Aschbel die Sippe der Aschbeliter; von Ahiram die Sippe der Ahiramiter;
+26	39	von Schefufam die Sippe der Schufamiter; von Hufam die Sippe der Hufamiter.
+26	40	Und die Söhne Belas waren Ard und Naaman: die Sippe der Arditer; von Naaman die Sippe der Naamiter.
+26	41	Das sind die Kinder Benjamins nach ihren Sippen; und ihre Gemusterten waren fünfundvierzigtausendsechshundert.
+26	42	Das sind die Kinder Dans nach ihren Sippen: von Schuham die Sippe der Schuhamiter. Das sind die Sippen Dans nach ihren Sippen.
+26	43	Alle Sippen der Schuhamiter nach ihren Gemusterten: vierundsechzigtausendvierhundert.
+26	44	Die Kinder Aschers nach ihren Sippen: von Jimna die Sippe der Jimniter; von Jischwi die Sippe der Jischwiter; von Beria die Sippe der Beriiter.
+26	45	Von den Söhnen Berias: von Heber die Sippe der Heberiter; von Malkiël die Sippe der Malkiëliter.
+26	46	Und der Name der Tochter Aschers war Serach.
+26	47	Das sind die Sippen der Kinder Aschers nach ihren Gemusterten: dreiundfünfzigtausendvierhundert.
+26	48	Die Kinder Naftalis nach ihren Sippen: von Jachzeël die Sippe der Jachzeëliter; von Guni die Sippe der Guniter;
+26	49	von Jezer die Sippe der Jezeriter; von Schillem die Sippe der Schillemiter.
+26	50	Das sind die Sippen Naftalis nach ihren Sippen; und ihre Gemusterten waren fünfundvierzigtausendvierhundert.
+26	51	Das sind die Gemusterten der Kinder Israels: sechshunderteintausendsiebenhundertdreissig.
+26	52	Und der HERR redete zu Mose:
+26	53	«Diesen soll das Land als Erbe verteilt werden, nach der Zahl der Namen.
+26	54	Dem, der viel ist, sollst du sein Erbe mehren, und dem, der wenig ist, sollst du sein Erbe weniger werden lassen; jedem soll nach dem Mund seiner Gemusterten sein Erbe gegeben werden.
+26	55	Nur durch das Los soll das Land verteilt werden; nach den Namen der Stämme ihrer Väter sollen sie erben.
+26	56	Nach dem Mund des Loses soll sein Erbe verteilt werden, zwischen dem, der viel ist, und dem, der wenig ist.»
+26	57	Und dies sind die Gemusterten der Leviten nach ihren Sippen: von Gerschon die Sippe der Gerschoniter; von Kehat die Sippe der Kehatiter; von Merari die Sippe der Merariter.
+26	58	Das sind die Sippen Levis: die Sippe der Libniter, die Sippe der Hebroniter, die Sippe der Machliter, die Sippe der Muschiter, die Sippe der Korachiter. Und Kehat zeugte Amram.
+26	59	Und der Name der Frau Amrams war Jochebed, die Tochter Levis, die dem Levi in Ägypten geboren worden war; und sie gebar dem Amram Aaron und Mose und Mirjam, ihre Schwester.
+26	60	Und dem Aaron wurden Nadab und Abihu, Eleasar und Itamar geboren.
+26	61	Und Nadab und Abihu starben, als sie fremdes Feuer vor dem Angesicht des HERRN darbrachten.
+26	62	Und ihre Gemusterten waren dreiundzwanzigtausend, alles Männliche, einen Monat alt und darüber; denn sie wurden nicht gemustert inmitten der Kinder Israels, denn ihnen wurde kein Erbe inmitten der Kinder Israels gegeben.
+26	63	Das sind die Gemusterten des Mose und Eleasars, des Priesters, die die Kinder Israels in den Steppen Moabs am Jordan bei Jericho musterten.
+26	64	Und unter diesen war kein Mann von den Gemusterten des Mose und Aarons, des Priesters, die die Kinder Israels in der Wüste Sinai musterten.
+26	65	Denn der HERR hatte zu ihnen gesagt: «Sie werden in der Wüste des Todes sterben.» Und es blieb von ihnen kein Mann übrig ausser Kaleb, dem Sohn Jefunnes, und Josua, dem Sohn Nuns.
+27	1	Da traten die Töchter Zelofhads heran, des Sohnes Hefers, des Sohnes Gileads, des Sohnes Machirs, des Sohnes Manasses, aus den Sippen Manasses, des Sohnes Josefs; und dies sind die Namen seiner Töchter: Machla, Noa und Hogla und Milka und Tirza.
+27	2	Und sie standen vor Mose und vor Eleasar, dem Priester, und vor den Fürsten und der ganzen Gemeinschaft am Eingang des Zeltes der Begegnung und sagten:
+27	3	«Unser Vater ist in der Wüste gestorben. Er war aber nicht inmitten der Gemeinschaft, die gegen den HERRN zusammengetroffen war, in der Gemeinschaft Korachs, sondern in seiner Sünde ist er gestorben; und Söhne hatte er nicht.
+27	4	Warum soll der Name unseres Vaters aus der Mitte seiner Sippe weggenommen werden, weil er keinen Sohn hat? Gib uns Besitz inmitten der Brüder unseres Vaters!»
+27	5	Und Mose brachte ihr Recht vor das Angesicht des HERRN.
+27	6	Und der HERR sagte zu Mose:
+27	7	«Die Töchter Zelofhads reden recht. Geben sollst du ihnen Besitz als Erbe inmitten der Brüder ihres Vaters, und du sollst das Erbe ihres Vaters auf sie übertragen.
+27	8	Und zu den Kindern Israels sollst du reden: ‹Wenn ein Mann stirbt und keinen Sohn hat, so sollt ihr sein Erbe auf seine Tochter übertragen.
+27	9	Und wenn er keine Tochter hat, so sollt ihr sein Erbe seinen Brüdern geben.
+27	10	Und wenn er keine Brüder hat, so sollt ihr sein Erbe den Brüdern seines Vaters geben.
+27	11	Und wenn sein Vater keine Brüder hat, so sollt ihr sein Erbe seinem Fleisch geben, das ihm nahesteht, aus seiner Sippe, und der soll es erben. Und das soll den Kindern Israels zu einer Satzung des Rechts werden, wie der HERR Mose geboten hat.›»
+27	12	Und der HERR sagte zu Mose: «Steig auf diesen Berg Abarim hinauf und sieh das Land, das ich den Kindern Israels gegeben habe.
+27	13	Und hast du es gesehen, so wirst auch du zu deinem Volk versammelt werden, wie Aaron, dein Bruder, versammelt worden ist,
+27	14	weil ihr meinem Mund getrotzt habt in der Wüste Zin, beim Streiten der Gemeinschaft, um mich am Wasser vor ihren Augen zu heiligen.» Das sind die Wasser von Meriba bei Kadesch in der Wüste Zin.
+27	15	Und Mose redete zum HERRN:
+27	16	«Der HERR, der Gott der Geister von allem Fleisch, setze einen Mann über die Gemeinschaft ein,
+27	17	der vor ihnen hinausgeht und der vor ihnen hineingeht, der sie hinausführt und der sie hineinbringt, damit die Gemeinschaft des HERRN nicht sei wie Schafe, die keinen Hirten haben.»
+27	18	Und der HERR sagte zu Mose: «Nimm dir Josua, den Sohn Nuns, einen Mann, in dem Geist ist, und stütze deine Hand auf ihn.
+27	19	Und stelle ihn vor Eleasar, den Priester, und vor die ganze Gemeinschaft, und gebiete ihm vor ihren Augen.
+27	20	Und lege von deiner Hoheit auf ihn, damit die ganze Gemeinschaft der Kinder Israels hört.
+27	21	Und vor Eleasar, dem Priester, soll er stehen, und der soll für ihn das Recht der Urim befragen vor dem Angesicht des HERRN. Nach seinem Mund sollen sie hinausgehen, und nach seinem Mund sollen sie hineingehen, er und alle Kinder Israels mit ihm und die ganze Gemeinschaft.»
+27	22	Und Mose tat, wie der HERR ihm geboten hatte; und er nahm Josua und stellte ihn vor Eleasar, den Priester, und vor die ganze Gemeinschaft.
+27	23	Und er stützte seine Hände auf ihn und gebot ihm, wie der HERR durch die Hand des Mose geredet hatte.
+28	1	Und der HERR redete zu Mose:
+28	2	«Gebiete den Kindern Israels und sage zu ihnen: ‹Meine Opfergabe, mein Brot für meine Feueropfer, den Duft meines Wohlgeruchs, sollt ihr bewahren, um sie mir zu ihrer bestimmten Zeit darzubringen.›
+28	3	Und sage zu ihnen: ‹Dies ist das Feueropfer, das ihr dem HERRN darbringen sollt: Lämmer, ein Jahr alt, untadelig, zwei jeden Tag, als beständiges Brandopfer.
+28	4	Das eine Lamm sollst du am Morgen zubereiten, und das zweite Lamm sollst du zwischen den beiden Abenden zubereiten;
+28	5	und den zehnten Teil des Efa Feinmehl als Speiseopfer, vermengt mit einem Viertel Hin zerstampften Öls:
+28	6	ein beständiges Brandopfer, das auf dem Berg Sinai zubereitet worden ist, zum Duft des Wohlgeruchs, ein Feueropfer für den HERRN.
+28	7	Und sein Trankopfer: ein Viertel Hin für das eine Lamm; im Heiligtum sollst du ein Trankopfer aus berauschendem Getränk für den HERRN spenden.
+28	8	Und das zweite Lamm sollst du zwischen den beiden Abenden zubereiten; wie das Speiseopfer des Morgens und wie sein Trankopfer sollst du es zubereiten, ein Feueropfer, ein Duft des Wohlgeruchs für den HERRN.
+28	9	Und am Sabbattag zwei Lämmer, ein Jahr alt, untadelig, und zwei Zehntel Feinmehl als Speiseopfer, vermengt mit Öl, und sein Trankopfer:
+28	10	das Brandopfer des Sabbats an seinem Sabbat, über das beständige Brandopfer und sein Trankopfer hinaus.
+28	11	Und an den Häuptern eurer Monate sollt ihr ein Brandopfer für den HERRN darbringen: zwei Jungstiere, junge Rinder, und einen Widder, sieben Lämmer, ein Jahr alt, untadelig,
+28	12	und drei Zehntel Feinmehl als Speiseopfer, vermengt mit Öl, für den einzelnen Jungstier, und zwei Zehntel Feinmehl als Speiseopfer, vermengt mit Öl, für den einzelnen Widder,
+28	13	und je ein Zehntel Feinmehl als Speiseopfer, vermengt mit Öl, für das einzelne Lamm: ein Brandopfer, ein Duft des Wohlgeruchs, ein Feueropfer für den HERRN.
+28	14	Und ihre Trankopfer sollen ein halbes Hin Wein für den Jungstier sein und ein Drittel Hin für den Widder und ein Viertel Hin für das Lamm. Dies ist das Brandopfer des Neumonds an seinem Neumond, für die Monate des Jahres.
+28	15	Und ein Ziegenbock soll als Sündopfer für den HERRN zubereitet werden, über das beständige Brandopfer und sein Trankopfer hinaus.
+28	16	Und im ersten Monat, am vierzehnten Tag des Monats, ist ein Passa für den HERRN.
+28	17	Und am fünfzehnten Tag dieses Monats ist ein Fest; sieben Tage lang sollen ungesäuerte Brote gegessen werden.
+28	18	Am ersten Tag ist eine heilige Ausrufung; keinerlei Dienstarbeit sollt ihr tun.
+28	19	Und ihr sollt ein Feueropfer darbringen, ein Brandopfer für den HERRN: zwei Jungstiere, junge Rinder, und einen Widder und sieben Lämmer, ein Jahr alt; untadelig sollen sie euch sein.
+28	20	Und ihr Speiseopfer: Feinmehl, vermengt mit Öl; drei Zehntel für den Jungstier und zwei Zehntel für den Widder sollt ihr zubereiten.
+28	21	Je ein Zehntel sollst du für das einzelne Lamm zubereiten, für die sieben Lämmer;
+28	22	und einen Ziegenbock als Sündopfer, um Sühne zu schaffen für euch.
+28	23	Ausser dem Brandopfer des Morgens, das zum beständigen Brandopfer gehört, sollt ihr diese zubereiten.
+28	24	Wie diese sollt ihr jeden Tag zubereiten, sieben Tage lang: Brot, ein Feueropfer, ein Duft des Wohlgeruchs für den HERRN; über das beständige Brandopfer und sein Trankopfer hinaus soll es zubereitet werden.
+28	25	Und am siebten Tag soll bei euch eine heilige Ausrufung sein; keinerlei Dienstarbeit sollt ihr tun.
+28	26	Und am Tag der Frühfrüchte, wenn ihr dem HERRN ein neues Speiseopfer darbringt, an eurem Fest der Wochen, soll bei euch eine heilige Ausrufung sein; keinerlei Dienstarbeit sollt ihr tun.
+28	27	Und ihr sollt ein Brandopfer darbringen zum Duft des Wohlgeruchs für den HERRN: zwei Jungstiere, junge Rinder, einen Widder, sieben Lämmer, ein Jahr alt,
+28	28	und ihr Speiseopfer: Feinmehl, vermengt mit Öl, drei Zehntel für den einzelnen Jungstier, zwei Zehntel für den einzelnen Widder,
+28	29	je ein Zehntel für das einzelne Lamm, für die sieben Lämmer,
+28	30	einen Ziegenbock, um Sühne zu schaffen für euch.
+28	31	Ausser dem beständigen Brandopfer und seinem Speiseopfer sollt ihr sie zubereiten — untadelig sollen sie euch sein — und ihre Trankopfer.›»
+29	1	«‹Und im siebten Monat, am Ersten des Monats, soll bei euch eine heilige Ausrufung sein; keinerlei Dienstarbeit sollt ihr tun. Ein Tag des Jubelschalls soll er für euch sein.
+29	2	Und ihr sollt ein Brandopfer zubereiten zum Duft des Wohlgeruchs für den HERRN: einen Jungstier, ein junges Rind, einen Widder, sieben Lämmer, ein Jahr alt, untadelig.
+29	3	Und ihr Speiseopfer: Feinmehl, vermengt mit Öl, drei Zehntel für den Jungstier, zwei Zehntel für den Widder
+29	4	und ein Zehntel für das einzelne Lamm, für die sieben Lämmer.
+29	5	Und einen Ziegenbock als Sündopfer, um Sühne zu schaffen für euch,
+29	6	ausser dem Brandopfer des Neumonds und seinem Speiseopfer und dem beständigen Brandopfer und seinem Speiseopfer und ihren Trankopfern, nach ihrem Recht, zum Duft des Wohlgeruchs, ein Feueropfer für den HERRN.
+29	7	Und am Zehnten dieses siebten Monats soll bei euch eine heilige Ausrufung sein, und ihr sollt eure Seelen beugen; keinerlei Arbeit sollt ihr tun.
+29	8	Und ihr sollt ein Brandopfer für den HERRN darbringen, ein Duft des Wohlgeruchs: einen Jungstier, ein junges Rind, einen Widder, sieben Lämmer, ein Jahr alt; untadelig sollen sie euch sein.
+29	9	Und ihr Speiseopfer: Feinmehl, vermengt mit Öl, drei Zehntel für den Jungstier, zwei Zehntel für den einzelnen Widder,
+29	10	je ein Zehntel für das einzelne Lamm, für die sieben Lämmer.
+29	11	Einen Ziegenbock als Sündopfer, ausser dem Sündopfer der Sühnung und dem beständigen Brandopfer und seinem Speiseopfer und ihren Trankopfern.
+29	12	Und am fünfzehnten Tag des siebten Monats soll bei euch eine heilige Ausrufung sein; keinerlei Dienstarbeit sollt ihr tun. Und ihr sollt ein Fest für den HERRN feiern, sieben Tage lang.
+29	13	Und ihr sollt ein Brandopfer darbringen, ein Feueropfer, ein Duft des Wohlgeruchs für den HERRN: dreizehn Jungstiere, junge Rinder, zwei Widder, vierzehn Lämmer, ein Jahr alt; untadelig sollen sie sein.
+29	14	Und ihr Speiseopfer: Feinmehl, vermengt mit Öl, drei Zehntel für den einzelnen Jungstier, für die dreizehn Jungstiere, zwei Zehntel für den einzelnen Widder, für die beiden Widder,
+29	15	und je ein Zehntel für das einzelne Lamm, für die vierzehn Lämmer.
+29	16	Und einen Ziegenbock als Sündopfer, ausser dem beständigen Brandopfer, seinem Speiseopfer und seinem Trankopfer.
+29	17	Und am zweiten Tag zwölf Jungstiere, junge Rinder, zwei Widder, vierzehn Lämmer, ein Jahr alt, untadelig.
+29	18	Und ihr Speiseopfer und ihre Trankopfer für die Jungstiere, für die Widder und für die Lämmer nach ihrer Zahl, nach dem Recht.
+29	19	Und einen Ziegenbock als Sündopfer, ausser dem beständigen Brandopfer und seinem Speiseopfer und ihren Trankopfern.
+29	20	Und am dritten Tag elf Jungstiere, zwei Widder, vierzehn Lämmer, ein Jahr alt, untadelig.
+29	21	Und ihr Speiseopfer und ihre Trankopfer für die Jungstiere, für die Widder und für die Lämmer nach ihrer Zahl, nach dem Recht.
+29	22	Und einen Ziegenbock als Sündopfer, ausser dem beständigen Brandopfer und seinem Speiseopfer und seinem Trankopfer.
+29	23	Und am vierten Tag zehn Jungstiere, zwei Widder, vierzehn Lämmer, ein Jahr alt, untadelig.
+29	24	Ihr Speiseopfer und ihre Trankopfer für die Jungstiere, für die Widder und für die Lämmer nach ihrer Zahl, nach dem Recht.
+29	25	Und einen Ziegenbock als Sündopfer, ausser dem beständigen Brandopfer, seinem Speiseopfer und seinem Trankopfer.
+29	26	Und am fünften Tag neun Jungstiere, zwei Widder, vierzehn Lämmer, ein Jahr alt, untadelig.
+29	27	Und ihr Speiseopfer und ihre Trankopfer für die Jungstiere, für die Widder und für die Lämmer nach ihrer Zahl, nach dem Recht.
+29	28	Und einen Ziegenbock als Sündopfer, ausser dem beständigen Brandopfer und seinem Speiseopfer und seinem Trankopfer.
+29	29	Und am sechsten Tag acht Jungstiere, zwei Widder, vierzehn Lämmer, ein Jahr alt, untadelig.
+29	30	Und ihr Speiseopfer und ihre Trankopfer für die Jungstiere, für die Widder und für die Lämmer nach ihrer Zahl, nach dem Recht.
+29	31	Und einen Ziegenbock als Sündopfer, ausser dem beständigen Brandopfer, seinem Speiseopfer und seinen Trankopfern.
+29	32	Und am siebten Tag sieben Jungstiere, zwei Widder, vierzehn Lämmer, ein Jahr alt, untadelig.
+29	33	Und ihr Speiseopfer und ihre Trankopfer für die Jungstiere, für die Widder und für die Lämmer nach ihrer Zahl, nach ihrem Recht.
+29	34	Und einen Ziegenbock als Sündopfer, ausser dem beständigen Brandopfer, seinem Speiseopfer und seinem Trankopfer.
+29	35	Am achten Tag soll bei euch ein Feiertag sein; keinerlei Dienstarbeit sollt ihr tun.
+29	36	Und ihr sollt ein Brandopfer darbringen, ein Feueropfer, ein Duft des Wohlgeruchs für den HERRN: einen Jungstier, einen Widder, sieben Lämmer, ein Jahr alt, untadelig.
+29	37	Ihr Speiseopfer und ihre Trankopfer für den Jungstier, für den Widder und für die Lämmer nach ihrer Zahl, nach dem Recht.
+29	38	Und einen Ziegenbock als Sündopfer, ausser dem beständigen Brandopfer und seinem Speiseopfer und seinem Trankopfer.
+29	39	Dies sollt ihr dem HERRN zubereiten zu euren bestimmten Zeiten, ausser euren Gelübden und euren freiwilligen Gaben, als eure Brandopfer und als eure Speiseopfer und als eure Trankopfer und als eure Friedensopfer.›»
+30	1	Und Mose sagte es den Kindern Israels nach allem, was der HERR Mose geboten hatte.
+30	2	Und Mose redete zu den Häuptern der Stämme der Kinder Israels: «Das ist das Wort, das der HERR geboten hat:
+30	3	Wenn ein Mann dem HERRN ein Gelübde gelobt oder einen Eid schwört, um eine Bindung auf seine Seele zu binden, so soll er sein Wort nicht entweihen; nach allem, was aus seinem Mund hervorgeht, soll er tun.
+30	4	Und wenn eine Frau dem HERRN ein Gelübde gelobt und eine Bindung bindet im Haus ihres Vaters, in ihrer Jugend,
+30	5	und ihr Vater hört ihr Gelübde und ihre Bindung, die sie auf ihre Seele gebunden hat, und ihr Vater schweigt ihr gegenüber, so sollen alle ihre Gelübde bestehen, und jede Bindung, die sie auf ihre Seele gebunden hat, soll bestehen.
+30	6	Vereitelt aber ihr Vater es ihr an dem Tag, an dem er davon hört, so soll keines ihrer Gelübde und keine ihrer Bindungen, die sie auf ihre Seele gebunden hat, bestehen; und der HERR wird ihr vergeben, weil ihr Vater es ihr vereitelt hat.
+30	7	Und wenn sie einem Mann gehört und ihre Gelübde auf ihr liegen oder das unüberlegte Reden ihrer Lippen, das sie auf ihre Seele gebunden hat,
+30	8	und ihr Mann hört davon und schweigt ihr gegenüber an dem Tag, an dem er davon hört, so sollen ihre Gelübde bestehen, und ihre Bindungen, die sie auf ihre Seele gebunden hat, sollen bestehen.
+30	9	Wenn aber ihr Mann es ihr an dem Tag, an dem er davon hört, vereitelt und ihr Gelübde, das auf ihr liegt, zunichtemacht und das unüberlegte Reden ihrer Lippen, das sie auf ihre Seele gebunden hat, so wird der HERR ihr vergeben.
+30	10	Und das Gelübde einer Witwe und einer Verstossenen — alles, was sie auf ihre Seele gebunden hat, soll für sie bestehen.
+30	11	Und wenn sie im Haus ihres Mannes gelobt hat oder mit einem Eid eine Bindung auf ihre Seele gebunden hat
+30	12	und ihr Mann hört es und schweigt ihr gegenüber, vereitelt es ihr nicht, so sollen alle ihre Gelübde bestehen, und jede Bindung, die sie auf ihre Seele gebunden hat, soll bestehen.
+30	13	Macht ihr Mann sie aber an dem Tag, an dem er davon hört, zunichte, so soll nichts bestehen, was aus ihren Lippen hervorgeht, weder ihre Gelübde noch die Bindung ihrer Seele; ihr Mann hat sie zunichtegemacht, und der HERR wird ihr vergeben.
+30	14	Jedes Gelübde und jeden Eid einer Bindung, die Seele zu beugen — ihr Mann kann es bestehen lassen, und ihr Mann kann es zunichtemachen.
+30	15	Schweigt aber ihr Mann ihr gegenüber Tag um Tag, so hat er alle ihre Gelübde oder alle ihre Bindungen, die auf ihr liegen, bestehen lassen; er hat sie bestehen lassen, denn er hat ihr gegenüber geschwiegen an dem Tag, an dem er davon hörte.
+30	16	Macht er sie aber erst zunichte, nachdem er davon gehört hat, so trägt er ihre Schuld.»
+30	17	Dies sind die Satzungen, die der HERR Mose geboten hat, zwischen einem Mann und seiner Frau, zwischen einem Vater und seiner Tochter in ihrer Jugend im Haus ihres Vaters.
+31	1	Und der HERR redete zu Mose:
+31	2	«Nimm die Rache der Kinder Israels an den Midianitern; danach wirst du zu deinem Volk versammelt werden.»
+31	3	Da redete Mose zum Volk: «Es sollen sich aus eurer Mitte Männer zum Heer wappnen, damit sie über Midian kommen, um die Rache des HERRN an Midian zu geben.
+31	4	Je tausend für den Stamm, je tausend für den Stamm, von allen Stämmen Israels sollt ihr zum Heer senden.»
+31	5	Da wurden aus den Tausendschaften Israels je tausend für den Stamm gestellt, zwölftausend zum Heer Gewappnete.
+31	6	Und Mose sandte sie, je tausend für den Stamm, zum Heer, sie und Pinhas, den Sohn Eleasars, den Priester, zum Heer; und die heiligen Geräte und die Trompeten des Jubelschalls waren in seiner Hand.
+31	7	Und sie zogen gegen Midian zu Felde, wie der HERR Mose geboten hatte, und töteten alles Männliche.
+31	8	Und die Könige Midians töteten sie zu ihren Erschlagenen hinzu: Ewi und Rekem und Zur und Hur und Reba, die fünf Könige Midians; und Bileam, den Sohn Beors, töteten sie mit dem Schwert.
+31	9	Und die Kinder Israels führten die Frauen Midians und ihre kleinen Kinder weg; und all ihr Vieh und all ihre Habe und all ihren Wohlstand raubten sie.
+31	10	Und alle ihre Städte, wo sie wohnten, und alle ihre Zeltringe verbrannten sie im Feuer.
+31	11	Und sie nahmen die ganze Beute und alles Erbeutete an Menschen und an Vieh
+31	12	und brachten die Weggeführten und das Erbeutete und die Beute zu Mose und zu Eleasar, dem Priester, und zur Gemeinschaft der Kinder Israels, ins Lager, in die Steppen Moabs am Jordan bei Jericho.
+31	13	Und Mose und Eleasar, der Priester, und alle Fürsten der Gemeinschaft gingen hinaus, ihnen entgegen, ausserhalb des Lagers.
+31	14	Und Mose geriet in Wut über die Eingesetzten des Heeres, die Vorsteher der Tausendschaften und die Vorsteher der Hundertschaften, die vom Heerdienst des Krieges kamen.
+31	15	Und Mose sagte zu ihnen: «Habt ihr alles Weibliche am Leben erhalten?
+31	16	Siehe, sie waren es, die die Kinder Israels auf das Wort Bileams hin dazu brachten, Untreue am HERRN zu begehen wegen Pegor, und der Schlag kam über die Gemeinschaft des HERRN.
+31	17	Und nun: Tötet alles Männliche unter den kleinen Kindern, und jede Frau, die einen Mann erkannt hat im Liegen bei einem Männlichen, tötet!
+31	18	Alle kleinen Kinder aber unter den Frauen, die das Liegen bei einem Männlichen nicht erkannt haben, erhaltet für euch am Leben!
+31	19	Ihr aber, lagert sieben Tage ausserhalb des Lagers! Jeder, der eine Seele getötet hat, und jeder, der einen Erschlagenen berührt hat — am dritten Tag und am siebten Tag sollt ihr euch entsündigen, ihr und eure Weggeführten.
+31	20	Und jedes Kleid und jedes Gerät aus Leder und jedes Werk aus Ziegenhaar und jedes Gerät aus Holz sollt ihr entsündigen.»
+31	21	Und Eleasar, der Priester, sagte zu den Männern des Heeres, die in den Krieg gekommen waren: «Dies ist die Satzung der Weisung, die der HERR Mose geboten hat:
+31	22	Nur das Gold und das Silber, das Erz, das Eisen, das Zinn und das Blei —
+31	23	alles, was ins Feuer kommen kann, sollt ihr durchs Feuer gehen lassen, so wird es rein; nur soll es mit dem Wasser der Absonderung entsündigt werden. Und alles, was nicht ins Feuer kommen kann, sollt ihr durchs Wasser gehen lassen.
+31	24	Und am siebten Tag sollt ihr eure Kleider waschen, so werdet ihr rein; und danach dürft ihr in das Lager kommen.»
+31	25	Und der HERR sagte zu Mose:
+31	26	«Stell die Summe des Erbeuteten an Weggeführten fest, an Menschen und an Vieh, du und Eleasar, der Priester, und die Häupter der Väter der Gemeinschaft.
+31	27	Und du sollst das Erbeutete halbieren zwischen denen, die den Krieg in die Hand genommen haben, die mit dem Heer ausgezogen sind, und der ganzen Gemeinschaft.
+31	28	Und du sollst für den HERRN einen Zoll erheben von den Männern des Krieges, die mit dem Heer ausgezogen sind: eine Seele von fünfhundert, von den Menschen und von den Rindern und von den Eseln und von den Schafen.
+31	29	Von ihrer Hälfte sollt ihr ihn nehmen, und du sollst Eleasar, dem Priester, die Abgabe des HERRN geben.
+31	30	Und von der Hälfte der Kinder Israels sollst du eines nehmen, herausgegriffen von fünfzig, von den Menschen, von den Rindern, von den Eseln und von den Schafen, von allem Vieh, und sollst sie den Leviten geben, die bewahren, was an der Wohnung des HERRN zu bewahren ist.»
+31	31	Und Mose und Eleasar, der Priester, taten, wie der HERR Mose geboten hatte.
+31	32	Und das Erbeutete, der Rest des Geraubten, das das Volk des Heeres geraubt hatte, war: an Schafen sechshundertfünfundsiebzigtausend
+31	33	und an Rindern zweiundsiebzigtausend
+31	34	und an Eseln einundsechzigtausend
+31	35	und an Menschenseelen, von den Frauen, die das Liegen bei einem Männlichen nicht erkannt hatten, alle Seelen: zweiunddreissigtausend.
+31	36	Und die Hälfte, der Anteil derer, die mit dem Heer ausgezogen waren, war: die Zahl der Schafe dreihundertsiebenunddreissigtausendfünfhundert,
+31	37	und der Zoll für den HERRN von den Schafen war sechshundertfünfundsiebzig;
+31	38	und die Rinder sechsunddreissigtausend, und ihr Zoll für den HERRN zweiundsiebzig;
+31	39	und die Esel dreissigtausendfünfhundert, und ihr Zoll für den HERRN einundsechzig;
+31	40	und die Menschenseelen sechzehntausend, und ihr Zoll für den HERRN zweiunddreissig Seelen.
+31	41	Und Mose gab den Zoll, die Abgabe des HERRN, Eleasar, dem Priester, wie der HERR Mose geboten hatte.
+31	42	Und von der Hälfte der Kinder Israels, die Mose von den Männern, die zu Felde gezogen waren, abgeteilt hatte —
+31	43	die Hälfte der Gemeinschaft war: an Schafen dreihundertsiebenunddreissigtausendfünfhundert
+31	44	und an Rindern sechsunddreissigtausend
+31	45	und an Eseln dreissigtausendfünfhundert
+31	46	und an Menschenseelen sechzehntausend —,
+31	47	von der Hälfte der Kinder Israels nahm Mose das Herausgegriffene, eines von fünfzig, von den Menschen und vom Vieh, und gab sie den Leviten, die bewahren, was an der Wohnung des HERRN zu bewahren ist, wie der HERR Mose geboten hatte.
+31	48	Und die Eingesetzten der Tausendschaften des Heeres, die Vorsteher der Tausendschaften und die Vorsteher der Hundertschaften, traten zu Mose heran
+31	49	und sagten zu Mose: «Deine Knechte haben die Summe der Männer des Krieges festgestellt, die in unserer Hand sind, und von uns wird nicht ein Mann vermisst.
+31	50	So haben wir die Opfergabe des HERRN dargebracht, jeder, was er an Gefässen aus Gold gefunden hat, Armkette und Armreif, Ring, Ohrschmuck und Anhänger, um Sühne zu schaffen für unser Leben vor dem Angesicht des HERRN.»
+31	51	Und Mose und Eleasar, der Priester, nahmen das Gold von ihnen, allesamt verarbeitete Gefässe.
+31	52	Und alles Gold der Abgabe, das sie für den HERRN erhoben hatten, war sechzehntausendsiebenhundertfünfzig Schekel, von den Vorstehern der Tausendschaften und von den Vorstehern der Hundertschaften.
+31	53	Die Männer des Heeres hatten geraubt, jeder für sich.
+31	54	Und Mose und Eleasar, der Priester, nahmen das Gold von den Vorstehern der Tausendschaften und der Hundertschaften und brachten es in das Zelt der Begegnung, zum Gedenken für die Kinder Israels vor dem Angesicht des HERRN.
+32	1	Die Kinder Rubens und die Kinder Gads aber hatten viel Habe, sehr stark an Zahl. Und sie sahen das Land Jaser und das Land Gilead, und siehe, der Ort war ein Ort für Habe.
+32	2	Da kamen die Kinder Gads und die Kinder Rubens und sagten zu Mose und zu Eleasar, dem Priester, und zu den Fürsten der Gemeinschaft:
+32	3	«Atarot und Dibon und Jaser und Nimra und Heschbon und Elale und Sebam und Nebo und Beon,
+32	4	das Land, das der HERR vor der Gemeinschaft Israels geschlagen hat, ist ein Land für Habe, und deine Knechte haben Habe.»
+32	5	Und sie sagten: «Wenn wir Gnade gefunden haben in deinen Augen, so werde dieses Land deinen Knechten zum Besitz gegeben; lass uns nicht den Jordan überschreiten.»
+32	6	Da sagte Mose zu den Kindern Gads und zu den Kindern Rubens: «Sollen eure Brüder in den Krieg kommen, und ihr wollt hier sitzen?
+32	7	Und warum wollt ihr den Kindern Israels im Herzen vereiteln, in das Land hinüberzuziehen, das der HERR ihnen gegeben hat?
+32	8	So haben eure Väter getan, als ich sie von Kadesch-Barnea sandte, um das Land anzusehen.
+32	9	Sie stiegen hinauf bis zum Bachtal Eschkol und sahen das Land, und sie vereitelten den Kindern Israels im Herzen, in das Land zu kommen, das der HERR ihnen gegeben hatte.
+32	10	Da entbrannte der Zorn des HERRN an jenem Tag, und er schwor:
+32	11	‹Nie werden die Männer, die aus Ägypten heraufgestiegen sind, die zwanzig Jahre alt und darüber sind, den Boden sehen, den ich Abraham, Isaak und Jakob zugeschworen habe; denn sie sind nicht ganz hinter mir hergegangen,
+32	12	ausser Kaleb, dem Sohn Jefunnes, dem Kenasiter, und Josua, dem Sohn Nuns; denn sie sind ganz hinter dem HERRN hergegangen.›
+32	13	Und der Zorn des HERRN entbrannte gegen Israel, und er liess sie in der Wüste unstet umherziehen, vierzig Jahre, bis es aus war mit dem ganzen Geschlecht, das das Böse in den Augen des HERRN getan hatte.
+32	14	Und siehe, ihr seid anstelle eurer Väter aufgestanden, ein Zuwachs sündiger Männer, um zur Glut des Zorns des HERRN gegen Israel noch hinzuzutun.
+32	15	Denn wenn ihr umkehrt, fort von ihm, so wird er es wieder in der Wüste lassen, und ihr werdet dieses ganze Volk verderben.»
+32	16	Da kamen sie zu ihm heran und sagten: «Umfriedungen für die Schafe wollen wir hier für unsere Habe bauen und Städte für unsere kleinen Kinder;
+32	17	wir selbst aber wollen uns wappnen und eilends vor den Kindern Israels herziehen, bis wir sie an ihren Ort gebracht haben; unsere kleinen Kinder aber sollen in den befestigten Städten wohnen, wegen der Bewohner des Landes.
+32	18	Wir wollen nicht zu unseren Häusern zurückkehren, bis die Kinder Israels geerbt haben, jeder sein Erbe.
+32	19	Denn wir wollen nicht mit ihnen erben jenseits des Jordan und weiter; denn unser Erbe ist uns zugekommen jenseits des Jordan, nach Osten hin.»
+32	20	Da sagte Mose zu ihnen: «Wenn ihr dies tut, wenn ihr euch vor dem Angesicht des HERRN zum Krieg wappnet
+32	21	und jeder Gewappnete von euch vor dem Angesicht des HERRN den Jordan überschreitet, bis er seine Feinde vor seinem Angesicht verdrängt hat,
+32	22	und das Land vor dem Angesicht des HERRN unterworfen ist und ihr danach zurückkehrt, dann sollt ihr unschuldig sein vor dem HERRN und vor Israel, und dieses Land soll euch zum Besitz werden vor dem Angesicht des HERRN.
+32	23	Wenn ihr aber nicht so tut, siehe, dann habt ihr gegen den HERRN gesündigt; und wisst: Eure Sünde wird euch finden.
+32	24	Baut euch Städte für eure kleinen Kinder und Umfriedungen für eure Schafe, und was aus eurem Mund hervorgeht, sollt ihr tun.»
+32	25	Und die Kinder Gads und die Kinder Rubens sagten zu Mose: «Deine Knechte werden tun, wie mein Herr gebietet.
+32	26	Unsere kleinen Kinder, unsere Frauen, unsere Habe und all unser Vieh sollen dort sein, in den Städten Gileads;
+32	27	deine Knechte aber werden hinüberziehen, jeder zum Heer Gewappnete, vor dem Angesicht des HERRN zum Krieg, wie mein Herr redet.»
+32	28	Da gebot Mose im Blick auf sie Eleasar, dem Priester, und Josua, dem Sohn Nuns, und den Häuptern der Väter der Stämme der Kinder Israels,
+32	29	und Mose sagte zu ihnen: «Wenn die Kinder Gads und die Kinder Rubens mit euch den Jordan überschreiten, jeder zum Krieg Gewappnete, vor dem Angesicht des HERRN, und das Land vor euch unterworfen ist, so sollt ihr ihnen das Land Gilead zum Besitz geben.
+32	30	Wenn sie aber nicht gewappnet mit euch hinüberziehen, so sollen sie in eurer Mitte im Land Kanaan ansässig werden.»
+32	31	Da antworteten die Kinder Gads und die Kinder Rubens und sagten: «Was der HERR zu deinen Knechten geredet hat, so wollen wir tun.
+32	32	Wir wollen gewappnet vor dem Angesicht des HERRN in das Land Kanaan hinüberziehen, und unser Besitz als Erbe sei bei uns, jenseits des Jordan.»
+32	33	Und Mose gab ihnen, den Kindern Gads und den Kindern Rubens und dem halben Stamm Manasses, des Sohnes Josefs, das Königreich Sihons, des Königs der Amoriter, und das Königreich Ogs, des Königs von Baschan: das Land nach seinen Städten in ihren Gebieten, die Städte des Landes ringsum.
+32	34	Und die Kinder Gads bauten Dibon und Atarot und Aroër
+32	35	und Atrot-Schofan und Jaser und Jogboha
+32	36	und Bet-Nimra und Bet-Haran, befestigte Städte und Umfriedungen für die Schafe.
+32	37	Und die Kinder Rubens bauten Heschbon und Elale und Kirjatajim
+32	38	und Nebo und Baal-Meon — sie wurden umbenannt — und Sibma; und sie gaben den Städten, die sie bauten, Namen.
+32	39	Und die Kinder Machirs, des Sohnes Manasses, gingen nach Gilead und nahmen es ein und verdrängten die Amoriter, die darin waren.
+32	40	Und Mose gab Gilead Machir, dem Sohn Manasses, und er wohnte darin.
+32	41	Und Jaïr, der Sohn Manasses, ging hin und nahm ihre Zeltdörfer ein und nannte sie Hawwot-Jaïr.
+32	42	Und Nobach ging hin und nahm Kenat und seine Tochterstädte ein und nannte es Nobach, nach seinem Namen.
+33	1	Das sind die Halte der Kinder Israels, die aus dem Land Ägypten auszogen nach ihren Heerscharen, durch die Hand des Mose und Aarons.
+33	2	Und Mose schrieb ihre Ausgänge, Halt um Halt, nach dem Mund des HERRN; und das sind ihre Halte, Ausgang um Ausgang.
+33	3	Und sie brachen von Ramses auf im ersten Monat, am fünfzehnten Tag des ersten Monats; am Tag nach dem Passa zogen die Kinder Israels aus mit erhobener Hand vor den Augen aller Ägypter,
+33	4	während die Ägypter begruben, die der HERR unter ihnen geschlagen hatte, jeden Erstgeborenen; und an ihren Göttern hatte der HERR Strafgerichte geübt.
+33	5	Und die Kinder Israels brachen von Ramses auf und lagerten in Sukkot.
+33	6	Und sie brachen von Sukkot auf und lagerten in Etam, das am Ende der Wüste liegt.
+33	7	Und sie brachen von Etam auf und kehrten um nach Pi-Hahirot, das gegenüber Baal-Zefon liegt, und lagerten vor Migdol.
+33	8	Und sie brachen vor Hahirot auf und zogen mitten durch das Meer in die Wüste; und sie gingen drei Tagereisen weit in der Wüste Etam und lagerten in Mara.
+33	9	Und sie brachen von Mara auf und kamen nach Elim; und in Elim waren zwölf Wasserquellen und siebzig Palmen, und sie lagerten dort.
+33	10	Und sie brachen von Elim auf und lagerten am Schilfmeer.
+33	11	Und sie brachen vom Schilfmeer auf und lagerten in der Wüste Sin.
+33	12	Und sie brachen aus der Wüste Sin auf und lagerten in Dofka.
+33	13	Und sie brachen von Dofka auf und lagerten in Alusch.
+33	14	Und sie brachen von Alusch auf und lagerten in Refidim; und dort war für das Volk kein Wasser zum Trinken.
+33	15	Und sie brachen von Refidim auf und lagerten in der Wüste Sinai.
+33	16	Und sie brachen aus der Wüste Sinai auf und lagerten in Kibrot-Taawa.
+33	17	Und sie brachen von Kibrot-Taawa auf und lagerten in Hazerot.
+33	18	Und sie brachen von Hazerot auf und lagerten in Ritma.
+33	19	Und sie brachen von Ritma auf und lagerten in Rimmon-Perez.
+33	20	Und sie brachen von Rimmon-Perez auf und lagerten in Libna.
+33	21	Und sie brachen von Libna auf und lagerten in Rissa.
+33	22	Und sie brachen von Rissa auf und lagerten in Kehelata.
+33	23	Und sie brachen von Kehelata auf und lagerten am Berg Schefer.
+33	24	Und sie brachen vom Berg Schefer auf und lagerten in Harada.
+33	25	Und sie brachen von Harada auf und lagerten in Makhelot.
+33	26	Und sie brachen von Makhelot auf und lagerten in Tahat.
+33	27	Und sie brachen von Tahat auf und lagerten in Terach.
+33	28	Und sie brachen von Terach auf und lagerten in Mitka.
+33	29	Und sie brachen von Mitka auf und lagerten in Haschmona.
+33	30	Und sie brachen von Haschmona auf und lagerten in Moserot.
+33	31	Und sie brachen von Moserot auf und lagerten in Bene-Jaakan.
+33	32	Und sie brachen von Bene-Jaakan auf und lagerten in Hor-Gidgad.
+33	33	Und sie brachen von Hor-Gidgad auf und lagerten in Jotbata.
+33	34	Und sie brachen von Jotbata auf und lagerten in Abrona.
+33	35	Und sie brachen von Abrona auf und lagerten in Ezjon-Geber.
+33	36	Und sie brachen von Ezjon-Geber auf und lagerten in der Wüste Zin, das ist Kadesch.
+33	37	Und sie brachen von Kadesch auf und lagerten am Berg Hor, am Ende des Landes Edom.
+33	38	Und Aaron, der Priester, stieg auf den Berg Hor hinauf nach dem Mund des HERRN und starb dort, im vierzigsten Jahr, nachdem die Kinder Israels aus dem Land Ägypten ausgezogen waren, im fünften Monat, am Ersten des Monats.
+33	39	Und Aaron war hundertdreiundzwanzig Jahre alt, als er auf dem Berg Hor starb.
+33	40	Und der Kanaaniter, der König von Arad, der im Negeb im Land Kanaan wohnte, hörte, dass die Kinder Israels kamen.
+33	41	Und sie brachen vom Berg Hor auf und lagerten in Zalmona.
+33	42	Und sie brachen von Zalmona auf und lagerten in Punon.
+33	43	Und sie brachen von Punon auf und lagerten in Obot.
+33	44	Und sie brachen von Obot auf und lagerten in Ije-Abarim, an der Grenzmarke Moabs.
+33	45	Und sie brachen von Ijim auf und lagerten in Dibon-Gad.
+33	46	Und sie brachen von Dibon-Gad auf und lagerten in Almon-Diblatajim.
+33	47	Und sie brachen von Almon-Diblatajim auf und lagerten in den Bergen Abarim, vor Nebo.
+33	48	Und sie brachen von den Bergen Abarim auf und lagerten in den Steppen Moabs am Jordan bei Jericho.
+33	49	Und sie lagerten am Jordan, von Bet-Jeschimot bis Abel-Schittim, in den Steppen Moabs.
+33	50	Und der HERR redete zu Mose in den Steppen Moabs am Jordan bei Jericho:
+33	51	«Rede zu den Kindern Israels und sage zu ihnen: ‹Wenn ihr den Jordan überschreitet in das Land Kanaan,
+33	52	so sollt ihr alle Bewohner des Landes vor euch verdrängen und alle ihre Bildsteine vertilgen, und alle ihre Bilder aus Guss sollt ihr vertilgen, und alle ihre Kulthöhen sollt ihr vernichten.
+33	53	Und ihr sollt das Land in Besitz nehmen und darin wohnen; denn euch habe ich das Land gegeben, es in Besitz zu nehmen.
+33	54	Und ihr sollt das Land durch das Los erben, nach euren Sippen: Dem, der viel ist, sollt ihr sein Erbe mehren, und dem, der wenig ist, sollst du sein Erbe weniger werden lassen; wohin das Los für ihn herauskommt, das soll ihm gehören. Nach den Stämmen eurer Väter sollt ihr erben.
+33	55	Wenn ihr aber die Bewohner des Landes nicht vor euch verdrängt, so werden die, die ihr von ihnen übrig lasst, zu Dornspitzen in euren Augen und zu Stechdornen in euren Seiten, und sie werden euch bedrängen in dem Land, in dem ihr wohnt.
+33	56	Und es wird geschehen: Wie ich ihnen zu tun vorhatte, so werde ich euch tun.›»
+34	1	Und der HERR redete zu Mose:
+34	2	«Gebiete den Kindern Israels und sage zu ihnen: ‹Wenn ihr in das Land Kanaan kommt: Dies ist das Land, das euch als Erbe zufallen soll, das Land Kanaan nach seinen Gebieten.
+34	3	Und die Seite des Negeb soll für euch sein von der Wüste Zin an, längs Edoms; und die Grenzmarke des Negeb soll für euch sein vom Ende des Salzmeeres an, ostwärts.
+34	4	Und die Grenzmarke soll für euch umbiegen südlich der Steige Akrabbim und hinüberziehen nach Zin, und ihr Ausgang soll südlich Kadesch-Barneas sein; und sie soll hinausgehen nach Hazar-Addar und hinüberziehen nach Azmon.
+34	5	Und die Grenzmarke soll umbiegen von Azmon zum Bachtal Ägyptens, und ihr Ausgang soll zum Meer hin sein.
+34	6	Und die Grenzmarke zum Meer hin: Das grosse Meer soll für euch Grenzmarke sein. Dies soll für euch die Grenzmarke zum Meer hin sein.
+34	7	Und dies soll für euch die Grenzmarke nach Norden sein: Vom grossen Meer an sollt ihr euch abstecken bis zum Berg Hor;
+34	8	vom Berg Hor sollt ihr abstecken bis Lebo-Hamat, und der Ausgang der Grenzmarke soll nach Zedad hin sein.
+34	9	Und die Grenzmarke soll hinausgehen nach Sifron, und ihr Ausgang soll bei Hazar-Enan sein. Dies soll für euch die Grenzmarke nach Norden sein.
+34	10	Und als Grenzmarke ostwärts sollt ihr euch abstecken von Hazar-Enan nach Schefam.
+34	11	Und die Grenzmarke soll hinabsteigen von Schefam nach Ribla, östlich Ajins; und die Grenzmarke soll hinabsteigen und an die Schulter des Meeres Kinneret streifen, ostwärts.
+34	12	Und die Grenzmarke soll zum Jordan hinabsteigen, und ihr Ausgang soll am Salzmeer sein. Dies soll für euch das Land sein nach seinen Gebieten ringsum.›»
+34	13	Und Mose gebot den Kindern Israels: «Dies ist das Land, das ihr durch das Los erben sollt, von dem der HERR geboten hat, es den neun Stämmen und dem halben Stamm zu geben.
+34	14	Denn genommen haben der Stamm der Rubeniter nach dem Haus ihrer Väter und der Stamm der Gaditer nach dem Haus ihrer Väter, und der halbe Stamm Manasse — sie haben ihr Erbe genommen.
+34	15	Die zwei Stämme und der halbe Stamm haben ihr Erbe genommen jenseits des Jordan bei Jericho, ostwärts, nach Osten hin.»
+34	16	Und der HERR redete zu Mose:
+34	17	«Dies sind die Namen der Männer, die für euch das Land erben sollen: Eleasar, der Priester, und Josua, der Sohn Nuns.
+34	18	Und je einen Fürsten, je einen Fürsten vom Stamm sollt ihr nehmen, um das Land zu erben.
+34	19	Und dies sind die Namen der Männer: Vom Stamm Juda: Kaleb, der Sohn Jefunnes.
+34	20	Und vom Stamm der Kinder Simeons: Samuel, der Sohn Ammihuds.
+34	21	Vom Stamm Benjamin: Elidad, der Sohn Kislons.
+34	22	Und vom Stamm der Kinder Dans ein Fürst: Bukki, der Sohn Joglis.
+34	23	Von den Kindern Josefs: vom Stamm der Kinder Manasses ein Fürst: Hanniël, der Sohn Efods.
+34	24	Und vom Stamm der Kinder Efraims ein Fürst: Kemuël, der Sohn Schiftans.
+34	25	Und vom Stamm der Kinder Sebulons ein Fürst: Elizafan, der Sohn Parnachs.
+34	26	Und vom Stamm der Kinder Issachars ein Fürst: Paltiël, der Sohn Asans.
+34	27	Und vom Stamm der Kinder Aschers ein Fürst: Ahihud, der Sohn Schelomis.
+34	28	Und vom Stamm der Kinder Naftalis ein Fürst: Pedaël, der Sohn Ammihuds.»
+34	29	Diese sind es, denen der HERR gebot, die Kinder Israels im Land Kanaan erben zu lassen.
+35	1	Und der HERR redete zu Mose in den Steppen Moabs am Jordan bei Jericho:
+35	2	«Gebiete den Kindern Israels, dass sie den Leviten von dem Erbe ihres Besitzes Städte zum Wohnen geben; und Weideland bei den Städten rings um sie her sollt ihr den Leviten geben.
+35	3	Und die Städte sollen ihnen zum Wohnen sein, und ihr Weideland soll für ihr Vieh und für ihre Habe und für alle ihre Tiere sein.
+35	4	Und das Weideland der Städte, das ihr den Leviten geben sollt: von der Wand der Stadt an nach aussen tausend Ellen ringsum.
+35	5	Und ihr sollt ausserhalb der Stadt messen: die Seite ostwärts zweitausend Ellen und die Seite des Negeb zweitausend Ellen und die Seite zum Meer hin zweitausend Ellen und die Seite nach Norden zweitausend Ellen, und die Stadt in der Mitte. Das soll ihnen das Weideland der Städte sein.
+35	6	Und die Städte, die ihr den Leviten geben sollt: die sechs Städte der Freistatt, die ihr geben sollt, damit der Totschläger dorthin fliehe, und zu ihnen hinzu sollt ihr zweiundvierzig Städte geben.
+35	7	Alle Städte, die ihr den Leviten geben sollt, sind achtundvierzig Städte, sie und ihr Weideland.
+35	8	Und die Städte, die ihr vom Besitz der Kinder Israels geben sollt — von dem, der viel ist, sollt ihr mehr nehmen, und von dem, der wenig ist, weniger: Jeder soll nach seinem Erbe, das sie erben, von seinen Städten den Leviten geben.»
+35	9	Und der HERR redete zu Mose:
+35	10	«Rede zu den Kindern Israels und sage zu ihnen: ‹Wenn ihr den Jordan überschreitet in das Land Kanaan,
+35	11	so sollt ihr euch Städte aussuchen; Städte der Freistatt sollen sie euch sein, und dorthin soll der Totschläger fliehen, der jemanden aus Versehen ums Leben schlägt.
+35	12	Und die Städte sollen euch zur Freistatt sein vor dem Erlöser, damit der Totschläger nicht stirbt, bis er vor der Gemeinschaft zum Gericht gestanden hat.
+35	13	Und die Städte, die ihr geben sollt: Sechs Städte der Freistatt sollen es für euch sein.
+35	14	Die drei Städte sollt ihr jenseits des Jordan geben, und die drei Städte sollt ihr im Land Kanaan geben; Städte der Freistatt sollen sie sein.
+35	15	Für die Kinder Israels und für den Fremden und für den Beisassen in ihrer Mitte sollen diese sechs Städte zur Freistatt sein, damit jeder dorthin fliehe, der jemanden aus Versehen ums Leben schlägt.
+35	16	Und wenn er ihn mit einem Gerät aus Eisen schlägt und er stirbt, so ist er ein Mörder; der Mörder soll des Todes sterben.
+35	17	Und wenn er ihn mit einem Stein in der Hand schlägt, durch den man sterben kann, und er stirbt, so ist er ein Mörder; der Mörder soll des Todes sterben.
+35	18	Oder wenn er ihn mit einem Gerät aus Holz in der Hand schlägt, durch das man sterben kann, und er stirbt, so ist er ein Mörder; der Mörder soll des Todes sterben.
+35	19	Der Erlöser des Blutes, er soll den Mörder zu Tode bringen; wenn er auf ihn trifft, soll er ihn zu Tode bringen.
+35	20	Und wenn er ihm aus Hass einen Stoss gibt oder lauernd etwas auf ihn wirft und er stirbt,
+35	21	oder ihn in Feindschaft mit seiner Hand schlägt und er stirbt, so soll der, der geschlagen hat, des Todes sterben; ein Mörder ist er. Der Erlöser des Blutes soll den Mörder zu Tode bringen, wenn er auf ihn trifft.
+35	22	Wenn er ihm aber plötzlich, ohne Feindschaft, einen Stoss gibt oder irgendein Gerät auf ihn wirft, ohne zu lauern,
+35	23	oder irgendeinen Stein, durch den man sterben kann, ohne es zu sehen, auf ihn fallen lässt und er stirbt — er aber war ihm nicht feind und suchte nicht sein Unglück —,
+35	24	so soll die Gemeinschaft richten zwischen dem, der geschlagen hat, und dem Erlöser des Blutes nach diesen Rechtsentscheiden.
+35	25	Und die Gemeinschaft soll den Totschläger aus der Hand des Erlösers des Blutes befreien, und die Gemeinschaft soll ihn in die Stadt seiner Freistatt zurückbringen, wohin er geflohen war; und er soll darin bleiben bis zum Tod des grossen Priesters, den man mit dem heiligen Öl gesalbt hat.
+35	26	Wenn aber der Totschläger doch aus dem Gebiet der Stadt seiner Freistatt hinausgeht, wohin er geflohen ist,
+35	27	und der Erlöser des Blutes findet ihn ausserhalb des Gebiets der Stadt seiner Freistatt, und der Erlöser des Blutes schlägt den Totschläger tot, so gibt es für ihn kein Blut.
+35	28	Denn in der Stadt seiner Freistatt soll er bleiben bis zum Tod des grossen Priesters; und nach dem Tod des grossen Priesters darf der Totschläger in das Land seines Besitzes zurückkehren.
+35	29	Und dies soll euch zu einer Satzung des Rechts werden für eure Geschlechter, wo ihr auch wohnt.
+35	30	Jeder, der jemanden ums Leben schlägt — nach dem Mund von Zeugen soll man den Mörder totschlagen; aber ein einzelner Zeuge soll nicht gegen jemanden aussagen, dass er sterbe.
+35	31	Und ihr sollt kein Lösegeld nehmen für das Leben eines Mörders, der ein Frevler ist und sterben soll; denn er soll des Todes sterben.
+35	32	Und ihr sollt kein Lösegeld nehmen für den, der in die Stadt seiner Freistatt geflohen ist, damit er zurückkehrt, um im Land zu wohnen, ehe der Priester stirbt.
+35	33	Und ihr sollt das Land nicht schänden, in dem ihr seid; denn das Blut, es schändet das Land, und dem Land kann für das Blut, das in ihm vergossen worden ist, keine Sühne geschaffen werden ausser durch das Blut dessen, der es vergossen hat.
+35	34	Und du sollst das Land nicht verunreinigen, in dem ihr wohnt, in dessen Mitte ich wohne; denn ich, der HERR, wohne inmitten der Kinder Israels.›»
+36	1	Da traten die Häupter der Väter von der Sippe der Kinder Gileads, des Sohnes Machirs, des Sohnes Manasses, aus den Sippen der Kinder Josefs, heran und redeten vor Mose und vor den Fürsten, den Häuptern der Väter der Kinder Israels,
+36	2	und sagten: «Meinem Herrn hat der HERR geboten, das Land als Erbe durch das Los den Kindern Israels zu geben; und meinem Herrn ist vom HERRN geboten worden, das Erbe Zelofhads, unseres Bruders, seinen Töchtern zu geben.
+36	3	Und werden sie einem von den Söhnen der Stämme der Kinder Israels zur Frau, so wird ihr Erbe vom Erbe unserer Väter weggenommen und zum Erbe des Stammes hinzugefügt, dem sie gehören werden; und vom Los unseres Erbes wird es weggenommen.
+36	4	Und wenn für die Kinder Israels das Jobeljahr da ist, so wird ihr Erbe zum Erbe des Stammes hinzugefügt, dem sie gehören werden; und vom Erbe des Stammes unserer Väter wird ihr Erbe weggenommen.»
+36	5	Und Mose gebot den Kindern Israels nach dem Mund des HERRN: «Der Stamm der Kinder Josefs redet recht.
+36	6	Das ist das Wort, das der HERR für die Töchter Zelofhads geboten hat: ‹Dem, der gut ist in ihren Augen, sollen sie zur Frau werden; nur in der Sippe des Stammes ihres Vaters sollen sie zur Frau werden.›
+36	7	Und kein Erbe der Kinder Israels soll von Stamm zu Stamm übergehen; denn die Kinder Israels sollen anhangen, jeder dem Erbe des Stammes seiner Väter.
+36	8	Und jede Tochter aus den Stämmen der Kinder Israels, die ein Erbe erbt, soll einem aus der Sippe des Stammes ihres Vaters zur Frau werden, damit die Kinder Israels erben, jeder das Erbe seiner Väter.
+36	9	Und kein Erbe soll von einem Stamm zu einem andern Stamm übergehen; denn die Stämme der Kinder Israels sollen anhangen, jeder seinem Erbe.»
+36	10	Wie der HERR Mose geboten hatte, so taten die Töchter Zelofhads.
+36	11	Und Machla, Tirza und Hogla und Milka und Noa, die Töchter Zelofhads, wurden den Söhnen ihrer Onkel zur Frau.
+36	12	Männern aus den Sippen der Kinder Manasses, des Sohnes Josefs, wurden sie zur Frau; und ihr Erbe war beim Stamm der Sippe ihres Vaters.
+36	13	Dies sind die Gebote und die Rechtsentscheide, die der HERR durch die Hand des Mose geboten hat für die Kinder Israels in den Steppen Moabs am Jordan bei Jericho.

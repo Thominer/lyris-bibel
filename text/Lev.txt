@@ -1,0 +1,859 @@
+1	1	Und er rief zu Mose, und der HERR redete zu ihm aus dem Zelt der Begegnung:
+1	2	«Rede zu den Kindern Israels und sage zu ihnen: ‹Wenn ein Mensch von euch dem HERRN eine Opfergabe darbringt, so sollt ihr vom Vieh, von den Rindern und von den Schafen, eure Opfergabe darbringen.
+1	3	Ist seine Opfergabe ein Brandopfer von den Rindern, so soll er ein männliches Tier darbringen, ein untadeliges; an den Eingang des Zeltes der Begegnung soll er es darbringen, ihm zum Wohlgefallen vor dem Angesicht des HERRN.
+1	4	Und er soll seine Hand auf das Haupt des Brandopfers stützen, so findet es für ihn Wohlgefallen, um für ihn Sühne zu schaffen.
+1	5	Und er soll das junge Rind schlachten vor dem Angesicht des HERRN, und die Söhne Aarons, die Priester, sollen das Blut darbringen und das Blut ringsum an den Altar sprengen, der am Eingang des Zeltes der Begegnung ist.
+1	6	Und er soll das Brandopfer häuten und es in seine Stücke zerlegen.
+1	7	Und die Söhne Aarons, des Priesters, sollen Feuer auf den Altar legen und Holz auf dem Feuer zurichten.
+1	8	Und die Söhne Aarons, die Priester, sollen die Stücke zurichten, das Haupt und den Talg, auf dem Holz, das auf dem Feuer ist, das auf dem Altar ist.
+1	9	Sein Inneres aber und seine Unterschenkel soll er mit Wasser waschen. Und der Priester soll alles auf dem Altar in Rauch aufgehen lassen: ein Brandopfer, ein Feueropfer, ein Duft des Wohlgeruchs für den HERRN.
+1	10	Und wenn seine Opfergabe von den Schafen ist, von den Lämmern oder von den Ziegen, als Brandopfer, so soll er ein männliches Tier darbringen, ein untadeliges.
+1	11	Und er soll es schlachten an der Seite des Altars nordwärts, vor dem Angesicht des HERRN, und die Söhne Aarons, die Priester, sollen sein Blut ringsum an den Altar sprengen.
+1	12	Und er soll es in seine Stücke zerlegen, dazu sein Haupt und seinen Talg, und der Priester soll sie zurichten auf dem Holz, das auf dem Feuer ist, das auf dem Altar ist.
+1	13	Das Innere aber und die Unterschenkel soll er mit Wasser waschen. Und der Priester soll alles darbringen und auf dem Altar in Rauch aufgehen lassen. Ein Brandopfer ist es, ein Feueropfer, ein Duft des Wohlgeruchs für den HERRN.
+1	14	Und wenn seine Opfergabe für den HERRN ein Brandopfer von den Vögeln ist, so soll er von den Turteltauben oder von den jungen Tauben seine Opfergabe darbringen.
+1	15	Und der Priester soll den Vogel am Altar darbringen und ihm das Haupt abkneifen und es auf dem Altar in Rauch aufgehen lassen; und sein Blut soll an der Wand des Altars ausgedrückt werden.
+1	16	Und er soll seinen Kropf samt seinen Federn wegtun und ihn neben den Altar werfen, ostwärts, an den Ort der Fettasche.
+1	17	Und er soll ihn an seinen Flügeln einreissen, ohne ihn auseinanderzutrennen, und der Priester soll ihn auf dem Altar in Rauch aufgehen lassen, auf dem Holz, das auf dem Feuer ist. Ein Brandopfer ist es, ein Feueropfer, ein Duft des Wohlgeruchs für den HERRN.›»
+2	1	«‹Und wenn eine Seele dem HERRN eine Opfergabe als Speiseopfer darbringt, so soll seine Opfergabe Feinmehl sein; und er soll Öl darauf giessen und Weihrauch darauf legen.
+2	2	Und er soll sie zu den Söhnen Aarons bringen, den Priestern, und er soll davon seine volle Handvoll nehmen, von ihrem Feinmehl und von ihrem Öl, samt all ihrem Weihrauch; und der Priester soll ihren Gedenkteil auf dem Altar in Rauch aufgehen lassen, ein Feueropfer, ein Duft des Wohlgeruchs für den HERRN.
+2	3	Was aber vom Speiseopfer übrig bleibt, gehört Aaron und seinen Söhnen, ein Hochheiliges von den Feueropfern des HERRN.
+2	4	Und wenn du eine Opfergabe als Speiseopfer darbringst, im Ofen Gebackenes, so sollen es ungesäuerte Ringbrote aus Feinmehl sein, mit Öl vermengt, und ungesäuerte Fladen, mit Öl gesalbt.
+2	5	Und ist deine Opfergabe ein Speiseopfer auf der Backplatte, so soll es aus Feinmehl sein, mit Öl vermengt, ungesäuert.
+2	6	Du sollst es in Brocken zerbröckeln und Öl darauf giessen; ein Speiseopfer ist es.
+2	7	Und ist deine Opfergabe ein Speiseopfer aus dem Kochtopf, so soll es aus Feinmehl mit Öl zubereitet werden.
+2	8	Und du sollst das Speiseopfer, das auf eine dieser Weisen zubereitet wird, dem HERRN bringen; und man soll es dem Priester darbringen, und der soll es an den Altar heranbringen.
+2	9	Und der Priester soll vom Speiseopfer den Gedenkteil erheben und auf dem Altar in Rauch aufgehen lassen, ein Feueropfer, ein Duft des Wohlgeruchs für den HERRN.
+2	10	Was aber vom Speiseopfer übrig bleibt, gehört Aaron und seinen Söhnen, ein Hochheiliges von den Feueropfern des HERRN.
+2	11	Kein Speiseopfer, das ihr dem HERRN darbringt, soll als Gesäuertes zubereitet werden; denn von keinem Sauerteig und von keinem Honig sollt ihr etwas als Feueropfer für den HERRN in Rauch aufgehen lassen.
+2	12	Als Opfergabe des Erstlings dürft ihr sie dem HERRN darbringen; zum Altar aber sollen sie nicht aufsteigen zum Duft des Wohlgeruchs.
+2	13	Und jede deiner Opfergaben als Speiseopfer sollst du mit Salz salzen, und das Salz des Bundes deines Gottes sollst du von deinem Speiseopfer nicht wegbleiben lassen; auf all deinen Opfergaben sollst du Salz darbringen.
+2	14	Und wenn du dem HERRN ein Speiseopfer von Frühfrüchten darbringst, so sollst du als Speiseopfer deiner Frühfrüchte Grünkorn darbringen, am Feuer geröstet, Schrot von Frischkorn.
+2	15	Und du sollst Öl darauf geben und Weihrauch darauf legen; ein Speiseopfer ist es.
+2	16	Und der Priester soll ihren Gedenkteil in Rauch aufgehen lassen, von ihrem Schrot und von ihrem Öl, samt all ihrem Weihrauch, ein Feueropfer für den HERRN.›»
+3	1	«‹Und wenn seine Opfergabe ein Schlachtopfer der Friedensopfer ist: Bringt er sie von den Rindern dar, ob ein männliches Tier, ob ein weibliches, so soll er ein untadeliges vor dem Angesicht des HERRN darbringen.
+3	2	Und er soll seine Hand auf das Haupt seiner Opfergabe stützen und sie schlachten am Eingang des Zeltes der Begegnung, und die Söhne Aarons, die Priester, sollen das Blut ringsum an den Altar sprengen.
+3	3	Und er soll vom Schlachtopfer der Friedensopfer ein Feueropfer für den HERRN darbringen: das Fett, das das Innere bedeckt, und alles Fett, das am Inneren ist,
+3	4	und die beiden Nieren und das Fett, das an ihnen ist, das an den Lenden ist, und den Lappen an der Leber — samt den Nieren soll er ihn ablösen.
+3	5	Und die Söhne Aarons sollen es auf dem Altar in Rauch aufgehen lassen, auf dem Brandopfer, das auf dem Holz ist, das auf dem Feuer ist: ein Feueropfer, ein Duft des Wohlgeruchs für den HERRN.
+3	6	Und wenn seine Opfergabe als Schlachtopfer der Friedensopfer für den HERRN von den Schafen ist, ein männliches oder ein weibliches Tier, so soll er ein untadeliges darbringen.
+3	7	Wenn er ein Lamm als seine Opfergabe darbringt, so soll er es vor dem Angesicht des HERRN darbringen.
+3	8	Und er soll seine Hand auf das Haupt seiner Opfergabe stützen und sie schlachten vor dem Zelt der Begegnung, und die Söhne Aarons sollen ihr Blut ringsum an den Altar sprengen.
+3	9	Und er soll vom Schlachtopfer der Friedensopfer ein Feueropfer für den HERRN darbringen: sein Fett, den Fettschwanz ganz — neben dem Rückgrat soll er ihn ablösen —, und das Fett, das das Innere bedeckt, und alles Fett, das am Inneren ist,
+3	10	und die beiden Nieren und das Fett, das an ihnen ist, das an den Lenden ist, und den Lappen an der Leber — samt den Nieren soll er ihn ablösen.
+3	11	Und der Priester soll es auf dem Altar in Rauch aufgehen lassen: Brot, ein Feueropfer für den HERRN.
+3	12	Und wenn seine Opfergabe eine Ziege ist, so soll er sie vor dem Angesicht des HERRN darbringen.
+3	13	Und er soll seine Hand auf ihr Haupt stützen und sie schlachten vor dem Zelt der Begegnung, und die Söhne Aarons sollen ihr Blut ringsum an den Altar sprengen.
+3	14	Und er soll davon seine Opfergabe darbringen, ein Feueropfer für den HERRN: das Fett, das das Innere bedeckt, und alles Fett, das am Inneren ist,
+3	15	und die beiden Nieren und das Fett, das an ihnen ist, das an den Lenden ist, und den Lappen an der Leber — samt den Nieren soll er ihn ablösen.
+3	16	Und der Priester soll sie auf dem Altar in Rauch aufgehen lassen: Brot, ein Feueropfer zum Duft des Wohlgeruchs. Alles Fett gehört dem HERRN.
+3	17	Eine ewige Satzung ist das für eure Geschlechter, wo ihr auch wohnt: Kein Fett und kein Blut sollt ihr essen.›»
+4	1	Und der HERR redete zu Mose:
+4	2	«Rede zu den Kindern Israels: ‹Wenn eine Seele aus Versehen sündigt an irgendeinem von allen Geboten des HERRN, die nicht getan werden sollen, und eines von ihnen tut:
+4	3	Wenn der gesalbte Priester sündigt und so das Volk in Verschuldung bringt, dann soll er für seine Sünde, die er gesündigt hat, dem HERRN einen untadeligen Jungstier, ein junges Rind, als Sündopfer darbringen.
+4	4	Und er soll den Jungstier an den Eingang des Zeltes der Begegnung bringen, vor das Angesicht des HERRN, und seine Hand auf das Haupt des Jungstiers stützen und den Jungstier schlachten vor dem Angesicht des HERRN.
+4	5	Und der gesalbte Priester soll vom Blut des Jungstiers nehmen und es in das Zelt der Begegnung bringen.
+4	6	Und der Priester soll seinen Finger in das Blut tauchen und vom Blut siebenmal sprengen vor dem Angesicht des HERRN, vor dem heiligen Vorhang.
+4	7	Und der Priester soll vom Blut an die Hörner des Altars für das Räucherwerk aus Spezereien geben, der vor dem Angesicht des HERRN im Zelt der Begegnung ist; und alles Blut des Jungstiers soll er an den Grund des Brandopferaltars ausgiessen, der am Eingang des Zeltes der Begegnung ist.
+4	8	Und alles Fett des Jungstiers des Sündopfers soll er von ihm erheben: das Fett, das das Innere bedeckt, und alles Fett, das am Inneren ist,
+4	9	und die beiden Nieren und das Fett, das an ihnen ist, das an den Lenden ist, und den Lappen an der Leber — samt den Nieren soll er ihn ablösen —,
+4	10	wie es vom Ochsen des Schlachtopfers der Friedensopfer erhoben wird; und der Priester soll sie auf dem Brandopferaltar in Rauch aufgehen lassen.
+4	11	Die Haut des Jungstiers aber und all sein Fleisch samt seinem Haupt und seinen Unterschenkeln, sein Inneres und seinen Dung,
+4	12	den ganzen Jungstier soll er hinausbringen, ausserhalb des Lagers, an einen reinen Ort, dorthin, wo man die Fettasche ausgiesst, und ihn auf Holz im Feuer verbrennen; dort, wo man die Fettasche ausgiesst, soll er verbrannt werden.
+4	13	Und wenn die ganze Gemeinschaft Israels abirrt und es den Augen der Versammlung entgangen ist und sie eines von allen Geboten des HERRN, die nicht getan werden sollen, tun und sich verschulden,
+4	14	und die Sünde bekannt wird, mit der sie gesündigt haben, so soll die Versammlung einen Jungstier, ein junges Rind, als Sündopfer darbringen und ihn vor das Zelt der Begegnung bringen.
+4	15	Und die Ältesten der Gemeinschaft sollen ihre Hände auf das Haupt des Jungstiers stützen vor dem Angesicht des HERRN, und man soll den Jungstier schlachten vor dem Angesicht des HERRN.
+4	16	Und der gesalbte Priester soll vom Blut des Jungstiers in das Zelt der Begegnung bringen.
+4	17	Und der Priester soll seinen Finger in das Blut tauchen und siebenmal sprengen vor dem Angesicht des HERRN, vor dem Vorhang.
+4	18	Und vom Blut soll er an die Hörner des Altars geben, der vor dem Angesicht des HERRN im Zelt der Begegnung ist; und alles Blut soll er an den Grund des Brandopferaltars ausgiessen, der am Eingang des Zeltes der Begegnung ist.
+4	19	Und all sein Fett soll er von ihm erheben und auf dem Altar in Rauch aufgehen lassen.
+4	20	Und er soll mit dem Jungstier tun, wie er mit dem Jungstier des Sündopfers getan hat; so soll er mit ihm tun. Und der Priester soll für sie Sühne schaffen, und es wird ihnen vergeben werden.
+4	21	Und er soll den Jungstier hinausbringen, ausserhalb des Lagers, und ihn verbrennen, wie er den ersten Jungstier verbrannt hat. Das Sündopfer der Versammlung ist es.
+4	22	Wenn ein Fürst sündigt und eines von allen Geboten des HERRN, seines Gottes, die nicht getan werden sollen, aus Versehen tut und sich verschuldet,
+4	23	oder wird ihm seine Sünde kundgetan, mit der er gesündigt hat, so soll er als seine Opfergabe einen Ziegenbock bringen, ein männliches Tier, ein untadeliges.
+4	24	Und er soll seine Hand auf das Haupt des Ziegenbocks stützen und ihn an dem Ort schlachten, an dem man das Brandopfer schlachtet, vor dem Angesicht des HERRN. Ein Sündopfer ist es.
+4	25	Und der Priester soll vom Blut des Sündopfers mit seinem Finger nehmen und es an die Hörner des Brandopferaltars geben; und sein Blut soll er an den Grund des Brandopferaltars ausgiessen.
+4	26	Und all sein Fett soll er auf dem Altar in Rauch aufgehen lassen wie das Fett des Schlachtopfers der Friedensopfer. Und der Priester soll für ihn Sühne schaffen wegen seiner Sünde, und es wird ihm vergeben werden.
+4	27	Und wenn eine einzelne Seele aus dem Volk des Landes aus Versehen sündigt, indem sie eines von den Geboten des HERRN, die nicht getan werden sollen, tut und sich verschuldet,
+4	28	oder wird ihm seine Sünde kundgetan, die er gesündigt hat, so soll er als seine Opfergabe eine Ziege bringen, eine untadelige, ein weibliches Tier, für seine Sünde, die er gesündigt hat.
+4	29	Und er soll seine Hand auf das Haupt des Sündopfers stützen und das Sündopfer am Ort des Brandopfers schlachten.
+4	30	Und der Priester soll von ihrem Blut mit seinem Finger nehmen und es an die Hörner des Brandopferaltars geben; und all ihr Blut soll er an den Grund des Altars ausgiessen.
+4	31	Und all ihr Fett soll er ablösen, wie das Fett vom Schlachtopfer der Friedensopfer abgelöst worden ist, und der Priester soll es auf dem Altar in Rauch aufgehen lassen, zum Duft des Wohlgeruchs für den HERRN. Und der Priester soll für ihn Sühne schaffen, und es wird ihm vergeben werden.
+4	32	Und wenn er ein Lamm als seine Opfergabe zum Sündopfer bringt, so soll er ein weibliches Tier bringen, ein untadeliges.
+4	33	Und er soll seine Hand auf das Haupt des Sündopfers stützen und es als Sündopfer schlachten an dem Ort, an dem man das Brandopfer schlachtet.
+4	34	Und der Priester soll vom Blut des Sündopfers mit seinem Finger nehmen und es an die Hörner des Brandopferaltars geben; und all sein Blut soll er an den Grund des Altars ausgiessen.
+4	35	Und all sein Fett soll er ablösen, wie das Fett des Lammes vom Schlachtopfer der Friedensopfer abgelöst wird, und der Priester soll es auf dem Altar in Rauch aufgehen lassen, auf den Feueropfern des HERRN. Und der Priester soll für ihn Sühne schaffen für seine Sünde, die er gesündigt hat, und es wird ihm vergeben werden.›»
+5	1	«‹Und wenn eine Seele sündigt, indem sie die Stimme des Fluches hört, und er ist Zeuge, ob er es gesehen oder davon gewusst hat: Wenn er es nicht sagt, so trägt er seine Schuld.
+5	2	Oder wenn eine Seele irgendetwas Unreines berührt, sei es das Aas eines unreinen wilden Tieres oder das Aas eines unreinen Viehs oder das Aas von unreinem Gewimmel, und es ist ihm entgangen, und er ist unrein und hat sich verschuldet;
+5	3	oder wenn er die Unreinheit eines Menschen berührt, irgendeine seiner Unreinheiten, durch die er unrein wird, und es ist ihm entgangen, und er erkennt es und hat sich verschuldet;
+5	4	oder wenn eine Seele schwört, indem sie mit den Lippen unüberlegt redet, Böses zu tun oder Gutes zu tun, in allem, was ein Mensch mit einem Eid unüberlegt reden mag, und es ist ihm entgangen, und er erkennt es und hat sich in einem von diesen verschuldet:
+5	5	Und es wird geschehen, wenn er sich in einem von diesen verschuldet, so soll er bekennen, worin er gesündigt hat.
+5	6	Und er soll dem HERRN seine Verschuldung bringen für seine Sünde, die er gesündigt hat: ein weibliches Tier von den Schafen, ein Lamm oder eine Ziege, als Sündopfer; und der Priester soll für ihn Sühne schaffen wegen seiner Sünde.
+5	7	Und wenn seine Hand nicht an das gelangt, was für ein Lamm genug ist, so soll er dem HERRN seine Verschuldung bringen für das, worin er gesündigt hat: zwei Turteltauben oder zwei junge Tauben, eine als Sündopfer und eine als Brandopfer.
+5	8	Und er soll sie zum Priester bringen, und der soll die für das Sündopfer zuerst darbringen und ihr das Haupt am Nacken abkneifen, ohne es loszutrennen.
+5	9	Und er soll mit etwas vom Blut des Sündopfers die Wand des Altars besprengen; was aber vom Blut übrig bleibt, soll an den Grund des Altars ausgedrückt werden. Ein Sündopfer ist es.
+5	10	Und die zweite soll er als Brandopfer zubereiten nach dem Recht. Und der Priester soll für ihn Sühne schaffen wegen seiner Sünde, die er gesündigt hat, und es wird ihm vergeben werden.
+5	11	Und wenn seine Hand zwei Turteltauben oder zwei junge Tauben nicht einholt, so soll er seine Opfergabe bringen für das, worin er gesündigt hat: den zehnten Teil des Efa Feinmehl als Sündopfer. Er soll ihr kein Öl zusetzen und keinen Weihrauch darauf legen, denn ein Sündopfer ist es.
+5	12	Und er soll sie zum Priester bringen, und der Priester soll davon seine volle Handvoll nehmen, ihren Gedenkteil, und auf dem Altar in Rauch aufgehen lassen, auf den Feueropfern des HERRN. Ein Sündopfer ist es.
+5	13	Und der Priester soll für ihn Sühne schaffen für seine Sünde, die er in einem von diesen gesündigt hat, und es wird ihm vergeben werden. Und es soll dem Priester gehören wie das Speiseopfer.›»
+5	14	Und der HERR redete zu Mose:
+5	15	«Wenn eine Seele Untreue begeht und aus Versehen sündigt an den heiligen Dingen des HERRN, so soll er dem HERRN seine Verschuldung bringen: einen untadeligen Widder von den Schafen, nach deiner Schätzung an Silber in Schekeln, nach dem Schekel des Heiligtums, als Schuldopfer.
+5	16	Und was er am Heiligen gesündigt hat, soll er erstatten, und den Fünften davon soll er hinzufügen und es dem Priester geben; und der Priester soll für ihn Sühne schaffen mit dem Widder des Schuldopfers, und es wird ihm vergeben werden.
+5	17	Und wenn eine Seele sündigt und eines von allen Geboten des HERRN tut, die nicht getan werden sollen, und er hat es nicht erkannt, so hat er sich verschuldet und trägt seine Schuld.
+5	18	Und er soll einen untadeligen Widder von den Schafen nach deiner Schätzung als Schuldopfer zum Priester bringen; und der Priester soll für ihn Sühne schaffen für sein Versehen, in dem er geirrt hat, ohne es zu erkennen, und es wird ihm vergeben werden.
+5	19	Ein Schuldopfer ist es; verschuldet hat er sich am HERRN.»
+5	20	Und der HERR redete zu Mose:
+5	21	«Wenn eine Seele sündigt und Untreue am HERRN begeht, und er leugnet gegenüber seinem Mitmenschen etwas Anvertrautes oder etwas in die Hand Gelegtes oder einen Raub, oder er hat seinen Mitmenschen erpresst,
+5	22	oder er hat Verlorenes gefunden und leugnet es und schwört auf Falschheit, in irgendeinem von allem, was ein Mensch tun mag, sodass er damit sündigt:
+5	23	Und es wird geschehen, wenn er gesündigt und sich verschuldet hat, so soll er zurückgeben den Raub, den er geraubt hat, oder das Erpresste, das er erpresst hat, oder das Anvertraute, das ihm anvertraut worden ist, oder das Verlorene, das er gefunden hat,
+5	24	oder irgendetwas, worüber er zur Falschheit geschworen hat: Er soll es in der Hauptsumme erstatten und den Fünften davon hinzufügen; dem, dem es gehört, soll er es geben am Tag seiner Verschuldung.
+5	25	Und seine Verschuldung soll er dem HERRN bringen, einen untadeligen Widder von den Schafen nach deiner Schätzung, als Schuldopfer zum Priester.
+5	26	Und der Priester soll für ihn Sühne schaffen vor dem Angesicht des HERRN, und es wird ihm vergeben werden für irgendeines von allem, was er tun mag, sodass er damit in Verschuldung gerät.»
+6	1	Und der HERR redete zu Mose:
+6	2	«Gebiete Aaron und seinen Söhnen: ‹Dies ist die Weisung des Brandopfers: Das Brandopfer liegt auf dem Herd auf dem Altar die ganze Nacht bis zum Morgen, und das Feuer des Altars soll darauf brennen.
+6	3	Und der Priester soll seinen leinenen Überwurf anziehen, und leinene Beinkleider soll er über sein Fleisch anziehen; und er soll die Fettasche erheben, zu der das Feuer das Brandopfer auf dem Altar gefressen hat, und sie neben den Altar legen.
+6	4	Und er soll seine Kleider ausziehen und andere Kleider anziehen und die Fettasche hinausbringen, ausserhalb des Lagers, an einen reinen Ort.
+6	5	Und das Feuer auf dem Altar soll darauf brennen, es soll nicht erlöschen; und der Priester soll Morgen für Morgen Holz darauf anzünden und das Brandopfer darauf zurichten und darauf das Fett der Friedensopfer in Rauch aufgehen lassen.
+6	6	Ein Feuer soll beständig auf dem Altar brennen; es soll nicht erlöschen.
+6	7	Und dies ist die Weisung des Speiseopfers: Die Söhne Aarons sollen es darbringen vor das Angesicht des HERRN, vor den Altar.
+6	8	Und er soll davon seine Handvoll erheben, vom Feinmehl des Speiseopfers und von seinem Öl, und allen Weihrauch, der auf dem Speiseopfer ist, und er soll auf dem Altar in Rauch aufgehen lassen, einen Duft des Wohlgeruchs, seinen Gedenkteil für den HERRN.
+6	9	Und was davon übrig bleibt, sollen Aaron und seine Söhne essen; ungesäuert soll es gegessen werden, an einem heiligen Ort; im Hof des Zeltes der Begegnung sollen sie es essen.
+6	10	Es soll nicht als Gesäuertes gebacken werden. Als ihren Anteil habe ich es gegeben von meinen Feueropfern; hochheilig ist es, wie das Sündopfer und wie das Schuldopfer.
+6	11	Alles Männliche unter den Söhnen Aarons soll es essen, als ewige Satzung für eure Geschlechter, von den Feueropfern des HERRN. Alles, was sie berührt, wird heilig.›»
+6	12	Und der HERR redete zu Mose:
+6	13	«Dies ist die Opfergabe Aarons und seiner Söhne, die sie dem HERRN darbringen sollen am Tag, an dem er gesalbt wird: den zehnten Teil des Efa Feinmehl als beständiges Speiseopfer, die Hälfte davon am Morgen und die Hälfte davon am Abend.
+6	14	Auf der Backplatte soll es mit Öl zubereitet werden; eingerührt sollst du es bringen; als Gebäck, als Speiseopfer von Brocken sollst du es darbringen, einen Duft des Wohlgeruchs für den HERRN.
+6	15	Und der gesalbte Priester, der von seinen Söhnen an seine Stelle tritt, soll es zubereiten; als ewige Satzung soll es für den HERRN ganz in Rauch aufgehen.
+6	16	Und jedes Speiseopfer eines Priesters soll ein Ganzopfer sein; es soll nicht gegessen werden.»
+6	17	Und der HERR redete zu Mose:
+6	18	«Rede zu Aaron und zu seinen Söhnen: ‹Dies ist die Weisung des Sündopfers: An dem Ort, an dem das Brandopfer geschlachtet wird, soll das Sündopfer geschlachtet werden, vor dem Angesicht des HERRN; hochheilig ist es.
+6	19	Der Priester, der mit ihm entsündigt, soll es essen; an einem heiligen Ort soll es gegessen werden, im Hof des Zeltes der Begegnung.
+6	20	Alles, was sein Fleisch berührt, wird heilig. Und wenn von seinem Blut etwas auf ein Kleid spritzt, so sollst du das, worauf es gespritzt ist, an einem heiligen Ort waschen.
+6	21	Und ein tönernes Gefäss, in dem es gekocht wird, soll zerbrochen werden; ist es aber in einem Gefäss aus Erz gekocht worden, so soll dieses gescheuert und mit Wasser gespült werden.
+6	22	Alles Männliche unter den Priestern soll es essen; hochheilig ist es.
+6	23	Aber kein Sündopfer, von dessen Blut etwas in das Zelt der Begegnung gebracht wird, um im Heiligtum Sühne zu schaffen, soll gegessen werden; im Feuer soll es verbrannt werden.›»
+7	1	«‹Und dies ist die Weisung des Schuldopfers: Hochheilig ist es.
+7	2	An dem Ort, an dem man das Brandopfer schlachtet, soll man das Schuldopfer schlachten, und sein Blut soll er ringsum an den Altar sprengen.
+7	3	Und all sein Fett soll er davon darbringen: den Fettschwanz und das Fett, das das Innere bedeckt,
+7	4	und die beiden Nieren und das Fett, das an ihnen ist, das an den Lenden ist, und den Lappen an der Leber — samt den Nieren soll er ihn ablösen.
+7	5	Und der Priester soll sie auf dem Altar in Rauch aufgehen lassen, ein Feueropfer für den HERRN. Ein Schuldopfer ist es.
+7	6	Alles Männliche unter den Priestern soll es essen; an einem heiligen Ort soll es gegessen werden. Hochheilig ist es.
+7	7	Wie das Sündopfer, so das Schuldopfer: Eine Weisung soll für beide gelten. Der Priester, der damit Sühne schafft, dem soll es gehören.
+7	8	Und der Priester, der jemandes Brandopfer darbringt: Die Haut des Brandopfers, das er dargebracht hat, soll ihm, dem Priester, gehören.
+7	9	Und jedes Speiseopfer, das im Ofen gebacken wird, und alles, was im Kochtopf und auf der Backplatte zubereitet wird, soll dem Priester gehören, der es darbringt.
+7	10	Und jedes Speiseopfer, mit Öl vermengt oder trocken, soll allen Söhnen Aarons gehören, einem wie dem andern.
+7	11	Und dies ist die Weisung des Schlachtopfers der Friedensopfer, das einer dem HERRN darbringt:
+7	12	Wenn er es als Dankopfer darbringt, so soll er zum Schlachtopfer des Dankes ungesäuerte Ringbrote darbringen, mit Öl vermengt, und ungesäuerte Fladen, mit Öl gesalbt, und eingerührtes Feinmehl, Ringbrote, mit Öl vermengt.
+7	13	Mit Ringbroten von gesäuertem Brot soll er seine Opfergabe darbringen, zum Schlachtopfer des Dankes seiner Friedensopfer.
+7	14	Und er soll davon eines von jeder Opfergabe als Abgabe für den HERRN darbringen; dem Priester, der das Blut der Friedensopfer sprengt, ihm soll es gehören.
+7	15	Und das Fleisch des Schlachtopfers des Dankes seiner Friedensopfer soll am Tag seiner Opfergabe gegessen werden; er soll nichts davon zurücklegen bis zum Morgen.
+7	16	Ist aber das Schlachtopfer seiner Opfergabe ein Gelübde oder eine freiwillige Gabe, so soll es am Tag, an dem er sein Schlachtopfer darbringt, gegessen werden, und am nächsten Tag darf auch gegessen werden, was davon übrig bleibt.
+7	17	Was aber vom Fleisch des Schlachtopfers übrig bleibt, soll am dritten Tag im Feuer verbrannt werden.
+7	18	Und wenn vom Fleisch des Schlachtopfers seiner Friedensopfer am dritten Tag doch gegessen wird, so findet es kein Wohlgefallen; dem, der es darbringt, wird es nicht angerechnet werden. Unflat wird es sein, und die Seele, die davon isst, wird ihre Schuld tragen.
+7	19	Und das Fleisch, das irgendetwas Unreines berührt, soll nicht gegessen werden; im Feuer soll es verbrannt werden. Und das Fleisch — jeder, der rein ist, darf Fleisch essen.
+7	20	Die Seele aber, die Fleisch vom Schlachtopfer der Friedensopfer isst, das dem HERRN gehört, während seine Unreinheit auf ihm ist — jene Seele soll ausgerottet werden aus ihrem Volk.
+7	21	Und wenn eine Seele irgendetwas Unreines berührt, sei es die Unreinheit eines Menschen oder unreines Vieh oder irgendein unreines Scheusal, und vom Fleisch des Schlachtopfers der Friedensopfer isst, das dem HERRN gehört — jene Seele soll ausgerottet werden aus ihrem Volk.›»
+7	22	Und der HERR redete zu Mose:
+7	23	«Rede zu den Kindern Israels: ‹Kein Fett von Ochse, Lamm und Ziege sollt ihr essen.
+7	24	Und das Fett von Aas und das Fett von Gerissenem darf zu jeder Arbeit verwendet werden; aber essen sollt ihr es keinesfalls.
+7	25	Denn jeder, der Fett isst vom Vieh, von dem man dem HERRN ein Feueropfer darbringt — die Seele, die es isst, soll ausgerottet werden aus ihrem Volk.
+7	26	Und kein Blut sollt ihr essen, wo ihr auch wohnt, weder von den Vögeln noch vom Vieh.
+7	27	Jede Seele, die irgendwelches Blut isst — jene Seele soll ausgerottet werden aus ihrem Volk.›»
+7	28	Und der HERR redete zu Mose:
+7	29	«Rede zu den Kindern Israels: ‹Wer das Schlachtopfer seiner Friedensopfer dem HERRN darbringt, soll seine Opfergabe dem HERRN bringen von dem Schlachtopfer seiner Friedensopfer.
+7	30	Seine Hände sollen die Feueropfer des HERRN bringen: Das Fett auf dem Bruststück soll er bringen, das Bruststück, um es als Schwingopfer zu schwingen vor dem Angesicht des HERRN.
+7	31	Und der Priester soll das Fett auf dem Altar in Rauch aufgehen lassen; das Bruststück aber soll Aaron und seinen Söhnen gehören.
+7	32	Und das rechte Bein sollt ihr dem Priester als Abgabe geben von den Schlachtopfern eurer Friedensopfer.
+7	33	Wer von den Söhnen Aarons das Blut der Friedensopfer und das Fett darbringt, dem soll das rechte Bein als Zuteilung gehören.
+7	34	Denn das Bruststück des Schwingopfers und das Bein der Abgabe habe ich von den Kindern Israels genommen, von den Schlachtopfern ihrer Friedensopfer, und habe sie Aaron, dem Priester, und seinen Söhnen gegeben als ewige Satzung, die den Kindern Israels obliegt.›»
+7	35	Dies ist der Salbungsanteil Aarons und der Salbungsanteil seiner Söhne von den Feueropfern des HERRN, am Tag, an dem er sie nahe kommen liess, um dem HERRN Priester zu sein,
+7	36	den der HERR geboten hat, ihnen von den Kindern Israels zu geben, am Tag, an dem er sie salbte: eine ewige Satzung für ihre Geschlechter.
+7	37	Dies ist die Weisung für das Brandopfer, für das Speiseopfer und für das Sündopfer und für das Schuldopfer und für die Handfüllung und für das Schlachtopfer der Friedensopfer,
+7	38	die der HERR Mose geboten hat auf dem Berg Sinai, am Tag, an dem er den Kindern Israels gebot, ihre Opfergaben dem HERRN darzubringen, in der Wüste Sinai.
+8	1	Und der HERR redete zu Mose:
+8	2	«Nimm Aaron und seine Söhne mit ihm und die Kleider und das Öl der Salbung und den Jungstier des Sündopfers und die beiden Widder und den Korb der ungesäuerten Brote,
+8	3	und die ganze Gemeinschaft versammle am Eingang des Zeltes der Begegnung.»
+8	4	Und Mose tat, wie der HERR ihm geboten hatte, und die Gemeinschaft versammelte sich am Eingang des Zeltes der Begegnung.
+8	5	Und Mose sagte zur Gemeinschaft: «Das ist das Wort, das der HERR zu tun geboten hat.»
+8	6	Und Mose liess Aaron und seine Söhne nahe kommen und wusch sie mit Wasser.
+8	7	Und er streifte ihm das Untergewand über und gürtete ihn mit dem Gürtel und zog ihm das Oberkleid an und streifte ihm das Efod über; und er gürtete ihn mit der Schärpe des Efods und legte es ihm damit um.
+8	8	Und er legte ihm die Brusttasche um und legte in die Brusttasche die Urim und die Tummim.
+8	9	Und er legte den Turban auf sein Haupt, und an den Turban, nach seiner Vorderseite hin, setzte er die Blume aus Gold, das heilige Diadem, wie der HERR Mose geboten hatte.
+8	10	Und Mose nahm das Öl der Salbung und salbte die Wohnung und alles, was in ihr war, und heiligte sie.
+8	11	Und er besprengte damit siebenmal den Altar und salbte den Altar und alle seine Geräte und das Wasserbecken und sein Gestell, um sie zu heiligen.
+8	12	Und er goss vom Öl der Salbung auf das Haupt Aarons und salbte ihn, um ihn zu heiligen.
+8	13	Und Mose liess die Söhne Aarons nahe kommen und zog ihnen Untergewänder an und gürtete sie mit dem Gürtel und wand ihnen Hauben um, wie der HERR Mose geboten hatte.
+8	14	Und er brachte den Jungstier des Sündopfers heran, und Aaron und seine Söhne stützten ihre Hände auf das Haupt des Jungstiers des Sündopfers.
+8	15	Und er schlachtete ihn, und Mose nahm das Blut und gab es mit seinem Finger an die Hörner des Altars ringsum und entsündigte den Altar; und das Blut goss er an den Grund des Altars und heiligte ihn, um für ihn Sühne zu schaffen.
+8	16	Und er nahm alles Fett, das am Inneren war, und den Lappen der Leber und die beiden Nieren und ihr Fett, und Mose liess es auf dem Altar in Rauch aufgehen.
+8	17	Den Jungstier aber und seine Haut und sein Fleisch und seinen Dung verbrannte er im Feuer, ausserhalb des Lagers, wie der HERR Mose geboten hatte.
+8	18	Und er brachte den Widder des Brandopfers dar, und Aaron und seine Söhne stützten ihre Hände auf das Haupt des Widders.
+8	19	Und er schlachtete ihn, und Mose sprengte das Blut ringsum an den Altar.
+8	20	Und den Widder zerlegte er in seine Stücke, und Mose liess das Haupt und die Stücke und den Talg in Rauch aufgehen.
+8	21	Das Innere aber und die Unterschenkel wusch er mit Wasser, und Mose liess den ganzen Widder auf dem Altar in Rauch aufgehen. Ein Brandopfer ist es zum Duft des Wohlgeruchs, ein Feueropfer ist es für den HERRN, wie der HERR Mose geboten hatte.
+8	22	Und er brachte den zweiten Widder dar, den Widder der Handfüllung, und Aaron und seine Söhne stützten ihre Hände auf das Haupt des Widders.
+8	23	Und er schlachtete ihn, und Mose nahm von seinem Blut und gab es an das rechte Ohrläppchen Aarons und an den Daumen seiner rechten Hand und an die grosse Zehe seines rechten Fusses.
+8	24	Und er liess die Söhne Aarons nahe kommen, und Mose gab von dem Blut an ihr rechtes Ohrläppchen und an den Daumen ihrer rechten Hand und an die grosse Zehe ihres rechten Fusses; und Mose sprengte das Blut ringsum an den Altar.
+8	25	Und er nahm das Fett und den Fettschwanz und alles Fett, das am Inneren war, und den Lappen der Leber und die beiden Nieren und ihr Fett und das rechte Bein.
+8	26	Und aus dem Korb der ungesäuerten Brote, der vor dem Angesicht des HERRN war, nahm er ein ungesäuertes Ringbrot und ein Ringbrot mit Öl und einen Fladen, und er legte sie auf das Fett und auf das rechte Bein.
+8	27	Und er legte das alles auf die Hände Aarons und auf die Hände seiner Söhne und schwang es als Schwingopfer vor dem Angesicht des HERRN.
+8	28	Und Mose nahm es von ihren Händen und liess es auf dem Altar in Rauch aufgehen, auf dem Brandopfer. Handfüllung sind sie zum Duft des Wohlgeruchs, ein Feueropfer ist es für den HERRN.
+8	29	Und Mose nahm das Bruststück und schwang es als Schwingopfer vor dem Angesicht des HERRN; vom Widder der Handfüllung wurde es Mose zur Zuteilung, wie der HERR Mose geboten hatte.
+8	30	Und Mose nahm vom Öl der Salbung und von dem Blut, das auf dem Altar war, und besprengte damit Aaron, seine Kleider und seine Söhne und die Kleider seiner Söhne mit ihm; und er heiligte Aaron, seine Kleider und seine Söhne und die Kleider seiner Söhne mit ihm.
+8	31	Und Mose sagte zu Aaron und zu seinen Söhnen: «Kocht das Fleisch am Eingang des Zeltes der Begegnung, und dort sollt ihr es essen und das Brot, das im Korb der Handfüllung ist, wie ich geboten habe: ‹Aaron und seine Söhne sollen es essen.›
+8	32	Das Übriggebliebene aber vom Fleisch und vom Brot sollt ihr im Feuer verbrennen.
+8	33	Und vom Eingang des Zeltes der Begegnung sollt ihr sieben Tage nicht hinausgehen, bis zu dem Tag, an dem die Tage eurer Handfüllung voll werden; denn sieben Tage wird er eure Hand füllen.
+8	34	Wie man an diesem Tag getan hat, so hat der HERR zu tun geboten, um für euch Sühne zu schaffen.
+8	35	Und am Eingang des Zeltes der Begegnung sollt ihr bleiben, Tag und Nacht, sieben Tage, und bewahren, was der HERR zu bewahren gibt, damit ihr nicht sterbt; denn so ist es mir geboten worden.»
+8	36	Und Aaron und seine Söhne taten alle Worte, die der HERR durch die Hand des Mose geboten hatte.
+9	1	Und es geschah am achten Tag, da rief Mose Aaron und seine Söhne und die Ältesten Israels.
+9	2	Und er sagte zu Aaron: «Nimm dir ein Kalb, ein junges Rind, als Sündopfer und einen Widder als Brandopfer, beide untadelig, und bring sie dar vor dem Angesicht des HERRN.
+9	3	Und zu den Kindern Israels sollst du reden: ‹Nehmt einen Ziegenbock als Sündopfer und ein Kalb und ein Lamm, beide ein Jahr alt und untadelig, als Brandopfer,
+9	4	und einen Ochsen und einen Widder als Friedensopfer, um sie vor dem Angesicht des HERRN als Schlachtopfer darzubringen, und ein Speiseopfer, mit Öl vermengt; denn heute erscheint euch der HERR.›»
+9	5	Und sie holten, was Mose geboten hatte, vor das Zelt der Begegnung; und die ganze Gemeinschaft trat heran und stand vor dem Angesicht des HERRN.
+9	6	Und Mose sagte: «Das ist das Wort, das der HERR geboten hat; das sollt ihr tun, und die Herrlichkeit des HERRN wird euch erscheinen.»
+9	7	Und Mose sagte zu Aaron: «Tritt an den Altar heran und bereite dein Sündopfer und dein Brandopfer zu und schaffe Sühne für dich und für das Volk; und bereite die Opfergabe des Volkes zu und schaffe Sühne für sie, wie der HERR geboten hat.»
+9	8	Und Aaron trat an den Altar heran und schlachtete das Kalb des Sündopfers, das für ihn war.
+9	9	Und die Söhne Aarons brachten ihm das Blut dar, und er tauchte seinen Finger in das Blut und gab es an die Hörner des Altars; und das Blut goss er an den Grund des Altars.
+9	10	Und das Fett und die Nieren und den Lappen von der Leber vom Sündopfer liess er auf dem Altar in Rauch aufgehen, wie der HERR Mose geboten hatte.
+9	11	Das Fleisch aber und die Haut verbrannte er im Feuer ausserhalb des Lagers.
+9	12	Und er schlachtete das Brandopfer; und die Söhne Aarons reichten ihm das Blut zu, und er sprengte es ringsum an den Altar.
+9	13	Und das Brandopfer reichten sie ihm zu in seinen Stücken, dazu das Haupt, und er liess es auf dem Altar in Rauch aufgehen.
+9	14	Und er wusch das Innere und die Unterschenkel und liess sie auf dem Brandopfer auf dem Altar in Rauch aufgehen.
+9	15	Und er brachte die Opfergabe des Volkes dar. Und er nahm den Ziegenbock des Sündopfers, der für das Volk war, und schlachtete ihn und entsündigte mit ihm wie mit dem ersten.
+9	16	Und er brachte das Brandopfer dar und bereitete es zu nach dem Recht.
+9	17	Und er brachte das Speiseopfer dar und füllte seine hohle Hand davon und liess es auf dem Altar in Rauch aufgehen, ausser dem Brandopfer des Morgens.
+9	18	Und er schlachtete den Ochsen und den Widder, das Schlachtopfer der Friedensopfer, das für das Volk war; und die Söhne Aarons reichten ihm das Blut zu, und er sprengte es ringsum an den Altar,
+9	19	dazu das Fett vom Ochsen und vom Widder: den Fettschwanz und was das Innere bedeckt und die Nieren und den Lappen der Leber.
+9	20	Und sie legten das Fett auf die Bruststücke, und er liess das Fett auf dem Altar in Rauch aufgehen.
+9	21	Die Bruststücke aber und das rechte Bein schwang Aaron als Schwingopfer vor dem Angesicht des HERRN, wie Mose geboten hatte.
+9	22	Und Aaron hob seine Hände auf zum Volk und segnete sie; und er stieg herab, nachdem er das Sündopfer und das Brandopfer und die Friedensopfer zubereitet hatte.
+9	23	Und Mose und Aaron gingen in das Zelt der Begegnung hinein; und sie kamen heraus und segneten das Volk. Und die Herrlichkeit des HERRN erschien dem ganzen Volk.
+9	24	Und es kam Feuer heraus vom Angesicht des HERRN und frass auf dem Altar das Brandopfer und das Fett. Und das ganze Volk sah es, und sie jubelten und fielen auf ihr Angesicht.
+10	1	Und die Söhne Aarons, Nadab und Abihu, nahmen jeder seine Feuerpfanne und gaben Feuer hinein und legten Räucherwerk darauf, und sie brachten vor dem Angesicht des HERRN fremdes Feuer dar, das er ihnen nicht geboten hatte.
+10	2	Und es kam Feuer heraus vom Angesicht des HERRN und frass sie, und sie starben vor dem Angesicht des HERRN.
+10	3	Da sagte Mose zu Aaron: «Das ist es, was der HERR geredet hat: ‹An denen, die mir nahe sind, will ich mich als heilig erweisen, und vor dem Angesicht des ganzen Volkes will ich mich verherrlichen.›» Und Aaron schwieg.
+10	4	Und Mose rief Mischaël und Elzafan, die Söhne Usiëls, des Onkels Aarons, und sagte zu ihnen: «Tretet heran, tragt eure Brüder fort vom Angesicht des Heiligtums, hinaus, ausserhalb des Lagers.»
+10	5	Da traten sie heran und trugen sie in ihren Untergewändern hinaus, ausserhalb des Lagers, wie Mose geredet hatte.
+10	6	Und Mose sagte zu Aaron und zu Eleasar und zu Itamar, seinen Söhnen: «Eure Häupter sollt ihr nicht unbedeckt lassen, und eure Kleider sollt ihr nicht einreissen, damit ihr nicht sterbt und er nicht über die ganze Gemeinschaft in Wut gerät. Eure Brüder aber, das ganze Haus Israel, sollen den Brand beweinen, mit dem der HERR sie verbrannt hat.
+10	7	Und vom Eingang des Zeltes der Begegnung sollt ihr nicht hinausgehen, sonst sterbt ihr; denn das Öl der Salbung des HERRN ist auf euch.» Und sie taten nach dem Wort des Mose.
+10	8	Und der HERR redete zu Aaron:
+10	9	«Wein und berauschendes Getränk sollst du nicht trinken, du und deine Söhne mit dir, wenn ihr in das Zelt der Begegnung hineingeht, damit ihr nicht sterbt — eine ewige Satzung für eure Geschlechter —,
+10	10	und um das Heilige vom Gemeinen zu trennen und das Unreine vom Reinen,
+10	11	und um die Kinder Israels in allen Satzungen zu unterweisen, die der HERR durch Mose zu ihnen geredet hat.»
+10	12	Und Mose redete zu Aaron und zu Eleasar und zu Itamar, seinen Söhnen, die übrig geblieben waren: «Nehmt das Speiseopfer, das von den Feueropfern des HERRN übrig geblieben ist, und esst es ungesäuert neben dem Altar; denn hochheilig ist es.
+10	13	Und ihr sollt es an einem heiligen Ort essen; denn es ist deine Satzung und die Satzung deiner Söhne von den Feueropfern des HERRN; denn so ist es mir geboten worden.
+10	14	Und das Bruststück des Schwingopfers und das Bein der Abgabe sollt ihr an einem reinen Ort essen, du und deine Söhne und deine Töchter mit dir; denn als deine Satzung und die Satzung deiner Söhne sind sie gegeben von den Schlachtopfern der Friedensopfer der Kinder Israels.
+10	15	Das Bein der Abgabe und das Bruststück des Schwingopfers sollen sie zu den Feueropfern des Fettes bringen, um es als Schwingopfer zu schwingen vor dem Angesicht des HERRN; und es soll dir und deinen Söhnen mit dir gehören als ewige Satzung, wie der HERR geboten hat.»
+10	16	Und nach dem Ziegenbock des Sündopfers fragte Mose genau nach, und siehe, er war verbrannt. Da geriet er in Wut über Eleasar und über Itamar, die Söhne Aarons, die übrig geblieben waren, und sagte:
+10	17	«Warum habt ihr das Sündopfer nicht am heiligen Ort gegessen? Denn hochheilig ist es, und er hat es euch gegeben, um die Schuld der Gemeinschaft zu tragen, um für sie Sühne zu schaffen vor dem Angesicht des HERRN.
+10	18	Siehe, sein Blut ist nicht ins Heiligtum hineingebracht worden; essen hättet ihr es sollen im Heiligtum, wie ich geboten habe.»
+10	19	Da redete Aaron zu Mose: «Siehe, heute haben sie ihr Sündopfer und ihr Brandopfer vor dem Angesicht des HERRN dargebracht, und mir ist solches begegnet. Hätte ich heute Sündopfer gegessen, wäre es gut gewesen in den Augen des HERRN?»
+10	20	Und Mose hörte es, und es war gut in seinen Augen.
+11	1	Und der HERR redete zu Mose und zu Aaron und sagte zu ihnen:
+11	2	«Redet zu den Kindern Israels: ‹Dies sind die Tiere, die ihr essen dürft von allem Vieh, das auf der Erde ist:
+11	3	Alles, was die Hufe spaltet und dessen Hufe ganz auseinanderklaffen, was wiederkäut unter dem Vieh, das dürft ihr essen.
+11	4	Doch diese sollt ihr nicht essen von denen, die wiederkäuen, und von denen, die die Hufe spalten: das Kamel, denn es käut wieder, aber die Hufe spaltet es nicht — unrein ist es für euch;
+11	5	und den Klippdachs, denn er käut wieder, aber die Hufe spaltet er nicht — unrein ist er für euch;
+11	6	und den Hasen, denn er käut wieder, aber die Hufe spaltet er nicht — unrein ist er für euch;
+11	7	und das Schwein, denn es spaltet die Hufe, und seine Hufe klaffen ganz auseinander, aber es käut nicht wieder — unrein ist es für euch.
+11	8	Von ihrem Fleisch sollt ihr nicht essen, und ihr Aas sollt ihr nicht berühren; unrein sind sie für euch.
+11	9	Dies dürft ihr essen von allem, was im Wasser ist: Alles, was Flossen und Schuppen hat im Wasser, in den Meeren und in den Bächen, das dürft ihr essen.
+11	10	Aber alles, was keine Flossen und Schuppen hat in den Meeren und in den Bächen, von allem Gewimmel des Wassers und von allen lebendigen Wesen, die im Wasser sind — ein Scheusal sind sie für euch.
+11	11	Und ein Scheusal sollen sie für euch sein: Von ihrem Fleisch sollt ihr nicht essen, und ihr Aas sollt ihr für einen Gräuel halten.
+11	12	Alles, was keine Flossen und Schuppen hat im Wasser — ein Scheusal ist es für euch.
+11	13	Und diese sollt ihr unter den Vögeln für einen Gräuel halten, sie sollen nicht gegessen werden, ein Scheusal sind sie: den Adler und den Beinbrecher und den Mönchsgeier
+11	14	und den Milan und den Bussard nach seiner Art,
+11	15	jeden Raben nach seiner Art
+11	16	und den Strauss und die Ohreule und die Möwe und den Falken nach seiner Art
+11	17	und den Kauz und den Kormoran und den Uhu
+11	18	und die Schleiereule und den Pelikan und den Geier
+11	19	und den Storch, den Reiher nach seiner Art, und den Wiedehopf und die Fledermaus.
+11	20	Alles geflügelte Gewimmel, das auf allen vieren geht — ein Scheusal ist es für euch.
+11	21	Doch dies dürft ihr essen von allem geflügelten Gewimmel, das auf allen vieren geht: was Unterschenkel hat oberhalb seiner Füsse, um damit über die Erde zu schnellen.
+11	22	Diese dürft ihr von ihnen essen: die Wanderheuschrecke nach ihrer Art und das Heupferd nach seiner Art und den Grashüpfer nach seiner Art und die Heuschrecke nach ihrer Art.
+11	23	Und alles geflügelte Gewimmel, das vier Füsse hat — ein Scheusal ist es für euch.
+11	24	Und an diesen verunreinigt ihr euch: Jeder, der ihr Aas berührt, ist unrein bis zum Abend,
+11	25	und jeder, der etwas von ihrem Aas trägt, soll seine Kleider waschen und ist unrein bis zum Abend.
+11	26	Alles Vieh, das die Hufe spaltet, dessen Hufe aber nicht auseinanderklaffen, und das nicht wiederkäut — unrein sind sie für euch; jeder, der sie berührt, wird unrein.
+11	27	Und alles, was auf seinen Pfoten geht, unter allen Tieren, die auf allen vieren gehen — unrein sind sie für euch; jeder, der ihr Aas berührt, ist unrein bis zum Abend.
+11	28	Und wer ihr Aas trägt, soll seine Kleider waschen und ist unrein bis zum Abend; unrein sind sie für euch.
+11	29	Und dies ist für euch das Unreine unter dem Gewimmel, das auf der Erde wimmelt: das Wiesel und die Maus und die Dornschwanzechse nach ihrer Art
+11	30	und der Gecko und der Waran und die Eidechse und der Skink und das Chamäleon.
+11	31	Diese sind für euch die Unreinen unter allem Gewimmel; jeder, der sie berührt, wenn sie tot sind, ist unrein bis zum Abend.
+11	32	Und alles, worauf etwas von ihnen fällt, wenn sie tot sind, wird unrein: jedes Gerät aus Holz oder Kleid oder Leder oder Sacktuch, jedes Gerät, mit dem eine Arbeit getan wird; ins Wasser soll es gebracht werden, und es ist unrein bis zum Abend; dann wird es rein.
+11	33	Und jedes tönerne Gefäss, in das hinein etwas von ihnen fällt — alles, was darin ist, wird unrein, und es selbst sollt ihr zerbrechen.
+11	34	Von aller Speise, die gegessen wird: Worauf Wasser kommt, das wird unrein; und jedes Getränk, das getrunken wird, in irgendeinem Gefäss, wird unrein.
+11	35	Und alles, worauf etwas von ihrem Aas fällt, wird unrein; Ofen und Kochstelle sollen eingerissen werden; unrein sind sie, und unrein sollen sie für euch sein.
+11	36	Doch eine Quelle und eine Zisterne, ein Zusammenfluss von Wasser, soll rein sein; wer aber ihr Aas berührt, wird unrein.
+11	37	Und wenn etwas von ihrem Aas auf irgendeinen Saatsamen fällt, der gesät wird, so ist er rein.
+11	38	Wenn aber Wasser auf Samen gegeben wird und etwas von ihrem Aas auf ihn fällt, so ist er unrein für euch.
+11	39	Und wenn eines von dem Vieh stirbt, das euch zum Essen dient, so ist, wer sein Aas berührt, unrein bis zum Abend.
+11	40	Und wer von seinem Aas isst, soll seine Kleider waschen und ist unrein bis zum Abend; und wer sein Aas trägt, soll seine Kleider waschen und ist unrein bis zum Abend.
+11	41	Und alles Gewimmel, das auf der Erde wimmelt — ein Scheusal ist es; es soll nicht gegessen werden.
+11	42	Alles, was auf dem Bauch geht, und alles, was auf allen vieren geht, bis zu allem, was viele Füsse hat, unter allem Gewimmel, das auf der Erde wimmelt — die sollt ihr nicht essen, denn ein Scheusal sind sie.
+11	43	Macht eure Seelen nicht zum Gräuel durch all das Gewimmel, das wimmelt, und verunreinigt euch nicht an ihnen, sodass ihr durch sie unrein würdet.
+11	44	Denn ich bin der HERR, euer Gott; und ihr sollt euch heiligen und sollt heilig sein, weil ich heilig bin; und ihr sollt eure Seelen nicht verunreinigen durch all das Gewimmel, das sich auf der Erde regt.
+11	45	Denn ich bin der HERR, der euch aus dem Land Ägypten heraufgeholt hat, um euer Gott zu sein. Und ihr sollt heilig sein, weil ich heilig bin.
+11	46	Dies ist die Weisung für das Vieh und die Vögel und jedes lebendige Wesen, das sich im Wasser regt, und für jedes Wesen, das auf der Erde wimmelt,
+11	47	um das Unreine vom Reinen zu trennen und das Tier, das gegessen wird, von dem Tier, das nicht gegessen werden soll.›»
+12	1	Und der HERR redete zu Mose:
+12	2	«Rede zu den Kindern Israels: ‹Wenn eine Frau Samen ansetzt und ein Männliches gebiert, so ist sie sieben Tage unrein; unrein ist sie wie in den Tagen der Absonderung, wenn sie unwohl ist.
+12	3	Und am achten Tag soll das Fleisch seiner Vorhaut beschnitten werden.
+12	4	Und dreiunddreissig Tage soll sie im Blut der Reinigung bleiben; nichts Heiliges soll sie berühren, und ins Heiligtum soll sie nicht kommen, bis die Tage ihrer Reinigung voll sind.
+12	5	Und wenn sie ein Weibliches gebiert, so ist sie zwei Wochen unrein wie in ihrer Absonderung; und sechsundsechzig Tage soll sie im Blut der Reinigung bleiben.
+12	6	Und wenn die Tage ihrer Reinigung voll sind, für einen Sohn oder für eine Tochter, soll sie ein Lamm, ein Jahr alt, als Brandopfer bringen und eine junge Taube oder eine Turteltaube als Sündopfer, an den Eingang des Zeltes der Begegnung, zum Priester.
+12	7	Und er soll es darbringen vor das Angesicht des HERRN und für sie Sühne schaffen, und sie wird rein von der Quelle ihres Blutes. Dies ist die Weisung für die, die gebiert, ein Männliches oder ein Weibliches.
+12	8	Und wenn ihre Hand nicht findet, was für ein Lamm genug ist, so soll sie zwei Turteltauben oder zwei junge Tauben nehmen, eine als Brandopfer und eine als Sündopfer; und der Priester soll für sie Sühne schaffen, und sie wird rein.›»
+13	1	Und der HERR redete zu Mose und zu Aaron:
+13	2	«Wenn ein Mensch an der Haut seines Fleisches eine Schwellung hat oder einen Ausschlag oder eine Glanzstelle, und es an der Haut seines Fleisches zur Plage des Aussatzes wird, so soll er zu Aaron, dem Priester, gebracht werden oder zu einem von seinen Söhnen, den Priestern.
+13	3	Und der Priester soll die Plage an der Haut des Fleisches ansehen. Hat sich das Haar in der Plage in Weiss verwandelt und ist die Plage tiefer anzusehen als die Haut seines Fleisches, so ist es eine Plage des Aussatzes; und der Priester soll ihn ansehen und ihn unrein sprechen.
+13	4	Und wenn es eine weisse Glanzstelle ist an der Haut seines Fleisches und sie nicht tiefer anzusehen ist als die Haut und ihr Haar sich nicht in Weiss verwandelt hat, so soll der Priester die Plage sieben Tage einschliessen.
+13	5	Und der Priester soll ihn am siebten Tag ansehen, und siehe, die Plage ist für das Auge stehen geblieben, die Plage hat sich auf der Haut nicht ausgeweitet: so soll der Priester ihn zum zweiten Mal sieben Tage einschliessen.
+13	6	Und der Priester soll ihn am siebten Tag zum zweiten Mal ansehen, und siehe, die Plage ist trübe geworden, und die Plage hat sich auf der Haut nicht ausgeweitet: so soll der Priester ihn rein sprechen; ein Ausschlag ist es. Und er soll seine Kleider waschen, und er wird rein.
+13	7	Und wenn sich der Ausschlag auf der Haut doch ausweitet, nachdem er vor dem Priester erschienen ist zu seiner Reinigung, so soll er zum zweiten Mal vor dem Priester erscheinen.
+13	8	Und der Priester soll ihn ansehen, und siehe, der Ausschlag hat sich auf der Haut ausgeweitet: so soll der Priester ihn unrein sprechen; Aussatz ist es.
+13	9	Wenn eine Plage des Aussatzes an einem Menschen ist, so soll er zum Priester gebracht werden.
+13	10	Und der Priester soll ihn ansehen, und siehe, eine weisse Schwellung ist auf der Haut, und sie hat das Haar in Weiss verwandelt, und lebendiges Fleisch lebt auf in der Schwellung:
+13	11	ein lang bestehender Aussatz ist es an der Haut seines Fleisches, und der Priester soll ihn unrein sprechen; er soll ihn nicht einschliessen, denn unrein ist er.
+13	12	Und wenn der Aussatz auf der Haut voll aufblüht und der Aussatz die ganze Haut dessen bedeckt, der die Plage hat, von seinem Haupt bis zu seinen Füssen, soweit die Augen des Priesters sehen,
+13	13	so soll der Priester ihn ansehen, und siehe, der Aussatz hat sein ganzes Fleisch bedeckt: so soll er die Plage rein sprechen. Ganz hat sie sich in Weiss verwandelt; rein ist er.
+13	14	Und an dem Tag, an dem lebendiges Fleisch an ihm erscheint, wird er unrein.
+13	15	Und der Priester soll das lebendige Fleisch ansehen und ihn unrein sprechen; das lebendige Fleisch ist unrein, Aussatz ist es.
+13	16	Oder wenn das lebendige Fleisch sich wieder in Weiss verwandelt, so soll er zum Priester kommen.
+13	17	Und der Priester soll ihn ansehen, und siehe, die Plage hat sich in Weiss verwandelt: so soll der Priester die Plage rein sprechen; rein ist er.
+13	18	Und wenn jemand am Fleisch, an seiner Haut, ein Geschwür hatte und es heil geworden ist,
+13	19	und am Ort des Geschwürs eine weisse Schwellung oder eine weisse, rotgetönte Glanzstelle ist, so soll er vor dem Priester erscheinen.
+13	20	Und der Priester soll sie ansehen, und siehe, sie ist niedriger anzusehen als die Haut, und ihr Haar hat sich in Weiss verwandelt: so soll der Priester ihn unrein sprechen; eine Plage des Aussatzes ist es, im Geschwür ist sie aufgeblüht.
+13	21	Und wenn der Priester sie ansieht, und siehe, kein weisses Haar ist darin, und niedriger als die Haut ist sie nicht, und sie ist trübe, so soll der Priester ihn sieben Tage einschliessen.
+13	22	Und wenn sie sich auf der Haut doch ausweitet, so soll der Priester ihn unrein sprechen; eine Plage ist es.
+13	23	Und wenn die Glanzstelle stehen bleibt, wo sie ist, und sich nicht ausgeweitet hat, so ist es die Narbe des Geschwürs, und der Priester soll ihn rein sprechen.
+13	24	Oder wenn jemand am Fleisch, an seiner Haut, eine Verbrennung vom Feuer hat und das, was an der Verbrennung auflebt, eine weisse, rotgetönte oder eine weisse Glanzstelle wird,
+13	25	so soll der Priester sie ansehen, und siehe, das Haar in der Glanzstelle hat sich in Weiss verwandelt, und sie ist tiefer anzusehen als die Haut: Aussatz ist es, in der Verbrennung ist er aufgeblüht; und der Priester soll ihn unrein sprechen; eine Plage des Aussatzes ist es.
+13	26	Und wenn der Priester sie ansieht, und siehe, in der Glanzstelle ist kein weisses Haar, und niedriger als die Haut ist sie nicht, und sie ist trübe, so soll der Priester ihn sieben Tage einschliessen.
+13	27	Und der Priester soll ihn am siebten Tag ansehen: Wenn sie sich auf der Haut doch ausweitet, so soll der Priester ihn unrein sprechen; eine Plage des Aussatzes ist es.
+13	28	Und wenn die Glanzstelle stehen bleibt, wo sie ist, und sich auf der Haut nicht ausgeweitet hat und sie trübe ist, so ist es die Schwellung der Verbrennung, und der Priester soll ihn rein sprechen; denn die Narbe der Verbrennung ist es.
+13	29	Und wenn ein Mann oder eine Frau eine Plage hat, am Haupt oder am Bart,
+13	30	so soll der Priester die Plage ansehen, und siehe, sie ist tiefer anzusehen als die Haut, und gelbes, feines Haar ist darin: so soll der Priester ihn unrein sprechen; eine Flechte ist es, der Aussatz des Hauptes oder des Bartes ist es.
+13	31	Und wenn der Priester die Plage der Flechte ansieht, und siehe, sie ist nicht tiefer anzusehen als die Haut, und schwarzes Haar ist nicht darin, so soll der Priester die Plage der Flechte sieben Tage einschliessen.
+13	32	Und der Priester soll die Plage am siebten Tag ansehen, und siehe, die Flechte hat sich nicht ausgeweitet, und gelbes Haar ist nicht darin, und die Flechte ist nicht tiefer anzusehen als die Haut:
+13	33	so soll er sich rasieren, die Flechte aber soll er nicht rasieren; und der Priester soll die Flechte zum zweiten Mal sieben Tage einschliessen.
+13	34	Und der Priester soll die Flechte am siebten Tag ansehen, und siehe, die Flechte hat sich auf der Haut nicht ausgeweitet, und sie ist nicht tiefer anzusehen als die Haut: so soll der Priester ihn rein sprechen. Und er soll seine Kleider waschen, und er wird rein.
+13	35	Und wenn sich die Flechte auf der Haut nach seiner Reinigung doch ausweitet,
+13	36	so soll der Priester ihn ansehen, und siehe, die Flechte hat sich auf der Haut ausgeweitet: so braucht der Priester das gelbe Haar nicht zu betrachten; unrein ist er.
+13	37	Und wenn die Flechte für das Auge stehen geblieben ist und schwarzes Haar darin aufgekeimt ist, so ist die Flechte heil geworden; rein ist er, und der Priester soll ihn rein sprechen.
+13	38	Und wenn ein Mann oder eine Frau an der Haut ihres Fleisches Glanzstellen hat, weisse Glanzstellen,
+13	39	so soll der Priester sie ansehen, und siehe, an der Haut ihres Fleisches sind trübe, weisse Glanzstellen: eine Blässe ist es, auf der Haut aufgeblüht; rein ist er.
+13	40	Und wenn einem Mann das Haupt kahl wird, so hat er eine Glatze; rein ist er.
+13	41	Und wenn ihm das Haupt von der Seite seines Angesichts her kahl wird, so hat er eine Stirnglatze; rein ist er.
+13	42	Und wenn an der Glatze oder an der Stirnglatze eine weisse, rotgetönte Plage ist, so ist es ein aufblühender Aussatz an seiner Glatze oder an seiner Stirnglatze.
+13	43	Und der Priester soll ihn ansehen, und siehe, die Schwellung der Plage ist weiss, rotgetönt, an seiner Glatze oder an seiner Stirnglatze, anzusehen wie der Aussatz an der Haut des Fleisches:
+13	44	ein aussätziger Mann ist er, unrein ist er; unrein sprechen soll ihn der Priester, an seinem Haupt ist seine Plage.
+13	45	Und der Aussätzige, an dem die Plage ist: Seine Kleider sollen eingerissen sein und sein Haupt unbedeckt, und bis über den Lippenbart soll er sich hüllen, und ‹Unrein, unrein!› soll er rufen.
+13	46	Alle Tage, da die Plage an ihm ist, soll er unrein sein; unrein ist er. Allein soll er wohnen; ausserhalb des Lagers ist sein Sitz.
+13	47	Und wenn an einem Kleid eine Plage des Aussatzes ist, an einem Kleid aus Wolle oder an einem Kleid aus Flachs,
+13	48	oder am Zettel oder am Einschlag, aus Flachs oder aus Wolle, oder an Leder oder an irgendeiner Arbeit aus Leder,
+13	49	und die Plage gelbgrün oder rotgetönt ist am Kleid oder am Leder oder am Zettel oder am Einschlag oder an irgendeinem Gerät aus Leder, so ist es eine Plage des Aussatzes, und sie soll dem Priester gezeigt werden.
+13	50	Und der Priester soll die Plage ansehen und die Plage sieben Tage einschliessen.
+13	51	Und er soll die Plage am siebten Tag ansehen: Hat sich die Plage ausgeweitet am Kleid oder am Zettel oder am Einschlag oder am Leder, an allem, was aus dem Leder zur Arbeit gemacht wird, so ist die Plage ein zehrender Aussatz; unrein ist es.
+13	52	Und er soll das Kleid verbrennen oder den Zettel oder den Einschlag, aus Wolle oder aus Flachs, oder irgendein Gerät aus Leder, an dem die Plage ist; denn ein zehrender Aussatz ist es, im Feuer soll es verbrannt werden.
+13	53	Und wenn der Priester sie ansieht, und siehe, die Plage hat sich nicht ausgeweitet am Kleid oder am Zettel oder am Einschlag oder an irgendeinem Gerät aus Leder,
+13	54	so soll der Priester gebieten, und man soll waschen, woran die Plage ist, und er soll es zum zweiten Mal sieben Tage einschliessen.
+13	55	Und der Priester soll die Plage ansehen, nachdem sie gewaschen worden ist, und siehe, die Plage hat sich für das Auge nicht verwandelt, und die Plage hat sich nicht ausgeweitet: unrein ist es, im Feuer sollst du es verbrennen; eine Vertiefung ist es, an seiner Glatze oder an seiner Stirnglatze.
+13	56	Und wenn der Priester sie ansieht, und siehe, die Plage ist trübe geworden, nachdem sie gewaschen worden ist, so soll er sie vom Kleid oder vom Leder oder vom Zettel oder vom Einschlag abreissen.
+13	57	Und wenn sie noch erscheint am Kleid oder am Zettel oder am Einschlag oder an irgendeinem Gerät aus Leder, so blüht sie auf; im Feuer sollst du verbrennen, woran die Plage ist.
+13	58	Und das Kleid oder der Zettel oder der Einschlag oder irgendein Gerät aus Leder, das du wäschst und von dem die Plage weicht, soll zum zweiten Mal gewaschen werden, und es wird rein.
+13	59	Dies ist die Weisung für die Plage des Aussatzes am Kleid aus Wolle oder aus Flachs oder am Zettel oder am Einschlag oder an irgendeinem Gerät aus Leder, um es rein zu sprechen oder unrein zu sprechen.»
+14	1	Und der HERR redete zu Mose:
+14	2	«Dies soll die Weisung für den Aussätzigen sein am Tag seiner Reinigung: Er soll zum Priester gebracht werden.
+14	3	Und der Priester soll hinausgehen, ausserhalb des Lagers, und der Priester soll ihn ansehen, und siehe, die Plage des Aussatzes ist an dem Aussätzigen heil geworden,
+14	4	so soll der Priester gebieten, und man soll für den, der sich rein macht, zwei lebendige, reine Vögel nehmen und Zedernholz und Karmesin und Ysop.
+14	5	Und der Priester soll gebieten, und man soll den einen Vogel schlachten in ein tönernes Gefäss, über lebendigem Wasser.
+14	6	Den lebendigen Vogel soll er nehmen, ihn und das Zedernholz und das Karmesin und den Ysop, und er soll sie und den lebendigen Vogel in das Blut des Vogels tauchen, der über dem lebendigen Wasser geschlachtet worden ist.
+14	7	Und er soll den, der sich vom Aussatz rein macht, siebenmal besprengen und ihn rein sprechen; und den lebendigen Vogel soll er aussenden auf das Angesicht des Feldes.
+14	8	Und der sich rein macht, soll seine Kleider waschen und all sein Haar abrasieren und sich im Wasser baden, und er wird rein. Und danach darf er in das Lager kommen; aber sieben Tage soll er ausserhalb seines Zeltes bleiben.
+14	9	Und am siebten Tag soll er all sein Haar abrasieren, sein Haupt und seinen Bart und seine Augenbrauen; all sein Haar soll er abrasieren. Und er soll seine Kleider waschen und sein Fleisch im Wasser baden, und er wird rein.
+14	10	Und am achten Tag soll er zwei untadelige Lämmer nehmen und ein weibliches Lamm, ein Jahr alt, untadelig, und drei Zehntel Feinmehl als Speiseopfer, mit Öl vermengt, und ein Log Öl.
+14	11	Und der Priester, der rein macht, soll den Mann, der sich rein macht, mit ihnen hinstellen vor das Angesicht des HERRN, an den Eingang des Zeltes der Begegnung.
+14	12	Und der Priester soll das eine Lamm nehmen und es als Schuldopfer darbringen, dazu das Log Öl, und er soll sie als Schwingopfer schwingen vor dem Angesicht des HERRN.
+14	13	Und er soll das Lamm an dem Ort schlachten, an dem man das Sündopfer und das Brandopfer schlachtet, am heiligen Ort; denn wie das Sündopfer gehört das Schuldopfer dem Priester. Hochheilig ist es.
+14	14	Und der Priester soll vom Blut des Schuldopfers nehmen, und der Priester soll es an das rechte Ohrläppchen dessen geben, der sich rein macht, und an den Daumen seiner rechten Hand und an die grosse Zehe seines rechten Fusses.
+14	15	Und der Priester soll vom Log Öl nehmen und es in die linke Hand des Priesters giessen.
+14	16	Und der Priester soll seinen rechten Finger in das Öl tauchen, das in seiner linken Hand ist, und mit seinem Finger vom Öl siebenmal sprengen vor dem Angesicht des HERRN.
+14	17	Und vom übrigen Öl, das in seiner Hand ist, soll der Priester an das rechte Ohrläppchen dessen geben, der sich rein macht, und an den Daumen seiner rechten Hand und an die grosse Zehe seines rechten Fusses, auf das Blut des Schuldopfers.
+14	18	Und was vom Öl übrig bleibt, das in der Hand des Priesters ist, soll er auf das Haupt dessen geben, der sich rein macht; und der Priester soll für ihn Sühne schaffen vor dem Angesicht des HERRN.
+14	19	Und der Priester soll das Sündopfer zubereiten und für den, der sich rein macht, Sühne schaffen wegen seiner Unreinheit; und danach soll er das Brandopfer schlachten.
+14	20	Und der Priester soll das Brandopfer und das Speiseopfer zum Altar aufsteigen lassen; und der Priester soll für ihn Sühne schaffen, und er wird rein.
+14	21	Und wenn er gering ist und seine Hand es nicht einholt, so soll er ein Lamm als Schuldopfer nehmen, zum Schwingopfer, um für ihn Sühne zu schaffen, und ein Zehntel Feinmehl, mit Öl vermengt, als Speiseopfer, und ein Log Öl,
+14	22	und zwei Turteltauben oder zwei junge Tauben, was seine Hand einholt; und die eine soll ein Sündopfer sein und die andere ein Brandopfer.
+14	23	Und er soll sie am achten Tag zu seiner Reinigung zum Priester bringen, an den Eingang des Zeltes der Begegnung, vor das Angesicht des HERRN.
+14	24	Und der Priester soll das Lamm des Schuldopfers nehmen und das Log Öl, und der Priester soll sie als Schwingopfer schwingen vor dem Angesicht des HERRN.
+14	25	Und er soll das Lamm des Schuldopfers schlachten, und der Priester soll vom Blut des Schuldopfers nehmen und es an das rechte Ohrläppchen dessen geben, der sich rein macht, und an den Daumen seiner rechten Hand und an die grosse Zehe seines rechten Fusses.
+14	26	Und vom Öl soll der Priester in die linke Hand des Priesters giessen.
+14	27	Und der Priester soll mit seinem rechten Finger vom Öl, das in seiner linken Hand ist, siebenmal sprengen vor dem Angesicht des HERRN.
+14	28	Und der Priester soll vom Öl, das in seiner Hand ist, an das rechte Ohrläppchen dessen geben, der sich rein macht, und an den Daumen seiner rechten Hand und an die grosse Zehe seines rechten Fusses, auf den Ort des Blutes des Schuldopfers.
+14	29	Und was vom Öl übrig bleibt, das in der Hand des Priesters ist, soll er auf das Haupt dessen geben, der sich rein macht, um für ihn Sühne zu schaffen vor dem Angesicht des HERRN.
+14	30	Und er soll die eine von den Turteltauben oder von den jungen Tauben zubereiten, von dem, was seine Hand einholt,
+14	31	was seine Hand einholt: die eine als Sündopfer und die andere als Brandopfer, samt dem Speiseopfer; und der Priester soll für den, der sich rein macht, Sühne schaffen vor dem Angesicht des HERRN.
+14	32	Dies ist die Weisung für den, an dem die Plage des Aussatzes ist, dessen Hand bei seiner Reinigung nicht einholt.»
+14	33	Und der HERR redete zu Mose und zu Aaron:
+14	34	«Wenn ihr in das Land Kanaan kommt, das ich euch zum Besitz gebe, und ich gebe eine Plage des Aussatzes in ein Haus im Land eures Besitzes,
+14	35	so soll der, dem das Haus gehört, kommen und es dem Priester sagen: ‹Etwas wie eine Plage ist mir im Haus erschienen.›
+14	36	Und der Priester soll gebieten, und man soll das Haus räumen, bevor der Priester kommt, um die Plage anzusehen, damit nicht alles unrein wird, was im Haus ist; und danach soll der Priester kommen, um das Haus anzusehen.
+14	37	Und er soll die Plage ansehen, und siehe, die Plage ist an den Wänden des Hauses, gelbgrüne oder rotgetönte Einsenkungen, und sie sind niedriger anzusehen als die Wand:
+14	38	so soll der Priester aus dem Haus hinausgehen an den Eingang des Hauses und das Haus sieben Tage einschliessen.
+14	39	Und der Priester soll am siebten Tag zurückkehren und es ansehen, und siehe, die Plage hat sich an den Wänden des Hauses ausgeweitet:
+14	40	so soll der Priester gebieten, und man soll die Steine herausreissen, an denen die Plage ist, und sie ausserhalb der Stadt an einen unreinen Ort werfen.
+14	41	Und das Haus soll er innen ringsum abkratzen lassen, und man soll den Staub, den man abgeschabt hat, ausserhalb der Stadt an einen unreinen Ort ausgiessen.
+14	42	Und man soll andere Steine nehmen und sie an die Stelle der Steine bringen, und anderen Staub soll er nehmen und das Haus verputzen.
+14	43	Und wenn die Plage wieder im Haus aufblüht, nachdem man die Steine herausgerissen hat und nachdem man das Haus abgeschabt hat und nachdem es verputzt worden ist,
+14	44	so soll der Priester kommen und es ansehen, und siehe, die Plage hat sich im Haus ausgeweitet: ein zehrender Aussatz ist es im Haus; unrein ist es.
+14	45	Und er soll das Haus einreissen, seine Steine und sein Holz und allen Staub des Hauses, und es hinausbringen, ausserhalb der Stadt, an einen unreinen Ort.
+14	46	Und wer in das Haus hineingeht, alle Tage, die er es eingeschlossen hat, ist unrein bis zum Abend.
+14	47	Und wer im Haus liegt, soll seine Kleider waschen; und wer im Haus isst, soll seine Kleider waschen.
+14	48	Und wenn der Priester doch kommt und es ansieht, und siehe, die Plage hat sich im Haus nicht ausgeweitet, nachdem das Haus verputzt worden ist, so soll der Priester das Haus rein sprechen; denn die Plage ist heil geworden.
+14	49	Und er soll, um das Haus zu entsündigen, zwei Vögel nehmen und Zedernholz und Karmesin und Ysop.
+14	50	Und er soll den einen Vogel schlachten in ein tönernes Gefäss, über lebendigem Wasser.
+14	51	Und er soll das Zedernholz und den Ysop und das Karmesin und den lebendigen Vogel nehmen und sie in das Blut des geschlachteten Vogels und in das lebendige Wasser tauchen und das Haus siebenmal besprengen.
+14	52	Und er soll das Haus entsündigen mit dem Blut des Vogels und mit dem lebendigen Wasser und mit dem lebendigen Vogel und mit dem Zedernholz und mit dem Ysop und mit dem Karmesin.
+14	53	Und den lebendigen Vogel soll er aussenden, hinaus, ausserhalb der Stadt, auf das Angesicht des Feldes; und er soll für das Haus Sühne schaffen, und es wird rein.
+14	54	Dies ist die Weisung für jede Plage des Aussatzes und für die Flechte
+14	55	und für den Aussatz am Kleid und am Haus
+14	56	und für die Schwellung und für den Ausschlag und für die Glanzstelle,
+14	57	um zu unterweisen, an welchem Tag etwas unrein und an welchem es rein ist. Dies ist die Weisung für den Aussatz.»
+15	1	Und der HERR redete zu Mose und zu Aaron:
+15	2	«Redet zu den Kindern Israels und sagt zu ihnen: ‹Wenn irgendein Mann einen Fluss hat aus seinem Fleisch, so ist sein Fluss unrein.
+15	3	Und dies ist seine Unreinheit bei seinem Fluss: Lässt sein Fleisch seinen Fluss laufen oder hat sein Fleisch sich vor seinem Fluss versiegelt — seine Unreinheit ist es.
+15	4	Jedes Bett, auf dem der liegt, der den Fluss hat, wird unrein, und jedes Gerät, auf dem er sitzt, wird unrein.
+15	5	Und wer sein Bett berührt, soll seine Kleider waschen und sich im Wasser baden und ist unrein bis zum Abend.
+15	6	Und wer auf dem Gerät sitzt, auf dem der gesessen hat, der den Fluss hat, soll seine Kleider waschen und sich im Wasser baden und ist unrein bis zum Abend.
+15	7	Und wer das Fleisch dessen berührt, der den Fluss hat, soll seine Kleider waschen und sich im Wasser baden und ist unrein bis zum Abend.
+15	8	Und wenn der, der den Fluss hat, auf einen Reinen spuckt, so soll dieser seine Kleider waschen und sich im Wasser baden und ist unrein bis zum Abend.
+15	9	Und jeder Sattel, auf dem der reitet, der den Fluss hat, wird unrein.
+15	10	Und jeder, der irgendetwas berührt, was unter ihm gewesen ist, ist unrein bis zum Abend; und wer es trägt, soll seine Kleider waschen und sich im Wasser baden und ist unrein bis zum Abend.
+15	11	Und wen auch immer der berührt, der den Fluss hat, ohne seine Hände mit Wasser gespült zu haben, der soll seine Kleider waschen und sich im Wasser baden und ist unrein bis zum Abend.
+15	12	Und ein tönernes Gefäss, das der berührt, der den Fluss hat, soll zerbrochen werden, und jedes Gerät aus Holz soll mit Wasser gespült werden.
+15	13	Und wenn der, der den Fluss hat, rein wird von seinem Fluss, so soll er sich sieben Tage zählen zu seiner Reinigung und seine Kleider waschen und sein Fleisch in lebendigem Wasser baden, und er wird rein.
+15	14	Und am achten Tag soll er sich zwei Turteltauben oder zwei junge Tauben nehmen und vor das Angesicht des HERRN kommen, an den Eingang des Zeltes der Begegnung, und sie dem Priester geben.
+15	15	Und der Priester soll sie zubereiten, die eine als Sündopfer und die andere als Brandopfer; und der Priester soll für ihn Sühne schaffen vor dem Angesicht des HERRN wegen seines Flusses.
+15	16	Und wenn von einem Mann ein Samenerguss herauskommt, so soll er sein ganzes Fleisch im Wasser baden und ist unrein bis zum Abend.
+15	17	Und jedes Kleid und jedes Leder, auf dem ein Samenerguss ist, soll im Wasser gewaschen werden und ist unrein bis zum Abend.
+15	18	Und eine Frau, zu der sich ein Mann legt mit Samenerguss: Sie sollen sich im Wasser baden und sind unrein bis zum Abend.
+15	19	Und wenn eine Frau einen Fluss hat — Blut ist ihr Fluss an ihrem Fleisch —, so soll sie sieben Tage in ihrer Absonderung sein; und jeder, der sie berührt, ist unrein bis zum Abend.
+15	20	Und alles, worauf sie in ihrer Absonderung liegt, wird unrein, und alles, worauf sie sitzt, wird unrein.
+15	21	Und jeder, der ihr Bett berührt, soll seine Kleider waschen und sich im Wasser baden und ist unrein bis zum Abend.
+15	22	Und jeder, der irgendein Gerät berührt, auf dem sie sitzt, soll seine Kleider waschen und sich im Wasser baden und ist unrein bis zum Abend.
+15	23	Und wenn etwas auf dem Bett ist oder auf dem Gerät, auf dem sie sitzt — wer es berührt, ist unrein bis zum Abend.
+15	24	Und wenn sich ein Mann doch zu ihr legt und ihre Absonderung auf ihn kommt, so ist er sieben Tage unrein, und jedes Bett, auf dem er liegt, wird unrein.
+15	25	Und wenn bei einer Frau der Fluss ihres Blutes viele Tage fliesst, nicht zur Zeit ihrer Absonderung, oder wenn es bei ihr über ihre Absonderung hinaus fliesst: Alle Tage des Flusses ihrer Unreinheit soll sie sein wie in den Tagen ihrer Absonderung; unrein ist sie.
+15	26	Jedes Bett, auf dem sie liegt, alle Tage ihres Flusses, soll für sie sein wie das Bett ihrer Absonderung, und jedes Gerät, auf dem sie sitzt, wird unrein sein wie bei der Unreinheit ihrer Absonderung.
+15	27	Und jeder, der etwas davon berührt, wird unrein; und er soll seine Kleider waschen und sich im Wasser baden und ist unrein bis zum Abend.
+15	28	Und wenn sie rein geworden ist von ihrem Fluss, so soll sie sich sieben Tage zählen, und danach wird sie rein.
+15	29	Und am achten Tag soll sie sich zwei Turteltauben oder zwei junge Tauben nehmen und sie zum Priester bringen, an den Eingang des Zeltes der Begegnung.
+15	30	Und der Priester soll die eine als Sündopfer zubereiten und die andere als Brandopfer, und der Priester soll für sie Sühne schaffen vor dem Angesicht des HERRN wegen des Flusses ihrer Unreinheit.›
+15	31	Und ihr sollt die Kinder Israels von ihrer Unreinheit fernhalten, damit sie nicht sterben in ihrer Unreinheit, wenn sie meine Wohnung verunreinigen, die in ihrer Mitte ist.
+15	32	Dies ist die Weisung für den, der den Fluss hat, und für den, von dem ein Samenerguss herauskommt, sodass er durch ihn unrein wird,
+15	33	und für die, die in ihrer Absonderung unwohl ist, und für jeden, der seinen Fluss hat, ob männlich oder weiblich, und für einen Mann, der sich zu einer Unreinen legt.»
+16	1	Und der HERR redete zu Mose nach dem Tod der beiden Söhne Aarons, als sie vor das Angesicht des HERRN herantraten und starben.
+16	2	Und der HERR sagte zu Mose: «Rede zu Aaron, deinem Bruder, dass er nicht zu jeder Zeit in das Heiligtum hineingehe, innen hinter den Vorhang, vor den Sühnedeckel, der auf der Lade ist, damit er nicht stirbt; denn in der Wolke erscheine ich über dem Sühnedeckel.
+16	3	Damit soll Aaron in das Heiligtum hineingehen: mit einem Jungstier, einem jungen Rind, als Sündopfer und einem Widder als Brandopfer.
+16	4	Ein heiliges leinenes Untergewand soll er anziehen, und leinene Beinkleider sollen an seinem Fleisch sein, und mit einem leinenen Gürtel soll er sich gürten, und einen leinenen Turban soll er sich umwickeln. Heilige Kleider sind es; und er soll sein Fleisch im Wasser baden und sie anziehen.
+16	5	Und von der Gemeinschaft der Kinder Israels soll er zwei Ziegenböcke als Sündopfer nehmen und einen Widder als Brandopfer.
+16	6	Und Aaron soll den Jungstier des Sündopfers, der für ihn ist, darbringen und Sühne schaffen für sich und für sein Haus.
+16	7	Und er soll die beiden Ziegenböcke nehmen und sie vor dem Angesicht des HERRN hinstellen, am Eingang des Zeltes der Begegnung.
+16	8	Und Aaron soll auf die beiden Ziegenböcke Lose legen, ein Los für den HERRN und ein Los für Asasel.
+16	9	Und Aaron soll den Ziegenbock darbringen, auf den das Los für den HERRN heraufgekommen ist, und ihn als Sündopfer zubereiten.
+16	10	Der Ziegenbock aber, auf den das Los für Asasel heraufgekommen ist, soll lebendig vor dem Angesicht des HERRN hingestellt werden, um an ihm Sühne zu schaffen, um ihn für Asasel in die Wüste fortzusenden.
+16	11	Und Aaron soll den Jungstier des Sündopfers, der für ihn ist, darbringen und Sühne schaffen für sich und für sein Haus; und er soll den Jungstier des Sündopfers, der für ihn ist, schlachten.
+16	12	Und er soll die Feuerpfanne voll Feuerkohlen vom Altar vor dem Angesicht des HERRN nehmen und seine Fäuste voll feines Räucherwerk aus Spezereien und es innen hinter den Vorhang bringen.
+16	13	Und er soll das Räucherwerk vor dem Angesicht des HERRN auf das Feuer geben, und die Wolke des Räucherwerks soll den Sühnedeckel bedecken, der auf dem Zeugnis ist, damit er nicht stirbt.
+16	14	Und er soll vom Blut des Jungstiers nehmen und mit seinem Finger das Angesicht des Sühnedeckels besprengen, ostwärts; und vor dem Sühnedeckel soll er siebenmal vom Blut mit seinem Finger sprengen.
+16	15	Und er soll den Ziegenbock des Sündopfers schlachten, der für das Volk ist, und sein Blut innen hinter den Vorhang bringen; und er soll mit seinem Blut tun, wie er mit dem Blut des Jungstiers getan hat, und es auf den Sühnedeckel und vor den Sühnedeckel sprengen.
+16	16	So soll er für das Heiligtum Sühne schaffen wegen der Unreinheiten der Kinder Israels und wegen ihrer Verbrechen, für alle ihre Sünden; und so soll er mit dem Zelt der Begegnung tun, das bei ihnen wohnt inmitten ihrer Unreinheiten.
+16	17	Und kein Mensch soll im Zelt der Begegnung sein, wenn er hineingeht, um im Heiligtum Sühne zu schaffen, bis er herauskommt; und er soll Sühne schaffen für sich und für sein Haus und für die ganze Versammlung Israels.
+16	18	Und er soll hinausgehen zum Altar, der vor dem Angesicht des HERRN ist, und für ihn Sühne schaffen; und er soll vom Blut des Jungstiers und vom Blut des Ziegenbocks nehmen und es an die Hörner des Altars geben, ringsum.
+16	19	Und er soll ihn mit seinem Finger siebenmal mit etwas vom Blut besprengen und ihn rein machen und ihn heiligen von den Unreinheiten der Kinder Israels.
+16	20	Und ist er damit zu Ende, für das Heiligtum und für das Zelt der Begegnung und für den Altar Sühne zu schaffen, so soll er den lebendigen Ziegenbock darbringen.
+16	21	Und Aaron soll seine beiden Hände auf das Haupt des lebendigen Ziegenbocks stützen und über ihm alle Schuld der Kinder Israels bekennen und alle ihre Verbrechen, für alle ihre Sünden; und er soll sie auf das Haupt des Ziegenbocks legen und ihn durch die Hand eines bereitstehenden Mannes in die Wüste fortsenden.
+16	22	Und der Ziegenbock soll alle ihre Schuld auf sich tragen in ein weggeschnittenes Land; und er soll den Ziegenbock in der Wüste fortsenden.
+16	23	Und Aaron soll in das Zelt der Begegnung hineingehen und die leinenen Kleider ausziehen, die er angezogen hat, als er in das Heiligtum hineinging, und sie dort lassen.
+16	24	Und er soll sein Fleisch im Wasser baden an einem heiligen Ort und seine Kleider anziehen; und er soll hinausgehen und sein Brandopfer und das Brandopfer des Volkes zubereiten und Sühne schaffen für sich und für das Volk.
+16	25	Und das Fett des Sündopfers soll er auf dem Altar in Rauch aufgehen lassen.
+16	26	Und wer den Ziegenbock für Asasel fortsendet, soll seine Kleider waschen und sein Fleisch im Wasser baden, und danach darf er in das Lager kommen.
+16	27	Und den Jungstier des Sündopfers und den Ziegenbock des Sündopfers, deren Blut hineingebracht worden ist, um im Heiligtum Sühne zu schaffen, soll man hinausbringen, ausserhalb des Lagers, und man soll ihre Häute und ihr Fleisch und ihren Dung im Feuer verbrennen.
+16	28	Und wer sie verbrennt, soll seine Kleider waschen und sein Fleisch im Wasser baden, und danach darf er in das Lager kommen.
+16	29	Und das soll euch eine ewige Satzung sein: Im siebten Monat, am Zehnten des Monats, sollt ihr eure Seelen beugen, und keinerlei Arbeit sollt ihr tun, der Einheimische und der Fremde, der in eurer Mitte zu Gast ist.
+16	30	Denn an diesem Tag schafft er Sühne für euch, um euch rein zu machen; von allen euren Sünden werdet ihr rein vor dem Angesicht des HERRN.
+16	31	Ein Sabbat, ein Ruhetag ist es für euch, und ihr sollt eure Seelen beugen — eine ewige Satzung.
+16	32	Und Sühne schaffen soll der Priester, den man salben und dessen Hand man füllen wird, um an Stelle seines Vaters Priester zu sein; und er soll die leinenen Kleider anziehen, die heiligen Kleider.
+16	33	Und er soll Sühne schaffen für das heilige Heiligtum, und für das Zelt der Begegnung und für den Altar soll er Sühne schaffen, und für die Priester und für das ganze Volk der Versammlung soll er Sühne schaffen.
+16	34	Und das soll euch eine ewige Satzung sein, um für die Kinder Israels Sühne zu schaffen wegen aller ihrer Sünden, einmal im Jahr.» Und er tat, wie der HERR Mose geboten hatte.
+17	1	Und der HERR redete zu Mose:
+17	2	«Rede zu Aaron und zu seinen Söhnen und zu allen Kindern Israels und sage zu ihnen: ‹Das ist das Wort, das der HERR geboten hat:
+17	3	Jeder aus dem Haus Israel, der einen Ochsen oder ein Lamm oder eine Ziege im Lager schlachtet oder der ausserhalb des Lagers schlachtet
+17	4	und es nicht an den Eingang des Zeltes der Begegnung gebracht hat, um dem HERRN eine Opfergabe darzubringen vor der Wohnung des HERRN — Blut soll jenem Menschen angerechnet werden: Blut hat er vergossen, und jener Mensch soll ausgerottet werden mitten aus seinem Volk,
+17	5	damit die Kinder Israels ihre Schlachtopfer bringen, die sie auf dem Angesicht des Feldes darbringen, und sie dem HERRN bringen, an den Eingang des Zeltes der Begegnung, zum Priester, und sie als Schlachtopfer der Friedensopfer dem HERRN darbringen.
+17	6	Und der Priester soll das Blut an den Altar des HERRN sprengen, am Eingang des Zeltes der Begegnung, und das Fett in Rauch aufgehen lassen zum Duft des Wohlgeruchs für den HERRN.
+17	7	Und sie sollen ihre Schlachtopfer nicht mehr den Bocksgeistern darbringen, denen sie nachhuren. Eine ewige Satzung soll ihnen das sein für ihre Geschlechter.›
+17	8	Und zu ihnen sollst du sagen: ‹Jeder aus dem Haus Israel und vom Fremden, der in ihrer Mitte zu Gast ist, der ein Brandopfer oder ein Schlachtopfer aufsteigen lässt
+17	9	und es nicht an den Eingang des Zeltes der Begegnung bringt, um es für den HERRN zuzubereiten — jener Mensch soll ausgerottet werden aus seinem Volk.
+17	10	Und jeder aus dem Haus Israel und vom Fremden, der in ihrer Mitte zu Gast ist, der irgendwelches Blut isst — ich werde mein Angesicht gegen die Seele setzen, die das Blut isst, und werde sie ausrotten mitten aus ihrem Volk.
+17	11	Denn die Seele des Fleisches ist im Blut, und ich habe es euch auf den Altar gegeben, um Sühne zu schaffen für eure Seelen; denn das Blut ist es, das durch die Seele Sühne schafft.
+17	12	Darum habe ich zu den Kindern Israels gesagt: Keine Seele von euch soll Blut essen, und der Fremde, der in eurer Mitte zu Gast ist, soll kein Blut essen.
+17	13	Und jeder von den Kindern Israels und vom Fremden, der in ihrer Mitte zu Gast ist, der einer Jagdbeute nachstellt, einem Tier oder einem Vogel, das gegessen wird, der soll sein Blut ausgiessen und es mit Staub bedecken.
+17	14	Denn die Seele allen Fleisches: Sein Blut ist seine Seele. Und ich habe zu den Kindern Israels gesagt: Das Blut allen Fleisches sollt ihr nicht essen; denn die Seele allen Fleisches ist sein Blut. Jeder, der es isst, soll ausgerottet werden.
+17	15	Und jede Seele, die Aas oder Gerissenes isst, es sei ein Einheimischer oder ein Fremder, der soll seine Kleider waschen und sich im Wasser baden und ist unrein bis zum Abend; dann wird er rein.
+17	16	Wenn er aber nicht wäscht und sein Fleisch nicht badet, so trägt er seine Schuld.›»
+18	1	Und der HERR redete zu Mose:
+18	2	«Rede zu den Kindern Israels und sage zu ihnen: ‹Ich bin der HERR, euer Gott.
+18	3	Nach dem Werk des Landes Ägypten, in dem ihr gewohnt habt, sollt ihr nicht tun, und nach dem Werk des Landes Kanaan, in das ich euch bringe, sollt ihr nicht tun, und in ihren Satzungen sollt ihr nicht gehen.
+18	4	Meine Rechtsentscheide sollt ihr tun und meine Satzungen sollt ihr bewahren, um in ihnen zu gehen. Ich bin der HERR, euer Gott.
+18	5	Und ihr sollt meine Satzungen und meine Rechtsentscheide bewahren, die der Mensch tut, und er wird in ihnen leben. Ich bin der HERR.
+18	6	Kein Mann unter euch soll irgendeiner nahe kommen, die Fleisch von seinem Fleisch ist, um die Blösse aufzudecken. Ich bin der HERR.
+18	7	Die Blösse deines Vaters und die Blösse deiner Mutter sollst du nicht aufdecken; sie ist deine Mutter, du sollst ihre Blösse nicht aufdecken.
+18	8	Die Blösse der Frau deines Vaters sollst du nicht aufdecken; es ist die Blösse deines Vaters.
+18	9	Die Blösse deiner Schwester, der Tochter deines Vaters oder der Tochter deiner Mutter, ob im Haus geboren oder draussen geboren — ihre Blösse sollst du nicht aufdecken.
+18	10	Die Blösse der Tochter deines Sohnes oder der Tochter deiner Tochter — ihre Blösse sollst du nicht aufdecken; denn deine Blösse sind sie.
+18	11	Die Blösse der Tochter der Frau deines Vaters, die deinem Vater geboren ist — deine Schwester ist sie —, ihre Blösse sollst du nicht aufdecken.
+18	12	Die Blösse der Schwester deines Vaters sollst du nicht aufdecken; sie ist Fleisch deines Vaters.
+18	13	Die Blösse der Schwester deiner Mutter sollst du nicht aufdecken; denn sie ist Fleisch deiner Mutter.
+18	14	Die Blösse des Bruders deines Vaters sollst du nicht aufdecken: Seiner Frau sollst du nicht nahe kommen; sie ist deine Tante.
+18	15	Die Blösse deiner Schwiegertochter sollst du nicht aufdecken; sie ist die Frau deines Sohnes, du sollst ihre Blösse nicht aufdecken.
+18	16	Die Blösse der Frau deines Bruders sollst du nicht aufdecken; es ist die Blösse deines Bruders.
+18	17	Die Blösse einer Frau und ihrer Tochter sollst du nicht aufdecken; die Tochter ihres Sohnes und die Tochter ihrer Tochter sollst du nicht nehmen, um ihre Blösse aufzudecken. Fleisch sind sie; eine Schandtat ist es.
+18	18	Und eine Frau sollst du nicht zu ihrer Schwester hinzu nehmen, um sie zu bedrängen, indem du ihre Blösse neben ihr aufdeckst zu ihren Lebzeiten.
+18	19	Und einer Frau in der Absonderung ihrer Unreinheit sollst du nicht nahe kommen, um ihre Blösse aufzudecken.
+18	20	Und der Frau deines Mitmenschen sollst du deinen Erguss nicht zum Samen geben, um mit ihr unrein zu werden.
+18	21	Und von deinen Nachkommen sollst du keinen hingeben, um ihn dem Moloch zu übergeben, und du sollst den Namen deines Gottes nicht entweihen. Ich bin der HERR.
+18	22	Und zu einem Männlichen sollst du dich nicht legen, wie man sich zu einer Frau legt; ein Gräuel ist es.
+18	23	Und keinem Vieh sollst du deinen Erguss geben, um mit ihm unrein zu werden; und eine Frau soll nicht vor einem Vieh stehen, damit es bei ihr liege: eine Vermengung ist es.
+18	24	Verunreinigt euch nicht durch all dies; denn durch all dies sind die Völker unrein geworden, die ich vor euch fortsende.
+18	25	Und das Land wurde unrein, und ich suchte seine Schuld an ihm heim, und das Land spie seine Bewohner aus.
+18	26	Ihr aber sollt meine Satzungen und meine Rechtsentscheide bewahren und von all diesen Gräueln nichts tun, der Einheimische und der Fremde, der in eurer Mitte zu Gast ist.
+18	27	Denn alle diese Gräuel haben die Menschen des Landes getan, die vor euch waren, und das Land wurde unrein.
+18	28	Und das Land soll euch nicht ausspeien, wenn ihr es verunreinigt, wie es das Volk ausgespien hat, das vor euch war.
+18	29	Denn jeder, der irgendeinen von all diesen Gräueln tut — die Seelen, die es tun, sollen ausgerottet werden mitten aus ihrem Volk.
+18	30	Und ihr sollt bewahren, was ich zu bewahren gebe, dass ihr keine von den Satzungen der Gräuel tut, die vor euch getan worden sind, und euch nicht durch sie verunreinigt. Ich bin der HERR, euer Gott.›»
+19	1	Und der HERR redete zu Mose:
+19	2	«Rede zur ganzen Gemeinschaft der Kinder Israels und sage zu ihnen: ‹Ihr sollt heilig sein, weil ich heilig bin, der HERR, euer Gott.
+19	3	Ihr sollt jeder seine Mutter und seinen Vater fürchten, und meine Sabbate sollt ihr bewahren. Ich bin der HERR, euer Gott.
+19	4	Wendet euch nicht zu den Nichtsen, und Götter als Gussbild sollt ihr euch nicht machen. Ich bin der HERR, euer Gott.
+19	5	Und wenn ihr dem HERRN ein Schlachtopfer der Friedensopfer darbringt, so sollt ihr es als Schlachtopfer darbringen, euch zum Wohlgefallen.
+19	6	Am Tag eures Schlachtopfers soll es gegessen werden und am nächsten Tag; was aber bis zum dritten Tag übrig bleibt, soll im Feuer verbrannt werden.
+19	7	Und wenn es am dritten Tag doch gegessen wird, so ist es Unflat; es findet kein Wohlgefallen.
+19	8	Und wer davon isst, wird seine Schuld tragen, denn das Heilige des HERRN hat er entweiht; und jene Seele soll ausgerottet werden aus ihrem Volk.
+19	9	Und wenn ihr die Ernte eures Landes erntet, sollst du die Seite deines Feldes nicht zu Ende ernten, und die Nachlese deiner Ernte sollst du nicht sammeln.
+19	10	Und deinen Weinberg sollst du nicht nachpflücken, und die abgefallenen Beeren deines Weinbergs sollst du nicht sammeln; dem Elenden und dem Fremden sollst du sie überlassen. Ich bin der HERR, euer Gott.
+19	11	Ihr sollt nicht stehlen; und ihr sollt nicht leugnen und nicht falsch handeln, einer gegenüber seinem Mitmenschen.
+19	12	Und ihr sollt nicht bei meinem Namen zur Falschheit schwören, sodass du den Namen deines Gottes entweihst. Ich bin der HERR.
+19	13	Du sollst deinen Nächsten nicht erpressen und nicht ausplündern. Das Entgelt des Tagelöhners soll nicht bei dir übernachten bis zum Morgen.
+19	14	Du sollst den Tauben nicht verwünschen, und vor einen Blinden sollst du keinen Strauchelstein legen; und du sollst dich vor deinem Gott fürchten. Ich bin der HERR.
+19	15	Ihr sollt kein Unrecht tun im Gericht. Du sollst nicht das Angesicht des Geringen annehmen und nicht das Angesicht des Grossen begünstigen; in Gerechtigkeit sollst du deinen Mitmenschen richten.
+19	16	Du sollst nicht als Zwischenträger umhergehen unter deinem Volk. Du sollst nicht beim Blut deines Nächsten stehen. Ich bin der HERR.
+19	17	Du sollst deinen Bruder nicht hassen in deinem Herzen. Zurechtweisen sollst du deinen Mitmenschen, und du sollst seinetwegen nicht Sünde tragen.
+19	18	Du sollst an den Kindern deines Volkes nicht Rache nehmen und ihnen nichts nachtragen, und du sollst deinen Nächsten lieben wie dich selbst. Ich bin der HERR.
+19	19	Meine Satzungen sollt ihr bewahren: Bei deinem Vieh sollst du nicht zweierlei Art paaren; dein Feld sollst du nicht mit zweierlei Art besäen; und ein Kleid aus zweierlei Art, ein Mischgewebe, soll nicht auf dich kommen.
+19	20	Und wenn ein Mann sich zu einer Frau legt mit Samenerguss, und sie ist eine Sklavin, einem Mann zugesprochen, und losgekauft ist sie keineswegs, oder es ist ihr nicht gegeben worden, frei zu sein, so soll es eine Untersuchung geben; sie sollen nicht zu Tode gebracht werden, denn sie war nicht frei.
+19	21	Und er soll seine Verschuldung dem HERRN bringen, an den Eingang des Zeltes der Begegnung, einen Widder als Schuldopfer.
+19	22	Und der Priester soll für ihn Sühne schaffen mit dem Widder des Schuldopfers vor dem Angesicht des HERRN für seine Sünde, die er gesündigt hat; und es wird ihm seine Sünde vergeben werden, die er gesündigt hat.
+19	23	Und wenn ihr in das Land kommt und jeden Baum pflanzt, von dem man isst, so sollt ihr seine Frucht als seine Vorhaut ansehen: Drei Jahre soll sie euch unbeschnitten sein; sie soll nicht gegessen werden.
+19	24	Und im vierten Jahr soll all seine Frucht heilig sein, zur Lobfeier für den HERRN.
+19	25	Und im fünften Jahr sollt ihr seine Frucht essen, um euch seinen Ertrag hinzuzufügen. Ich bin der HERR, euer Gott.
+19	26	Ihr sollt nicht über dem Blut essen. Ihr sollt nicht Vorzeichen lesen und nicht Wolkenschau treiben.
+19	27	Ihr sollt die Seite eures Hauptes nicht abrunden, und du sollst die Seite deines Bartes nicht verderben.
+19	28	Und einen Einschnitt um einer Seele willen sollt ihr nicht an eurem Fleisch anbringen, und eingeritzte Schrift sollt ihr nicht an euch anbringen. Ich bin der HERR.
+19	29	Entweihe deine Tochter nicht, indem du sie huren lässt, damit das Land nicht hurt und das Land nicht voll wird von Schandtat.
+19	30	Meine Sabbate sollt ihr bewahren, und mein Heiligtum sollt ihr fürchten. Ich bin der HERR.
+19	31	Wendet euch nicht zu den Totenstimmen und zu den Wissenden; sucht sie nicht, um durch sie unrein zu werden. Ich bin der HERR, euer Gott.
+19	32	Vor dem grauen Haar sollst du aufstehen, und das Angesicht des Alten sollst du achten; und du sollst dich vor deinem Gott fürchten. Ich bin der HERR.
+19	33	Und wenn ein Fremder bei dir zu Gast ist in eurem Land, so sollt ihr ihn nicht niederzwingen.
+19	34	Wie ein Einheimischer von euch soll euch der Fremde sein, der bei euch zu Gast ist, und du sollst ihn lieben wie dich selbst; denn Fremde seid ihr gewesen im Land Ägypten. Ich bin der HERR, euer Gott.
+19	35	Ihr sollt kein Unrecht tun im Gericht, beim Mass, beim Gewicht und beim Hohlmass.
+19	36	Eine Waage der Gerechtigkeit, Steine der Gerechtigkeit, ein Efa der Gerechtigkeit und ein Hin der Gerechtigkeit sollt ihr haben. Ich bin der HERR, euer Gott, der euch herausgeführt hat aus dem Land Ägypten.
+19	37	Und ihr sollt alle meine Satzungen und alle meine Rechtsentscheide bewahren und sie tun. Ich bin der HERR.›»
+20	1	Und der HERR redete zu Mose:
+20	2	«Und zu den Kindern Israels sollst du sagen: ‹Jeder von den Kindern Israels und vom Fremden, der in Israel zu Gast ist, der von seinen Nachkommen dem Moloch hingibt, soll des Todes sterben; das Volk des Landes soll ihn mit Steinen steinigen.
+20	3	Und ich selbst werde mein Angesicht gegen jenen Menschen setzen und werde ihn ausrotten mitten aus seinem Volk, weil er von seinen Nachkommen dem Moloch hingegeben hat, um mein Heiligtum zu verunreinigen und meinen heiligen Namen zu entweihen.
+20	4	Und wenn das Volk des Landes jenen Menschen doch übersieht, wenn er von seinen Nachkommen dem Moloch hingibt, sodass es ihn nicht zu Tode bringt,
+20	5	so werde ich selbst mein Angesicht gegen jenen Menschen und gegen seine Sippe setzen und werde ihn ausrotten und alle, die ihm nachhuren, um dem Moloch nachzuhuren, mitten aus ihrem Volk.
+20	6	Und die Seele, die sich zu den Totenstimmen und zu den Wissenden wendet, um ihnen nachzuhuren — ich werde mein Angesicht gegen jene Seele setzen und werde sie ausrotten mitten aus ihrem Volk.
+20	7	Und ihr sollt euch heiligen und sollt heilig sein; denn ich bin der HERR, euer Gott.
+20	8	Und ihr sollt meine Satzungen bewahren und sie tun. Ich bin der HERR, der euch heiligt.
+20	9	Denn jeder, der seinen Vater oder seine Mutter verwünscht, soll des Todes sterben; seinen Vater oder seine Mutter hat er verwünscht — sein Blut ist auf ihm.
+20	10	Und ein Mann, der die Ehe bricht mit der Frau eines Mannes, der die Ehe bricht mit der Frau seines Nächsten — des Todes sterben sollen der Ehebrecher und die Ehebrecherin.
+20	11	Und ein Mann, der sich zu der Frau seines Vaters legt — die Blösse seines Vaters hat er aufgedeckt; beide sollen des Todes sterben, ihr Blut ist auf ihnen.
+20	12	Und ein Mann, der sich zu seiner Schwiegertochter legt — beide sollen des Todes sterben; eine Vermengung haben sie getan, ihr Blut ist auf ihnen.
+20	13	Und ein Mann, der sich zu einem Männlichen legt, wie man sich zu einer Frau legt — einen Gräuel haben beide getan; sie sollen des Todes sterben, ihr Blut ist auf ihnen.
+20	14	Und ein Mann, der eine Frau und ihre Mutter nimmt — eine Schandtat ist es; im Feuer soll man ihn und die beiden Frauen verbrennen, damit keine Schandtat in eurer Mitte sei.
+20	15	Und ein Mann, der einem Vieh seinen Erguss gibt, soll des Todes sterben; und das Vieh sollt ihr töten.
+20	16	Und eine Frau, die irgendeinem Vieh nahe kommt, damit es bei ihr liege — du sollst die Frau und das Vieh töten; sie sollen des Todes sterben, ihr Blut ist auf ihnen.
+20	17	Und ein Mann, der seine Schwester nimmt, die Tochter seines Vaters oder die Tochter seiner Mutter, und er sieht ihre Blösse, und sie sieht seine Blösse — eine Schmach ist es; sie sollen ausgerottet werden vor den Augen der Kinder ihres Volkes. Die Blösse seiner Schwester hat er aufgedeckt; er wird seine Schuld tragen.
+20	18	Und ein Mann, der sich zu einer Frau legt, die unwohl ist, und ihre Blösse aufdeckt — ihre Quelle hat er blossgelegt, und sie hat die Quelle ihres Blutes aufgedeckt; beide sollen ausgerottet werden mitten aus ihrem Volk.
+20	19	Und die Blösse der Schwester deiner Mutter und der Schwester deines Vaters sollst du nicht aufdecken; denn sein Fleisch hat er blossgelegt — sie werden ihre Schuld tragen.
+20	20	Und ein Mann, der sich zu seiner Tante legt — die Blösse seines Onkels hat er aufgedeckt; sie werden ihre Sünde tragen, kinderlos werden sie sterben.
+20	21	Und ein Mann, der die Frau seines Bruders nimmt — eine Absonderung ist es; die Blösse seines Bruders hat er aufgedeckt, kinderlos werden sie sein.
+20	22	Und ihr sollt alle meine Satzungen und alle meine Rechtsentscheide bewahren und sie tun, und das Land, in das ich euch bringe, um darin zu wohnen, soll euch nicht ausspeien.
+20	23	Und ihr sollt nicht in den Satzungen des Volkes gehen, das ich vor euch fortsende; denn all dies haben sie getan, und mich ekelte vor ihnen.
+20	24	Und ich habe zu euch gesagt: Ihr sollt ihren Boden erben, und ich will ihn euch geben, damit ihr ihn erbt — ein Land, das von Milch und Honig fliesst. Ich bin der HERR, euer Gott, der euch von den Völkern getrennt hat.
+20	25	Und ihr sollt das reine Vieh vom unreinen trennen und die unreinen Vögel von den reinen; und macht eure Seelen nicht zum Gräuel durch das Vieh und durch die Vögel und durch alles, wovon der Boden sich regt, das ich für euch als unrein getrennt habe.
+20	26	Und ihr sollt mir heilig sein, weil ich heilig bin, der HERR; und ich habe euch von den Völkern getrennt, damit ihr mir gehört.
+20	27	Und ein Mann oder eine Frau — wenn in ihnen eine Totenstimme oder ein Wissender ist, sollen sie des Todes sterben; mit Steinen soll man sie steinigen, ihr Blut ist auf ihnen.›»
+21	1	Und der HERR sagte zu Mose: «Sage zu den Priestern, den Söhnen Aarons, und sage zu ihnen: ‹Um einer Seele willen soll sich keiner verunreinigen unter seinem Volk,
+21	2	ausser um seines Fleisches willen, das ihm nahesteht: um seiner Mutter und um seines Vaters willen, um seines Sohnes und um seiner Tochter und um seines Bruders willen
+21	3	und um seiner Schwester willen, der Jungfrau, die ihm nahesteht, die noch keinem Mann gehört hat; um ihretwillen darf er sich verunreinigen.
+21	4	Als Ehemann soll er sich nicht verunreinigen unter seinem Volk, sodass er sich entweiht.
+21	5	Sie sollen an ihrem Haupt keine Glatze kahl machen, und die Seite ihres Bartes sollen sie nicht abrasieren, und an ihrem Fleisch sollen sie keinen Einschnitt einschneiden.
+21	6	Heilig sollen sie ihrem Gott sein, und den Namen ihres Gottes sollen sie nicht entweihen; denn die Feueropfer des HERRN, das Brot ihres Gottes, bringen sie dar, und sie sollen heilig sein.
+21	7	Eine Frau, die eine Hure ist oder entweiht, sollen sie nicht nehmen, und eine Frau, die von ihrem Mann verstossen ist, sollen sie nicht nehmen; denn heilig ist er seinem Gott.
+21	8	Und du sollst ihn heiligen, denn das Brot deines Gottes bringt er dar; heilig soll er dir sein, weil ich heilig bin, der HERR, der euch heiligt.
+21	9	Und wenn die Tochter eines Priesters sich entweiht, indem sie hurt: Ihren Vater entweiht sie; im Feuer soll sie verbrannt werden.
+21	10	Und der Priester, der grösser ist als seine Brüder, auf dessen Haupt das Öl der Salbung gegossen ist und dessen Hand man gefüllt hat, um die Kleider anzuziehen: Sein Haupt soll er nicht unbedeckt lassen, und seine Kleider soll er nicht einreissen.
+21	11	Und zu keinen Seelen eines Toten soll er kommen; um seines Vaters und um seiner Mutter willen soll er sich nicht verunreinigen.
+21	12	Und aus dem Heiligtum soll er nicht hinausgehen, und er soll das Heiligtum seines Gottes nicht entweihen; denn das Diadem, das Öl der Salbung seines Gottes, ist auf ihm. Ich bin der HERR.
+21	13	Und er soll eine Frau in ihrer Jungfrauschaft nehmen.
+21	14	Eine Witwe und eine Verstossene und eine Entweihte, eine Hure — diese soll er nicht nehmen; sondern eine Jungfrau aus seinem Volk soll er zur Frau nehmen.
+21	15	Und er soll seine Nachkommen nicht entweihen unter seinem Volk; denn ich bin der HERR, der ihn heiligt.›»
+21	16	Und der HERR redete zu Mose:
+21	17	«Rede zu Aaron: ‹Ein Mann aus deinen Nachkommen für ihre Geschlechter, an dem ein Fehl ist, soll nicht herantreten, um das Brot seines Gottes darzubringen.
+21	18	Denn kein Mann, an dem ein Fehl ist, soll herantreten: kein Blinder oder Lahmer, keiner mit verunstalteter Nase oder mit einem überlangen Körperteil,
+21	19	kein Mann, an dem ein Bruch am Fuss ist oder ein Bruch an der Hand,
+21	20	kein Buckliger oder Magerer, keiner mit einer Schliere in seinem Auge, mit Krätze oder mit Schorf oder mit gequetschtem Hoden.
+21	21	Kein Mann aus den Nachkommen Aarons, des Priesters, an dem ein Fehl ist, soll herankommen, um die Feueropfer des HERRN darzubringen; ein Fehl ist an ihm: Das Brot seines Gottes darzubringen, soll er nicht herankommen.
+21	22	Das Brot seines Gottes, von den hochheiligen Dingen und von den heiligen Dingen, darf er essen.
+21	23	Nur zum Vorhang soll er nicht kommen, und zum Altar soll er nicht herankommen, denn ein Fehl ist an ihm; und er soll meine Heiligtümer nicht entweihen, denn ich bin der HERR, der sie heiligt.›»
+21	24	Und Mose redete zu Aaron und zu seinen Söhnen und zu allen Kindern Israels.
+22	1	Und der HERR redete zu Mose:
+22	2	«Rede zu Aaron und zu seinen Söhnen, dass sie sich fernhalten von den heiligen Dingen der Kinder Israels, die sie mir weihen, und meinen heiligen Namen nicht entweihen. Ich bin der HERR.
+22	3	Sage zu ihnen: ‹Für eure Geschlechter: Jeder von all euren Nachkommen, der an die heiligen Dinge herantritt, die die Kinder Israels dem HERRN weihen, während seine Unreinheit auf ihm ist — jene Seele soll ausgerottet werden vor meinem Angesicht weg. Ich bin der HERR.
+22	4	Jeder von den Nachkommen Aarons, der aussätzig ist oder einen Fluss hat, soll von den heiligen Dingen nicht essen, bis er rein wird. Und wer irgendetwas berührt, das durch eine Seele unrein ist, oder ein Mann, von dem ein Samenerguss herauskommt,
+22	5	oder ein Mann, der irgendein Gewimmel berührt, durch das er unrein wird, oder einen Menschen, durch den er unrein wird, bei irgendeiner seiner Unreinheiten —
+22	6	die Seele, die es berührt, ist unrein bis zum Abend; und er soll nicht von den heiligen Dingen essen, es sei denn, er hat sein Fleisch im Wasser gebadet.
+22	7	Ist die Sonne untergegangen, so ist er rein, und danach darf er von den heiligen Dingen essen; denn es ist sein Brot.
+22	8	Aas oder Gerissenes soll er nicht essen, sodass er dadurch unrein würde. Ich bin der HERR.
+22	9	Und sie sollen bewahren, was ich zu bewahren gebe, damit sie nicht seinetwegen Sünde tragen und daran sterben, weil sie es entweihen. Ich bin der HERR, der sie heiligt.
+22	10	Und keiner, der fremd ist, soll Heiliges essen; der Beisasse eines Priesters und ein Tagelöhner soll nicht Heiliges essen.
+22	11	Wenn aber ein Priester eine Seele erwirbt als Besitz für sein Silber, der darf davon essen; und die in seinem Haus Geborenen, sie dürfen von seinem Brot essen.
+22	12	Und wenn die Tochter eines Priesters einem fremden Mann gehört, so soll sie von der Abgabe der heiligen Dinge nicht essen.
+22	13	Wird aber die Tochter eines Priesters Witwe oder Verstossene und hat keine Nachkommen und kehrt in das Haus ihres Vaters zurück wie in ihrer Jugend, so darf sie vom Brot ihres Vaters essen; aber keiner, der fremd ist, soll davon essen.
+22	14	Und wenn ein Mensch aus Versehen Heiliges isst, so soll er den Fünften davon hinzufügen und dem Priester das Heilige geben.
+22	15	Und sie sollen die heiligen Dinge der Kinder Israels nicht entweihen, das, was sie für den HERRN erheben,
+22	16	und sie so die Schuld der Verschuldung tragen lassen, wenn sie ihre heiligen Dinge essen; denn ich bin der HERR, der sie heiligt.›»
+22	17	Und der HERR redete zu Mose:
+22	18	«Rede zu Aaron und zu seinen Söhnen und zu allen Kindern Israels und sage zu ihnen: ‹Jeder aus dem Haus Israel und vom Fremden in Israel, der seine Opfergabe darbringt, bei all ihren Gelübden und bei all ihren freiwilligen Gaben, die sie dem HERRN als Brandopfer darbringen —
+22	19	euch zum Wohlgefallen: ein männliches Tier, ein untadeliges, von den Rindern, von den Lämmern und von den Ziegen.
+22	20	Alles, woran ein Fehl ist, sollt ihr nicht darbringen; denn es wird nicht zum Wohlgefallen für euch sein.
+22	21	Und wenn ein Mensch dem HERRN ein Schlachtopfer der Friedensopfer darbringt, um ein besonderes Gelübde zu tun, oder als freiwillige Gabe, von den Rindern oder von den Schafen, so soll es untadelig sein, zum Wohlgefallen; keinerlei Fehl soll an ihm sein.
+22	22	Was blind ist oder gebrochen oder verstümmelt oder Warzen hat oder Krätze oder Schorf — diese sollt ihr dem HERRN nicht darbringen, und ein Feueropfer sollt ihr von ihnen nicht auf den Altar geben für den HERRN.
+22	23	Einen Ochsen oder ein Lamm, überlang oder verkümmert, darfst du als freiwillige Gabe zubereiten; aber für ein Gelübde findet es kein Wohlgefallen.
+22	24	Und was zerdrückt oder zerstampft oder zerrissen oder abgehauen ist, sollt ihr dem HERRN nicht darbringen; und in eurem Land sollt ihr das nicht tun.
+22	25	Und aus der Hand von einem aus der Fremde sollt ihr von all diesen nicht das Brot eures Gottes darbringen; denn ihre Verderbnis ist an ihnen, ein Fehl ist an ihnen; sie finden für euch kein Wohlgefallen.›»
+22	26	Und der HERR redete zu Mose:
+22	27	«Wenn ein Ochse oder ein Lamm oder eine Ziege geboren wird, so soll es sieben Tage unter seiner Mutter sein; und vom achten Tag an und weiter findet es Wohlgefallen zur Opfergabe, als Feueropfer für den HERRN.
+22	28	Und einen Ochsen oder ein Lamm — es und sein Junges sollt ihr nicht an einem Tag schlachten.
+22	29	Und wenn ihr dem HERRN ein Schlachtopfer des Dankes darbringt, so sollt ihr es als Schlachtopfer darbringen, euch zum Wohlgefallen.
+22	30	An jenem Tag soll es gegessen werden; ihr sollt nichts davon übrig lassen bis zum Morgen. Ich bin der HERR.
+22	31	Und ihr sollt meine Gebote bewahren und sie tun. Ich bin der HERR.
+22	32	Und ihr sollt meinen heiligen Namen nicht entweihen, und ich will mich als heilig erweisen inmitten der Kinder Israels. Ich bin der HERR, der euch heiligt,
+22	33	der euch herausgeführt hat aus dem Land Ägypten, um euer Gott zu sein. Ich bin der HERR.»
+23	1	Und der HERR redete zu Mose:
+23	2	«Rede zu den Kindern Israels und sage zu ihnen: ‹Die bestimmten Zeiten des HERRN, die ihr als heilige Ausrufungen ausrufen sollt — dies sind meine bestimmten Zeiten:
+23	3	Sechs Tage soll Arbeit getan werden, aber am siebten Tag ist ein Sabbat, ein Ruhetag, eine heilige Ausrufung; keinerlei Arbeit sollt ihr tun. Sabbat ist er für den HERRN, wo ihr auch wohnt.
+23	4	Dies sind die bestimmten Zeiten des HERRN, heilige Ausrufungen, die ihr ausrufen sollt zu ihrer bestimmten Zeit:
+23	5	Im ersten Monat, am Vierzehnten des Monats, zwischen den beiden Abenden, ist ein Passa für den HERRN.
+23	6	Und am fünfzehnten Tag dieses Monats ist das Fest der Ungesäuerten Brote für den HERRN; sieben Tage sollt ihr ungesäuerte Brote essen.
+23	7	Am ersten Tag soll bei euch eine heilige Ausrufung sein; keinerlei Dienstarbeit sollt ihr tun.
+23	8	Und ihr sollt dem HERRN sieben Tage lang ein Feueropfer darbringen. Am siebten Tag ist eine heilige Ausrufung; keinerlei Dienstarbeit sollt ihr tun.›»
+23	9	Und der HERR redete zu Mose:
+23	10	«Rede zu den Kindern Israels und sage zu ihnen: ‹Wenn ihr in das Land kommt, das ich euch gebe, und seine Ernte erntet, so sollt ihr die Garbe vom Erstling eurer Ernte zum Priester bringen.
+23	11	Und er soll die Garbe vor dem Angesicht des HERRN schwingen, euch zum Wohlgefallen; am Tag nach dem Sabbat soll der Priester sie schwingen.
+23	12	Und an dem Tag, an dem ihr die Garbe schwingt, sollt ihr ein untadeliges Lamm, ein Jahr alt, als Brandopfer für den HERRN zubereiten,
+23	13	und sein Speiseopfer: zwei Zehntel Feinmehl, vermengt mit Öl, ein Feueropfer für den HERRN, ein Duft des Wohlgeruchs; und sein Trankopfer: ein Viertel Hin Wein.
+23	14	Und Brot und Geröstetes und Frischkorn sollt ihr nicht essen bis zu eben diesem Tag, bis ihr die Opfergabe eures Gottes gebracht habt. Eine ewige Satzung ist das für eure Geschlechter, wo ihr auch wohnt.
+23	15	Und ihr sollt für euch zählen vom Tag nach dem Sabbat an, von dem Tag an, an dem ihr die Garbe des Schwingopfers gebracht habt: Sieben ganze Sabbate sollen es sein.
+23	16	Bis zum Tag nach dem siebten Sabbat sollt ihr fünfzig Tage zählen; dann sollt ihr dem HERRN ein neues Speiseopfer darbringen.
+23	17	Von da, wo ihr wohnt, sollt ihr Brot des Schwingopfers bringen, zwei Brote; aus zwei Zehnteln Feinmehl sollen sie sein, als Gesäuertes sollen sie gebacken werden, als Frühfrüchte für den HERRN.
+23	18	Und ihr sollt zu dem Brot sieben untadelige Lämmer darbringen, ein Jahr alt, und einen Jungstier, ein junges Rind, und zwei Widder; sie sollen ein Brandopfer für den HERRN sein, mit ihrem Speiseopfer und ihren Trankopfern, ein Feueropfer, ein Duft des Wohlgeruchs für den HERRN.
+23	19	Und ihr sollt einen Ziegenbock als Sündopfer zubereiten und zwei Lämmer, ein Jahr alt, als Schlachtopfer der Friedensopfer.
+23	20	Und der Priester soll sie zu dem Brot der Frühfrüchte als Schwingopfer schwingen vor dem Angesicht des HERRN, zu den zwei Lämmern; heilig sollen sie dem HERRN sein, für den Priester.
+23	21	Und ihr sollt an eben diesem Tag ausrufen: Eine heilige Ausrufung soll bei euch sein; keinerlei Dienstarbeit sollt ihr tun. Eine ewige Satzung ist das, wo ihr auch wohnt, für eure Geschlechter.
+23	22	Und wenn ihr die Ernte eures Landes erntet, sollst du die Seite deines Feldes nicht zu Ende ernten bei deinem Ernten, und die Nachlese deiner Ernte sollst du nicht sammeln; dem Elenden und dem Fremden sollst du sie überlassen. Ich bin der HERR, euer Gott.›»
+23	23	Und der HERR redete zu Mose:
+23	24	«Rede zu den Kindern Israels: ‹Im siebten Monat, am Ersten des Monats, soll bei euch ein Ruhetag sein, ein Gedenken mit Jubelschall, eine heilige Ausrufung.
+23	25	Keinerlei Dienstarbeit sollt ihr tun, und ihr sollt dem HERRN ein Feueropfer darbringen.›»
+23	26	Und der HERR redete zu Mose:
+23	27	«Ja, am Zehnten dieses siebten Monats ist der Tag der Sühnung; eine heilige Ausrufung soll bei euch sein, und ihr sollt eure Seelen beugen und dem HERRN ein Feueropfer darbringen.
+23	28	Und keinerlei Arbeit sollt ihr tun an eben diesem Tag; denn ein Tag der Sühnung ist er, um Sühne zu schaffen für euch vor dem Angesicht des HERRN, eures Gottes.
+23	29	Denn jede Seele, die nicht gebeugt wird an eben diesem Tag, die soll ausgerottet werden aus ihrem Volk.
+23	30	Und jede Seele, die an eben diesem Tag eine Arbeit tut — jene Seele werde ich vertilgen mitten aus ihrem Volk.
+23	31	Keinerlei Arbeit sollt ihr tun. Eine ewige Satzung ist das für eure Geschlechter, wo ihr auch wohnt.
+23	32	Ein Sabbat, ein Ruhetag ist es für euch, und ihr sollt eure Seelen beugen; am Neunten des Monats, am Abend, vom Abend bis zum Abend, sollt ihr euren Sabbat ruhen.»
+23	33	Und der HERR redete zu Mose:
+23	34	«Rede zu den Kindern Israels: ‹Am fünfzehnten Tag dieses siebten Monats ist das Fest der Hütten, sieben Tage lang, für den HERRN.
+23	35	Am ersten Tag ist eine heilige Ausrufung; keinerlei Dienstarbeit sollt ihr tun.
+23	36	Sieben Tage lang sollt ihr dem HERRN ein Feueropfer darbringen. Am achten Tag soll bei euch eine heilige Ausrufung sein, und ihr sollt dem HERRN ein Feueropfer darbringen; ein Feiertag ist es, keinerlei Dienstarbeit sollt ihr tun.
+23	37	Dies sind die bestimmten Zeiten des HERRN, die ihr als heilige Ausrufungen ausrufen sollt, um dem HERRN ein Feueropfer darzubringen: Brandopfer und Speiseopfer, Schlachtopfer und Trankopfer, was der Tag fordert, Tag für Tag,
+23	38	ausser den Sabbaten des HERRN und ausser euren Gaben und ausser all euren Gelübden und ausser all euren freiwilligen Gaben, die ihr dem HERRN gebt.
+23	39	Ja, am fünfzehnten Tag des siebten Monats, wenn ihr den Ertrag des Landes einsammelt, sollt ihr das Fest des HERRN feiern, sieben Tage lang; am ersten Tag ist ein Ruhetag, und am achten Tag ist ein Ruhetag.
+23	40	Und ihr sollt euch am ersten Tag Frucht glänzender Bäume nehmen, Wedel von Palmen und Zweige dichtbelaubter Bäume und Bachpappeln; und ihr sollt euch freuen vor dem Angesicht des HERRN, eures Gottes, sieben Tage lang.
+23	41	Und ihr sollt es als Fest für den HERRN feiern, sieben Tage im Jahr; als ewige Satzung für eure Geschlechter sollt ihr es im siebten Monat feiern.
+23	42	In den Hütten sollt ihr wohnen sieben Tage lang; alle Einheimischen in Israel sollen in den Hütten wohnen,
+23	43	damit eure Geschlechter wissen, dass ich die Kinder Israels in Hütten habe wohnen lassen, als ich sie aus dem Land Ägypten herausführte. Ich bin der HERR, euer Gott.›»
+23	44	Und Mose redete zu den Kindern Israels von den bestimmten Zeiten des HERRN.
+24	1	Und der HERR redete zu Mose:
+24	2	«Gebiete den Kindern Israels, dass sie dir klares Öl aus zerstampften Oliven holen für die Leuchte, um eine beständige Lampe aufsteigen zu lassen.
+24	3	Aussen vor dem Vorhang des Zeugnisses, im Zelt der Begegnung, soll Aaron sie zurichten vom Abend bis zum Morgen vor dem Angesicht des HERRN, beständig. Eine ewige Satzung ist das für eure Geschlechter.
+24	4	Auf dem reinen Leuchter soll er die Lampen zurichten vor dem Angesicht des HERRN, beständig.
+24	5	Und du sollst Feinmehl nehmen und daraus zwölf Ringbrote backen; zwei Zehntel soll ein Ringbrot sein.
+24	6	Und du sollst sie in zwei Reihen legen, sechs in einer Reihe, auf den reinen Tisch vor dem Angesicht des HERRN.
+24	7	Und du sollst auf jede Reihe klaren Weihrauch geben, und er soll für das Brot der Gedenkteil sein, ein Feueropfer für den HERRN.
+24	8	Sabbattag um Sabbattag soll er es beständig vor dem Angesicht des HERRN herrichten — ein ewiger Bund, der den Kindern Israels obliegt.
+24	9	Und es soll Aaron und seinen Söhnen gehören, und sie sollen es an einem heiligen Ort essen; denn ein Hochheiliges ist es für ihn von den Feueropfern des HERRN, als ewige Satzung.»
+24	10	Und der Sohn einer israelitischen Frau ging hinaus — er war aber der Sohn eines ägyptischen Mannes — mitten unter die Kinder Israels; und der Sohn der Israelitin und ein israelitischer Mann rangen miteinander im Lager.
+24	11	Und der Sohn der israelitischen Frau lästerte den Namen und verwünschte; und sie brachten ihn zu Mose. Der Name seiner Mutter aber war Schelomit, die Tochter Dibris, vom Stamm Dan.
+24	12	Und sie liessen ihn im Gefängnis, damit es ihnen nach dem Mund des HERRN deutlich gemacht werde.
+24	13	Und der HERR redete zu Mose:
+24	14	«Führe den, der verwünscht hat, hinaus, ausserhalb des Lagers; und alle, die es gehört haben, sollen ihre Hände auf sein Haupt stützen, und die ganze Gemeinschaft soll ihn steinigen.
+24	15	Und zu den Kindern Israels sollst du reden: ‹Jeder, der seinen Gott verwünscht, wird seine Sünde tragen.
+24	16	Und wer den Namen des HERRN lästert, soll des Todes sterben; steinigen soll ihn die ganze Gemeinschaft. Der Fremde wie der Einheimische: wenn er den Namen lästert, soll er zu Tode gebracht werden.
+24	17	Und wenn jemand irgendeinen Menschen ums Leben schlägt, soll er des Todes sterben.
+24	18	Und wer ein Stück Vieh ums Leben schlägt, soll es erstatten: Leben für Leben.
+24	19	Und wenn jemand seinem Mitmenschen einen Fehl beibringt — wie er getan hat, so soll ihm getan werden:
+24	20	Bruch für Bruch, Auge für Auge, Zahn für Zahn; wie er einem Menschen einen Fehl beibringt, so soll er ihm beigebracht werden.
+24	21	Und wer ein Stück Vieh schlägt, soll es erstatten; und wer einen Menschen schlägt, soll zu Tode gebracht werden.
+24	22	Ein Recht soll für euch gelten: für den Fremden wie für den Einheimischen soll es gelten; denn ich bin der HERR, euer Gott.›»
+24	23	Und Mose redete zu den Kindern Israels; und sie führten den, der verwünscht hatte, hinaus, ausserhalb des Lagers, und steinigten ihn mit Steinen. Und die Kinder Israels taten, wie der HERR Mose geboten hatte.
+25	1	Und der HERR redete zu Mose auf dem Berg Sinai:
+25	2	«Rede zu den Kindern Israels und sage zu ihnen: ‹Wenn ihr in das Land kommt, das ich euch gebe, so soll das Land dem HERRN einen Sabbat ruhen.
+25	3	Sechs Jahre sollst du dein Feld besäen und sechs Jahre deinen Weinberg schneiden und den Ertrag des Landes einsammeln;
+25	4	aber im siebten Jahr soll ein Sabbat, ein Ruhejahr, für das Land sein, ein Sabbat für den HERRN: Dein Feld sollst du nicht besäen, und deinen Weinberg sollst du nicht schneiden.
+25	5	Den Nachwuchs deiner Ernte sollst du nicht ernten, und die Trauben deines ungeschnittenen Stocks sollst du nicht abernten; ein Ruhejahr soll es für das Land sein.
+25	6	Und der Sabbat des Landes soll euch zum Essen sein: dir und deinem Sklaven und deiner Sklavin und deinem Tagelöhner und deinem Beisassen, die bei dir zu Gast sind,
+25	7	und deinem Vieh und dem Getier, das in deinem Land ist — all sein Ertrag soll zum Essen sein.
+25	8	Und du sollst dir sieben Sabbate von Jahren zählen, siebenmal sieben Jahre, und die Tage der sieben Sabbate von Jahren sollen dir neunundvierzig Jahre sein.
+25	9	Und du sollst im siebten Monat, am Zehnten des Monats, das Widderhorn des Jubelschalls hindurchgehen lassen; am Tag der Sühnung sollt ihr das Widderhorn durch euer ganzes Land hindurchgehen lassen.
+25	10	Und ihr sollt das fünfzigste Jahr heiligen und im Land Freilassung ausrufen für alle seine Bewohner. Ein Jobeljahr soll es für euch sein, und ihr sollt zurückkehren, jeder zu seinem Besitz, und jeder zu seiner Sippe sollt ihr zurückkehren.
+25	11	Ein Jobeljahr ist es, das fünfzigste Jahr soll es für euch sein. Ihr sollt nicht säen, und den Nachwuchs sollt ihr nicht ernten, und die ungeschnittenen Stöcke sollt ihr nicht abernten.
+25	12	Denn ein Jobeljahr ist es; heilig soll es für euch sein. Vom Feld weg sollt ihr seinen Ertrag essen.
+25	13	In diesem Jobeljahr sollt ihr zurückkehren, jeder zu seinem Besitz.
+25	14	Und wenn ihr deinem Mitmenschen etwas verkauft oder aus der Hand deines Mitmenschen erwerbt, so soll keiner seinen Bruder niederzwingen.
+25	15	Nach der Zahl der Jahre seit dem Jobeljahr sollst du von deinem Mitmenschen erwerben; nach der Zahl der Ertragsjahre soll er dir verkaufen.
+25	16	Sind der Jahre viele, so sollst du seinen Erwerb mehren, und sind der Jahre wenige, so sollst du seinen Erwerb mindern; denn eine Zahl von Erträgen verkauft er dir.
+25	17	Und keiner soll seinen Mitmenschen niederzwingen, und du sollst dich vor deinem Gott fürchten; denn ich bin der HERR, euer Gott.
+25	18	Und ihr sollt meine Satzungen tun, und meine Rechtsentscheide sollt ihr bewahren und sie tun; so werdet ihr sicher im Land wohnen.
+25	19	Und das Land wird seine Frucht geben, und ihr werdet essen bis zur Sättigung und sicher darin wohnen.
+25	20	Und wenn ihr sagt: «Was sollen wir im siebten Jahr essen? Siehe, wir säen nicht, und unseren Ertrag sammeln wir nicht ein!»,
+25	21	so will ich euch im sechsten Jahr meinen Segen gebieten, und er wird den Ertrag für die drei Jahre hervorbringen.
+25	22	Und ihr werdet im achten Jahr säen und vom Ertrag essen, vom alten; bis ins neunte Jahr, bis sein Ertrag kommt, werdet ihr Altes essen.
+25	23	Und das Land soll nicht endgültig verkauft werden; denn mir gehört das Land, denn Fremde und Beisassen seid ihr bei mir.
+25	24	Und im ganzen Land eures Besitzes sollt ihr dem Land Erlösung geben.
+25	25	Wenn dein Bruder bedürftig wird und von seinem Besitz verkauft, so soll sein Erlöser kommen, der ihm nahesteht, und erlösen, was sein Bruder verkauft hat.
+25	26	Und wenn jemand keinen Erlöser hat, seine Hand es aber einholt und er findet, was für seine Erlösung genug ist,
+25	27	so soll er die Jahre seit seinem Verkauf zusammenrechnen und das, was zu viel ist, dem Mann zurückgeben, dem er verkauft hat; und er soll zu seinem Besitz zurückkehren.
+25	28	Wenn aber seine Hand nicht findet, was genug ist, um es ihm zurückzugeben, so soll, was er verkauft hat, in der Hand dessen sein, der es erworben hat, bis zum Jobeljahr; im Jobeljahr aber geht es hinaus, und er kehrt zu seinem Besitz zurück.
+25	29	Und wenn jemand ein Haus zum Wohnen in einer Stadt mit Mauer verkauft, so soll seine Erlösung gelten bis zum Ende des Jahres seines Verkaufs; ein Jahr lang soll seine Erlösung gelten.
+25	30	Wird es aber nicht erlöst, bis ihm ein ganzes Jahr voll geworden ist, so verbleibt das Haus, das in der Stadt ist, die eine Mauer hat, endgültig dem, der es erworben hat, für seine Geschlechter; im Jobeljahr geht es nicht hinaus.
+25	31	Aber die Häuser der Gehöfte, die keine Mauer ringsum haben, sollen zum Feld des Landes gerechnet werden; Erlösung soll es für sie geben, und im Jobeljahr gehen sie hinaus.
+25	32	Und die Städte der Leviten, die Häuser der Städte ihres Besitzes: Ewige Erlösung soll für die Leviten gelten.
+25	33	Und wer von den Leviten erlöst — so geht das verkaufte Haus in der Stadt seines Besitzes im Jobeljahr hinaus; denn die Häuser der Städte der Leviten sind ihr Besitz inmitten der Kinder Israels.
+25	34	Aber das Feld am Weideland ihrer Städte soll nicht verkauft werden; denn ewiger Besitz ist es für sie.
+25	35	Und wenn dein Bruder bedürftig wird und seine Hand bei dir wankt, so sollst du ihn fassen — wie einen Fremden und Beisassen —, und er soll bei dir leben.
+25	36	Du sollst von ihm nicht Zins und Aufschlag nehmen, und du sollst dich vor deinem Gott fürchten, und dein Bruder soll bei dir leben.
+25	37	Dein Silber sollst du ihm nicht um Zins geben, und um Aufschlag sollst du deine Speise nicht geben.
+25	38	Ich bin der HERR, euer Gott, der euch herausgeführt hat aus dem Land Ägypten, um euch das Land Kanaan zu geben, um euer Gott zu sein.
+25	39	Und wenn dein Bruder bei dir bedürftig wird und sich dir verkauft, so sollst du ihn nicht dienen lassen mit dem Dienst eines Sklaven.
+25	40	Wie ein Tagelöhner, wie ein Beisasse soll er bei dir sein; bis zum Jobeljahr soll er bei dir dienen.
+25	41	Dann soll er von dir hinausgehen, er und seine Kinder mit ihm, und zu seiner Sippe zurückkehren; zum Besitz seiner Väter soll er zurückkehren.
+25	42	Denn meine Knechte sind sie, die ich herausgeführt habe aus dem Land Ägypten; sie sollen nicht verkauft werden, wie man einen Sklaven verkauft.
+25	43	Du sollst nicht gewaltsam über ihn herrschen, und du sollst dich vor deinem Gott fürchten.
+25	44	Und dein Sklave und deine Sklavin, die du haben wirst: Von den Völkern, die rings um euch sind, von ihnen dürft ihr Sklaven und Sklavinnen erwerben.
+25	45	Und auch von den Kindern der Beisassen, die bei euch zu Gast sind, von ihnen dürft ihr erwerben und von ihrer Sippe, die bei euch ist, die sie in eurem Land gezeugt haben; und sie sollen euch zum Besitz werden.
+25	46	Und ihr dürft sie euren Kindern nach euch vererben, dass sie sie als Besitz erben; für immer dürft ihr sie dienen lassen. Aber über eure Brüder, die Kinder Israels — keiner über seinen Bruder —, sollst du nicht gewaltsam herrschen.
+25	47	Und wenn die Hand eines Fremden und Beisassen bei dir es einholt und dein Bruder neben ihm bedürftig wird und sich dem Fremden, dem Beisassen bei dir, verkauft oder einem Ableger der Sippe eines Fremden,
+25	48	so soll es, nachdem er sich verkauft hat, Erlösung für ihn geben: Einer von seinen Brüdern soll ihn erlösen,
+25	49	oder sein Onkel oder der Sohn seines Onkels soll ihn erlösen, oder einer, der Fleisch von seinem Fleisch ist, aus seiner Sippe, soll ihn erlösen; oder holt seine Hand es ein, so soll er sich erlösen.
+25	50	Und er soll mit dem, der ihn erworben hat, zusammenrechnen vom Jahr an, da er sich ihm verkauft hat, bis zum Jobeljahr; und das Silber seines Verkaufs soll nach der Zahl der Jahre sein: wie die Tage eines Tagelöhners soll er bei ihm sein.
+25	51	Sind es noch viele Jahre, so soll er nach ihnen seine Erlösung zurückgeben vom Silber seines Erwerbs.
+25	52	Und sind nur wenige Jahre übrig bis zum Jobeljahr, so soll er es ihm anrechnen: nach seinen Jahren soll er seine Erlösung zurückgeben.
+25	53	Wie ein Tagelöhner, Jahr um Jahr, soll er bei ihm sein; er soll nicht gewaltsam über ihn herrschen vor deinen Augen.
+25	54	Und wenn er nicht auf diese Weise erlöst wird, so soll er im Jobeljahr hinausgehen, er und seine Kinder mit ihm.
+25	55	Denn mir gehören die Kinder Israels als Knechte; meine Knechte sind sie, die ich herausgeführt habe aus dem Land Ägypten. Ich bin der HERR, euer Gott.›»
+26	1	«‹Ihr sollt euch keine Nichtse machen, und ein Schnitzbild und ein Steinmal sollt ihr euch nicht aufstellen, und einen Bildstein sollt ihr in eurem Land nicht setzen, um euch darauf niederzuwerfen; denn ich bin der HERR, euer Gott.
+26	2	Meine Sabbate sollt ihr bewahren, und mein Heiligtum sollt ihr fürchten. Ich bin der HERR.
+26	3	Wenn ihr in meinen Satzungen geht und meine Gebote bewahrt und sie tut,
+26	4	so will ich euch euren Regen geben zu seiner Zeit, und das Land wird seinen Ertrag geben, und der Baum des Feldes wird seine Frucht geben.
+26	5	Und die Dreschzeit wird bei euch die Weinlese einholen, und die Weinlese wird die Saat einholen; und ihr werdet euer Brot essen bis zur Sättigung und sicher wohnen in eurem Land.
+26	6	Und ich will Frieden geben im Land, und ihr werdet euch hinlegen, und keiner lässt euch zusammenfahren; und ich will den bösen Tieren im Land ein Ende machen, und das Schwert wird nicht durch euer Land ziehen.
+26	7	Und ihr werdet eure Feinde verfolgen, und sie werden vor euch fallen durch das Schwert.
+26	8	Und fünf von euch werden hundert verfolgen, und hundert von euch werden zehntausend verfolgen, und eure Feinde werden vor euch fallen durch das Schwert.
+26	9	Und ich will mich euch zuwenden und euch fruchtbar machen und euch mehren, und ich will meinen Bund mit euch bestehen lassen.
+26	10	Und ihr werdet Altes essen, lang Bestehendes, und das Alte werdet ihr vor dem Neuen hinausbringen.
+26	11	Und ich will meine Wohnung in eure Mitte setzen, und meine Seele wird nicht von euch angewidert sein.
+26	12	Und ich will in eurer Mitte umhergehen und euer Gott sein, und ihr werdet mein Volk sein.
+26	13	Ich bin der HERR, euer Gott, der euch herausgeführt hat aus dem Land Ägypten, damit ihr nicht mehr ihre Sklaven wärt; und ich habe die Stangen eures Jochs zerbrochen und euch aufrecht gehen lassen.
+26	14	Wenn ihr aber nicht auf mich hört und nicht alle diese Gebote tut,
+26	15	und wenn ihr meine Satzungen verwerft und wenn eure Seele von meinen Rechtsentscheiden angewidert ist, so dass ihr nicht alle meine Gebote tut und meinen Bund brecht,
+26	16	so will auch ich euch dies antun: Ich will Erschrecken über euch einsetzen, die Schwindsucht und das Fieber, die die Augen zu Ende gehen und die Seele verschmachten lassen; und ihr werdet euren Samen ins Leere säen, und eure Feinde werden ihn essen.
+26	17	Und ich will mein Angesicht gegen euch setzen, und ihr werdet vor euren Feinden niedergestreckt werden; und die euch hassen, werden über euch herrschen, und ihr werdet fliehen, und keiner verfolgt euch.
+26	18	Und wenn ihr auch dann nicht auf mich hört, so will ich euch wieder züchtigen, siebenmal für eure Sünden.
+26	19	Und ich will den Hochmut eurer Stärke zerbrechen, und ich will euren Himmel wie Eisen machen und euer Land wie Erz.
+26	20	Und ins Leere wird es aus sein mit eurer Kraft, und euer Land wird seinen Ertrag nicht geben, und der Baum des Landes wird seine Frucht nicht geben.
+26	21	Und wenn ihr im Widerstreben mit mir geht und nicht auf mich hören wollt, so will ich euch noch Wunden hinzufügen, siebenmal nach euren Sünden.
+26	22	Und ich will die Tiere des Feldes auf euch aussenden, und sie werden euch kinderlos machen und euer Vieh ausrotten und euch weniger werden lassen; und eure Wege werden verwüstet sein.
+26	23	Und wenn ihr euch dadurch nicht von mir erziehen lasst und im Widerstreben mit mir geht,
+26	24	so will auch ich im Widerstreben mit euch gehen, und auch ich will euch schlagen, siebenmal für eure Sünden.
+26	25	Und ich will ein Schwert über euch bringen, das Rache nimmt, die Rache des Bundes; und ihr werdet euch in eure Städte versammeln, und ich will die Pest in eure Mitte senden, und ihr werdet in die Hand des Feindes gegeben werden.
+26	26	Wenn ich euch den Stecken des Brotes zerbreche, werden zehn Frauen euer Brot in einem einzigen Ofen backen und euch euer Brot nach Gewicht zurückgeben; und ihr werdet essen und nicht satt werden.
+26	27	Und wenn ihr auch dabei nicht auf mich hört und im Widerstreben mit mir geht,
+26	28	so will ich im Grimm des Widerstrebens mit euch gehen, und auch ich will euch züchtigen, siebenmal für eure Sünden.
+26	29	Und ihr werdet das Fleisch eurer Söhne essen, und das Fleisch eurer Töchter werdet ihr essen.
+26	30	Und ich will eure Kulthöhen vernichten und eure Räucherständer abhauen und eure Kadaver auf die Kadaver eurer Götzenbilder legen, und meine Seele wird von euch angewidert sein.
+26	31	Und ich will eure Städte zu Trümmern machen und eure Heiligtümer verwüsten, und ich will den Duft eures Wohlgeruchs nicht riechen.
+26	32	Und ich, ich will das Land verwüsten, und eure Feinde, die darin wohnen, werden darüber erstarren.
+26	33	Und euch will ich unter die Völker zerstreuen und hinter euch her das Schwert zücken; und euer Land wird zur Verwüstung werden, und eure Städte werden Trümmer sein.
+26	34	Dann wird das Land seine Sabbate abgegolten bekommen, alle Tage, da es verwüstet daliegt, während ihr im Land eurer Feinde seid; dann wird das Land ruhen und sich seine Sabbate abgelten lassen.
+26	35	Alle Tage, da es verwüstet daliegt, wird es ruhen — so viel, wie es an euren Sabbaten nicht geruht hat, als ihr darauf wohntet.
+26	36	Und die unter euch übrig bleiben — in ihr Herz will ich Mutlosigkeit bringen in den Ländern ihrer Feinde, und das Rascheln eines verwehten Blattes wird sie verfolgen; und sie werden fliehen wie auf der Flucht vor dem Schwert und fallen, und keiner verfolgt.
+26	37	Und sie werden straucheln, einer über den andern, wie vor dem Schwert, und ein Verfolger ist nicht da; und ihr werdet kein Bestehen haben vor euren Feinden.
+26	38	Und ihr werdet umkommen unter den Völkern, und das Land eurer Feinde wird euch fressen.
+26	39	Und die unter euch übrig bleiben, werden in ihrer Schuld faulen in den Ländern eurer Feinde; und auch in der Schuld ihrer Väter werden sie mit ihnen faulen.
+26	40	Und sie werden ihre Schuld bekennen und die Schuld ihrer Väter, in ihrer Untreue, die sie an mir begangen haben, und auch, dass sie im Widerstreben mit mir gegangen sind
+26	41	und dass auch ich im Widerstreben mit ihnen gegangen bin und sie in das Land ihrer Feinde gebracht habe — wenn dann ihr unbeschnittenes Herz sich beugt und sie dann ihre Schuld abgelten,
+26	42	so will ich meines Bundes mit Jakob gedenken, und auch meines Bundes mit Isaak und auch meines Bundes mit Abraham will ich gedenken, und des Landes will ich gedenken.
+26	43	Und das Land wird von ihnen verlassen sein und seine Sabbate abgegolten bekommen, während es verwüstet daliegt ohne sie; und sie, sie werden ihre Schuld abgelten — weil, ja weil sie meine Rechtsentscheide verworfen haben und ihre Seele von meinen Satzungen angewidert war.
+26	44	Und doch, auch so: Wenn sie im Land ihrer Feinde sind, verwerfe ich sie nicht und bin nicht angewidert von ihnen, um sie aufzureiben, um meinen Bund mit ihnen zu brechen; denn ich bin der HERR, ihr Gott.
+26	45	Und ich will für sie des Bundes mit den Früheren gedenken, die ich herausgeführt habe aus dem Land Ägypten vor den Augen der Völker, um ihr Gott zu sein. Ich bin der HERR.›»
+26	46	Dies sind die Satzungen und die Rechtsentscheide und die Weisungen, die der HERR zwischen sich und den Kindern Israels gegeben hat auf dem Berg Sinai durch die Hand des Mose.
+27	1	Und der HERR redete zu Mose:
+27	2	«Rede zu den Kindern Israels und sage zu ihnen: ‹Wenn jemand ein besonderes Gelübde tut, Seelen nach deiner Schätzung für den HERRN,
+27	3	so soll deine Schätzung für das Männliche von zwanzig Jahren bis zu sechzig Jahren fünfzig Schekel Silber sein, nach dem Schekel des Heiligtums.
+27	4	Ist es aber ein Weibliches, so soll deine Schätzung dreissig Schekel sein.
+27	5	Und wenn es von fünf Jahren bis zu zwanzig Jahren ist, so soll deine Schätzung für das Männliche zwanzig Schekel sein und für das Weibliche zehn Schekel.
+27	6	Und wenn es von einem Monat bis zu fünf Jahren ist, so soll deine Schätzung für das Männliche fünf Schekel Silber sein, und für das Weibliche soll deine Schätzung drei Schekel Silber sein.
+27	7	Und wenn es sechzig Jahre alt ist und darüber: Ist es ein Männliches, so soll deine Schätzung fünfzehn Schekel sein und für das Weibliche zehn Schekel.
+27	8	Ist er aber zu bedürftig für deine Schätzung, so soll er ihn vor den Priester hinstellen, und der Priester soll ihn schätzen; nach dem, was die Hand dessen einholt, der gelobt hat, soll der Priester ihn schätzen.
+27	9	Und wenn es Vieh ist, von dem man dem HERRN eine Opfergabe darbringt: Alles, was einer davon dem HERRN gibt, soll heilig sein.
+27	10	Er soll es nicht austauschen und soll es nicht vertauschen, ein gutes gegen ein schlechtes oder ein schlechtes gegen ein gutes; vertauscht er aber doch Vieh gegen Vieh, so sollen es und sein Ersatz heilig sein.
+27	11	Und wenn es irgendein unreines Vieh ist, von dem man dem HERRN keine Opfergabe darbringt, so soll er das Vieh vor den Priester hinstellen,
+27	12	und der Priester soll es schätzen, ob gut oder schlecht; nach deiner Schätzung, Priester, so soll es sein.
+27	13	Und wenn er es doch erlöst, so soll er den Fünften davon zu deiner Schätzung hinzufügen.
+27	14	Und wenn jemand sein Haus weiht, heilig dem HERRN, so soll der Priester es schätzen, ob gut oder schlecht; wie der Priester es schätzt, so soll es gelten.
+27	15	Und wenn der, der es geweiht hat, sein Haus erlöst, so soll er den Fünften vom Silber deiner Schätzung hinzufügen, und es soll ihm gehören.
+27	16	Und wenn jemand vom Feld seines Besitzes etwas dem HERRN weiht, so soll deine Schätzung nach seiner Saat sein: die Saat eines Homer Gerste um fünfzig Schekel Silber.
+27	17	Weiht er sein Feld vom Jobeljahr an, so soll es nach deiner Schätzung gelten.
+27	18	Weiht er aber sein Feld nach dem Jobeljahr, so soll ihm der Priester das Silber anrechnen nach den Jahren, die bis zum Jobeljahr übrig bleiben, und es wird von deiner Schätzung weggenommen.
+27	19	Und wenn der, der das Feld geweiht hat, es doch erlöst, so soll er den Fünften vom Silber deiner Schätzung hinzufügen, und es soll ihm verbleiben.
+27	20	Wenn er aber das Feld nicht erlöst und wenn er das Feld einem anderen verkauft hat, so soll es nicht mehr erlöst werden.
+27	21	Und das Feld soll, wenn es im Jobeljahr hinausgeht, heilig dem HERRN sein wie ein gebanntes Feld; dem Priester soll es als Besitz gehören.
+27	22	Und wenn er das Feld seines Erwerbs, das nicht vom Feld seines Besitzes ist, dem HERRN weiht,
+27	23	so soll ihm der Priester anrechnen, wie viel deine Schätzung bis zum Jobeljahr ausmacht; und er soll deine Schätzung an jenem Tag geben, heilig dem HERRN.
+27	24	Im Jobeljahr soll das Feld zu dem zurückkehren, von dem er es erworben hat, zu dem, dem der Besitz des Landes gehört.
+27	25	Und all deine Schätzung soll nach dem Schekel des Heiligtums sein; zwanzig Gera soll der Schekel haben.
+27	26	Nur ein Erstgeborenes, das unter dem Vieh dem HERRN als Erstgeborenes zugehört, soll niemand weihen; ob Ochse oder Lamm: dem HERRN gehört es.
+27	27	Und wenn es vom unreinen Vieh ist, so soll er es loskaufen nach deiner Schätzung und den Fünften davon hinzufügen; und wenn es nicht erlöst wird, so soll es verkauft werden nach deiner Schätzung.
+27	28	Nur: Alles Gebannte, das jemand dem HERRN bannt von allem, was ihm gehört, von Mensch und Vieh und vom Feld seines Besitzes, soll nicht verkauft und nicht erlöst werden; alles Gebannte ist hochheilig für den HERRN.
+27	29	Alles Gebannte, das unter den Menschen dem Bann verfällt, soll nicht losgekauft werden; des Todes sterben soll es.
+27	30	Und der ganze Zehnte des Landes, von der Saat des Landes, von der Frucht der Bäume, gehört dem HERRN; heilig dem HERRN ist er.
+27	31	Wenn aber jemand von seinem Zehnten doch etwas erlöst, so soll er den Fünften davon hinzufügen.
+27	32	Und der ganze Zehnte von Rindern und Schafen, alles, was unter dem Stab vorüberzieht: das zehnte soll heilig sein dem HERRN.
+27	33	Er soll nicht untersuchen, ob gut oder schlecht, und soll es nicht vertauschen; vertauscht er es aber doch, so sollen es und sein Ersatz heilig sein; es soll nicht erlöst werden.›»
+27	34	Dies sind die Gebote, die der HERR Mose geboten hat für die Kinder Israels auf dem Berg Sinai.

@@ -1,0 +1,959 @@
+1	1	Dies sind die Worte, die Mose zu ganz Israel redete jenseits des Jordan, in der Wüste, in der Steppe gegenüber Suf, zwischen Paran und Tofel und Laban und Hazerot und Di-Sahab.
+1	2	Elf Tage sind es vom Horeb auf dem Weg zum Bergland Seïr bis Kadesch-Barnea.
+1	3	Und es geschah im vierzigsten Jahr, im elften Monat, am Ersten des Monats, da redete Mose zu den Kindern Israels nach allem, was der HERR ihm für sie geboten hatte,
+1	4	nachdem er Sihon geschlagen hatte, den König der Amoriter, der in Heschbon wohnte, und Og, den König von Baschan, der in Aschtarot wohnte, in Edreï.
+1	5	Jenseits des Jordan, im Land Moab, unterfing sich Mose, diese Weisung zu verdeutlichen; er sagte:
+1	6	Der HERR, unser Gott, redete zu uns am Horeb: «Genug habt ihr an diesem Berg gewohnt.
+1	7	Wendet euch und brecht auf und kommt in das Bergland der Amoriter und zu all seinen Nachbarn, in der Steppe, im Bergland und in der Schefela und im Negeb und an der Küste des Meeres, in das Land der Kanaaniter und zum Libanon, bis an den grossen Strom, den Strom Eufrat.
+1	8	Sieh, ich habe das Land vor euch hingelegt. Kommt hinein und nehmt das Land in Besitz, das der HERR euren Vätern, Abraham, Isaak und Jakob, geschworen hat, ihnen zu geben und ihren Nachkommen nach ihnen.»
+1	9	Und ich sagte zu euch zu jener Zeit: «Ich kann euch nicht allein tragen.
+1	10	Der HERR, euer Gott, hat euch gemehrt, und siehe, ihr seid heute wie die Sterne des Himmels in Fülle.
+1	11	Der HERR, der Gott eurer Väter, füge zu euch, wie ihr seid, tausendmal hinzu und segne euch, wie er zu euch geredet hat!
+1	12	Wie soll ich allein eure Mühe tragen und eure Bürde und eure Rechtsstreite?
+1	13	Gebt weise, verständige und bekannte Männer nach euren Stämmen, und ich will sie zu euren Häuptern setzen.»
+1	14	Und ihr antwortetet mir und sagtet: «Gut ist es, das Wort zu tun, das du geredet hast.»
+1	15	Da nahm ich die Häupter eurer Stämme, weise und bekannte Männer, und machte sie zu Häuptern über euch: Vorsteher über tausend, Vorsteher über hundert, Vorsteher über fünfzig und Vorsteher über zehn, und Amtleute für eure Stämme.
+1	16	Und ich gebot euren Richtern zu jener Zeit: «Hört eure Brüder gegeneinander an und richtet in Gerechtigkeit zwischen einem Mann und seinem Bruder und dem Fremden bei ihm.
+1	17	Ihr sollt im Gericht das Angesicht nicht beachten; den Kleinen wie den Grossen sollt ihr hören. Ihr sollt vor niemandem erschauern, denn das Gericht ist Gottes. Und was euch zu hart ist, das sollt ihr vor mich bringen, und ich will es hören.»
+1	18	Und ich gebot euch zu jener Zeit alles, was ihr tun sollt.
+1	19	Und wir brachen vom Horeb auf und gingen durch jene ganze grosse und furchtgebietende Wüste, die ihr gesehen habt, auf dem Weg zum Bergland der Amoriter, wie der HERR, unser Gott, uns geboten hatte; und wir kamen bis Kadesch-Barnea.
+1	20	Und ich sagte zu euch: «Ihr seid bis zum Bergland der Amoriter gekommen, das der HERR, unser Gott, uns gibt.
+1	21	Sieh, der HERR, dein Gott, hat das Land vor dich hingelegt. Steig hinauf, nimm es in Besitz, wie der HERR, der Gott deiner Väter, zu dir geredet hat. Fürchte dich nicht und verzage nicht!»
+1	22	Da tratet ihr alle zu mir heran und sagtet: «Wir wollen Männer vor uns her senden, damit sie das Land für uns absuchen und uns Wort zurückbringen über den Weg, auf dem wir hinaufsteigen sollen, und über die Städte, zu denen wir kommen werden.»
+1	23	Und das Wort war gut in meinen Augen, und ich nahm aus euch zwölf Männer, je einen Mann für den Stamm.
+1	24	Und sie wandten sich und stiegen hinauf ins Bergland und kamen bis zum Bachtal Eschkol und kundschafteten es aus.
+1	25	Und sie nahmen von der Frucht des Landes in ihre Hand und brachten sie zu uns herab; und sie brachten uns Wort zurück und sagten: «Gut ist das Land, das der HERR, unser Gott, uns gibt.»
+1	26	Aber ihr wolltet nicht hinaufsteigen und trotztet dem Mund des HERRN, eures Gottes.
+1	27	Und ihr murrtet in euren Zelten und sagtet: «Aus Hass gegen uns hat der HERR uns aus dem Land Ägypten herausgeführt, um uns in die Hand der Amoriter zu geben, um uns zu vernichten.
+1	28	Wohin steigen wir hinauf? Unsere Brüder haben unser Herz zerschmelzen lassen, als sie sagten: ‹Ein Volk, grösser und höher gewachsen als wir; Städte, gross und befestigt bis in den Himmel; und auch die Kinder der Anakiter haben wir dort gesehen.›»
+1	29	Und ich sagte zu euch: «Lasst euch nicht einschüchtern und fürchtet euch nicht vor ihnen!
+1	30	Der HERR, euer Gott, der vor euch hergeht, er wird für euch kämpfen, nach allem, was er mit euch in Ägypten vor euren Augen getan hat,
+1	31	und in der Wüste, wo du gesehen hast, wie der HERR, dein Gott, dich getragen hat, wie ein Mann seinen Sohn trägt, auf dem ganzen Weg, den ihr gegangen seid, bis ihr an diesen Ort kamt.»
+1	32	Aber trotz dieses Wortes glaubtet ihr nicht an den HERRN, euren Gott,
+1	33	der vor euch herging auf dem Weg, um euch einen Ort zu erkunden, wo ihr lagern konntet, im Feuer bei Nacht, um euch den Weg sehen zu lassen, auf dem ihr gehen solltet, und in der Wolke bei Tag.
+1	34	Und der HERR hörte die Stimme eurer Worte und geriet in Wut und schwor:
+1	35	«Nie wird einer von diesen Männern, diesem bösen Geschlecht, das gute Land sehen, das ich euren Vätern zu geben geschworen habe,
+1	36	ausser Kaleb, dem Sohn Jefunnes: Er wird es sehen, und ihm will ich das Land geben, das er betreten hat, und seinen Kindern, weil er ganz hinter dem HERRN hergegangen ist.»
+1	37	Auch gegen mich zürnte der HERR euretwegen und sagte: «Auch du wirst nicht dorthin kommen.
+1	38	Josua, der Sohn Nuns, der vor dir steht, er wird dorthin kommen. Ihn mach stark, denn er wird es Israel erben lassen.
+1	39	Und eure kleinen Kinder, von denen ihr gesagt habt, sie würden geraubt werden, und eure Kinder, die heute Gut und Böse nicht kennen — sie werden dorthin kommen, und ihnen will ich es geben, und sie werden es in Besitz nehmen.
+1	40	Ihr aber, wendet euch und brecht auf in die Wüste, auf den Weg zum Schilfmeer.»
+1	41	Da antwortetet ihr und sagtet zu mir: «Wir haben gegen den HERRN gesündigt. Wir wollen hinaufsteigen und kämpfen, nach allem, was der HERR, unser Gott, uns geboten hat.» Und ihr gürtetet euch, jeder mit seinem Kriegsgerät, und machtet euch unbedacht daran, ins Bergland hinaufzusteigen.
+1	42	Und der HERR sagte zu mir: «Sag zu ihnen: ‹Steigt nicht hinauf und kämpft nicht, denn ich bin nicht mitten unter euch, damit ihr nicht vor euren Feinden niedergestreckt werdet.›»
+1	43	Und ich redete zu euch, aber ihr hörtet nicht; ihr trotztet dem Mund des HERRN und handeltet hochmütig und stiegt hinauf ins Bergland.
+1	44	Da gingen die Amoriter, die auf jenem Berg wohnten, hinaus, euch entgegen, und verfolgten euch, wie es die Bienen tun, und zerstampften euch in Seïr bis Horma.
+1	45	Da kehrtet ihr zurück und weintet vor dem Angesicht des HERRN; aber der HERR hörte nicht auf eure Stimme und vernahm euch nicht.
+1	46	So bliebt ihr in Kadesch viele Tage, so viele Tage, wie ihr dort geblieben seid.
+2	1	Und wir wandten uns und brachen auf in die Wüste, auf den Weg zum Schilfmeer, wie der HERR zu mir geredet hatte; und wir zogen viele Tage um das Bergland Seïr herum.
+2	2	Und der HERR sagte zu mir:
+2	3	«Genug habt ihr um dieses Bergland herumgezogen; wendet euch nordwärts!
+2	4	Und gebiete dem Volk: ‹Ihr zieht durch das Gebiet eurer Brüder, der Kinder Esaus, die in Seïr wohnen, und sie werden sich vor euch fürchten. So nehmt euch sehr in Acht:
+2	5	Messt euch nicht mit ihnen; denn ich werde euch von ihrem Land nichts geben, auch nicht einen Fussbreit, denn Esau habe ich das Bergland Seïr zum Erbe gegeben.
+2	6	Speise sollt ihr von ihnen für Silber kaufen und essen, und auch Wasser sollt ihr von ihnen für Silber einhandeln und trinken.
+2	7	Denn der HERR, dein Gott, hat dich gesegnet in allem Werk deiner Hand; er kennt dein Gehen durch diese grosse Wüste. Diese vierzig Jahre ist der HERR, dein Gott, mit dir gewesen; nichts hat dir gefehlt.›»
+2	8	Und wir zogen dahin, fort von unseren Brüdern, den Kindern Esaus, die in Seïr wohnen, fort vom Weg der Steppe, von Elat und von Ezjon-Geber. Und wir wandten uns und zogen dahin auf dem Weg zur Wüste Moabs.
+2	9	Und der HERR sagte zu mir: «Bedränge Moab nicht und miss dich nicht mit ihnen im Krieg; denn ich werde dir von seinem Land nichts zum Erbe geben, denn den Kindern Lots habe ich Ar zum Erbe gegeben.»
+2	10	Die Emiter wohnten einst darin, ein Volk, gross und zahlreich und hoch gewachsen wie die Anakiter.
+2	11	Als Rafaïter werden auch sie gerechnet, wie die Anakiter; die Moabiter aber nennen sie Emiter.
+2	12	Und in Seïr wohnten einst die Horiter; und die Kinder Esaus beerbten sie und vernichteten sie vor sich und wohnten an ihrer Stelle, wie Israel es mit dem Land seines Erbes getan hat, das der HERR ihnen gegeben hat.
+2	13	«Jetzt steht auf und überschreitet das Bachtal Sered!» Und wir überschritten das Bachtal Sered.
+2	14	Die Tage aber, die wir gegangen sind von Kadesch-Barnea, bis wir das Bachtal Sered überschritten, waren achtunddreissig Jahre, bis es aus war mit dem ganzen Geschlecht, den Männern des Krieges, weg aus der Mitte des Lagers, wie der HERR ihnen geschworen hatte.
+2	15	Und auch die Hand des HERRN war gegen sie, um sie zu verwirren, weg aus der Mitte des Lagers, bis es aus war mit ihnen.
+2	16	Und es geschah, als es aus war mit allen Männern des Krieges und sie aus der Mitte des Volkes weggestorben waren,
+2	17	da redete der HERR zu mir:
+2	18	«Du überschreitest heute die Grenzmarke Moabs, Ar,
+2	19	und kommst nahe heran, gegenüber den Kindern Ammons. Bedränge sie nicht und miss dich nicht mit ihnen; denn ich werde dir vom Land der Kinder Ammons nichts zum Erbe geben, denn den Kindern Lots habe ich es zum Erbe gegeben.»
+2	20	Als Land der Rafaïter wird auch dieses gerechnet; Rafaïter wohnten einst darin, und die Ammoniter nennen sie Samsummiter,
+2	21	ein Volk, gross und zahlreich und hoch gewachsen wie die Anakiter; und der HERR vernichtete sie vor ihnen, und sie beerbten sie und wohnten an ihrer Stelle,
+2	22	wie er es für die Kinder Esaus getan hat, die in Seïr wohnen, als er die Horiter vor ihnen vernichtete; und sie beerbten sie und wohnten an ihrer Stelle bis zu diesem Tag.
+2	23	Und die Awiter, die in Gehöften bis Gaza wohnten — die Kaftoriter, die aus Kaftor ausgezogen waren, vernichteten sie und wohnten an ihrer Stelle.
+2	24	«Steht auf, brecht auf und überschreitet das Bachtal Arnon! Sieh, ich habe Sihon, den König von Heschbon, den Amoriter, und sein Land in deine Hand gegeben. Beginne, nimm in Besitz, und miss dich mit ihm im Krieg!
+2	25	An diesem Tag beginne ich, Schrecken vor dir und Furcht vor dir auf die Völker unter dem ganzen Himmel zu legen, die die Kunde von dir hören werden; und sie werden sich erregen und sich vor dir winden.»
+2	26	Und ich sandte Boten aus der Wüste Kedemot zu Sihon, dem König von Heschbon, mit Worten des Friedens, und liess sagen:
+2	27	«Ich will durch dein Land ziehen. Auf dem Weg, immer auf dem Weg will ich gehen; ich will nicht abweichen, weder zur Rechten noch zur Linken.
+2	28	Speise sollst du mich für Silber kaufen lassen, und ich will essen, und Wasser sollst du mir für Silber geben, und ich will trinken; nur zu Fuss will ich hindurchziehen,
+2	29	wie es mir die Kinder Esaus getan haben, die in Seïr wohnen, und die Moabiter, die in Ar wohnen, bis ich den Jordan überschreite in das Land, das der HERR, unser Gott, uns gibt.»
+2	30	Aber Sihon, der König von Heschbon, wollte uns nicht durch sein Land hindurchziehen lassen; denn der HERR, dein Gott, hatte seinen Geist hart gemacht und sein Herz fest gemacht, um ihn in deine Hand zu geben, wie heute.
+2	31	Und der HERR sagte zu mir: «Sieh, ich habe begonnen, Sihon und sein Land vor dich hinzulegen. Beginne, nimm in Besitz, um sein Land in Besitz zu nehmen!»
+2	32	Und Sihon zog aus, uns entgegen, er und sein ganzes Volk, zum Krieg nach Jahaz.
+2	33	Und der HERR, unser Gott, legte ihn vor uns hin, und wir schlugen ihn und seine Söhne und sein ganzes Volk.
+2	34	Und wir nahmen zu jener Zeit alle seine Städte ein und bannten jede Stadt, die Leute und die Frauen und die kleinen Kinder; wir liessen keinen Überlebenden übrig.
+2	35	Nur das Vieh raubten wir für uns und die Beute der Städte, die wir eingenommen hatten.
+2	36	Von Aroër, das am Rand des Bachtals Arnon liegt, und von der Stadt, die im Bachtal liegt, bis nach Gilead gab es keine Siedlung, die uns zu hoch war; alles hat der HERR, unser Gott, vor uns hingelegt.
+2	37	Nur dem Land der Kinder Ammons bist du nicht nahe gekommen, allem, was entlang dem Bachtal Jabbok liegt, und den Städten des Berglands und allem, was der HERR, unser Gott, geboten hatte.
+3	1	Dann wandten wir uns und stiegen hinauf auf dem Weg nach Baschan; und Og, der König von Baschan, zog aus, uns entgegen, er und sein ganzes Volk, zum Krieg bei Edreï.
+3	2	Und der HERR sagte zu mir: «Fürchte dich nicht vor ihm, denn in deine Hand habe ich ihn gegeben, ihn und sein ganzes Volk und sein Land; und du sollst mit ihm tun, wie du mit Sihon getan hast, dem König der Amoriter, der in Heschbon wohnte.»
+3	3	Und der HERR, unser Gott, gab auch Og, den König von Baschan, und sein ganzes Volk in unsere Hand; und wir schlugen ihn, bis man ihm keinen Überlebenden übrig liess.
+3	4	Und wir nahmen zu jener Zeit alle seine Städte ein; es gab keine Siedlung, die wir ihnen nicht genommen hätten: sechzig Städte, die ganze Landschaft Argob, das Königreich Ogs in Baschan.
+3	5	Alle diese waren befestigte Städte mit hoher Mauer, Türflügeln und Riegel, ausser den Städten des offenen Landes, sehr vielen.
+3	6	Und wir bannten sie, wie wir es mit Sihon, dem König von Heschbon, getan hatten: Wir bannten jede Stadt, die Leute, die Frauen und die kleinen Kinder.
+3	7	Aber alles Vieh und die Beute der Städte raubten wir für uns.
+3	8	So nahmen wir zu jener Zeit aus der Hand der beiden Könige der Amoriter das Land, das jenseits des Jordan liegt, vom Bachtal Arnon bis zum Berg Hermon —
+3	9	die Sidonier nennen den Hermon Sirjon, und die Amoriter nennen ihn Senir —,
+3	10	alle Städte der Ebene und ganz Gilead und ganz Baschan bis Salcha und Edreï, Städte des Königreichs Ogs in Baschan.
+3	11	Denn nur Og, der König von Baschan, war vom Rest der Rafaïter übrig geblieben. Siehe, sein Ruhebett, ein Ruhebett aus Eisen — steht es nicht in Rabba der Kinder Ammons? Neun Ellen ist seine Länge und vier Ellen seine Breite, nach der Elle eines Mannes.
+3	12	Und dieses Land nahmen wir zu jener Zeit in Besitz. Von Aroër an, das am Bachtal Arnon liegt, und die Hälfte des Berglands Gilead mit seinen Städten gab ich den Rubenitern und den Gaditern.
+3	13	Und den Rest Gileads und ganz Baschan, das Königreich Ogs, gab ich dem halben Stamm Manasses, die ganze Landschaft Argob, das ganze Baschan; das wird das Land der Rafaïter genannt.
+3	14	Jaïr, der Sohn Manasses, nahm die ganze Landschaft Argob bis an die Grenzmarke der Geschuriter und der Maachatiter und nannte sie, das Baschan, nach seinem Namen Hawwot-Jaïr, bis zu diesem Tag.
+3	15	Und Machir gab ich Gilead.
+3	16	Und den Rubenitern und den Gaditern gab ich von Gilead bis zum Bachtal Arnon, die Mitte des Bachtals als Grenzmarke, und bis zum Jabbok, dem Bachtal, der Grenzmarke der Kinder Ammons,
+3	17	und die Steppe und den Jordan als Grenzmarke, von Kinneret bis zum Meer der Steppe, dem Salzmeer, unten an den Hängen des Pisga, nach Osten hin.
+3	18	Und ich gebot euch zu jener Zeit: «Der HERR, euer Gott, hat euch dieses Land gegeben, um es in Besitz zu nehmen. Gewappnet sollt ihr vor euren Brüdern, den Kindern Israels, hinüberziehen, alle tüchtigen Männer.
+3	19	Nur eure Frauen und eure kleinen Kinder und eure Habe — ich weiss, dass ihr viel Habe habt — sollen in euren Städten wohnen, die ich euch gegeben habe,
+3	20	bis der HERR eure Brüder zur Ruhe bringt wie euch und auch sie das Land in Besitz nehmen, das der HERR, euer Gott, ihnen jenseits des Jordan gibt. Dann sollt ihr zurückkehren, jeder zu seinem Erbe, das ich euch gegeben habe.»
+3	21	Und Josua gebot ich zu jener Zeit: «Deine Augen sind es, die alles gesehen haben, was der HERR, euer Gott, mit diesen beiden Königen getan hat. So wird der HERR mit allen Königreichen tun, zu denen du hinüberziehst.
+3	22	Fürchtet euch nicht vor ihnen, denn der HERR, euer Gott, er ist es, der für euch kämpft.»
+3	23	Und ich flehte zu jener Zeit zum HERRN:
+3	24	«Herr, HERR, du hast begonnen, deinen Knecht deine Grösse sehen zu lassen und deine starke Hand. Denn welcher Gott ist im Himmel und auf der Erde, der Werke tun könnte wie die deinen und Machttaten wie die deinen?
+3	25	Lass mich doch hinüberziehen und das gute Land sehen, das jenseits des Jordan liegt, dieses gute Bergland und den Libanon!»
+3	26	Aber der HERR geriet in Rasen gegen mich um euretwillen und hörte nicht auf mich. Und der HERR sagte zu mir: «Genug ist es mit dir! Rede davon nicht länger zu mir!
+3	27	Steig auf das Haupt des Pisga hinauf und hebe deine Augen auf, westwärts und nordwärts, nach Süden und nach Osten hin, und sieh mit deinen Augen; denn du wirst diesen Jordan nicht überschreiten.
+3	28	Und gebiete Josua und mach ihn stark und mach ihm Mut; denn er wird vor diesem Volk hinüberziehen, und er wird sie das Land erben lassen, das du sehen wirst.»
+3	29	So blieben wir in der Schlucht gegenüber Bet-Pegor.
+4	1	Und nun, Israel, höre auf die Satzungen und auf die Rechtsentscheide, die ich euch zu tun lehre, damit ihr lebt und hineinkommt und das Land in Besitz nehmt, das der HERR, der Gott eurer Väter, euch gibt.
+4	2	Ihr sollt zu dem Wort, das ich euch gebiete, nichts hinzufügen und nichts davon wegnehmen, um die Gebote des HERRN, eures Gottes, zu bewahren, die ich euch gebiete.
+4	3	Eure Augen haben gesehen, was der HERR bei Baal-Pegor getan hat: Denn jeden Mann, der hinter Baal-Pegor hergegangen ist, hat der HERR, dein Gott, aus deiner Mitte vernichtet.
+4	4	Ihr aber, die ihr dem HERRN, eurem Gott, anhangt, ihr lebt heute alle.
+4	5	Sieh, ich habe euch Satzungen und Rechtsentscheide gelehrt, wie der HERR, mein Gott, mir geboten hat, damit ihr so tut mitten in dem Land, in das ihr hineinkommt, um es in Besitz zu nehmen.
+4	6	So bewahrt sie und tut sie; denn das ist eure Weisheit und eure Einsicht vor den Augen der Völker. Wenn sie all diese Satzungen hören, werden sie sagen: «Gewiss, ein weises und verständiges Volk ist diese grosse Nation!»
+4	7	Denn wo ist eine grosse Nation, die Götter hat, die ihr so nahe sind wie der HERR, unser Gott, sooft wir zu ihm rufen?
+4	8	Und wo ist eine grosse Nation, die Satzungen und Rechtsentscheide hat, so gerecht wie diese ganze Weisung, die ich euch heute vorlege?
+4	9	Nur nimm dich in Acht und bewahre deine Seele sehr, dass du die Worte nicht vergisst, die deine Augen gesehen haben, und dass sie nicht aus deinem Herzen weichen alle Tage deines Lebens; und tu sie deinen Kindern und deinen Kindeskindern kund:
+4	10	den Tag, an dem du vor dem Angesicht des HERRN, deines Gottes, am Horeb standest, als der HERR zu mir sagte: «Versammle mir das Volk, und ich will sie meine Worte hören lassen, damit sie lernen, mich zu fürchten alle Tage, die sie auf dem Boden leben, und damit sie ihre Kinder lehren.»
+4	11	Da tratet ihr heran und standet unten am Berg; und der Berg brannte im Feuer bis ins Herz des Himmels: Finsternis, Wolke und Wetterdunkel.
+4	12	Und der HERR redete zu euch mitten aus dem Feuer; die Stimme von Worten hörtet ihr, aber ein Abbild saht ihr nicht, nur eine Stimme.
+4	13	Und er kündete euch seinen Bund, den er euch zu tun gebot, die zehn Worte, und er schrieb sie auf zwei steinerne Tafeln.
+4	14	Und mir gebot der HERR zu jener Zeit, euch Satzungen und Rechtsentscheide zu lehren, damit ihr sie tut in dem Land, in das ihr hinüberzieht, um es in Besitz zu nehmen.
+4	15	So nehmt euch um eurer Seelen willen sehr in Acht — denn ihr habt keinerlei Abbild gesehen an dem Tag, an dem der HERR am Horeb mitten aus dem Feuer zu euch redete —,
+4	16	dass ihr nicht verderblich handelt und euch ein Schnitzbild macht, ein Abbild irgendeines Bildnisses, die Nachbildung eines Männlichen oder eines Weiblichen,
+4	17	die Nachbildung irgendeines Stücks Vieh, das auf der Erde ist, die Nachbildung irgendeines gefiederten Vogels, der am Himmel fliegt,
+4	18	die Nachbildung von irgendetwas, das sich auf dem Boden regt, die Nachbildung irgendeines Fisches, der in den Wassern unter der Erde ist,
+4	19	und dass du nicht deine Augen zum Himmel aufhebst und die Sonne und den Mond und die Sterne siehst, das ganze Heer des Himmels, und dich hinreissen lässt und dich vor ihnen niederwirfst und ihnen dienst, die der HERR, dein Gott, allen Völkern unter dem ganzen Himmel zugeteilt hat.
+4	20	Euch aber hat der HERR genommen und hat euch herausgeführt aus dem Schmelzofen des Eisens, aus Ägypten, damit ihr ihm ein Volk des Erbes seid, wie es an diesem Tag ist.
+4	21	Und der HERR zürnte gegen mich euretwegen und schwor, dass ich den Jordan nicht überschreiten und nicht in das gute Land kommen soll, das der HERR, dein Gott, dir als Erbe gibt.
+4	22	Denn ich sterbe in diesem Land, ich überschreite den Jordan nicht; ihr aber überschreitet ihn und werdet dieses gute Land in Besitz nehmen.
+4	23	Nehmt euch in Acht, dass ihr den Bund des HERRN, eures Gottes, nicht vergesst, den er mit euch geschlossen hat, und euch ein Schnitzbild macht, ein Abbild von irgendetwas, das der HERR, dein Gott, dir geboten hat.
+4	24	Denn der HERR, dein Gott, ist ein verzehrendes Feuer, ein eifernder Gott.
+4	25	Wenn du Kinder und Kindeskinder zeugst und ihr im Land eingesessen seid und verderblich handelt und ein Schnitzbild macht, ein Abbild von irgendetwas, und das Böse tut in den Augen des HERRN, deines Gottes, um ihm Kummer zu bereiten,
+4	26	so rufe ich heute den Himmel und die Erde gegen euch zu Zeugen an, dass ihr unweigerlich umkommen werdet, eilends, fort von dem Land, wohin ihr den Jordan überschreitet, um es in Besitz zu nehmen. Ihr werdet eure Tage darauf nicht verlängern, sondern unweigerlich vernichtet werden.
+4	27	Und der HERR wird euch unter die Völker zerstreuen, und ihr werdet als Leute von geringer Zahl übrig bleiben unter den Völkern, wohin der HERR euch fortführen wird.
+4	28	Und dort werdet ihr Göttern dienen, einem Werk, das die Hände von Menschen gemacht haben, Holz und Stein, die nicht sehen und nicht hören und nicht essen und nicht riechen.
+4	29	Und ihr werdet von dort den HERRN, deinen Gott, suchen, und du wirst ihn finden, wenn du nach ihm fragst mit deinem ganzen Herzen und mit deiner ganzen Seele.
+4	30	Wenn du in der Enge bist und all diese Worte dich finden am Ende der Tage, dann wirst du umkehren zum HERRN, deinem Gott, und auf seine Stimme hören.
+4	31	Denn ein barmherziger Gott ist der HERR, dein Gott; er wird dich nicht loslassen und dich nicht verderben, und er wird den Bund deiner Väter nicht vergessen, den er ihnen geschworen hat.
+4	32	Denn befrag doch die früheren Tage, die vor dir gewesen sind, von dem Tag an, an dem Gott den Menschen auf der Erde schuf, und von einem Ende des Himmels bis zum andern Ende des Himmels: Ist je etwas geschehen wie dieses grosse Wort, oder hat man je dergleichen gehört?
+4	33	Hat je ein Volk die Stimme Gottes mitten aus dem Feuer reden hören, wie du sie gehört hast, und ist am Leben geblieben?
+4	34	Oder hat je ein Gott es versucht, zu kommen und sich ein Volk mitten aus einem Volk zu holen, mit Versuchungen, mit Zeichen und mit Wundern und mit Krieg und mit starker Hand und mit ausgestrecktem Arm und mit grossem Grauen, nach allem, was der HERR, euer Gott, in Ägypten vor deinen Augen für euch getan hat?
+4	35	Dir ist es gezeigt worden, damit du erkennst: Der HERR, er ist Gott; es gibt keinen anderen ausser ihm.
+4	36	Vom Himmel her hat er dich seine Stimme hören lassen, um dich zu erziehen, und auf der Erde hat er dich sein grosses Feuer sehen lassen, und seine Worte hast du mitten aus dem Feuer gehört.
+4	37	Und weil er deine Väter geliebt hat, hat er seine Nachkommen nach ihm erwählt und hat dich mit seinem Angesicht, mit seiner grossen Kraft aus Ägypten herausgeführt,
+4	38	um Völker, grösser und stärker als du, vor deinem Angesicht zu verdrängen, um dich hineinzubringen und dir ihr Land als Erbe zu geben, wie es an diesem Tag ist.
+4	39	So erkenne heute und nimm es dir zu Herzen: Der HERR, er ist Gott im Himmel droben und auf der Erde drunten; es gibt keinen anderen.
+4	40	Und bewahre seine Satzungen und seine Gebote, die ich dir heute gebiete, damit es dir gut gehe und deinen Kindern nach dir, und damit du deine Tage verlängerst auf dem Boden, den der HERR, dein Gott, dir gibt, alle Tage.
+4	41	Damals sonderte Mose drei Städte aus jenseits des Jordan, nach dem Aufgang der Sonne hin,
+4	42	damit dorthin ein Totschläger fliehe, der seinen Nächsten ohne Wissen totschlägt und ihn nicht gehasst hat seit gestern und vorgestern, und damit er in eine von diesen Städten fliehe und am Leben bleibe:
+4	43	Bezer in der Wüste, im Land der Ebene, für die Rubeniter, und Ramot in Gilead für die Gaditer und Golan in Baschan für die Manassiter.
+4	44	Und dies ist die Weisung, die Mose den Kindern Israels vorlegte;
+4	45	dies sind die Zeugnisse und die Satzungen und die Rechtsentscheide, die Mose zu den Kindern Israels redete, als sie aus Ägypten ausgezogen waren,
+4	46	jenseits des Jordan, in der Schlucht gegenüber Bet-Pegor, im Land Sihons, des Königs der Amoriter, der in Heschbon wohnte, den Mose und die Kinder Israels schlugen, als sie aus Ägypten ausgezogen waren.
+4	47	Und sie nahmen sein Land in Besitz und das Land Ogs, des Königs von Baschan, der beiden Könige der Amoriter, die jenseits des Jordan waren, gegen den Aufgang der Sonne,
+4	48	von Aroër an, das am Rand des Bachtals Arnon liegt, bis zum Berg Sion, das ist der Hermon,
+4	49	und die ganze Steppe jenseits des Jordan nach Osten hin bis an das Meer der Steppe, unten an den Hängen des Pisga.
+5	1	Und Mose rief ganz Israel und sagte zu ihnen: Höre, Israel, die Satzungen und die Rechtsentscheide, die ich heute vor euren Ohren rede, und lernt sie und bewahrt sie, um sie zu tun.
+5	2	Der HERR, unser Gott, hat mit uns am Horeb einen Bund geschlossen.
+5	3	Nicht mit unseren Vätern hat der HERR diesen Bund geschlossen, sondern mit uns, ja uns, die wir heute alle hier am Leben sind.
+5	4	Angesicht zu Angesicht redete der HERR mit euch auf dem Berg mitten aus dem Feuer
+5	5	— ich stand zu jener Zeit zwischen dem HERRN und euch, um euch das Wort des HERRN zu künden; denn ihr fürchtetet euch vor dem Feuer und stiegt nicht auf den Berg hinauf — und sagte:
+5	6	«Ich bin der HERR, dein Gott, der dich herausgeführt hat aus dem Land Ägypten, aus dem Sklavenhaus.
+5	7	Du sollst keine anderen Götter haben vor meinem Angesicht.
+5	8	Du sollst dir kein Schnitzbild machen, kein Abbild von irgendetwas, was droben im Himmel ist und was drunten auf der Erde und was in den Wassern unter der Erde ist.
+5	9	Du sollst dich nicht vor ihnen niederwerfen und ihnen nicht dienen; denn ich bin der HERR, dein Gott, ein eifernder Gott, der die Schuld der Väter heimsucht an den Kindern und an der dritten und an der vierten Generation, bei denen, die mich hassen,
+5	10	der aber Güte übt an Tausenden, bei denen, die mich lieben und meine Gebote bewahren.
+5	11	Du sollst den Namen des HERRN, deines Gottes, nicht zum Trug heben; denn der HERR wird den nicht unschuldig sprechen, der seinen Namen zum Trug hebt.
+5	12	Bewahre den Sabbattag, ihn zu heiligen, wie der HERR, dein Gott, dir geboten hat.
+5	13	Sechs Tage sollst du arbeiten und all deine Arbeit tun;
+5	14	aber der siebte Tag ist Sabbat für den HERRN, deinen Gott. Du sollst keinerlei Arbeit tun, du und dein Sohn und deine Tochter und dein Sklave und deine Sklavin und dein Ochse und dein Esel und all dein Vieh und dein Fremder, der in deinen Toren ist, damit dein Sklave und deine Sklavin ruhen wie du.
+5	15	Und gedenke, dass du Sklave gewesen bist im Land Ägypten und der HERR, dein Gott, dich von dort herausgeführt hat mit starker Hand und mit ausgestrecktem Arm; darum hat der HERR, dein Gott, dir geboten, den Sabbattag zu halten.
+5	16	Ehre deinen Vater und deine Mutter, wie der HERR, dein Gott, dir geboten hat, damit deine Tage lang werden und damit es dir gut gehe auf dem Boden, den der HERR, dein Gott, dir gibt.
+5	17	Du sollst nicht morden.
+5	18	Und du sollst nicht die Ehe brechen.
+5	19	Und du sollst nicht stehlen.
+5	20	Und du sollst nicht aussagen gegen deinen Nächsten als Zeuge des Trugs.
+5	21	Und du sollst nicht begehren die Frau deines Nächsten. Und du sollst nicht begehren nach dem Haus deines Nächsten, seinem Feld und seinem Sklaven und seiner Sklavin, seinem Ochsen und seinem Esel, noch nach irgendetwas, was deinem Nächsten gehört.»
+5	22	Diese Worte redete der HERR zu eurer ganzen Versammlung auf dem Berg mitten aus dem Feuer, der Wolke und dem Wetterdunkel, mit lauter Stimme, und er fügte nichts hinzu; und er schrieb sie auf zwei steinerne Tafeln und gab sie mir.
+5	23	Und es geschah, als ihr die Stimme mitten aus der Finsternis hörtet und der Berg im Feuer brannte, da tratet ihr zu mir heran, alle Häupter eurer Stämme und eure Ältesten,
+5	24	und sagtet: «Siehe, der HERR, unser Gott, hat uns seine Herrlichkeit und seine Grösse sehen lassen, und seine Stimme haben wir mitten aus dem Feuer gehört. An diesem Tag haben wir gesehen, dass Gott mit dem Menschen redet und er am Leben bleibt.
+5	25	Und nun, warum sollen wir sterben? Denn dieses grosse Feuer wird uns fressen. Wenn wir die Stimme des HERRN, unseres Gottes, noch weiter hören, so sterben wir.
+5	26	Denn wer von allem Fleisch hat die Stimme des lebendigen Gottes mitten aus dem Feuer reden hören wie wir und ist am Leben geblieben?
+5	27	Tritt du heran und höre alles, was der HERR, unser Gott, sagen wird; und du sollst zu uns alles reden, was der HERR, unser Gott, zu dir reden wird, und wir werden hören und tun.»
+5	28	Und der HERR hörte die Stimme eurer Worte, als ihr zu mir redetet, und der HERR sagte zu mir: «Ich habe die Stimme der Worte dieses Volkes gehört, die sie zu dir geredet haben. Gut haben sie gehandelt mit allem, was sie geredet haben.
+5	29	Wer gäbe, dass sie ein solches Herz hätten, mich zu fürchten und alle meine Gebote zu bewahren alle Tage, damit es ihnen und ihren Kindern gut gehe für immer!
+5	30	Geh, sag zu ihnen: ‹Kehrt zurück zu euren Zelten!›
+5	31	Du aber, steh hier bei mir, und ich will zu dir das ganze Gebot reden und die Satzungen und die Rechtsentscheide, die du sie lehren sollst, damit sie sie tun in dem Land, das ich ihnen gebe, um es in Besitz zu nehmen.»
+5	32	So bewahrt sie, um sie zu tun, wie der HERR, euer Gott, euch geboten hat; weicht nicht ab, weder zur Rechten noch zur Linken.
+5	33	Auf dem ganzen Weg, den der HERR, euer Gott, euch geboten hat, sollt ihr gehen, damit ihr lebt und es euch gut geht und ihr eure Tage verlängert in dem Land, das ihr in Besitz nehmen werdet.
+6	1	Und dies ist das Gebot, die Satzungen und die Rechtsentscheide, die der HERR, euer Gott, geboten hat, euch zu lehren, damit ihr sie tut in dem Land, in das ihr hinüberzieht, um es in Besitz zu nehmen,
+6	2	damit du den HERRN, deinen Gott, fürchtest, um alle seine Satzungen und seine Gebote zu bewahren, die ich dir gebiete, du und dein Sohn und der Sohn deines Sohnes, alle Tage deines Lebens, und damit deine Tage lang werden.
+6	3	So höre, Israel, und bewahre es, um es zu tun, damit es dir gut gehe und damit ihr sehr zahlreich werdet, wie der HERR, der Gott deiner Väter, zu dir geredet hat: ein Land, das von Milch und Honig fliesst.
+6	4	Höre, Israel: Der HERR, unser Gott, der HERR ist einer.
+6	5	Und du sollst den HERRN, deinen Gott, lieben mit deinem ganzen Herzen und mit deiner ganzen Seele und mit deiner ganzen Stärke.
+6	6	Und diese Worte, die ich dir heute gebiete, sollen auf deinem Herzen sein.
+6	7	Und du sollst sie deinen Kindern einprägen und von ihnen reden, wenn du in deinem Haus sitzt und wenn du auf dem Weg gehst und wenn du dich hinlegst und wenn du aufstehst.
+6	8	Und du sollst sie zum Zeichen um deine Hand binden, und sie sollen zum Stirnband zwischen deinen Augen sein.
+6	9	Und du sollst sie auf die Türpfosten deines Hauses und an deine Tore schreiben.
+6	10	Und es wird geschehen, wenn der HERR, dein Gott, dich in das Land bringt, das er deinen Vätern, Abraham, Isaak und Jakob, geschworen hat, dir zu geben — grosse und gute Städte, die du nicht gebaut hast,
+6	11	und Häuser, voll von allen Gütern, die du nicht gefüllt hast, und gehauene Zisternen, die du nicht gehauen hast, Weinberge und Ölbäume, die du nicht gepflanzt hast —, und du isst und wirst satt,
+6	12	dann nimm dich in Acht, dass du den HERRN nicht vergisst, der dich herausgeführt hat aus dem Land Ägypten, aus dem Sklavenhaus.
+6	13	Den HERRN, deinen Gott, sollst du fürchten, und ihm sollst du dienen, und bei seinem Namen sollst du schwören.
+6	14	Ihr sollt nicht hinter anderen Göttern hergehen, von den Göttern der Völker, die rings um euch sind;
+6	15	denn ein eifernder Gott ist der HERR, dein Gott, mitten unter dir, dass nicht der Zorn des HERRN, deines Gottes, gegen dich entbrennt und er dich vom Angesicht des Bodens vernichtet.
+6	16	Ihr sollt den HERRN, euren Gott, nicht versuchen, wie ihr ihn in Massa versucht habt.
+6	17	Bewahrt sorgfältig die Gebote des HERRN, eures Gottes, und seine Zeugnisse und seine Satzungen, die er dir geboten hat.
+6	18	Und tu das Rechte und das Gute in den Augen des HERRN, damit es dir gut gehe und du hineinkommst und das gute Land in Besitz nimmst, das der HERR deinen Vätern zugeschworen hat,
+6	19	um alle deine Feinde vor dir hinauszustossen, wie der HERR geredet hat.
+6	20	Wenn dich morgen dein Sohn befragt: «Was sind die Zeugnisse und die Satzungen und die Rechtsentscheide, die der HERR, unser Gott, euch geboten hat?»,
+6	21	dann sollst du zu deinem Sohn sagen: «Sklaven des Pharao waren wir in Ägypten, und der HERR hat uns mit starker Hand aus Ägypten herausgeführt.
+6	22	Und der HERR hat Zeichen und Wunder erbracht, grosse und böse, an Ägypten, am Pharao und an seinem ganzen Haus, vor unseren Augen.
+6	23	Uns aber hat er von dort herausgeführt, um uns hineinzubringen, um uns das Land zu geben, das er unseren Vätern zugeschworen hat.
+6	24	Und der HERR hat uns geboten, all diese Satzungen zu tun, den HERRN, unseren Gott, zu fürchten, uns zum Guten alle Tage, um uns am Leben zu erhalten, wie es an diesem Tag ist.
+6	25	Und Gerechtigkeit wird es für uns sein, wenn wir dieses ganze Gebot bewahren, um es zu tun vor dem Angesicht des HERRN, unseres Gottes, wie er uns geboten hat.»
+7	1	Wenn der HERR, dein Gott, dich in das Land bringt, in das du hineinkommst, um es in Besitz zu nehmen, und viele Völker vor dir lichtet, die Hetiter und die Girgaschiter und die Amoriter und die Kanaaniter und die Perisiter und die Hiwiter und die Jebusiter, sieben Völker, mehr und stärker als du,
+7	2	und der HERR, dein Gott, sie vor dich hinlegt und du sie schlägst, so sollst du sie bannen. Du sollst keinen Bund mit ihnen schliessen und ihnen nicht gnädig sein.
+7	3	Und du sollst dich nicht mit ihnen verschwägern: Deine Tochter sollst du nicht seinem Sohn geben, und seine Tochter sollst du nicht für deinen Sohn nehmen.
+7	4	Denn er wird deinen Sohn von mir abbringen, und sie werden anderen Göttern dienen; dann wird der Zorn des HERRN gegen euch entbrennen, und er wird dich eilends vernichten.
+7	5	Sondern so sollt ihr mit ihnen tun: Ihre Altäre sollt ihr einreissen und ihre Steinmale zerbrechen und ihre Ascheren kappen und ihre Schnitzbilder im Feuer verbrennen.
+7	6	Denn ein heiliges Volk bist du dem HERRN, deinem Gott. Dich hat der HERR, dein Gott, erwählt, damit du ihm ein Volk des Eigentums seist aus allen Völkern, die auf dem Angesicht des Bodens sind.
+7	7	Nicht weil ihr mehr wäret als alle Völker, hängt der HERR an euch und hat euch erwählt; denn ihr seid weniger als alle Völker;
+7	8	sondern weil der HERR euch liebt und weil er den Eid bewahrt, den er euren Vätern geschworen hat, hat der HERR euch mit starker Hand herausgeführt und dich losgekauft aus dem Sklavenhaus, aus der Hand des Pharao, des Königs von Ägypten.
+7	9	So erkenne: Der HERR, dein Gott, er ist Gott, der verlässliche Gott, der den Bund und die Güte bewahrt bei denen, die ihn lieben und seine Gebote bewahren, für tausend Geschlechter,
+7	10	und der denen, die ihn hassen, ins Angesicht erstattet, um sie zu vertilgen. Er verweilt nicht bei dem, der ihn hasst; ins Angesicht erstattet er ihm.
+7	11	So bewahre das Gebot und die Satzungen und die Rechtsentscheide, die ich dir heute gebiete, um sie zu tun.
+7	12	Und es wird geschehen: Dafür, dass ihr diese Rechtsentscheide hört und sie bewahrt und tut, wird der HERR, dein Gott, dir den Bund und die Güte bewahren, die er deinen Vätern geschworen hat.
+7	13	Und er wird dich lieben und dich segnen und dich mehren, und er wird die Frucht deines Leibes segnen und die Frucht deines Bodens, dein Korn und deinen Most und dein frisches Öl, den Wurf deiner Rinder und die Nachzucht deiner Schafe, auf dem Boden, den er deinen Vätern geschworen hat, dir zu geben.
+7	14	Gesegnet wirst du sein mehr als alle Völker; es wird bei dir keinen Unfruchtbaren und keine Unfruchtbare geben, auch nicht unter deinem Vieh.
+7	15	Und der HERR wird jede Krankheit von dir wegtun; und all das böse Siechtum Ägyptens, das du kennst, wird er nicht auf dich legen, sondern er wird es auf alle legen, die dich hassen.
+7	16	Und du wirst alle Völker fressen, die der HERR, dein Gott, dir gibt. Dein Auge soll sie nicht schonen, und ihren Göttern sollst du nicht dienen; denn das ist dir ein Fallstrick.
+7	17	Wenn du in deinem Herzen sagst: «Diese Völker sind mehr als ich; wie kann ich sie verdrängen?»,
+7	18	so fürchte dich nicht vor ihnen. Gedenke, was der HERR, dein Gott, am Pharao und an ganz Ägypten getan hat:
+7	19	die grossen Versuchungen, die deine Augen gesehen haben, und die Zeichen und die Wunder und die starke Hand und den ausgestreckten Arm, mit denen der HERR, dein Gott, dich herausgeführt hat. So wird der HERR, dein Gott, an allen Völkern tun, vor denen du dich fürchtest.
+7	20	Und auch die Hornisse wird der HERR, dein Gott, unter sie aussenden, bis die umgekommen sind, die übrig geblieben sind und sich vor dir verborgen haben.
+7	21	Lass dich nicht vor ihnen einschüchtern; denn der HERR, dein Gott, ist mitten unter dir, ein grosser und furchtgebietender Gott.
+7	22	Und der HERR, dein Gott, wird diese Völker vor dir lichten, nach und nach. Du kannst sie nicht eilends aufreiben, damit sich nicht die Tiere des Feldes gegen dich mehren.
+7	23	Und der HERR, dein Gott, wird sie vor dich hinlegen und sie verwirren in grosser Wirrnis, bis sie vernichtet sind.
+7	24	Und er wird ihre Könige in deine Hand geben, und du wirst ihren Namen unter dem Himmel weg vertilgen. Keiner wird sich vor dir aufstellen, bis du sie vernichtet hast.
+7	25	Die Schnitzbilder ihrer Götter sollt ihr im Feuer verbrennen. Du sollst das Silber und das Gold an ihnen nicht begehren und es dir nicht nehmen, damit es dir nicht zum Fallstrick wird; denn es ist dem HERRN, deinem Gott, ein Gräuel.
+7	26	Und du sollst keinen Gräuel in dein Haus bringen und so dem Bann verfallen wie er. Du sollst ihn für einen Gräuel halten und ihn verabscheuen; denn er ist dem Bann verfallen.
+8	1	Das ganze Gebot, das ich dir heute gebiete, sollt ihr bewahren, um es zu tun, damit ihr lebt und zahlreich werdet und hineinkommt und das Land in Besitz nehmt, das der HERR euren Vätern zugeschworen hat.
+8	2	Und gedenke des ganzen Weges, den der HERR, dein Gott, dich hat gehen lassen, diese vierzig Jahre in der Wüste, um dich zu beugen, um dich zu versuchen, um zu erkennen, was in deinem Herzen ist: ob du seine Gebote bewahren würdest oder nicht.
+8	3	Und er beugte dich und liess dich hungern und gab dir das Manna zu essen, das du nicht kanntest und das deine Väter nicht kannten, um dir kundzutun: Nicht von Brot allein wird der Mensch leben, sondern von allem, was aus dem Mund des HERRN hervorgeht, wird der Mensch leben.
+8	4	Dein Umhang ist nicht an dir verschlissen, und dein Fuss ist nicht aufgequollen, diese vierzig Jahre.
+8	5	So erkenne mit deinem Herzen: Wie ein Mann seinen Sohn erzieht, so erzieht dich der HERR, dein Gott.
+8	6	Und bewahre die Gebote des HERRN, deines Gottes, um auf seinen Wegen zu gehen und ihn zu fürchten.
+8	7	Denn der HERR, dein Gott, bringt dich in ein gutes Land, ein Land der Wasserbäche, der Quellen und der Urfluten, die in der Niederung und im Bergland hervorgehen,
+8	8	ein Land des Weizens und der Gerste und des Weinstocks und des Feigenbaums und des Granatapfels, ein Land des Ölbaums, der Öl gibt, und des Honigs,
+8	9	ein Land, in dem du nicht in Knappheit Brot essen wirst, in dem dir nichts fehlen wird, ein Land, dessen Steine Eisen sind und aus dessen Bergen du Erz hauen wirst.
+8	10	Und du wirst essen und satt werden und den HERRN, deinen Gott, preisen für das gute Land, das er dir gegeben hat.
+8	11	Nimm dich in Acht, dass du den HERRN, deinen Gott, nicht vergisst, sodass du seine Gebote und seine Rechtsentscheide und seine Satzungen nicht bewahrst, die ich dir heute gebiete,
+8	12	damit nicht, wenn du isst und satt wirst und gute Häuser baust und darin wohnst
+8	13	und deine Rinder und deine Schafe sich mehren und Silber und Gold sich dir mehrt und alles, was du hast, sich mehrt,
+8	14	dein Herz sich erhebt und du den HERRN, deinen Gott, vergisst, der dich herausgeführt hat aus dem Land Ägypten, aus dem Sklavenhaus,
+8	15	der dich durch die grosse und furchtgebietende Wüste gehen liess — Brandschlange und Skorpion und Durstland, wo kein Wasser ist —, der dir Wasser aus dem Feuersteinfels hervorgehen liess,
+8	16	der dir in der Wüste Manna zu essen gab, das deine Väter nicht kannten, um dich zu beugen und um dich zu versuchen, um dir Gutes zu tun in deiner Zukunft,
+8	17	und du in deinem Herzen sagst: «Meine Kraft und die Macht meiner Hand haben mir diesen Wohlstand verschafft.»
+8	18	Und gedenke des HERRN, deines Gottes; denn er ist es, der dir Kraft gibt, dir Wohlstand zu verschaffen, um seinen Bund bestehen zu lassen, den er deinen Vätern geschworen hat, wie es an diesem Tag ist.
+8	19	Und es wird geschehen, wenn du den HERRN, deinen Gott, vergisst und hinter anderen Göttern hergehst und ihnen dienst und dich vor ihnen niederwirfst, so gebe ich heute Zeugnis gegen euch, dass ihr unweigerlich umkommen werdet.
+8	20	Wie die Völker, die der HERR vor euch vertilgt, so werdet ihr umkommen, dafür, dass ihr nicht auf die Stimme des HERRN, eures Gottes, hört.
+9	1	Höre, Israel: Du überschreitest heute den Jordan, um hineinzukommen, um Völker zu beerben, grösser und stärker als du, Städte, gross und befestigt bis in den Himmel,
+9	2	ein Volk, gross und hoch gewachsen, die Kinder der Anakiter, die du selbst kennst und von denen du selbst gehört hast: «Wer kann sich vor den Kindern Anaks aufstellen?»
+9	3	So erkenne heute: Der HERR, dein Gott, er ist es, der vor dir hinüberzieht, ein verzehrendes Feuer. Er wird sie vernichten, und er wird sie vor dir beugen; und du wirst sie verdrängen und sie eilends vertilgen, wie der HERR zu dir geredet hat.
+9	4	Sag nicht in deinem Herzen, wenn der HERR, dein Gott, sie vor dir hinausstösst: «Um meiner Gerechtigkeit willen hat mich der HERR hineingebracht, um dieses Land in Besitz zu nehmen»; um des Frevels dieser Völker willen verdrängt sie der HERR vor dir.
+9	5	Nicht um deiner Gerechtigkeit und um der Redlichkeit deines Herzens willen kommst du hinein, um ihr Land in Besitz zu nehmen, sondern um des Frevels dieser Völker willen verdrängt sie der HERR, dein Gott, vor dir, und damit er das Wort bestehen lässt, das der HERR deinen Vätern geschworen hat, Abraham, Isaak und Jakob.
+9	6	So erkenne: Nicht um deiner Gerechtigkeit willen gibt dir der HERR, dein Gott, dieses gute Land, um es in Besitz zu nehmen; denn ein halsstarriges Volk bist du.
+9	7	Gedenke, vergiss nicht, wie du den HERRN, deinen Gott, in der Wüste in Wut gebracht hast! Von dem Tag an, als du aus dem Land Ägypten auszogst, bis ihr an diesen Ort kamt, habt ihr dem HERRN getrotzt.
+9	8	Und am Horeb brachtet ihr den HERRN in Wut, und der HERR zürnte gegen euch, um euch zu vernichten.
+9	9	Als ich auf den Berg hinaufstieg, um die steinernen Tafeln zu nehmen, die Tafeln des Bundes, den der HERR mit euch geschlossen hatte, da blieb ich auf dem Berg vierzig Tage und vierzig Nächte; Brot ass ich nicht, und Wasser trank ich nicht.
+9	10	Und der HERR gab mir die zwei steinernen Tafeln, geschrieben mit dem Finger Gottes; und auf ihnen standen alle die Worte, die der HERR auf dem Berg mitten aus dem Feuer mit euch geredet hatte am Tag der Versammlung.
+9	11	Und es geschah am Ende von vierzig Tagen und vierzig Nächten, da gab mir der HERR die zwei steinernen Tafeln, die Tafeln des Bundes.
+9	12	Und der HERR sagte zu mir: «Steh auf, steig eilends hinab von hier; denn dein Volk, das du aus Ägypten herausgeführt hast, hat verderblich gehandelt. Sie sind eilends abgewichen von dem Weg, den ich ihnen geboten habe; sie haben sich ein Gussbild gemacht.»
+9	13	Und der HERR sagte zu mir: «Ich habe dieses Volk gesehen, und siehe, ein halsstarriges Volk ist es.
+9	14	Steh ab von mir, dass ich sie vernichte und ihren Namen unter dem Himmel weg auslösche; und ich will dich zu einem Volk machen, stärker und mehr als es.»
+9	15	Und ich wandte mich und stieg vom Berg hinab, und der Berg brannte im Feuer; und die zwei Tafeln des Bundes waren auf meinen beiden Händen.
+9	16	Und ich sah, und siehe, ihr hattet gegen den HERRN, euren Gott, gesündigt: Ihr hattet euch ein Kalb gemacht, ein Gussbild; ihr wart eilends abgewichen von dem Weg, den der HERR euch geboten hatte.
+9	17	Da erfasste ich die zwei Tafeln und warf sie von meinen beiden Händen und zerbrach sie vor euren Augen.
+9	18	Und ich warf mich vor dem Angesicht des HERRN hin wie das erste Mal, vierzig Tage und vierzig Nächte; Brot ass ich nicht, und Wasser trank ich nicht, wegen all eurer Sünde, die ihr gesündigt hattet, indem ihr das Böse tatet in den Augen des HERRN, um ihm Kummer zu bereiten.
+9	19	Denn ich erschauerte vor dem Zorn und dem Grimm, mit dem der HERR über euch in Wut geraten war, um euch zu vernichten. Und der HERR hörte auf mich auch jenes Mal.
+9	20	Und gegen Aaron zürnte der HERR sehr, um ihn zu vernichten; und ich betete auch für Aaron zu jener Zeit.
+9	21	Und eure Sünde, die ihr gemacht hattet, das Kalb, nahm ich und verbrannte es im Feuer und zerstampfte es und zermahlte es gründlich, bis es zu Staub fein war; und ich warf seinen Staub in den Bach, der vom Berg herabsteigt.
+9	22	Und in Tabera und in Massa und in Kibrot-Taawa habt ihr den HERRN in Wut gebracht.
+9	23	Und als der HERR euch von Kadesch-Barnea aussandte und sagte: «Steigt hinauf und nehmt das Land in Besitz, das ich euch gegeben habe», da trotztet ihr dem Mund des HERRN, eures Gottes, und glaubtet ihm nicht und hörtet nicht auf seine Stimme.
+9	24	Ihr habt dem HERRN getrotzt seit dem Tag, an dem ich euch kenne.
+9	25	Und ich warf mich vor dem Angesicht des HERRN hin, die vierzig Tage und die vierzig Nächte, die ich mich hingeworfen hatte; denn der HERR hatte gesagt, er wolle euch vernichten.
+9	26	Und ich betete zum HERRN und sagte: «Herr, HERR, verdirb nicht dein Volk und dein Erbe, das du in deiner Grösse losgekauft hast, das du mit starker Hand aus Ägypten herausgeführt hast!
+9	27	Gedenke deiner Knechte, Abrahams, Isaaks und Jakobs! Wende dich nicht zur Härte dieses Volkes und zu seinem Frevel und zu seiner Sünde,
+9	28	damit nicht das Land, aus dem du uns herausgeführt hast, sagt: ‹Weil der HERR sie nicht in das Land bringen konnte, von dem er zu ihnen geredet hatte, und aus Hass gegen sie hat er sie herausgeführt, um sie in der Wüste zu Tode zu bringen.›
+9	29	Und sie sind doch dein Volk und dein Erbe, das du herausgeführt hast mit deiner grossen Kraft und mit deinem ausgestreckten Arm.»
+10	1	Zu jener Zeit sagte der HERR zu mir: «Hau dir zwei steinerne Tafeln zurecht wie die ersten und steig herauf zu mir auf den Berg; und mach dir eine Lade aus Holz.
+10	2	Dann will ich auf die Tafeln die Worte schreiben, die auf den ersten Tafeln waren, die du zerbrochen hast; und du sollst sie in die Lade legen.»
+10	3	Da machte ich eine Lade aus Akazienholz und hieb zwei steinerne Tafeln zurecht wie die ersten und stieg auf den Berg hinauf, die zwei Tafeln in meiner Hand.
+10	4	Und er schrieb auf die Tafeln nach der ersten Schrift die zehn Worte, die der HERR auf dem Berg mitten aus dem Feuer zu euch geredet hatte am Tag der Versammlung; und der HERR gab sie mir.
+10	5	Und ich wandte mich und stieg vom Berg hinab und legte die Tafeln in die Lade, die ich gemacht hatte; und sie waren dort, wie der HERR mir geboten hatte.
+10	6	Und die Kinder Israels brachen von Beerot-Bene-Jaakan auf nach Mosera. Dort starb Aaron, und er wurde dort begraben, und Eleasar, sein Sohn, wurde Priester an seiner Stelle.
+10	7	Von dort brachen sie auf nach Gudgoda, und von Gudgoda nach Jotbata, einem Land der Wasserbäche.
+10	8	Zu jener Zeit sonderte der HERR den Stamm Levi aus, um die Lade des Bundes des HERRN zu tragen, um vor dem Angesicht des HERRN zu stehen, ihm Dienst zu tun und in seinem Namen zu segnen, bis zu diesem Tag.
+10	9	Darum hat Levi keinen Anteil und kein Erbe mit seinen Brüdern; der HERR, er ist sein Erbe, wie der HERR, dein Gott, zu ihm geredet hat.
+10	10	Ich aber stand auf dem Berg wie in den ersten Tagen, vierzig Tage und vierzig Nächte; und der HERR hörte auf mich auch jenes Mal; der HERR wollte dich nicht verderben.
+10	11	Und der HERR sagte zu mir: «Steh auf, geh, um vor dem Volk her aufzubrechen, damit sie hineinkommen und das Land in Besitz nehmen, das ich ihren Vätern geschworen habe, ihnen zu geben.»
+10	12	Und nun, Israel, was erbittet der HERR, dein Gott, von dir, als den HERRN, deinen Gott, zu fürchten, auf allen seinen Wegen zu gehen und ihn zu lieben und dem HERRN, deinem Gott, zu dienen mit deinem ganzen Herzen und mit deiner ganzen Seele,
+10	13	die Gebote des HERRN und seine Satzungen zu bewahren, die ich dir heute gebiete, dir zum Guten?
+10	14	Siehe, dem HERRN, deinem Gott, gehören der Himmel und die Himmel der Himmel, die Erde und alles, was auf ihr ist.
+10	15	Doch nur an deinen Vätern hing der HERR, sie zu lieben; und er hat ihre Nachkommen nach ihnen erwählt, euch, aus allen Völkern, wie es an diesem Tag ist.
+10	16	So sollt ihr die Vorhaut eures Herzens beschneiden und euren Nacken nicht mehr hart machen.
+10	17	Denn der HERR, euer Gott, er ist der Gott der Götter und der Herr der Herren, der grosse, der mächtige und der furchtgebietende Gott, der das Angesicht nicht annimmt und keine Bestechung nimmt,
+10	18	der das Recht der Waise und der Witwe schafft und den Fremden liebt, um ihm Brot und Umhang zu geben.
+10	19	So sollt ihr den Fremden lieben; denn Fremde seid ihr gewesen im Land Ägypten.
+10	20	Den HERRN, deinen Gott, sollst du fürchten, ihm sollst du dienen, und ihm sollst du anhangen, und bei seinem Namen sollst du schwören.
+10	21	Er ist dein Lob, und er ist dein Gott, der mit dir dies Grosse und Furchtgebietende getan hat, das deine Augen gesehen haben.
+10	22	Mit siebzig Seelen sind deine Väter nach Ägypten hinabgestiegen; und nun hat der HERR, dein Gott, dich gemacht wie die Sterne des Himmels in Fülle.
+11	1	Und du sollst den HERRN, deinen Gott, lieben und bewahren, was er zu bewahren gibt, und seine Satzungen und seine Rechtsentscheide und seine Gebote, alle Tage.
+11	2	So erkennt heute — ja, nicht eure Kinder, die es nicht erkannt und nicht gesehen haben — die Erziehung des HERRN, eures Gottes, seine Grösse, seine starke Hand und seinen ausgestreckten Arm
+11	3	und seine Zeichen und seine Werke, die er mitten in Ägypten getan hat am Pharao, dem König von Ägypten, und an seinem ganzen Land,
+11	4	und was er am Heer Ägyptens getan hat, an seinen Rossen und an seinen Wagen, über die er die Wasser des Schilfmeers fluten liess, als sie euch verfolgten, und der HERR hat sie vertilgt bis zu diesem Tag;
+11	5	und was er an euch in der Wüste getan hat, bis ihr an diesen Ort kamt;
+11	6	und was er an Datan und Abiram getan hat, den Söhnen Eliabs, des Sohnes Rubens, wie die Erde ihren Mund aufsperrte und sie verschlang und ihre Häuser und ihre Zelte und alles Bestehende in ihrem Gefolge, mitten in ganz Israel.
+11	7	Denn eure Augen sind es, die das ganze grosse Werk des HERRN gesehen haben, das er getan hat.
+11	8	So bewahrt das ganze Gebot, das ich dir heute gebiete, damit ihr stark seid und hineinkommt und das Land in Besitz nehmt, in das ihr hinüberzieht, um es in Besitz zu nehmen,
+11	9	und damit ihr eure Tage verlängert auf dem Boden, den der HERR euren Vätern geschworen hat, ihnen und ihren Nachkommen zu geben, ein Land, das von Milch und Honig fliesst.
+11	10	Denn das Land, in das du hineinkommst, um es in Besitz zu nehmen, ist nicht wie das Land Ägypten, aus dem ihr ausgezogen seid, wo du deine Saat sätest und ihr mit deinem Fuss zu trinken gabst wie einem Garten mit Grün.
+11	11	Das Land aber, in das ihr hinüberzieht, um es in Besitz zu nehmen, ist ein Land der Berge und der Niederungen; vom Regen des Himmels trinkt es Wasser,
+11	12	ein Land, nach dem der HERR, dein Gott, fragt; beständig sind die Augen des HERRN, deines Gottes, auf ihm, vom Anfang des Jahres bis zum Ende des Jahres.
+11	13	Und es wird geschehen, wenn ihr auf meine Gebote hört, die ich euch heute gebiete, den HERRN, euren Gott, zu lieben und ihm zu dienen mit eurem ganzen Herzen und mit eurer ganzen Seele,
+11	14	so will ich den Regen eures Landes geben zu seiner Zeit, Frühregen und Spätregen, und du wirst dein Korn und deinen Most und dein frisches Öl einsammeln.
+11	15	Und ich will Kraut auf deinem Feld geben für dein Vieh, und du wirst essen und satt werden.
+11	16	Nehmt euch in Acht, dass euer Herz sich nicht betören lässt und ihr abweicht und anderen Göttern dient und euch vor ihnen niederwerft;
+11	17	dann wird der Zorn des HERRN gegen euch entbrennen, und er wird den Himmel zuhalten, und es wird kein Regen sein, und der Boden wird seinen Ertrag nicht geben, und ihr werdet eilends umkommen, fort von dem guten Land, das der HERR euch gibt.
+11	18	Und ihr sollt diese meine Worte auf euer Herz und auf eure Seele legen, und ihr sollt sie zum Zeichen um eure Hand binden, und sie sollen zum Stirnband zwischen euren Augen sein.
+11	19	Und ihr sollt sie eure Kinder lehren, von ihnen zu reden, wenn du in deinem Haus sitzt und wenn du auf dem Weg gehst und wenn du dich hinlegst und wenn du aufstehst.
+11	20	Und du sollst sie auf die Türpfosten deines Hauses und an deine Tore schreiben,
+11	21	damit sich eure Tage und die Tage eurer Kinder mehren auf dem Boden, den der HERR euren Vätern geschworen hat, ihnen zu geben, wie die Tage des Himmels über der Erde.
+11	22	Denn wenn ihr dieses ganze Gebot sorgfältig bewahrt, das ich euch gebiete, um es zu tun, den HERRN, euren Gott, zu lieben, auf allen seinen Wegen zu gehen und ihm anzuhangen,
+11	23	so wird der HERR alle diese Völker vor euch verdrängen, und ihr werdet Völker beerben, grösser und stärker als ihr.
+11	24	Jeder Ort, den eure Fusssohle betritt, wird euch gehören: von der Wüste und dem Libanon, vom Strom, dem Strom Eufrat, bis zum hinteren Meer wird euer Gebiet sein.
+11	25	Keiner wird sich vor euch aufstellen; Schrecken vor euch und Grauen vor euch wird der HERR, euer Gott, auf das Angesicht des ganzen Landes legen, das ihr betretet, wie er zu euch geredet hat.
+11	26	Sieh, ich lege euch heute Segen und Verwünschung vor:
+11	27	den Segen, wenn ihr auf die Gebote des HERRN, eures Gottes, hört, die ich euch heute gebiete,
+11	28	und die Verwünschung, wenn ihr nicht auf die Gebote des HERRN, eures Gottes, hört und von dem Weg abweicht, den ich euch heute gebiete, um hinter anderen Göttern herzugehen, die ihr nicht gekannt habt.
+11	29	Und es wird geschehen, wenn der HERR, dein Gott, dich in das Land bringt, in das du hineinkommst, um es in Besitz zu nehmen, dann sollst du den Segen auf den Berg Garizim legen und die Verwünschung auf den Berg Ebal.
+11	30	Sind sie nicht jenseits des Jordan, hinter dem Weg gegen den Niedergang der Sonne, im Land der Kanaaniter, die in der Steppe wohnen, gegenüber Gilgal, neben den Eichen More?
+11	31	Denn ihr überschreitet den Jordan, um hineinzukommen, um das Land in Besitz zu nehmen, das der HERR, euer Gott, euch gibt; und ihr werdet es in Besitz nehmen und darin wohnen.
+11	32	So bewahrt, um sie zu tun, all die Satzungen und die Rechtsentscheide, die ich euch heute vorlege.
+12	1	Dies sind die Satzungen und die Rechtsentscheide, die ihr bewahren sollt, um sie zu tun in dem Land, das der HERR, der Gott deiner Väter, dir gegeben hat, um es in Besitz zu nehmen, alle Tage, die ihr auf dem Boden lebt.
+12	2	Vertilgen sollt ihr alle Orte, an denen die Völker, die ihr beerbt, ihren Göttern gedient haben, auf den hohen Bergen und auf den Hügeln und unter jedem laubreichen Baum.
+12	3	Und ihr sollt ihre Altäre einreissen und ihre Steinmale zerbrechen und ihre Ascheren im Feuer verbrennen und die Schnitzbilder ihrer Götter kappen und ihren Namen vertilgen von jenem Ort.
+12	4	So sollt ihr es nicht halten mit dem HERRN, eurem Gott.
+12	5	Sondern nach dem Ort, den der HERR, euer Gott, aus allen euren Stämmen erwählen wird, um seinen Namen dorthin zu setzen, nach seinem Wohnen sollt ihr fragen, und dorthin sollst du kommen.
+12	6	Und dorthin sollt ihr bringen eure Brandopfer und eure Schlachtopfer und eure Zehnten und die Abgabe eurer Hand und eure Gelübde und eure freiwilligen Gaben und die Erstgeborenen eurer Rinder und eurer Schafe.
+12	7	Und dort sollt ihr essen vor dem Angesicht des HERRN, eures Gottes, und euch freuen an allem, wozu ihr eure Hand ausstreckt, ihr und eure Häuser, worin der HERR, dein Gott, dich gesegnet hat.
+12	8	Ihr sollt nicht tun nach allem, was wir hier heute tun, jeder all das, was in seinen Augen das Rechte ist.
+12	9	Denn bis jetzt seid ihr nicht in die Ruhe gekommen und in das Erbe, das der HERR, dein Gott, dir gibt.
+12	10	Und ihr werdet den Jordan überschreiten und in dem Land wohnen, das der HERR, euer Gott, euch erben lässt, und er wird euch zur Ruhe bringen vor all euren Feinden ringsum, und ihr werdet sicher wohnen.
+12	11	Und es wird geschehen: Der Ort, den der HERR, euer Gott, erwählen wird, um seinen Namen dort wohnen zu lassen — dorthin sollt ihr alles bringen, was ich euch gebiete: eure Brandopfer und eure Schlachtopfer, eure Zehnten und die Abgabe eurer Hand und alles Ausgesuchteste eurer Gelübde, die ihr dem HERRN gelobt.
+12	12	Und ihr sollt euch freuen vor dem Angesicht des HERRN, eures Gottes, ihr und eure Söhne und eure Töchter und eure Sklaven und eure Sklavinnen und der Levit, der in euren Toren ist; denn er hat keinen Anteil und kein Erbe mit euch.
+12	13	Nimm dich in Acht, dass du deine Brandopfer nicht an jedem Ort aufsteigen lässt, den du siehst;
+12	14	sondern an dem Ort, den der HERR in einem deiner Stämme erwählen wird, dort sollst du deine Brandopfer aufsteigen lassen, und dort sollst du alles tun, was ich dir gebiete.
+12	15	Doch nach allem Begehren deiner Seele darfst du schlachten und Fleisch essen nach dem Segen des HERRN, deines Gottes, den er dir gegeben hat, in allen deinen Toren; der Unreine und der Reine dürfen davon essen wie von der Gazelle und vom Hirsch.
+12	16	Nur das Blut sollt ihr nicht essen; auf die Erde sollst du es ausgiessen wie Wasser.
+12	17	Du kannst in deinen Toren nicht essen den Zehnten deines Korns und deines Mostes und deines frischen Öls und die Erstgeborenen deiner Rinder und deiner Schafe und alle deine Gelübde, die du gelobst, und deine freiwilligen Gaben und die Abgabe deiner Hand;
+12	18	sondern vor dem Angesicht des HERRN, deines Gottes, sollst du es essen an dem Ort, den der HERR, dein Gott, erwählen wird, du und dein Sohn und deine Tochter und dein Sklave und deine Sklavin und der Levit, der in deinen Toren ist; und du sollst dich freuen vor dem Angesicht des HERRN, deines Gottes, an allem, wozu du deine Hand ausstreckst.
+12	19	Nimm dich in Acht, dass du den Leviten nicht verlässt, alle deine Tage auf deinem Boden.
+12	20	Wenn der HERR, dein Gott, dein Gebiet weit macht, wie er zu dir geredet hat, und du sagst: «Ich will Fleisch essen», weil deine Seele begehrt, Fleisch zu essen, so darfst du nach allem Begehren deiner Seele Fleisch essen.
+12	21	Wenn der Ort, den der HERR, dein Gott, erwählen wird, um seinen Namen dorthin zu setzen, fern ist von dir, so darfst du schlachten von deinen Rindern und von deinen Schafen, die der HERR dir gegeben hat, wie ich dir geboten habe, und in deinen Toren essen nach allem Begehren deiner Seele.
+12	22	Nur wie die Gazelle und der Hirsch gegessen werden, so sollst du es essen; der Unreine und der Reine dürfen es miteinander essen.
+12	23	Nur sei stark darin, das Blut nicht zu essen; denn das Blut ist die Seele, und du sollst nicht die Seele mit dem Fleisch essen.
+12	24	Du sollst es nicht essen; auf die Erde sollst du es ausgiessen wie Wasser.
+12	25	Du sollst es nicht essen, damit es dir gut gehe und deinen Kindern nach dir, wenn du das Rechte tust in den Augen des HERRN.
+12	26	Nur deine heiligen Dinge, die du hast, und deine Gelübde sollst du tragen und an den Ort kommen, den der HERR erwählen wird.
+12	27	Und du sollst deine Brandopfer zubereiten, das Fleisch und das Blut, auf dem Altar des HERRN, deines Gottes; und das Blut deiner Schlachtopfer soll auf den Altar des HERRN, deines Gottes, ausgegossen werden, das Fleisch aber sollst du essen.
+12	28	Bewahre und höre alle diese Worte, die ich dir gebiete, damit es dir gut gehe und deinen Kindern nach dir auf ewig, wenn du das Gute und das Rechte tust in den Augen des HERRN, deines Gottes.
+12	29	Wenn der HERR, dein Gott, die Völker vor dir ausrottet, zu denen du hineinkommst, um sie zu beerben, und du sie beerbst und in ihrem Land wohnst,
+12	30	so nimm dich in Acht, dass du dich nicht hinter ihnen her verstrickst, nachdem sie vor dir vernichtet worden sind, und dass du nicht nach ihren Göttern fragst und sagst: «Wie dienen diese Völker ihren Göttern? So will auch ich es halten.»
+12	31	So sollst du es nicht halten mit dem HERRN, deinem Gott; denn alles, was dem HERRN ein Gräuel ist, was er hasst, haben sie für ihre Götter getan; denn auch ihre Söhne und ihre Töchter verbrennen sie im Feuer für ihre Götter.
+13	1	Das ganze Wort, das ich euch gebiete, sollt ihr bewahren, um es zu tun; du sollst nichts dazu hinzufügen und nichts davon wegnehmen.
+13	2	Wenn in deiner Mitte ein Prophet aufsteht oder ein Träumer und dir ein Zeichen oder ein Wunder gibt,
+13	3	und das Zeichen und das Wunder kommt, von dem er zu dir geredet hat: «Lasst uns hinter anderen Göttern hergehen, die du nicht gekannt hast, und ihnen dienen»,
+13	4	so sollst du nicht auf die Worte jenes Propheten hören oder auf jenen Träumer; denn der HERR, euer Gott, versucht euch, um zu erkennen, ob ihr den HERRN, euren Gott, liebt mit eurem ganzen Herzen und mit eurer ganzen Seele.
+13	5	Hinter dem HERRN, eurem Gott, sollt ihr hergehen, und ihn sollt ihr fürchten, und seine Gebote sollt ihr bewahren, und auf seine Stimme sollt ihr hören, und ihm sollt ihr dienen, und ihm sollt ihr anhangen.
+13	6	Und jener Prophet oder jener Träumer soll zu Tode gebracht werden; denn er hat Abfall geredet gegen den HERRN, euren Gott, der euch herausgeführt hat aus dem Land Ägypten und dich losgekauft hat aus dem Sklavenhaus, um dich von dem Weg fortzustossen, auf dem der HERR, dein Gott, dir zu gehen geboten hat. So sollst du das Böse aus deiner Mitte entfernen.
+13	7	Wenn dich dein Bruder, der Sohn deiner Mutter, oder dein Sohn oder deine Tochter oder die Frau deines Schosses oder dein Freund, der dir wie deine Seele ist, im Verborgenen verführt und sagt: «Lasst uns gehen und anderen Göttern dienen, die du nicht gekannt hast, du und deine Väter»,
+13	8	von den Göttern der Völker, die rings um euch sind, die dir nahe sind oder fern von dir, vom Ende der Erde bis zum Ende der Erde,
+13	9	so sollst du ihm nicht nachgeben und nicht auf ihn hören; und dein Auge soll ihn nicht schonen, und du sollst kein Mitleid haben und ihn nicht decken,
+13	10	sondern töten sollst du ihn. Deine Hand soll zuerst an ihm sein, um ihn zu Tode zu bringen, und zuletzt die Hand des ganzen Volkes.
+13	11	Und du sollst ihn mit Steinen steinigen, und er soll sterben; denn er hat gesucht, dich fortzustossen vom HERRN, deinem Gott, der dich herausgeführt hat aus dem Land Ägypten, aus dem Sklavenhaus.
+13	12	Und ganz Israel soll es hören und sich fürchten, und sie sollen nicht länger Böses wie dieses in deiner Mitte tun.
+13	13	Wenn du von einer deiner Städte, die der HERR, dein Gott, dir gibt, um dort zu wohnen, sagen hörst:
+13	14	«Nichtswürdige Männer sind aus deiner Mitte hervorgegangen und haben die Bewohner ihrer Stadt fortgestossen und gesagt: ‹Lasst uns gehen und anderen Göttern dienen, die ihr nicht gekannt habt›»,
+13	15	so sollst du nachfragen und erforschen und gründlich befragen; und siehe: Ist es Wahrheit, steht das Wort fest, ist dieser Gräuel in deiner Mitte getan worden,
+13	16	dann sollst du die Bewohner jener Stadt mit der Schneide des Schwertes schlagen. Banne sie und alles, was in ihr ist, und ihr Vieh mit der Schneide des Schwertes.
+13	17	Und all ihre Beute sollst du mitten auf ihre Strasse zusammenraffen und die Stadt und all ihre Beute im Feuer verbrennen, als Ganzopfer für den HERRN, deinen Gott; und sie soll ein Schutthügel sein für immer, sie soll nicht wieder aufgebaut werden.
+13	18	Und nichts von dem Gebannten soll an deiner Hand kleben, damit der HERR umkehrt von der Glut seines Zorns und dir Erbarmen gibt und sich deiner erbarmt und dich mehrt, wie er deinen Vätern geschworen hat,
+13	19	wenn du auf die Stimme des HERRN, deines Gottes, hörst, um alle seine Gebote zu bewahren, die ich dir heute gebiete, um das Rechte zu tun in den Augen des HERRN, deines Gottes.
+14	1	Kinder seid ihr dem HERRN, eurem Gott. Ihr sollt euch nicht ritzen, und ihr sollt keine Glatze machen zwischen euren Augen um eines Toten willen.
+14	2	Denn ein heiliges Volk bist du dem HERRN, deinem Gott. Und dich hat der HERR erwählt, damit du ihm ein Volk des Eigentums seist aus allen Völkern, die auf dem Angesicht des Bodens sind.
+14	3	Du sollst keinerlei Gräuel essen.
+14	4	Dies ist das Vieh, das ihr essen dürft: der Ochse, das Lamm von den Schafen und das Lamm von den Ziegen,
+14	5	der Hirsch und die Gazelle und das Reh und die Wildziege und der Addax und der Oryx und das Wildschaf.
+14	6	Und alles Vieh, das die Hufe spaltet und dessen Hufe ganz in zwei Hufe auseinanderklaffen, was wiederkäut unter dem Vieh, das dürft ihr essen.
+14	7	Doch diese sollt ihr nicht essen von denen, die wiederkäuen, und von denen, die die Hufe spalten, deren Hufe auseinanderklaffen: das Kamel und den Hasen und den Klippdachs; denn sie käuen wieder, aber die Hufe spalten sie nicht — unrein sind sie für euch.
+14	8	Und das Schwein, denn es spaltet die Hufe, aber es käut nicht wieder — unrein ist es für euch. Von ihrem Fleisch sollt ihr nicht essen, und ihr Aas sollt ihr nicht berühren.
+14	9	Dies dürft ihr essen von allem, was im Wasser ist: Alles, was Flossen und Schuppen hat, dürft ihr essen.
+14	10	Aber alles, was keine Flossen und Schuppen hat, sollt ihr nicht essen; unrein ist es für euch.
+14	11	Jeden reinen Vogel dürft ihr essen.
+14	12	Und diese sollt ihr von ihnen nicht essen: den Adler und den Beinbrecher und den Mönchsgeier
+14	13	und den Milan und den Bussard und den Schwarzmilan nach seiner Art,
+14	14	und jeden Raben nach seiner Art
+14	15	und den Strauss und die Ohreule und die Möwe und den Falken nach seiner Art,
+14	16	den Kauz und den Uhu und die Schleiereule
+14	17	und den Pelikan und den Geier und den Kormoran
+14	18	und den Storch und den Reiher nach seiner Art und den Wiedehopf und die Fledermaus.
+14	19	Und alles geflügelte Gewimmel — unrein ist es für euch; sie sollen nicht gegessen werden.
+14	20	Alle reinen Vögel dürft ihr essen.
+14	21	Ihr sollt keinerlei Aas essen; dem Fremden, der in deinen Toren ist, darfst du es geben, und er darf es essen, oder du darfst es einem aus der Fremde verkaufen; denn ein heiliges Volk bist du dem HERRN, deinem Gott. Du sollst ein Böcklein nicht in der Milch seiner Mutter kochen.
+14	22	Den Zehnten sollst du geben vom ganzen Ertrag deiner Saat, die aus dem Feld hervorgeht, Jahr um Jahr.
+14	23	Und du sollst vor dem Angesicht des HERRN, deines Gottes, essen an dem Ort, den er erwählen wird, um seinen Namen dort wohnen zu lassen, den Zehnten deines Korns, deines Mostes und deines frischen Öls und die Erstgeborenen deiner Rinder und deiner Schafe, damit du lernst, den HERRN, deinen Gott, zu fürchten alle Tage.
+14	24	Und wenn der Weg zu weit für dich ist, sodass du es nicht tragen kannst, weil der Ort, den der HERR, dein Gott, erwählen wird, um seinen Namen dorthin zu setzen, fern ist von dir — wenn der HERR, dein Gott, dich segnet —,
+14	25	so sollst du es für Silber geben und das Silber in deine Hand einbinden und an den Ort gehen, den der HERR, dein Gott, erwählen wird.
+14	26	Und du sollst das Silber geben für alles, was deine Seele begehrt, für Rinder und für Schafe und für Wein und für berauschendes Getränk und für alles, was deine Seele von dir erbittet; und du sollst dort essen vor dem Angesicht des HERRN, deines Gottes, und dich freuen, du und dein Haus.
+14	27	Und den Leviten, der in deinen Toren ist, sollst du nicht verlassen; denn er hat keinen Anteil und kein Erbe mit dir.
+14	28	Am Ende von drei Jahren sollst du den ganzen Zehnten deines Ertrags in jenem Jahr hinausbringen und in deinen Toren hinterlegen.
+14	29	Und der Levit soll kommen — denn er hat keinen Anteil und kein Erbe mit dir — und der Fremde und die Waise und die Witwe, die in deinen Toren sind, und sie sollen essen und satt werden, damit der HERR, dein Gott, dich segnet in allem Werk deiner Hand, das du tust.
+15	1	Am Ende von sieben Jahren sollst du eine Freigabe halten.
+15	2	Und so ist es mit der Freigabe: Jeder, dem eine Forderung aus seiner Hand gehört, soll freigeben, was er seinem Nächsten geliehen hat; er soll bei seinem Nächsten und bei seinem Bruder nicht eintreiben, denn man hat eine Freigabe für den HERRN ausgerufen.
+15	3	Bei einem aus der Fremde darfst du eintreiben; was dir aber bei deinem Bruder gehört, soll deine Hand freigeben.
+15	4	Nur wird es bei dir keinen Armen geben — denn segnen wird dich der HERR in dem Land, das der HERR, dein Gott, dir als Erbe gibt, um es in Besitz zu nehmen —,
+15	5	wenn du nur auf die Stimme des HERRN, deines Gottes, hörst, um dieses ganze Gebot, das ich dir heute gebiete, zu bewahren, um es zu tun.
+15	6	Denn der HERR, dein Gott, wird dich segnen, wie er zu dir geredet hat; und du wirst vielen Völkern leihen, du selbst aber wirst nicht borgen; und du wirst über viele Völker herrschen, über dich aber werden sie nicht herrschen.
+15	7	Wenn bei dir ein Armer ist, einer von deinen Brüdern, in einem deiner Tore in deinem Land, das der HERR, dein Gott, dir gibt, so sollst du dein Herz nicht fest machen und deine Hand nicht einziehen vor deinem Bruder, dem Armen;
+15	8	sondern öffnen sollst du ihm deine Hand, und leihen sollst du ihm, was für seinen Mangel genug ist, woran es ihm fehlt.
+15	9	Nimm dich in Acht, dass nicht in deinem Herzen ein nichtswürdiges Wort ist: «Das siebte Jahr ist nahe gekommen, das Jahr der Freigabe», und dein Auge böse ist gegen deinen Bruder, den Armen, und du ihm nichts gibst; dann wird er gegen dich zum HERRN rufen, und Sünde wird an dir sein.
+15	10	Geben sollst du ihm, und dein Herz soll nicht böse sein, wenn du ihm gibst; denn um dessentwillen wird dich der HERR, dein Gott, segnen in all deinem Werk und in allem, wozu du deine Hand ausstreckst.
+15	11	Denn der Arme wird nicht aufhören inmitten des Landes; darum gebiete ich dir: Öffnen sollst du deine Hand deinem Bruder, deinem Elenden und deinem Armen in deinem Land.
+15	12	Wenn sich dir dein Bruder verkauft, der Hebräer oder die Hebräerin, so soll er dir sechs Jahre dienen; und im siebten Jahr sollst du ihn frei von dir ziehen lassen.
+15	13	Und wenn du ihn frei von dir ziehen lässt, sollst du ihn nicht mit leeren Händen ziehen lassen.
+15	14	Reich behängen sollst du ihn von deinen Schafen und von deiner Tenne und von deiner Kelter; womit der HERR, dein Gott, dich gesegnet hat, davon sollst du ihm geben.
+15	15	Und gedenke, dass du Sklave gewesen bist im Land Ägypten und der HERR, dein Gott, dich losgekauft hat; darum gebiete ich dir heute dieses Wort.
+15	16	Und es wird geschehen, wenn er zu dir sagt: «Ich will nicht von dir hinausgehen», weil er dich und dein Haus liebt, weil es ihm bei dir gut geht,
+15	17	dann sollst du die Ahle nehmen und sie durch sein Ohr in die Tür stecken, und er soll dir Knecht sein für immer. Und auch mit deiner Sklavin sollst du so tun.
+15	18	Es soll nicht hart sein in deinen Augen, wenn du ihn frei von dir ziehen lässt; denn um das Doppelte des Lohnes eines Tagelöhners hat er dir sechs Jahre gedient. Und der HERR, dein Gott, wird dich segnen in allem, was du tust.
+15	19	Jedes Erstgeborene, das unter deinen Rindern und unter deinen Schafen geboren wird, das Männliche, sollst du dem HERRN, deinem Gott, weihen; du sollst mit dem Erstgeborenen deines Ochsen nicht arbeiten und das Erstgeborene deiner Schafe nicht scheren.
+15	20	Vor dem Angesicht des HERRN, deines Gottes, sollst du es essen, Jahr um Jahr, an dem Ort, den der HERR erwählen wird, du und dein Haus.
+15	21	Wenn aber ein Fehl an ihm ist, lahm oder blind, irgendein böser Fehl, so sollst du es dem HERRN, deinem Gott, nicht als Schlachtopfer darbringen.
+15	22	In deinen Toren sollst du es essen, der Unreine und der Reine miteinander, wie die Gazelle und den Hirsch.
+15	23	Nur sein Blut sollst du nicht essen; auf die Erde sollst du es ausgiessen wie Wasser.
+16	1	Bewahre den Monat Abib und halte dem HERRN, deinem Gott, das Passa; denn im Monat Abib hat dich der HERR, dein Gott, aus Ägypten herausgeführt, bei Nacht.
+16	2	Und du sollst dem HERRN, deinem Gott, das Passa als Schlachtopfer darbringen, Schafe und Rinder, an dem Ort, den der HERR erwählen wird, um seinen Namen dort wohnen zu lassen.
+16	3	Du sollst kein Gesäuertes dazu essen; sieben Tage sollst du ungesäuerte Brote dazu essen, Brot der Niedrigkeit — denn in Hast bist du aus dem Land Ägypten ausgezogen —, damit du des Tages gedenkst, an dem du aus dem Land Ägypten ausgezogen bist, alle Tage deines Lebens.
+16	4	Und kein Sauerteig soll bei dir zu sehen sein in deinem ganzen Gebiet sieben Tage lang; und vom Fleisch, das du am Abend des ersten Tages als Schlachtopfer darbringst, soll nichts übernachten bis zum Morgen.
+16	5	Du kannst das Passa nicht in einem deiner Tore als Schlachtopfer darbringen, die der HERR, dein Gott, dir gibt,
+16	6	sondern an dem Ort, den der HERR, dein Gott, erwählen wird, um seinen Namen dort wohnen zu lassen, sollst du das Passa als Schlachtopfer darbringen, am Abend, wenn die Sonne untergeht, zu der bestimmten Zeit, zu der du aus Ägypten ausgezogen bist.
+16	7	Und du sollst es kochen und essen an dem Ort, den der HERR, dein Gott, erwählen wird; und am Morgen sollst du dich wenden und zu deinen Zelten gehen.
+16	8	Sechs Tage sollst du ungesäuerte Brote essen, und am siebten Tag ist ein Feiertag für den HERRN, deinen Gott; du sollst keine Arbeit tun.
+16	9	Sieben Wochen sollst du für dich zählen; von da an, wo die Sichel im stehenden Korn beginnt, sollst du beginnen, sieben Wochen zu zählen.
+16	10	Und du sollst dem HERRN, deinem Gott, das Fest der Wochen halten mit der freiwilligen Gabe deiner Hand, so viel du gibst, wie der HERR, dein Gott, dich segnet.
+16	11	Und du sollst dich freuen vor dem Angesicht des HERRN, deines Gottes, du und dein Sohn und deine Tochter und dein Sklave und deine Sklavin und der Levit, der in deinen Toren ist, und der Fremde und die Waise und die Witwe, die in deiner Mitte sind, an dem Ort, den der HERR, dein Gott, erwählen wird, um seinen Namen dort wohnen zu lassen.
+16	12	Und gedenke, dass du Sklave gewesen bist in Ägypten; und du sollst diese Satzungen bewahren und tun.
+16	13	Das Fest der Hütten sollst du dir halten sieben Tage lang, wenn du einsammelst von deiner Tenne und von deiner Kelter.
+16	14	Und du sollst dich freuen an deinem Fest, du und dein Sohn und deine Tochter und dein Sklave und deine Sklavin und der Levit und der Fremde und die Waise und die Witwe, die in deinen Toren sind.
+16	15	Sieben Tage sollst du dem HERRN, deinem Gott, ein Fest feiern an dem Ort, den der HERR erwählen wird; denn der HERR, dein Gott, wird dich segnen in all deinem Ertrag und in allem Werk deiner Hände, und du sollst nur froh sein.
+16	16	Dreimal im Jahr soll alles Männliche bei dir vor dem Angesicht des HERRN, deines Gottes, erscheinen an dem Ort, den er erwählen wird: am Fest der Ungesäuerten Brote und am Fest der Wochen und am Fest der Hütten. Und vor dem Angesicht des HERRN soll man nicht mit leeren Händen erscheinen,
+16	17	jeder nach der Gabe seiner Hand, nach dem Segen des HERRN, deines Gottes, den er dir gegeben hat.
+16	18	Richter und Amtleute sollst du dir geben in allen deinen Toren, die der HERR, dein Gott, dir gibt, nach deinen Stämmen; und sie sollen das Volk richten mit gerechtem Gericht.
+16	19	Du sollst das Recht nicht beugen; du sollst das Angesicht nicht beachten; und du sollst keine Bestechung nehmen, denn die Bestechung blendet die Augen der Weisen und untergräbt die Worte der Gerechten.
+16	20	Gerechtigkeit, Gerechtigkeit sollst du verfolgen, damit du lebst und das Land in Besitz nimmst, das der HERR, dein Gott, dir gibt.
+16	21	Du sollst dir keine Aschera pflanzen, keinerlei Baum, neben dem Altar des HERRN, deines Gottes, den du dir machen wirst.
+16	22	Und du sollst dir kein Steinmal aufstellen, das der HERR, dein Gott, hasst.
+17	1	Du sollst dem HERRN, deinem Gott, keinen Ochsen und kein Lamm als Schlachtopfer darbringen, an dem ein Fehl ist, irgendetwas Böses; denn es ist dem HERRN, deinem Gott, ein Gräuel.
+17	2	Wenn in deiner Mitte, in einem deiner Tore, die der HERR, dein Gott, dir gibt, ein Mann oder eine Frau gefunden wird, der oder die das Böse tut in den Augen des HERRN, deines Gottes, um seinen Bund zu überschreiten,
+17	3	und hingeht und anderen Göttern dient und sich vor ihnen niederwirft, und vor der Sonne oder vor dem Mond oder vor dem ganzen Heer des Himmels, was ich nicht geboten habe,
+17	4	und es wird dir gesagt, und du hörst es, so sollst du gründlich nachfragen; und siehe: Ist es Wahrheit, steht das Wort fest, ist dieser Gräuel in Israel getan worden,
+17	5	dann sollst du jenen Mann oder jene Frau, die dieses Böse getan haben, zu deinen Toren hinausführen, den Mann oder die Frau, und sollst sie mit Steinen steinigen, und sie sollen sterben.
+17	6	Auf den Mund von zwei Zeugen oder drei Zeugen soll zu Tode gebracht werden, wer sterben soll; er soll nicht zu Tode gebracht werden auf den Mund eines einzelnen Zeugen.
+17	7	Die Hand der Zeugen soll zuerst an ihm sein, um ihn zu Tode zu bringen, und zuletzt die Hand des ganzen Volkes. So sollst du das Böse aus deiner Mitte entfernen.
+17	8	Wenn dir etwas für das Gericht zu wunderbar ist, zwischen Blut und Blut, zwischen Rechtssache und Rechtssache und zwischen Plage und Plage, Rechtsstreite in deinen Toren, so sollst du aufstehen und hinaufsteigen an den Ort, den der HERR, dein Gott, erwählen wird,
+17	9	und zu den Priestern, den Leviten, kommen und zu dem Richter, der in jenen Tagen sein wird, und nachfragen; und sie werden dir das Wort des Rechts künden.
+17	10	Und du sollst tun nach dem Mund des Wortes, das sie dir künden von jenem Ort aus, den der HERR erwählen wird, und sollst bewahren, um zu tun nach allem, worin sie dich unterweisen.
+17	11	Nach dem Mund der Weisung, in der sie dich unterweisen, und nach dem Recht, das sie dir sagen, sollst du tun; du sollst nicht abweichen von dem Wort, das sie dir künden, weder zur Rechten noch zur Linken.
+17	12	Der Mann aber, der in Hochmut handelt, sodass er nicht hört auf den Priester, der dort steht, um dem HERRN, deinem Gott, Dienst zu tun, oder auf den Richter — jener Mann soll sterben. So sollst du das Böse aus Israel entfernen.
+17	13	Und das ganze Volk soll es hören und sich fürchten, und sie sollen nicht mehr hochmütig handeln.
+17	14	Wenn du in das Land kommst, das der HERR, dein Gott, dir gibt, und es in Besitz nimmst und darin wohnst und sagst: «Ich will einen König über mich setzen wie alle Völker, die rings um mich sind»,
+17	15	so sollst du einen König über dich setzen, den der HERR, dein Gott, erwählen wird; aus der Mitte deiner Brüder sollst du einen König über dich setzen; du kannst keinen Mann aus der Fremde über dich setzen, der nicht dein Bruder ist.
+17	16	Nur soll er sich nicht Rosse mehren und das Volk nicht nach Ägypten zurückbringen, um Rosse zu mehren; denn der HERR hat euch gesagt: «Ihr sollt nie wieder auf diesem Weg zurückkehren.»
+17	17	Und er soll sich nicht Frauen mehren, damit sein Herz nicht abweicht; und Silber und Gold soll er sich nicht sehr mehren.
+17	18	Und es wird geschehen, wenn er auf dem Thron seines Königreichs sitzt, dann soll er sich eine Abschrift dieser Weisung in ein Buch schreiben, von den Priestern, den Leviten, her.
+17	19	Und sie soll bei ihm sein, und er soll darin lesen alle Tage seines Lebens, damit er lernt, den HERRN, seinen Gott, zu fürchten, um alle Worte dieser Weisung und diese Satzungen zu bewahren, um sie zu tun,
+17	20	damit sein Herz sich nicht über seine Brüder erhebt und damit er nicht abweicht von dem Gebot, weder zur Rechten noch zur Linken, damit er seine Tage verlängert in seinem Königreich, er und seine Söhne, in der Mitte Israels.
+18	1	Die Priester, die Leviten, der ganze Stamm Levi, sollen keinen Anteil und kein Erbe mit Israel haben; die Feueropfer des HERRN und sein Erbe sollen sie essen.
+18	2	Und ein Erbe soll er nicht haben in der Mitte seiner Brüder; der HERR, er ist sein Erbe, wie er zu ihm geredet hat.
+18	3	Und dies soll das Recht der Priester sein vom Volk, von denen, die ein Schlachtopfer darbringen, sei es ein Ochse, sei es ein Lamm: Man soll dem Priester den Arm und die beiden Backen und den Magen geben.
+18	4	Den Erstling deines Korns, deines Mosts und deines frischen Öls und den Erstling der Schur deiner Schafe sollst du ihm geben.
+18	5	Denn ihn hat der HERR, dein Gott, erwählt aus allen deinen Stämmen, um zu stehen und Dienst zu tun im Namen des HERRN, er und seine Söhne, alle Tage.
+18	6	Und wenn der Levit aus einem deiner Tore kommt, aus ganz Israel, wo er zu Gast ist, und nach allem Begehren seiner Seele an den Ort kommt, den der HERR erwählen wird,
+18	7	so soll er Dienst tun im Namen des HERRN, seines Gottes, wie alle seine Brüder, die Leviten, die dort vor dem Angesicht des HERRN stehen.
+18	8	Gleichen Anteil sollen sie essen, ausser dem, was er vom Väterlichen verkauft hat.
+18	9	Wenn du in das Land kommst, das der HERR, dein Gott, dir gibt, sollst du nicht lernen, nach den Gräueln jener Völker zu tun.
+18	10	Es soll sich bei dir keiner finden, der seinen Sohn und seine Tochter durchs Feuer gehen lässt, der Wahrsagungen wahrsagt, der Wolkenschau treibt und Vorzeichen liest und zaubert
+18	11	und Zauberknoten bindet und eine Totenstimme und einen Wissenden befragt und bei den Toten fragt.
+18	12	Denn dem HERRN ein Gräuel ist jeder, der dies tut; und um dieser Gräuel willen verdrängt sie der HERR, dein Gott, vor dir.
+18	13	Rechtschaffen sollst du sein bei dem HERRN, deinem Gott.
+18	14	Denn diese Völker, die du beerbst, hören auf die, die Wolkenschau treiben, und auf die Wahrsager; du aber — nicht so hat es dir der HERR, dein Gott, gegeben.
+18	15	Einen Propheten aus deiner Mitte, aus deinen Brüdern, wie mich, wird dir der HERR, dein Gott, erstehen lassen; auf ihn sollt ihr hören,
+18	16	nach allem, was du vom HERRN, deinem Gott, am Horeb erbeten hast, am Tag der Versammlung, als du sagtest: «Ich will die Stimme des HERRN, meines Gottes, nicht weiter hören, und dieses grosse Feuer will ich nicht mehr sehen, damit ich nicht sterbe.»
+18	17	Und der HERR sagte zu mir: «Gut haben sie gehandelt mit dem, was sie geredet haben.
+18	18	Einen Propheten will ich ihnen erstehen lassen aus der Mitte ihrer Brüder, wie dich, und ich will meine Worte in seinen Mund legen, und er soll zu ihnen alles reden, was ich ihm gebieten werde.
+18	19	Und es wird geschehen: Der Mann, der nicht auf meine Worte hört, die er in meinem Namen reden wird — von dem werde ich selbst es fordern.
+18	20	Doch der Prophet, der hochmütig ein Wort in meinem Namen redet, das ich ihm nicht zu reden geboten habe, und der im Namen anderer Götter redet — jener Prophet soll sterben.»
+18	21	Und wenn du in deinem Herzen sagst: «Wie sollen wir das Wort erkennen, das der HERR nicht geredet hat?»
+18	22	Wenn der Prophet im Namen des HERRN redet und das Wort trifft nicht ein und kommt nicht, so ist das das Wort, das der HERR nicht geredet hat; aus Hochmut hat der Prophet es geredet. Du sollst vor ihm nicht erschauern.
+19	1	Wenn der HERR, dein Gott, die Völker ausrottet, deren Land der HERR, dein Gott, dir gibt, und du sie beerbst und in ihren Städten und in ihren Häusern wohnst,
+19	2	so sollst du dir drei Städte aussondern inmitten deines Landes, das der HERR, dein Gott, dir gibt, um es in Besitz zu nehmen.
+19	3	Du sollst dir den Weg bereiten und das Gebiet deines Landes, das der HERR, dein Gott, dich erben lässt, dritteln; und das soll sein, damit jeder Totschläger dorthin fliehe.
+19	4	Und so ist es mit dem Totschläger, der dorthin flieht und am Leben bleibt: wer seinen Nächsten ohne Wissen schlägt und ihn nicht gehasst hat seit gestern und vorgestern,
+19	5	und wer mit seinem Nächsten in den Wald geht, um Holz zu hacken, und seine Hand holt mit der Axt aus, um den Baum abzuhauen, und das Eisen löst sich vom Holz und findet seinen Nächsten, und er stirbt — der soll in eine von diesen Städten fliehen und am Leben bleiben,
+19	6	damit nicht der Erlöser des Blutes den Totschläger verfolgt, wenn sein Herz heiss wird, und ihn einholt, weil der Weg weit ist, und ihn ums Leben schlägt; und doch gilt für ihn kein Recht des Todes, denn er hat ihn nicht gehasst seit gestern und vorgestern.
+19	7	Darum gebiete ich dir: Drei Städte sollst du dir aussondern.
+19	8	Und wenn der HERR, dein Gott, dein Gebiet weit macht, wie er deinen Vätern geschworen hat, und dir das ganze Land gibt, von dem er geredet hat, es deinen Vätern zu geben,
+19	9	wenn du dieses ganze Gebot, das ich dir heute gebiete, bewahrst, um es zu tun, den HERRN, deinen Gott, zu lieben und auf seinen Wegen zu gehen alle Tage, so sollst du dir noch drei Städte hinzufügen zu diesen drei,
+19	10	damit nicht unschuldiges Blut vergossen wird mitten in deinem Land, das der HERR, dein Gott, dir als Erbe gibt, und Blut auf dir ist.
+19	11	Wenn aber jemand seinen Nächsten hasst und ihm auflauert und gegen ihn aufsteht und ihn ums Leben schlägt, und er stirbt, und er flieht in eine von diesen Städten,
+19	12	so sollen die Ältesten seiner Stadt hinsenden und ihn von dort holen und ihn in die Hand des Erlösers des Blutes geben, und er soll sterben.
+19	13	Dein Auge soll ihn nicht schonen. So sollst du das unschuldige Blut aus Israel entfernen, und es wird dir gut gehen.
+19	14	Du sollst die Grenzmarke deines Nächsten nicht verrücken, die die Früheren abgegrenzt haben, in deinem Erbe, das du erben wirst in dem Land, das der HERR, dein Gott, dir gibt, um es in Besitz zu nehmen.
+19	15	Ein einzelner Zeuge soll nicht gegen jemanden aufstehen wegen irgendeiner Schuld und wegen irgendeiner Sünde, bei irgendeiner Sünde, die er sündigt; auf den Mund von zwei Zeugen oder auf den Mund von drei Zeugen soll ein Wort bestehen.
+19	16	Wenn ein Zeuge der Gewalttat gegen jemanden aufsteht, um gegen ihn Abfall auszusagen,
+19	17	so sollen die beiden Männer, die den Rechtsstreit haben, vor dem Angesicht des HERRN stehen, vor den Priestern und den Richtern, die in jenen Tagen sein werden.
+19	18	Und die Richter sollen gründlich nachfragen; und siehe: Ist der Zeuge ein Zeuge der Falschheit, hat er Falschheit gegen seinen Bruder ausgesagt,
+19	19	so sollt ihr ihm tun, wie er seinem Bruder zu tun bedacht hatte. So sollst du das Böse aus deiner Mitte entfernen.
+19	20	Und die, die übrig bleiben, sollen es hören und sich fürchten, und sie sollen nie wieder Böses wie dieses in deiner Mitte tun.
+19	21	Und dein Auge soll nicht schonen: Leben für Leben, Auge für Auge, Zahn für Zahn, Hand für Hand, Fuss für Fuss.
+20	1	Wenn du zum Krieg ausziehst gegen deine Feinde und Ross und Wagen siehst, ein Volk, mehr als du, so fürchte dich nicht vor ihnen; denn der HERR, dein Gott, ist mit dir, der dich aus dem Land Ägypten heraufgeholt hat.
+20	2	Und es wird geschehen, wenn ihr dem Krieg nahe kommt, dann soll der Priester herankommen und zum Volk reden.
+20	3	Und er soll zu ihnen sagen: «Höre, Israel: Ihr seid heute dem Krieg gegen eure Feinde nahe. Euer Herz werde nicht weich, fürchtet euch nicht und hastet nicht davon und lasst euch nicht vor ihnen einschüchtern!
+20	4	Denn der HERR, euer Gott, er ist es, der mit euch geht, um für euch mit euren Feinden zu kämpfen, um euch zu retten.»
+20	5	Und die Amtleute sollen zum Volk reden: «Wer ist der Mann, der ein neues Haus gebaut und es nicht eingeweiht hat? Er soll gehen und in sein Haus zurückkehren, damit er nicht im Krieg stirbt und ein anderer Mann es einweiht.
+20	6	Und wer ist der Mann, der einen Weinberg gepflanzt und ihn nicht in Gebrauch genommen hat? Er soll gehen und in sein Haus zurückkehren, damit er nicht im Krieg stirbt und ein anderer Mann ihn in Gebrauch nimmt.
+20	7	Und wer ist der Mann, der mit einer Frau verlobt ist und sie nicht genommen hat? Er soll gehen und in sein Haus zurückkehren, damit er nicht im Krieg stirbt und ein anderer Mann sie nimmt.»
+20	8	Und die Amtleute sollen wieder zum Volk reden und sagen: «Wer ist der Mann, der sich fürchtet und dessen Herz weich ist? Er soll gehen und in sein Haus zurückkehren, damit das Herz seiner Brüder nicht zerschmilzt wie sein Herz.»
+20	9	Und es wird geschehen, wenn die Amtleute damit zu Ende sind, zum Volk zu reden, dann sollen sie Heerführer an der Spitze des Volkes einsetzen.
+20	10	Wenn du einer Stadt nahe kommst, um gegen sie zu kämpfen, so sollst du ihr Frieden zurufen.
+20	11	Und es wird geschehen: Wenn sie dir mit Frieden antwortet und dir öffnet, dann soll das ganze Volk, das sich in ihr findet, dir zur Fron werden und dir dienen.
+20	12	Wenn sie aber nicht Frieden mit dir schliesst und Krieg mit dir macht, so sollst du sie belagern.
+20	13	Und gibt sie der HERR, dein Gott, in deine Hand, so sollst du alles Männliche in ihr mit der Schneide des Schwertes schlagen.
+20	14	Nur die Frauen und die kleinen Kinder und das Vieh und alles, was in der Stadt sein wird, all ihre Beute, sollst du dir rauben; und du sollst die Beute deiner Feinde essen, die der HERR, dein Gott, dir gegeben hat.
+20	15	So sollst du tun mit allen Städten, die sehr fern von dir sind, die nicht zu den Städten dieser Völker hier gehören.
+20	16	Nur von den Städten dieser Völker, die der HERR, dein Gott, dir als Erbe gibt, sollst du nichts am Leben erhalten, was atmet,
+20	17	sondern du sollst sie bannen, die Hetiter und die Amoriter, die Kanaaniter und die Perisiter, die Hiwiter und die Jebusiter, wie der HERR, dein Gott, dir geboten hat,
+20	18	damit sie euch nicht lehren, nach all ihren Gräueln zu tun, die sie für ihre Götter getan haben, und ihr gegen den HERRN, euren Gott, sündigt.
+20	19	Wenn du eine Stadt viele Tage belagerst und gegen sie kämpfst, um sie einzunehmen, so sollst du ihre Bäume nicht zerstören, indem du gegen sie mit der Axt ausholst; denn von ihnen isst du, und sie sollst du nicht abhauen. Ist denn der Baum des Feldes ein Mensch, dass er vor dir in die Belagerung kommen müsste?
+20	20	Nur einen Baum, von dem du weisst, dass er kein Baum ist, von dem man isst, den darfst du zerstören und abhauen und ein Belagerungswerk bauen gegen die Stadt, die Krieg mit dir macht, bis sie niedergeht.
+21	1	Wenn auf dem Boden, den der HERR, dein Gott, dir gibt, um ihn in Besitz zu nehmen, ein Erschlagener gefunden wird, der gefallen auf dem Feld liegt, und nicht bekannt ist, wer ihn geschlagen hat,
+21	2	so sollen deine Ältesten und deine Richter hinausgehen und bis zu den Städten messen, die rings um den Erschlagenen liegen.
+21	3	Und die Stadt, die dem Erschlagenen am nächsten ist — die Ältesten jener Stadt sollen eine junge Kuh von den Rindern nehmen, mit der nicht gearbeitet worden ist, die nicht am Joch gezogen hat.
+21	4	Und die Ältesten jener Stadt sollen die junge Kuh in ein Bachtal mit immerfliessendem Wasser hinabbringen, das nicht bearbeitet und nicht besät wird, und dort im Bachtal der jungen Kuh den Nacken brechen.
+21	5	Und die Priester, die Kinder Levis, sollen herankommen; denn sie hat der HERR, dein Gott, erwählt, ihm Dienst zu tun und im Namen des HERRN zu segnen, und nach ihrem Mund soll jeder Rechtsstreit und jede Plage entschieden werden.
+21	6	Und alle Ältesten jener Stadt, die dem Erschlagenen am nächsten sind, sollen ihre Hände waschen über der jungen Kuh, der im Bachtal der Nacken gebrochen worden ist,
+21	7	und sollen antworten und sagen: «Unsere Hände haben dieses Blut nicht vergossen, und unsere Augen haben nicht gesehen.
+21	8	Schaffe Sühne für dein Volk Israel, das du losgekauft hast, HERR, und lege nicht unschuldiges Blut mitten in dein Volk Israel!» Und es wird ihnen für das Blut Sühne geschaffen werden.
+21	9	Du aber sollst das unschuldige Blut aus deiner Mitte entfernen, wenn du das Rechte tust in den Augen des HERRN.
+21	10	Wenn du zum Krieg ausziehst gegen deine Feinde und der HERR, dein Gott, ihn in deine Hand gibt und du Weggeführte von ihm wegführst,
+21	11	und du unter den Weggeführten eine Frau siehst, schön von Gestalt, und an ihr hängst und sie dir zur Frau nimmst,
+21	12	so sollst du sie mitten in dein Haus bringen; und sie soll ihr Haupt rasieren und ihre Fingernägel machen
+21	13	und den Umhang ihrer Wegführung von sich tun und in deinem Haus bleiben und ihren Vater und ihre Mutter beweinen, einen Monat lang. Und danach darfst du zu ihr eingehen und ihr Ehemann sein, und sie soll dir zur Frau werden.
+21	14	Und wenn du dann keinen Gefallen an ihr hast, so sollst du sie ziehen lassen nach ihrem Belieben; verkaufen aber sollst du sie keinesfalls für Silber. Du sollst sie nicht als Ware behandeln, weil du sie gebeugt hast.
+21	15	Wenn ein Mann zwei Frauen hat, die eine geliebt und die andere gehasst, und sie ihm Söhne gebären, die geliebte und die gehasste, und der erstgeborene Sohn der gehassten gehört,
+21	16	so kann er an dem Tag, an dem er seine Söhne erben lässt, was ihm gehört, nicht den Sohn der geliebten zum Erstgeborenen machen vor dem Sohn der gehassten, dem Erstgeborenen;
+21	17	sondern den Erstgeborenen, den Sohn der gehassten, soll er gelten lassen und ihm das Doppelte geben von allem, was sich bei ihm findet; denn er ist der Erstling seiner Manneskraft, ihm gehört das Erstgeburtsrecht.
+21	18	Wenn ein Mann einen Sohn hat, widerspenstig und trotzend, der nicht auf die Stimme seines Vaters und auf die Stimme seiner Mutter hört, und sie ihn züchtigen und er nicht auf sie hört,
+21	19	so sollen sein Vater und seine Mutter ihn erfassen und ihn hinausführen zu den Ältesten seiner Stadt und zum Tor seines Ortes
+21	20	und zu den Ältesten seiner Stadt sagen: «Dieser unser Sohn ist widerspenstig und trotzend; er hört nicht auf unsere Stimme; ein Schlemmer ist er und ein Säufer.»
+21	21	Und alle Männer seiner Stadt sollen ihn mit Steinen steinigen, und er soll sterben. So sollst du das Böse aus deiner Mitte entfernen. Und ganz Israel soll es hören und sich fürchten.
+21	22	Und wenn an jemandem eine Sünde ist, für die das Recht des Todes gilt, und er zu Tode gebracht wird und du ihn an ein Holz hängst,
+21	23	so soll sein Leichnam nicht am Holz übernachten, sondern begraben sollst du ihn an jenem Tag; denn eine Verwünschung Gottes ist der Gehängte. Und du sollst deinen Boden nicht verunreinigen, den der HERR, dein Gott, dir als Erbe gibt.
+22	1	Du sollst nicht den Ochsen deines Bruders oder sein Lamm versprengt sehen und dich ihnen entziehen: Zurückbringen sollst du sie deinem Bruder.
+22	2	Wenn aber dein Bruder dir nicht nahe ist und du ihn nicht kennst, so sollst du es in dein Haus einbringen, und es soll bei dir sein, bis dein Bruder nach ihm fragt; dann sollst du es ihm zurückbringen.
+22	3	Und so sollst du tun mit seinem Esel, und so sollst du tun mit seinem Umhang, und so sollst du tun mit allem Verlorenen deines Bruders, das ihm verloren geht und das du findest: Du kannst dich nicht entziehen.
+22	4	Du sollst nicht den Esel deines Bruders oder seinen Ochsen auf dem Weg gefallen sehen und dich ihnen entziehen: Aufstehen lassen sollst du sie mit ihm.
+22	5	Das Gerät eines Mannes soll nicht an einer Frau sein, und ein Mann soll nicht den Umhang einer Frau anziehen; denn dem HERRN, deinem Gott, ein Gräuel ist jeder, der dies tut.
+22	6	Wenn dir auf dem Weg ein Vogelnest begegnet, auf irgendeinem Baum oder auf der Erde, mit Jungen oder Eiern, und die Mutter liegt über den Jungen oder über den Eiern nieder, so sollst du nicht die Mutter samt den Kindern nehmen.
+22	7	Ziehen lassen sollst du die Mutter, die Kinder aber magst du dir nehmen, damit es dir gut gehe und du die Tage verlängerst.
+22	8	Wenn du ein neues Haus baust, so sollst du an deinem Dach ein Geländer machen und nicht Blut auf dein Haus legen, wenn einer, der fällt, von ihm herabfällt.
+22	9	Du sollst deinen Weinberg nicht mit zweierlei Art besäen, damit nicht die Fülle heilig wird, die Saat, die du säst, und der Ertrag des Weinbergs.
+22	10	Du sollst nicht mit Ochse und Esel miteinander pflügen.
+22	11	Du sollst kein Mischgewebe anziehen, Wolle und Flachs miteinander.
+22	12	Troddeln sollst du dir machen an den vier Zipfeln deiner Bedeckung, mit der du dich bedeckst.
+22	13	Wenn ein Mann eine Frau nimmt und zu ihr eingeht und sie hasst
+22	14	und ihr Taten nachsagt und einen bösen Namen über sie ausbringt und sagt: «Diese Frau habe ich genommen und bin ihr nahe gekommen, und ich habe an ihr die Zeichen der Jungfrauschaft nicht gefunden»,
+22	15	so sollen der Vater des Mädchens und ihre Mutter die Zeichen der Jungfrauschaft des Mädchens nehmen und hinausbringen zu den Ältesten der Stadt ans Tor.
+22	16	Und der Vater des Mädchens soll zu den Ältesten sagen: «Meine Tochter habe ich diesem Mann zur Frau gegeben, und er hasst sie;
+22	17	und siehe, er sagt ihr Taten nach: ‹Ich habe an deiner Tochter die Zeichen der Jungfrauschaft nicht gefunden.› Doch dies sind die Zeichen der Jungfrauschaft meiner Tochter.» Und sie sollen den Umhang vor den Ältesten der Stadt ausbreiten.
+22	18	Und die Ältesten jener Stadt sollen den Mann nehmen und ihn züchtigen
+22	19	und ihn um hundert Silberstücke belangen und sie dem Vater des Mädchens geben, weil er einen bösen Namen über eine Jungfrau Israels ausgebracht hat. Und sie soll ihm zur Frau sein; er kann sie nicht entlassen alle seine Tage.
+22	20	Wenn aber dieses Wort Wahrheit gewesen ist: Keine Zeichen der Jungfrauschaft sind an dem Mädchen gefunden worden,
+22	21	so sollen sie das Mädchen hinausführen an die Tür des Hauses ihres Vaters, und die Männer ihrer Stadt sollen sie mit Steinen steinigen, und sie soll sterben; denn sie hat eine Untat in Israel getan, indem sie im Haus ihres Vaters hurte. So sollst du das Böse aus deiner Mitte entfernen.
+22	22	Wenn ein Mann gefunden wird, der sich zu einer Frau legt, die einem Ehemann gehört, so sollen auch sie beide sterben, der Mann, der sich zu der Frau legt, und die Frau. So sollst du das Böse aus Israel entfernen.
+22	23	Wenn ein Mädchen, eine Jungfrau, einem Mann verlobt ist, und ein Mann findet sie in der Stadt und legt sich zu ihr,
+22	24	so sollt ihr sie beide hinausführen zum Tor jener Stadt und sie mit Steinen steinigen, und sie sollen sterben: das Mädchen, weil sie in der Stadt nicht geschrien hat, und den Mann, weil er die Frau seines Nächsten gebeugt hat. So sollst du das Böse aus deiner Mitte entfernen.
+22	25	Wenn aber der Mann das verlobte Mädchen auf dem Feld findet und der Mann sie fasst und sich zu ihr legt, so soll der Mann, der sich zu ihr gelegt hat, allein sterben.
+22	26	Dem Mädchen aber sollst du nichts tun; an dem Mädchen ist keine Sünde des Todes. Denn wie wenn jemand gegen seinen Nächsten aufsteht und ihn ermordet, so ist dies.
+22	27	Denn auf dem Feld hat er sie gefunden; das verlobte Mädchen hat geschrien, und es gab keinen Retter für sie.
+22	28	Wenn ein Mann ein Mädchen findet, eine Jungfrau, die nicht verlobt ist, und sie erfasst und sich zu ihr legt, und sie werden gefunden,
+22	29	so soll der Mann, der sich zu ihr gelegt hat, dem Vater des Mädchens fünfzig Silberstücke geben, und sie soll ihm zur Frau sein, weil er sie vergewaltigt hat; er kann sie nicht entlassen alle seine Tage.
+23	1	Kein Mann soll die Frau seines Vaters nehmen, und er soll den Zipfel seines Vaters nicht aufdecken.
+23	2	Keiner, der durch Zerstossen verwundet ist, und keiner, dem das Glied abgehauen ist, soll in die Versammlung des HERRN kommen.
+23	3	Kein Bastard soll in die Versammlung des HERRN kommen; auch im zehnten Geschlecht soll keiner von ihm in die Versammlung des HERRN kommen.
+23	4	Kein Ammoniter und kein Moabiter soll in die Versammlung des HERRN kommen; auch im zehnten Geschlecht soll keiner von ihnen in die Versammlung des HERRN kommen, auf ewig,
+23	5	weil sie euch nicht mit Brot und mit Wasser entgegengekommen sind auf dem Weg, als ihr aus Ägypten auszogt, und weil er Bileam, den Sohn Beors, aus Petor in Aram-Naharajim gegen dich angeworben hat, um dich zu verwünschen.
+23	6	Aber der HERR, dein Gott, wollte nicht auf Bileam hören, und der HERR, dein Gott, verwandelte dir die Verwünschung in Segen; denn der HERR, dein Gott, liebt dich.
+23	7	Du sollst nicht nach ihrem Frieden und nach ihrem Guten fragen alle deine Tage, für immer.
+23	8	Du sollst den Edomiter nicht verabscheuen, denn er ist dein Bruder. Du sollst den Ägypter nicht verabscheuen, denn Fremder bist du gewesen in seinem Land.
+23	9	Kinder, die ihnen geboren werden, dürfen im dritten Geschlecht in die Versammlung des HERRN kommen.
+23	10	Wenn du als Lager gegen deine Feinde ausziehst, so sollst du dich in Acht nehmen vor allem Bösen.
+23	11	Wenn bei dir ein Mann ist, der nicht rein ist durch das, was ihm in der Nacht begegnet ist, so soll er hinausgehen, ausserhalb des Lagers; er soll nicht mitten in das Lager kommen.
+23	12	Und es soll geschehen: Wenn es sich zum Abend wendet, soll er sich im Wasser baden; und wenn die Sonne untergeht, darf er mitten in das Lager kommen.
+23	13	Und eine Stelle sollst du haben ausserhalb des Lagers, und dorthin sollst du hinausgehen, nach draussen.
+23	14	Und einen Pflock sollst du haben bei deiner Ausrüstung; und es soll geschehen, wenn du dich draussen hinsetzt, so sollst du damit graben und wieder bedecken, was von dir ausgegangen ist.
+23	15	Denn der HERR, dein Gott, geht mitten in deinem Lager umher, um dich zu befreien und deine Feinde vor dich hinzulegen; und dein Lager soll heilig sein, damit er nicht eine Blösse bei dir sieht und umkehrt, fort von dir.
+23	16	Du sollst einen Sklaven nicht seinem Herrn ausliefern, der sich von seinem Herrn weg zu dir befreit hat.
+23	17	Bei dir soll er wohnen, in deiner Mitte, an dem Ort, den er erwählen wird, in einem deiner Tore, wo es ihm gut ist; du sollst ihn nicht niederzwingen.
+23	18	Keine Geweihte soll unter den Töchtern Israels sein, und kein Geweihter soll unter den Söhnen Israels sein.
+23	19	Du sollst nicht den Hurenlohn und den Kaufpreis eines Hundes in das Haus des HERRN, deines Gottes, bringen, für irgendein Gelübde; denn dem HERRN, deinem Gott, ein Gräuel sind auch sie beide.
+23	20	Du sollst deinem Bruder keinen Zins auferlegen, Zins von Silber, Zins von Speise, Zins von allem, was Zins trägt.
+23	21	Einem aus der Fremde magst du Zins auferlegen, deinem Bruder aber sollst du keinen Zins auferlegen, damit der HERR, dein Gott, dich segnet in allem, wozu du deine Hand ausstreckst, in dem Land, in das du hineinkommst, um es in Besitz zu nehmen.
+23	22	Wenn du dem HERRN, deinem Gott, ein Gelübde gelobst, so sollst du nicht verweilen, es einzulösen; denn fordern wird es der HERR, dein Gott, von dir, und Sünde wird an dir sein.
+23	23	Wenn du aber aufhörst zu geloben, so wird keine Sünde an dir sein.
+23	24	Was aus deinen Lippen hervorgeht, sollst du bewahren und tun, wie du dem HERRN, deinem Gott, gelobt hast als freiwillige Gabe, was du mit deinem Mund geredet hast.
+23	25	Wenn du in den Weinberg deines Nächsten kommst, so magst du Trauben essen nach deinem Belieben, bis zu deiner Sättigung; aber in dein Gefäss sollst du nichts legen.
+23	26	Wenn du in das stehende Korn deines Nächsten kommst, so magst du Ähren mit deiner Hand abzupfen; aber die Sichel sollst du nicht über das stehende Korn deines Nächsten schwingen.
+24	1	Wenn ein Mann eine Frau nimmt und ihr Ehemann wird, und es geschieht, dass sie keine Gnade findet in seinen Augen, weil er an ihr eine Blösse gefunden hat, und er schreibt ihr einen Scheidebrief und gibt ihn in ihre Hand und entlässt sie aus seinem Haus,
+24	2	und sie geht aus seinem Haus hinaus und geht hin und gehört einem anderen Mann,
+24	3	und der letzte Mann hasst sie und schreibt ihr einen Scheidebrief und gibt ihn in ihre Hand und entlässt sie aus seinem Haus, oder wenn der letzte Mann stirbt, der sie sich zur Frau genommen hat,
+24	4	so kann ihr erster Ehemann, der sie entlassen hat, nicht zurückkehren, um sie zu nehmen, dass sie ihm zur Frau sei, nachdem sie unrein gemacht worden ist; denn ein Gräuel ist das vor dem Angesicht des HERRN. Und du sollst das Land nicht sündigen lassen, das der HERR, dein Gott, dir als Erbe gibt.
+24	5	Wenn ein Mann eine neue Frau nimmt, so soll er nicht mit dem Heer ausziehen, und keinerlei Sache soll ihm auferlegt werden; unbehelligt soll er für sein Haus da sein, ein Jahr lang, und seine Frau froh machen, die er genommen hat.
+24	6	Keiner soll die Mühle und den oberen Mühlstein pfänden; denn ein Leben pfändet er.
+24	7	Wenn ein Mann gefunden wird, der eine Seele stiehlt von seinen Brüdern, von den Kindern Israels, und ihn als Ware behandelt und ihn verkauft, so soll dieser Dieb sterben. So sollst du das Böse aus deiner Mitte entfernen.
+24	8	Nimm dich in Acht bei der Plage des Aussatzes, dass du sehr bewahrst und tust nach allem, worin euch die Priester, die Leviten, unterweisen; wie ich ihnen geboten habe, so sollt ihr bewahren, um zu tun.
+24	9	Gedenke dessen, was der HERR, dein Gott, an Mirjam getan hat auf dem Weg, als ihr aus Ägypten auszogt.
+24	10	Wenn du deinem Nächsten irgendetwas leihst, so sollst du nicht in sein Haus hineingehen, um sein Pfandstück zu nehmen.
+24	11	Draussen sollst du stehen, und der Mann, dem du leihst, soll dir das Pfandstück nach draussen hinausbringen.
+24	12	Und wenn er ein elender Mann ist, so sollst du dich nicht in seinem Pfandstück hinlegen.
+24	13	Zurückgeben sollst du ihm das Pfandstück, wenn die Sonne untergeht, und er wird sich in seinem Umhang hinlegen und dich segnen; und für dich wird es Gerechtigkeit sein vor dem Angesicht des HERRN, deines Gottes.
+24	14	Du sollst einen elenden und armen Tagelöhner nicht erpressen, ob von deinen Brüdern oder von deinem Fremden, der in deinem Land in deinen Toren ist.
+24	15	An seinem Tag sollst du ihm seinen Lohn geben, und die Sonne soll nicht darüber untergehen — denn er ist elend, und zu ihm hebt er seine Seele —, damit er nicht gegen dich zum HERRN ruft und Sünde an dir ist.
+24	16	Väter sollen nicht für Kinder zu Tode gebracht werden, und Kinder sollen nicht für Väter zu Tode gebracht werden; jeder soll in seiner Sünde zu Tode gebracht werden.
+24	17	Du sollst das Recht des Fremden, der Waise, nicht beugen, und du sollst das Kleid der Witwe nicht pfänden.
+24	18	Und gedenke, dass du Sklave gewesen bist in Ägypten und der HERR, dein Gott, dich von dort losgekauft hat; darum gebiete ich dir, dieses Wort zu tun.
+24	19	Wenn du deine Ernte auf deinem Feld erntest und eine Garbe auf dem Feld vergisst, so sollst du nicht zurückkehren, um sie zu nehmen; dem Fremden, der Waise und der Witwe soll sie gehören, damit der HERR, dein Gott, dich segnet in allem Werk deiner Hände.
+24	20	Wenn du deinen Ölbaum abklopfst, so sollst du hinter dir nicht das Geäst durchkämmen; dem Fremden, der Waise und der Witwe soll es gehören.
+24	21	Wenn du deinen Weinberg aberntest, so sollst du hinter dir nicht nachpflücken; dem Fremden, der Waise und der Witwe soll es gehören.
+24	22	Und gedenke, dass du Sklave gewesen bist im Land Ägypten; darum gebiete ich dir, dieses Wort zu tun.
+25	1	Wenn ein Rechtsstreit zwischen Männern ist und sie zum Gericht herankommen und man sie richtet, so soll man den Gerechten gerecht sprechen und den Frevler schuldig sprechen.
+25	2	Und wenn der Frevler es verdient, geschlagen zu werden, so soll der Richter ihn niederfallen lassen und ihn vor sich schlagen, so viel für seinen Frevel genug ist, nach der Zahl.
+25	3	Vierzigmal darf er ihn schlagen, er soll nichts hinzufügen; sonst schlägt er ihn noch weiter über diese hinaus mit einer grossen Wunde, und dein Bruder gilt vor deinen Augen wenig.
+25	4	Du sollst einem dreschenden Ochsen nicht das Maul zubinden.
+25	5	Wenn Brüder miteinander wohnen und einer von ihnen stirbt und er hat keinen Sohn, so soll die Frau des Toten nicht nach draussen einem fremden Mann gehören; ihr Schwager soll zu ihr eingehen und sie sich zur Frau nehmen und sie als Schwager heiraten.
+25	6	Und der Erstgeborene, den sie gebiert, soll auf den Namen seines toten Bruders erstehen, damit sein Name nicht ausgelöscht wird aus Israel.
+25	7	Wenn aber der Mann keinen Gefallen daran hat, seine Schwägerin zu nehmen, so soll seine Schwägerin ans Tor hinaufsteigen zu den Ältesten und sagen: «Mein Schwager will seinem Bruder keinen Namen in Israel erstehen lassen; er will mich nicht als Schwager heiraten.»
+25	8	Und die Ältesten seiner Stadt sollen ihn rufen und zu ihm reden. Und bleibt er stehen und sagt: «Ich habe keinen Gefallen daran, sie zu nehmen»,
+25	9	so soll seine Schwägerin vor den Augen der Ältesten zu ihm herankommen und ihm seine Sandale vom Fuss ziehen und ihm ins Angesicht spucken und antworten und sagen: «So wird dem Mann getan, der das Haus seines Bruders nicht baut.»
+25	10	Und sein Name soll in Israel genannt werden: «Haus dessen, dem die Sandale gezogen wurde».
+25	11	Wenn Männer miteinander ringen, ein Mann und sein Bruder, und die Frau des einen kommt nahe heran, um ihren Mann aus der Hand dessen zu befreien, der ihn schlägt, und sie streckt ihre Hand aus und fasst ihn bei seinen Schamteilen,
+25	12	so sollst du ihr die Hand abhauen; dein Auge soll nicht schonen.
+25	13	Du sollst in deinem Beutel nicht Stein und Stein haben, einen grossen und einen kleinen.
+25	14	Du sollst in deinem Haus nicht Efa und Efa haben, ein grosses und ein kleines.
+25	15	Einen vollen Stein der Gerechtigkeit sollst du haben, ein volles Efa der Gerechtigkeit sollst du haben, damit deine Tage lang werden auf dem Boden, den der HERR, dein Gott, dir gibt.
+25	16	Denn dem HERRN, deinem Gott, ein Gräuel ist jeder, der dies tut, jeder, der Unrecht tut.
+25	17	Gedenke dessen, was Amalek dir getan hat auf dem Weg, als ihr aus Ägypten auszogt,
+25	18	wie er dir auf dem Weg begegnet ist und bei dir den Schwanz angegriffen hat, alle Nachzügler hinter dir, als du matt und erschöpft warst; und er fürchtete Gott nicht.
+25	19	Und es wird geschehen: Wenn der HERR, dein Gott, dich zur Ruhe bringt vor all deinen Feinden ringsum in dem Land, das der HERR, dein Gott, dir als Erbe gibt, um es in Besitz zu nehmen, so sollst du das Gedenken Amaleks unter dem Himmel weg auslöschen. Vergiss nicht!
+26	1	Und es wird geschehen: Wenn du in das Land kommst, das der HERR, dein Gott, dir als Erbe gibt, und du es in Besitz nimmst und darin wohnst,
+26	2	so sollst du vom Erstling aller Frucht des Bodens nehmen, die du aus deinem Land einbringst, das der HERR, dein Gott, dir gibt, und sollst es in einen Korb legen und an den Ort gehen, den der HERR, dein Gott, erwählen wird, um seinen Namen dort wohnen zu lassen.
+26	3	Und du sollst zu dem Priester kommen, der in jenen Tagen sein wird, und zu ihm sagen: «Ich künde heute dem HERRN, deinem Gott, dass ich in das Land gekommen bin, das der HERR unseren Vätern geschworen hat, uns zu geben.»
+26	4	Und der Priester soll den Korb aus deiner Hand nehmen und ihn vor dem Altar des HERRN, deines Gottes, hinterlegen.
+26	5	Und du sollst antworten und vor dem Angesicht des HERRN, deines Gottes, sagen: «Ein verlorener Aramäer war mein Vater; und er stieg nach Ägypten hinab und war dort zu Gast mit wenigen Leuten, und er wurde dort zu einem grossen, starken und zahlreichen Volk.
+26	6	Und die Ägypter taten uns Böses und beugten uns und legten uns harten Dienst auf.
+26	7	Da schrien wir zum HERRN, dem Gott unserer Väter; und der HERR hörte unsere Stimme und sah unsere Niedrigkeit und unsere Mühsal und den Druck auf uns.
+26	8	Und der HERR führte uns aus Ägypten heraus mit starker Hand und mit ausgestrecktem Arm und mit grossem Grauen und mit Zeichen und mit Wundern.
+26	9	Und er brachte uns an diesen Ort und gab uns dieses Land, ein Land, das von Milch und Honig fliesst.
+26	10	Und nun, siehe, ich habe den Erstling der Frucht des Bodens gebracht, den du mir gegeben hast, HERR.» Und du sollst ihn vor dem Angesicht des HERRN, deines Gottes, hinterlegen und dich vor dem Angesicht des HERRN, deines Gottes, niederwerfen.
+26	11	Und du sollst dich freuen an allem Guten, das der HERR, dein Gott, dir und deinem Haus gegeben hat, du und der Levit und der Fremde, der in deiner Mitte ist.
+26	12	Wenn du damit zu Ende bist, den Zehnten zu geben, den ganzen Zehnten deines Ertrags, im dritten Jahr, dem Jahr des Zehnten, so sollst du ihn dem Leviten, dem Fremden, der Waise und der Witwe geben, und sie sollen in deinen Toren essen und satt werden.
+26	13	Und du sollst vor dem Angesicht des HERRN, deines Gottes, sagen: «Ich habe das Heilige aus dem Haus entfernt, und ich habe es auch dem Leviten und dem Fremden, der Waise und der Witwe gegeben, nach deinem ganzen Gebot, das du mir geboten hast; ich habe keines deiner Gebote überschritten und nichts vergessen.
+26	14	Ich habe in meinem Unheil nicht davon gegessen, und ich habe nichts davon entfernt, als ich unrein war, und ich habe nichts davon für einen Toten gegeben. Ich habe auf die Stimme des HERRN, meines Gottes, gehört; ich habe getan nach allem, was du mir geboten hast.
+26	15	Blicke herab von deiner heiligen Behausung, vom Himmel, und segne dein Volk Israel und den Boden, den du uns gegeben hast, wie du unseren Vätern geschworen hast, ein Land, das von Milch und Honig fliesst.»
+26	16	An diesem Tag gebietet dir der HERR, dein Gott, diese Satzungen und die Rechtsentscheide zu tun; und du sollst sie bewahren und sie tun mit deinem ganzen Herzen und mit deiner ganzen Seele.
+26	17	Den HERRN hast du heute sagen lassen, dass er dir Gott sein wird und dass du auf seinen Wegen gehen und seine Satzungen und seine Gebote und seine Rechtsentscheide bewahren und auf seine Stimme hören wirst.
+26	18	Und der HERR hat dich heute sagen lassen, dass du ihm ein Volk des Eigentums sein wirst, wie er zu dir geredet hat, und dass du alle seine Gebote bewahren wirst
+26	19	und dass er dich als Höchsten über alle Völker setzen wird, die er gemacht hat, zum Lob und zum Namen und zur Zierde, und dass du dem HERRN, deinem Gott, ein heiliges Volk sein wirst, wie er geredet hat.
+27	1	Und Mose gebot dem Volk, er und die Ältesten Israels, und sagte: «Bewahrt das ganze Gebot, das ich euch heute gebiete.
+27	2	Und es wird geschehen: An dem Tag, an dem ihr den Jordan überschreitet in das Land, das der HERR, dein Gott, dir gibt, da sollst du dir grosse Steine aufstellen und sie mit Kalk tünchen.
+27	3	Und du sollst auf sie alle Worte dieser Weisung schreiben, wenn du hinüberziehst, damit du in das Land hineinkommst, das der HERR, dein Gott, dir gibt, ein Land, das von Milch und Honig fliesst, wie der HERR, der Gott deiner Väter, zu dir geredet hat.
+27	4	Und es wird geschehen: Wenn ihr den Jordan überschreitet, so sollt ihr diese Steine, von denen ich euch heute gebiete, auf dem Berg Ebal aufstellen, und du sollst sie mit Kalk tünchen.
+27	5	Und du sollst dort dem HERRN, deinem Gott, einen Altar bauen, einen Altar aus Steinen; du sollst kein Eisen über sie schwingen.
+27	6	Aus unbehauenen Steinen sollst du den Altar des HERRN, deines Gottes, bauen, und du sollst auf ihm dem HERRN, deinem Gott, Brandopfer aufsteigen lassen.
+27	7	Und du sollst Friedensopfer als Schlachtopfer darbringen und dort essen, und du sollst dich freuen vor dem Angesicht des HERRN, deines Gottes.
+27	8	Und du sollst auf die Steine alle Worte dieser Weisung schreiben, sehr deutlich.»
+27	9	Und Mose redete zu ganz Israel, er und die Priester, die Leviten, und sagte: «Schweig und höre, Israel: An diesem Tag bist du dem HERRN, deinem Gott, zum Volk geworden.
+27	10	So sollst du auf die Stimme des HERRN, deines Gottes, hören und seine Gebote und seine Satzungen tun, die ich dir heute gebiete.»
+27	11	Und Mose gebot dem Volk an jenem Tag und sagte:
+27	12	«Diese sollen auf dem Berg Garizim stehen, um das Volk zu segnen, wenn ihr den Jordan überschreitet: Simeon und Levi und Juda und Issachar und Josef und Benjamin.
+27	13	Und diese sollen zur Verwünschung auf dem Berg Ebal stehen: Ruben, Gad und Ascher und Sebulon, Dan und Naftali.
+27	14	Und die Leviten sollen antworten und zu jedem Mann Israels mit erhobener Stimme sagen:
+27	15	‹Verflucht sei der Mann, der ein Schnitzbild und ein Gussbild macht, dem HERRN ein Gräuel, ein Werk von Künstlerhand, und es im Verborgenen hinstellt!› Und das ganze Volk soll antworten und sagen: ‹Amen.›
+27	16	‹Verflucht sei, wer seinen Vater und seine Mutter wenig gelten lässt!› Und das ganze Volk soll sagen: ‹Amen.›
+27	17	‹Verflucht sei, wer die Grenzmarke seines Nächsten verrückt!› Und das ganze Volk soll sagen: ‹Amen.›
+27	18	‹Verflucht sei, wer einen Blinden auf dem Weg abirren lässt!› Und das ganze Volk soll sagen: ‹Amen.›
+27	19	‹Verflucht sei, wer das Recht des Fremden, der Waise und der Witwe beugt!› Und das ganze Volk soll sagen: ‹Amen.›
+27	20	‹Verflucht sei, wer sich zu der Frau seines Vaters legt; denn er hat den Zipfel seines Vaters aufgedeckt!› Und das ganze Volk soll sagen: ‹Amen.›
+27	21	‹Verflucht sei, wer sich zu irgendeinem Vieh legt!› Und das ganze Volk soll sagen: ‹Amen.›
+27	22	‹Verflucht sei, wer sich zu seiner Schwester legt, der Tochter seines Vaters oder der Tochter seiner Mutter!› Und das ganze Volk soll sagen: ‹Amen.›
+27	23	‹Verflucht sei, wer sich zu seiner Schwiegermutter legt!› Und das ganze Volk soll sagen: ‹Amen.›
+27	24	‹Verflucht sei, wer seinen Nächsten im Verborgenen schlägt!› Und das ganze Volk soll sagen: ‹Amen.›
+27	25	‹Verflucht sei, wer Bestechung nimmt, um jemanden ums Leben zu schlagen, unschuldiges Blut!› Und das ganze Volk soll sagen: ‹Amen.›
+27	26	‹Verflucht sei, wer die Worte dieser Weisung nicht bestehen lässt, um sie zu tun!› Und das ganze Volk soll sagen: ‹Amen.›»
+28	1	Und es wird geschehen, wenn du auf die Stimme des HERRN, deines Gottes, hörst, um alle seine Gebote, die ich dir heute gebiete, zu bewahren, um sie zu tun, so wird der HERR, dein Gott, dich als Höchsten über alle Völker der Erde setzen.
+28	2	Und alle diese Segnungen werden über dich kommen und dich einholen, wenn du auf die Stimme des HERRN, deines Gottes, hörst.
+28	3	Gesegnet bist du in der Stadt, und gesegnet bist du auf dem Feld.
+28	4	Gesegnet ist die Frucht deines Leibes und die Frucht deines Bodens und die Frucht deines Viehs, der Wurf deiner Rinder und die Nachzucht deiner Schafe.
+28	5	Gesegnet ist dein Korb und dein Backtrog.
+28	6	Gesegnet bist du, wenn du hineingehst, und gesegnet bist du, wenn du hinausgehst.
+28	7	Der HERR wird deine Feinde, die gegen dich aufstehen, vor dir niederstrecken; auf einem Weg werden sie gegen dich ausziehen, und auf sieben Wegen werden sie vor dir fliehen.
+28	8	Der HERR wird bei dir den Segen gebieten in deinen Speichern und in allem, wozu du deine Hand ausstreckst; und er wird dich segnen in dem Land, das der HERR, dein Gott, dir gibt.
+28	9	Der HERR wird dich für sich als heiliges Volk erstehen lassen, wie er dir geschworen hat, wenn du die Gebote des HERRN, deines Gottes, bewahrst und auf seinen Wegen gehst.
+28	10	Und alle Völker der Erde werden sehen, dass der Name des HERRN über dir ausgerufen ist, und sie werden sich vor dir fürchten.
+28	11	Und der HERR wird dir Überfluss geben zum Guten an der Frucht deines Leibes und an der Frucht deines Viehs und an der Frucht deines Bodens, auf dem Boden, den der HERR deinen Vätern geschworen hat, dir zu geben.
+28	12	Der HERR wird dir seine gute Vorratskammer öffnen, den Himmel, um den Regen deines Landes zu geben zu seiner Zeit und um alles Werk deiner Hand zu segnen; und du wirst vielen Völkern leihen, du selbst aber wirst nicht borgen.
+28	13	Und der HERR wird dich zum Haupt machen und nicht zum Schwanz, und du wirst nur oben sein und nicht unten sein, wenn du auf die Gebote des HERRN, deines Gottes, hörst, die ich dir heute gebiete, um sie zu bewahren und zu tun,
+28	14	und wenn du von keinem der Worte, die ich euch heute gebiete, abweichst, weder zur Rechten noch zur Linken, um hinter anderen Göttern herzugehen, um ihnen zu dienen.
+28	15	Und es wird geschehen, wenn du nicht auf die Stimme des HERRN, deines Gottes, hörst, um alle seine Gebote und seine Satzungen, die ich dir heute gebiete, zu bewahren, um sie zu tun, so werden alle diese Verwünschungen über dich kommen und dich einholen.
+28	16	Verflucht bist du in der Stadt, und verflucht bist du auf dem Feld.
+28	17	Verflucht ist dein Korb und dein Backtrog.
+28	18	Verflucht ist die Frucht deines Leibes und die Frucht deines Bodens, der Wurf deiner Rinder und die Nachzucht deiner Schafe.
+28	19	Verflucht bist du, wenn du hineingehst, und verflucht bist du, wenn du hinausgehst.
+28	20	Der HERR wird unter dich den Fluch aussenden, die Wirrnis und die Schelte, in allem, wozu du deine Hand ausstreckst, was du tust, bis du vernichtet bist und bis du eilends umkommst wegen der Bosheit deines Handelns, mit dem du mich verlassen hast.
+28	21	Der HERR wird die Pest an dir kleben lassen, bis er dich aufgerieben hat, fort von dem Boden, in den du hineinkommst, um ihn in Besitz zu nehmen.
+28	22	Der HERR wird dich schlagen mit Schwindsucht und mit Fieber und mit Entzündung und mit Hitze und mit dem Schwert und mit Ausdörren und mit Vergilben, und sie werden dich verfolgen, bis du umkommst.
+28	23	Und dein Himmel, der über deinem Haupt ist, wird Erz sein, und das Land, das unter dir ist, Eisen.
+28	24	Der HERR wird den Regen deines Landes zu feinem Staub und zu Staub machen; vom Himmel wird er auf dich herabsteigen, bis du vernichtet bist.
+28	25	Der HERR wird dich vor deinen Feinden niederstrecken; auf einem Weg wirst du gegen sie ausziehen, und auf sieben Wegen wirst du vor ihnen fliehen; und du wirst zum Schreckbild werden für alle Königreiche der Erde.
+28	26	Und dein Leichnam wird zum Essen werden für alle Vögel des Himmels und für die Tiere der Erde, und keiner lässt sie zusammenfahren.
+28	27	Der HERR wird dich schlagen mit dem Geschwür Ägyptens und mit Beulen und mit Krätze und mit Jucken, von denen du nicht heil werden kannst.
+28	28	Der HERR wird dich schlagen mit Wahnsinn und mit Blindheit und mit Fassungslosigkeit des Herzens.
+28	29	Und du wirst am Mittag umhertasten, wie der Blinde in der Düsternis tastet, und du wirst deine Wege nicht gelingen lassen; und du wirst nur erpresst und ausgeplündert sein alle Tage, und kein Retter ist da.
+28	30	Mit einer Frau wirst du verlobt sein, und ein anderer Mann wird sich zu ihr legen; ein Haus wirst du bauen und nicht darin wohnen; einen Weinberg wirst du pflanzen und ihn nicht in Gebrauch nehmen.
+28	31	Dein Ochse wird vor deinen Augen geschlachtet, und du wirst nicht davon essen; dein Esel wird vor deinem Angesicht geraubt und kehrt nicht zu dir zurück; deine Schafe werden deinen Feinden gegeben, und du hast keinen Retter.
+28	32	Deine Söhne und deine Töchter werden einem anderen Volk gegeben, und deine Augen sehen es und gehen zu Ende nach ihnen den ganzen Tag, und es liegt nicht in deiner Hand.
+28	33	Die Frucht deines Bodens und all deine Mühe wird ein Volk essen, das du nicht gekannt hast; und du wirst nur erpresst und zerschlagen sein alle Tage.
+28	34	Und du wirst wahnsinnig werden vom Anblick deiner Augen, den du sehen musst.
+28	35	Der HERR wird dich schlagen mit bösem Geschwür an den Knien und an den Beinen, von dem du nicht heil werden kannst, von deiner Fusssohle bis zu deinem Scheitel.
+28	36	Der HERR wird dich und deinen König, den du über dich aufstellen wirst, zu einem Volk gehen lassen, das du nicht gekannt hast, du und deine Väter; und dort wirst du anderen Göttern dienen, Holz und Stein.
+28	37	Und du wirst zum Entsetzen werden, zum Gleichnis und zur Spottrede unter allen Völkern, wohin der HERR dich fortführen wird.
+28	38	Viel Saat wirst du aufs Feld hinausbringen, und wenig wirst du einsammeln; denn die Heuschrecke wird sie abfressen.
+28	39	Weinberge wirst du pflanzen und bearbeiten, aber Wein wirst du nicht trinken und nicht einlagern; denn der Wurm wird sie fressen.
+28	40	Ölbäume wirst du haben in deinem ganzen Gebiet, aber mit Öl wirst du dich nicht salben; denn deine Oliven werden sich lösen.
+28	41	Söhne und Töchter wirst du zeugen, aber sie werden nicht dir gehören; denn sie werden in die Wegführung gehen.
+28	42	Alle deine Bäume und die Frucht deines Bodens wird die Grille in Besitz nehmen.
+28	43	Der Fremde, der in deiner Mitte ist, wird über dich hinaufsteigen, höher und höher, und du wirst hinabsteigen, tiefer und tiefer.
+28	44	Er wird dir leihen, du aber wirst ihm nicht leihen; er wird zum Haupt werden, du aber wirst zum Schwanz werden.
+28	45	Und alle diese Verwünschungen werden über dich kommen und dich verfolgen und dich einholen, bis du vernichtet bist, weil du nicht auf die Stimme des HERRN, deines Gottes, gehört hast, um seine Gebote und seine Satzungen zu bewahren, die er dir geboten hat.
+28	46	Und sie werden an dir zum Zeichen und zum Wunder sein und an deinen Nachkommen auf ewig.
+28	47	Weil du dem HERRN, deinem Gott, nicht gedient hast mit Freude und mit gutem Herzen, da von allem Fülle war,
+28	48	wirst du deinen Feinden dienen, die der HERR unter dich aussenden wird, in Hunger und in Durst und in Nacktheit und im Mangel an allem; und er wird ein eisernes Joch auf deinen Hals legen, bis er dich vernichtet hat.
+28	49	Der HERR wird gegen dich ein Volk erheben von fern, vom Ende der Erde, wie der Adler dahinschiesst, ein Volk, dessen Sprache du nicht hörst,
+28	50	ein Volk mit hartem Angesicht, das das Angesicht des Alten nicht annimmt und dem jungen Menschen nicht gnädig ist.
+28	51	Und es wird die Frucht deines Viehs und die Frucht deines Bodens essen, bis du vernichtet bist; es wird dir kein Korn, keinen Most und kein frisches Öl übrig lassen, keinen Wurf deiner Rinder und keine Nachzucht deiner Schafe, bis es dich umkommen lässt.
+28	52	Und es wird dich bedrängen in all deinen Toren, bis deine hohen und befestigten Mauern herabsinken, auf die du vertraust, in deinem ganzen Land; und es wird dich bedrängen in all deinen Toren, in deinem ganzen Land, das der HERR, dein Gott, dir gegeben hat.
+28	53	Und du wirst die Frucht deines Leibes essen, das Fleisch deiner Söhne und deiner Töchter, die der HERR, dein Gott, dir gegeben hat, in der Belagerung und in der Not, in die dein Feind dich bringen wird.
+28	54	Der Mann unter dir, der zart und sehr verwöhnt ist, dessen Auge wird böse sein gegen seinen Bruder und gegen die Frau seines Schosses und gegen den Rest seiner Söhne, die er übrig lässt,
+28	55	sodass er keinem von ihnen etwas gibt vom Fleisch seiner Söhne, das er isst, weil ihm nichts übrig geblieben ist in der Belagerung und in der Not, in die dein Feind dich bringen wird in all deinen Toren.
+28	56	Die Zarte unter dir und die Verwöhnte, die nie versucht hat, ihre Fusssohle auf die Erde zu setzen vor Verwöhntheit und vor Zartheit, deren Auge wird böse sein gegen den Mann ihres Schosses und gegen ihren Sohn und gegen ihre Tochter
+28	57	und gegen ihre Nachgeburt, die zwischen ihren Füssen herauskommt, und gegen ihre Söhne, die sie gebiert; denn sie wird sie essen im Mangel an allem, im Verborgenen, in der Belagerung und in der Not, in die dein Feind dich bringen wird in deinen Toren.
+28	58	Wenn du nicht bewahrst, um alle Worte dieser Weisung zu tun, die in diesem Buch geschrieben sind, um diesen geehrten und furchtgebietenden Namen zu fürchten, den HERRN, deinen Gott,
+28	59	so wird der HERR deine Wunden wunderbar machen und die Wunden deiner Nachkommen: grosse und dauerhafte Wunden und böse und dauerhafte Krankheiten.
+28	60	Und er wird all das Siechtum Ägyptens auf dich zurückbringen, vor dem du erschauert bist, und es wird an dir kleben.
+28	61	Auch jede Krankheit und jede Wunde, die nicht geschrieben ist im Buch dieser Weisung, wird der HERR über dich heraufsteigen lassen, bis du vernichtet bist.
+28	62	Und ihr werdet übrig bleiben als wenige Leute, statt dass ihr wart wie die Sterne des Himmels in Fülle, weil du nicht auf die Stimme des HERRN, deines Gottes, gehört hast.
+28	63	Und es wird geschehen: Wie der HERR an euch voll Wonne war, euch Gutes zu tun und euch zu mehren, so wird der HERR an euch voll Wonne sein, euch umkommen zu lassen und euch zu vernichten; und ihr werdet fortgezerrt werden von dem Boden, in den du hineinkommst, um ihn in Besitz zu nehmen.
+28	64	Und der HERR wird dich zerstreuen unter alle Völker, vom Ende der Erde bis zum Ende der Erde; und dort wirst du anderen Göttern dienen, die du nicht gekannt hast, du und deine Väter, Holz und Stein.
+28	65	Und unter diesen Völkern wirst du nicht ruhig werden, und keine Rast wird sein für deine Fusssohle; und der HERR wird dir dort ein erregtes Herz geben und Augen, die zu Ende gehen, und eine Seele, die erlahmt.
+28	66	Und dein Leben wird vor dir in der Schwebe hängen, und du wirst in Schrecken geraten Nacht und Tag und nicht an dein Leben glauben.
+28	67	Am Morgen wirst du sagen: «Wer gäbe, dass es Abend wäre!», und am Abend wirst du sagen: «Wer gäbe, dass es Morgen wäre!» — vor dem Schrecken deines Herzens, in den du gerätst, und vor dem Anblick deiner Augen, den du sehen musst.
+28	68	Und der HERR wird dich nach Ägypten zurückbringen auf Schiffen, auf dem Weg, von dem ich dir gesagt habe: «Du sollst ihn nie wieder sehen»; und ihr werdet euch dort deinen Feinden als Sklaven und als Sklavinnen verkaufen, und keiner ist da, der erwirbt.
+28	69	Dies sind die Worte des Bundes, den der HERR Mose geboten hat, mit den Kindern Israels zu schliessen im Land Moab, ausser dem Bund, den er mit ihnen am Horeb geschlossen hatte.
+29	1	Und Mose rief ganz Israel und sagte zu ihnen: Ihr habt alles gesehen, was der HERR vor euren Augen im Land Ägypten getan hat am Pharao und an allen seinen Knechten und an seinem ganzen Land,
+29	2	die grossen Versuchungen, die deine Augen gesehen haben, die Zeichen und die Wunder, jene grossen.
+29	3	Aber der HERR hat euch kein Herz gegeben, um zu erkennen, und keine Augen, um zu sehen, und keine Ohren, um zu hören, bis zu diesem Tag.
+29	4	Und ich habe euch vierzig Jahre in der Wüste gehen lassen; eure Umhänge sind nicht an euch verschlissen, und deine Sandale ist nicht an deinem Fuss verschlissen.
+29	5	Brot habt ihr nicht gegessen, und Wein und berauschendes Getränk habt ihr nicht getrunken, damit ihr erkennt, dass ich der HERR, euer Gott, bin.
+29	6	Und ihr kamt an diesen Ort, und Sihon, der König von Heschbon, und Og, der König von Baschan, zogen aus, uns entgegen, zum Krieg, und wir schlugen sie.
+29	7	Und wir nahmen ihr Land und gaben es als Erbe den Rubenitern und den Gaditern und dem halben Stamm der Manassiter.
+29	8	So bewahrt die Worte dieses Bundes und tut sie, damit ihr einsichtig seid in allem, was ihr tut.
+29	9	Ihr steht heute alle da vor dem Angesicht des HERRN, eures Gottes: eure Häupter, eure Stämme, eure Ältesten und eure Amtleute, jeder Mann Israels,
+29	10	eure kleinen Kinder, eure Frauen und dein Fremder, der inmitten deines Lagers ist, von dem, der dein Holz hackt, bis zu dem, der dein Wasser schöpft,
+29	11	damit du eintrittst in den Bund des HERRN, deines Gottes, und in seinen Fluch, den der HERR, dein Gott, heute mit dir schliesst,
+29	12	damit er dich heute für sich als Volk erstehen lässt und er dir Gott sein wird, wie er zu dir geredet hat und wie er deinen Vätern geschworen hat, Abraham, Isaak und Jakob.
+29	13	Und nicht mit euch allein schliesse ich diesen Bund und diesen Fluch,
+29	14	sondern mit dem, der hier bei uns ist und heute vor dem Angesicht des HERRN, unseres Gottes, steht, und mit dem, der heute nicht hier bei uns ist.
+29	15	Denn ihr wisst, wie wir im Land Ägypten gewohnt haben und wie wir mitten durch die Völker gezogen sind, durch die ihr gezogen seid.
+29	16	Und ihr habt ihre Gräuel gesehen und ihre Götzenbilder, Holz und Stein, Silber und Gold, die bei ihnen sind.
+29	17	Dass nur nicht unter euch ein Mann oder eine Frau oder eine Sippe oder ein Stamm ist, dessen Herz sich heute vom HERRN, unserem Gott, wegwendet, um hinzugehen und den Göttern jener Völker zu dienen; dass nur nicht unter euch eine Wurzel ist, fruchtbar an Galle und Wermut.
+29	18	Und es wird geschehen, wenn er die Worte dieses Fluches hört und sich in seinem Herzen segnet und sagt: «Frieden wird mir sein, auch wenn ich im Starrsinn meines Herzens gehe» — um das Gelabte samt dem Durstigen wegzuraffen —,
+29	19	so wird der HERR ihm nicht vergeben wollen; denn dann wird der Zorn des HERRN rauchen und sein Eifer gegen jenen Mann, und der ganze Fluch, der in diesem Buch geschrieben ist, wird auf ihm niederliegen, und der HERR wird seinen Namen unter dem Himmel weg auslöschen.
+29	20	Und der HERR wird ihn zum Bösen aussondern aus allen Stämmen Israels, nach allen Flüchen des Bundes, der in diesem Buch der Weisung geschrieben ist.
+29	21	Und das nachkommende Geschlecht wird sagen, eure Kinder, die nach euch aufstehen, und einer aus der Fremde, der aus einem fernen Land kommt — und sie werden die Wunden jenes Landes sehen und seine Krankheiten, mit denen der HERR es krank gemacht hat:
+29	22	Schwefel und Salz, ein Brand ist sein ganzes Land; es wird nicht besät und lässt nichts keimen, und kein Kraut schiesst darin auf, wie beim Umsturz von Sodom und Gomorra, Adma und Zebojim, die der HERR umstürzte in seinem Zorn und in seinem Grimm —,
+29	23	und alle Völker werden sagen: «Weswegen hat der HERR diesem Land so getan? Was ist dieses Entbrennen des grossen Zorns?»
+29	24	Und man wird sagen: «Weil sie den Bund des HERRN, des Gottes ihrer Väter, verlassen haben, den er mit ihnen geschlossen hat, als er sie aus dem Land Ägypten herausführte,
+29	25	und hingegangen sind und anderen Göttern gedient und sich vor ihnen niedergeworfen haben, Göttern, die sie nicht gekannt hatten und die er ihnen nicht zugeteilt hatte.
+29	26	Da entbrannte der Zorn des HERRN gegen jenes Land, um über es die ganze Verwünschung zu bringen, die in diesem Buch geschrieben ist.
+29	27	Und der HERR entwurzelte sie fort von ihrem Boden in Zorn und in Grimm und in grosser Wut und warf sie in ein anderes Land, wie es an diesem Tag ist.»
+29	28	Das Verborgene gehört dem HERRN, unserem Gott, das Offenbarte aber uns und unseren Kindern auf ewig, um alle Worte dieser Weisung zu tun.
+30	1	Und es wird geschehen, wenn alle diese Worte über dich kommen, der Segen und die Verwünschung, die ich dir vorgelegt habe, und du es dir zu Herzen nimmst unter allen Völkern, wohin der HERR, dein Gott, dich versprengt hat,
+30	2	und du umkehrst zum HERRN, deinem Gott, und auf seine Stimme hörst nach allem, was ich dir heute gebiete, du und deine Kinder, mit deinem ganzen Herzen und mit deiner ganzen Seele,
+30	3	so wird der HERR, dein Gott, dein Geschick wenden und sich deiner erbarmen; und er wird dich wieder versammeln aus allen Völkern, wohin der HERR, dein Gott, dich zerstreut hat.
+30	4	Wenn deine Versprengten am Ende des Himmels sind, von dort wird der HERR, dein Gott, dich versammeln, und von dort wird er dich holen.
+30	5	Und der HERR, dein Gott, wird dich in das Land bringen, das deine Väter in Besitz genommen haben, und du wirst es in Besitz nehmen; und er wird dir Gutes tun und dich mehren, mehr als deine Väter.
+30	6	Und der HERR, dein Gott, wird dein Herz beschneiden und das Herz deiner Nachkommen, um den HERRN, deinen Gott, zu lieben mit deinem ganzen Herzen und mit deiner ganzen Seele, um deines Lebens willen.
+30	7	Und der HERR, dein Gott, wird alle diese Flüche auf deine Feinde legen und auf die, die dich hassen, die dich verfolgt haben.
+30	8	Du aber wirst umkehren und auf die Stimme des HERRN hören und alle seine Gebote tun, die ich dir heute gebiete.
+30	9	Und der HERR, dein Gott, wird dir Überfluss geben zum Guten an allem Werk deiner Hand, an der Frucht deines Leibes und an der Frucht deines Viehs und an der Frucht deines Bodens; denn der HERR wird wieder an dir voll Wonne sein zum Guten, wie er an deinen Vätern voll Wonne war,
+30	10	wenn du auf die Stimme des HERRN, deines Gottes, hörst, um seine Gebote und seine Satzungen zu bewahren, die in diesem Buch der Weisung geschrieben sind, wenn du umkehrst zum HERRN, deinem Gott, mit deinem ganzen Herzen und mit deiner ganzen Seele.
+30	11	Denn dieses Gebot, das ich dir heute gebiete, ist nicht zu wunderbar für dich, und es ist nicht fern.
+30	12	Es ist nicht im Himmel, dass du sagen müsstest: «Wer wird für uns in den Himmel hinaufsteigen und es uns holen und es uns hören lassen, damit wir es tun?»
+30	13	Und es ist nicht jenseits des Meeres, dass du sagen müsstest: «Wer wird für uns hinüberziehen auf die andere Seite des Meeres und es uns holen und es uns hören lassen, damit wir es tun?»
+30	14	Denn sehr nahe ist dir das Wort, in deinem Mund und in deinem Herzen, um es zu tun.
+30	15	Sieh, ich lege dir heute das Leben und das Gute und den Tod und das Böse vor,
+30	16	indem ich dir heute gebiete, den HERRN, deinen Gott, zu lieben, auf seinen Wegen zu gehen und seine Gebote und seine Satzungen und seine Rechtsentscheide zu bewahren; so wirst du leben und zahlreich werden, und der HERR, dein Gott, wird dich segnen in dem Land, in das du hineinkommst, um es in Besitz zu nehmen.
+30	17	Wenn aber dein Herz sich wendet und du nicht hörst und dich hinreissen lässt und dich vor anderen Göttern niederwirfst und ihnen dienst,
+30	18	so künde ich euch heute, dass ihr unweigerlich umkommen werdet; ihr werdet eure Tage nicht verlängern auf dem Boden, zu dem du den Jordan überschreitest, um hineinzukommen, um ihn in Besitz zu nehmen.
+30	19	Ich rufe heute den Himmel und die Erde gegen euch zu Zeugen an: Das Leben und den Tod lege ich dir vor, den Segen und die Verwünschung. So erwähle das Leben, damit du lebst, du und deine Nachkommen,
+30	20	indem du den HERRN, deinen Gott, liebst, auf seine Stimme hörst und ihm anhangst — denn er ist dein Leben und die Länge deiner Tage —, damit du wohnst auf dem Boden, den der HERR deinen Vätern, Abraham, Isaak und Jakob, geschworen hat, ihnen zu geben.
+31	1	Und Mose ging hin und redete diese Worte zu ganz Israel.
+31	2	Und er sagte zu ihnen: «Hundertzwanzig Jahre alt bin ich heute; ich kann nicht mehr hinausgehen und hineingehen. Und der HERR hat zu mir gesagt: ‹Du wirst diesen Jordan nicht überschreiten.›
+31	3	Der HERR, dein Gott, er zieht vor dir hinüber; er wird diese Völker vor dir vernichten, und du wirst sie beerben. Josua, er zieht vor dir hinüber, wie der HERR geredet hat.
+31	4	Und der HERR wird mit ihnen tun, wie er mit Sihon und mit Og, den Königen der Amoriter, und mit ihrem Land getan hat, die er vernichtet hat.
+31	5	Und der HERR wird sie vor euch hinlegen, und ihr sollt mit ihnen tun nach dem ganzen Gebot, das ich euch geboten habe.
+31	6	Seid stark und fasst Mut! Fürchtet euch nicht und lasst euch nicht vor ihnen einschüchtern! Denn der HERR, dein Gott, er ist es, der mit dir geht; er wird dich nicht loslassen und dich nicht verlassen.»
+31	7	Und Mose rief Josua und sagte zu ihm vor den Augen von ganz Israel: «Sei stark und fasse Mut! Denn du wirst mit diesem Volk in das Land hineinkommen, das der HERR ihren Vätern geschworen hat, ihnen zu geben, und du wirst es sie erben lassen.
+31	8	Und der HERR, er ist es, der vor dir hergeht; er wird mit dir sein, er wird dich nicht loslassen und dich nicht verlassen. Fürchte dich nicht und verzage nicht!»
+31	9	Und Mose schrieb diese Weisung und gab sie den Priestern, den Kindern Levis, die die Lade des Bundes des HERRN trugen, und allen Ältesten Israels.
+31	10	Und Mose gebot ihnen und sagte: «Am Ende von sieben Jahren, zur bestimmten Zeit des Jahres der Freigabe, am Fest der Hütten,
+31	11	wenn ganz Israel kommt, um vor dem Angesicht des HERRN, deines Gottes, zu erscheinen an dem Ort, den er erwählen wird, sollst du diese Weisung vor ganz Israel lesen, vor ihren Ohren.
+31	12	Versammle das Volk, die Männer und die Frauen und die kleinen Kinder und deinen Fremden, der in deinen Toren ist, damit sie hören und damit sie lernen und den HERRN, euren Gott, fürchten und bewahren, um alle Worte dieser Weisung zu tun.
+31	13	Und ihre Kinder, die es nicht erkannt haben, sollen hören und lernen, den HERRN, euren Gott, zu fürchten, alle Tage, die ihr auf dem Boden lebt, wohin ihr den Jordan überschreitet, um ihn in Besitz zu nehmen.»
+31	14	Und der HERR sagte zu Mose: «Siehe, deine Tage sind dem Sterben nahe gekommen. Rufe Josua, und stellt euch im Zelt der Begegnung auf, damit ich ihm gebiete.» Und Mose und Josua gingen hin und stellten sich im Zelt der Begegnung auf.
+31	15	Und der HERR erschien im Zelt in einer Wolkensäule, und die Wolkensäule stand am Eingang des Zeltes.
+31	16	Und der HERR sagte zu Mose: «Siehe, du legst dich zu deinen Vätern. Und dieses Volk wird aufstehen und den Göttern der Fremde des Landes nachhuren, in dessen Mitte es hineinkommt; und es wird mich verlassen und meinen Bund brechen, den ich mit ihm geschlossen habe.
+31	17	Und mein Zorn wird an jenem Tag gegen es entbrennen, und ich werde sie verlassen und mein Angesicht vor ihnen verbergen, und es wird gefressen werden, und viel Unglück und viele Bedrängnisse werden es treffen. Und es wird an jenem Tag sagen: ‹Hat mich nicht darum dieses Unglück getroffen, weil mein Gott nicht mitten unter mir ist?›
+31	18	Ich aber werde mein Angesicht an jenem Tag verbergen wegen all des Bösen, das es getan hat; denn es hat sich anderen Göttern zugewandt.
+31	19	Und nun schreibt euch dieses Lied nieder und lehre es die Kinder Israels; lege es in ihren Mund, damit dieses Lied mir zum Zeugen werde gegen die Kinder Israels.
+31	20	Denn ich werde es auf den Boden bringen, den ich seinen Vätern zugeschworen habe, der von Milch und Honig fliesst; und es wird essen und satt werden und fett werden, und es wird sich anderen Göttern zuwenden, und sie werden ihnen dienen und mich verschmähen, und es wird meinen Bund brechen.
+31	21	Und es wird geschehen: Wenn viel Unglück und viele Bedrängnisse es treffen, dann wird dieses Lied vor ihm als Zeuge aussagen; denn es wird nicht vergessen werden aus dem Mund seiner Nachkommen. Denn ich weiss, was es bildet und heute schon tut, bevor ich es in das Land bringe, das ich zugeschworen habe.»
+31	22	Und Mose schrieb dieses Lied an jenem Tag und lehrte es die Kinder Israels.
+31	23	Und er gebot Josua, dem Sohn Nuns, und sagte: «Sei stark und fasse Mut! Denn du wirst die Kinder Israels in das Land bringen, das ich ihnen zugeschworen habe, und ich, ich werde mit dir sein.»
+31	24	Und es geschah, als Mose damit zu Ende war, die Worte dieser Weisung in ein Buch zu schreiben, bis sie fertig waren,
+31	25	da gebot Mose den Leviten, die die Lade des Bundes des HERRN trugen, und sagte:
+31	26	«Nehmt dieses Buch der Weisung und legt es neben die Lade des Bundes des HERRN, eures Gottes, und es soll dort gegen dich zum Zeugen sein.
+31	27	Denn ich, ich kenne deinen Trotz und deinen harten Nacken. Siehe, während ich heute noch lebend bei euch bin, habt ihr dem HERRN getrotzt; wie viel mehr nach meinem Tod!
+31	28	Versammelt zu mir alle Ältesten eurer Stämme und eure Amtleute, damit ich vor ihren Ohren diese Worte rede und den Himmel und die Erde gegen sie zu Zeugen anrufe.
+31	29	Denn ich weiss: Nach meinem Tod werdet ihr unweigerlich verderblich handeln und von dem Weg abweichen, den ich euch geboten habe; und das Unglück wird euch begegnen am Ende der Tage, weil ihr das Böse tun werdet in den Augen des HERRN, um ihm Kummer zu bereiten mit dem Werk eurer Hände.»
+31	30	Und Mose redete vor den Ohren der ganzen Versammlung Israels die Worte dieses Liedes, bis sie fertig waren.
+32	1	Vernehmt, ihr Himmel, und ich will reden, und es höre die Erde die Reden meines Mundes.
+32	2	Wie Regen riesle meine Lehre, wie Tau rinne mein Spruch, wie Regengüsse auf junges Grün und wie Regenschauer auf Kraut.
+32	3	Denn den Namen des HERRN rufe ich aus: Gebt Grösse unserem Gott!
+32	4	Der Fels — rechtschaffen ist sein Wirken, denn alle seine Wege sind Recht; ein Gott der Verlässlichkeit und ohne Unrecht, gerecht und redlich ist er.
+32	5	Verderblich hat es an ihm gehandelt — nicht seine Kinder, ihr Fehl —, ein verkehrtes und gewundenes Geschlecht.
+32	6	Vergeltet ihr dem HERRN so, du Volk von Toren und nicht weise? Ist nicht er dein Vater, der dich erworben hat? Er hat dich gemacht und dich feststehen lassen.
+32	7	Gedenke der Tage der Urzeit, merkt auf die Jahre von Geschlecht um Geschlecht! Befrage deinen Vater, und er wird es dir künden, deine Ältesten, und sie werden es dir sagen.
+32	8	Als der Höchste die Völker erben liess, als er die Menschenkinder sonderte, da stellte er die Grenzmarken der Völker hin nach der Zahl der Kinder Israels.
+32	9	Denn der Anteil des HERRN ist sein Volk, Jakob die Messschnur seines Erbes.
+32	10	Er fand ihn in einem Land der Wüste und in der Öde, dem Geheul der Einöde; er umgab ihn, merkte auf ihn, bewahrte ihn wie die Pupille seines Auges.
+32	11	Wie ein Adler sein Nest weckt, über seinen Jungvögeln schwebt, seine Flügel ausbreitet, ihn nimmt, ihn trägt auf seiner Schwinge:
+32	12	Der HERR allein leitete ihn, und kein Gott der Fremde war mit ihm.
+32	13	Er liess ihn reiten auf den Bergrücken der Erde, und er ass, was das Feld trägt; er liess ihn Honig saugen aus der Klippe und Öl aus dem Feuersteinfels,
+32	14	Butter der Rinder und Milch der Schafe samt dem Fett von Mastlämmern und Widdern aus Baschan und Böcken samt dem Nierenfett des Weizens; und Traubenblut trankst du, schäumend.
+32	15	Und Jeschurun wurde fett und schlug aus — fett wurdest du, dick wurdest du, feist wurdest du —, und er liess Gott liegen, der ihn gemacht hatte, und schmähte den Fels seiner Rettung.
+32	16	Sie reizten ihn zum Eifer mit Fremden, mit Gräueln bereiteten sie ihm Kummer.
+32	17	Sie brachten den Dämonen Schlachtopfer dar, nicht Gott, Göttern, die sie nicht kannten, neuen, die vor kurzem gekommen waren, vor denen eure Väter nicht schauderten.
+32	18	Den Fels, der dich gezeugt hat, liessest du ausser Acht, und du vergasst Gott, der dich kreissend gebar.
+32	19	Und der HERR sah es und verschmähte sie aus Kummer über seine Söhne und seine Töchter.
+32	20	Und er sagte: «Ich will mein Angesicht vor ihnen verbergen, ich will sehen, was ihr Ende ist; denn ein Geschlecht des Widersinns sind sie, Kinder, an denen nichts Verlässliches ist.
+32	21	Sie haben mich zum Eifer gereizt mit einem Nicht-Gott, mir Kummer bereitet mit ihren Nichtigkeiten; und ich, ich will sie zum Eifer reizen mit einem Nicht-Volk, mit einer Nation von Toren will ich ihnen Kummer bereiten.
+32	22	Denn ein Feuer hat sich entzündet in meinem Zorn und brennt bis ins unterste Totenreich; es frisst die Erde und ihren Ertrag und lässt den Grund der Berge lodern.
+32	23	Ich will Unglück über sie häufen, meine Pfeile an ihnen zu Ende gehen lassen.
+32	24	Ausgesogen vom Hunger, aufgezehrt von Funken und von bitterem Würger — und den Zahn des Viehs sende ich gegen sie samt dem Gift derer, die im Staub kriechen.
+32	25	Draussen macht das Schwert kinderlos und in den Kammern das Grausen, den jungen Mann wie die junge Frau, den Säugling samt dem Mann mit grauem Haar.
+32	26	Ich hätte gesagt: ‹Ich will sie wegblasen, will ihrem Gedenken bei den Menschen ein Ende machen›,
+32	27	scheute ich nicht den Kummer durch den Feind, dass ihre Bedränger es verkennen, dass sie sagen: ‹Unsere Hand ist erhoben, und nicht der HERR hat all dies gewirkt.›»
+32	28	Denn ein Volk, dem die Ratschläge verloren gehen, sind sie, und keine Einsicht ist in ihnen.
+32	29	Wären sie weise, sie wären einsichtig in dies, sie würden auf ihr Ende merken.
+32	30	Wie könnte einer tausend verfolgen und zwei zehntausend fliehen lassen, wenn nicht ihr Fels sie verkauft und der HERR sie ausgeliefert hätte?
+32	31	Denn nicht wie unser Fels ist ihr Fels, und unsere Feinde sind Schiedsrichter.
+32	32	Denn vom Weinstock Sodoms ist ihr Weinstock und von den Gefilden Gomorras; ihre Trauben sind Trauben der Galle, Büschel voll Bitterem haben sie.
+32	33	Gift der Seeungeheuer ist ihr Wein und grausame Galle der Kobras.
+32	34	«Ist dies nicht bei mir aufgespart, versiegelt in meinen Vorratskammern?
+32	35	Mir gehört die Rache und die Vergeltung für die Zeit, da ihr Fuss wankt; denn nahe ist der Tag ihres Verhängnisses, und es eilt herbei, was für sie bereitsteht.»
+32	36	Denn der HERR wird zugunsten seines Volkes urteilen, und seiner Knechte wegen wird es ihn reuen, wenn er sieht, dass die Hand entschwunden ist und dahin ist der Zurückgehaltene und der Zurückgelassene.
+32	37	Und er wird sagen: «Wo sind ihre Götter, der Fels, bei dem sie sich bargen,
+32	38	die das Fett ihrer Schlachtopfer assen, den Wein ihres Trankopfers tranken? Sie sollen aufstehen und euch helfen, es sei über euch ein Schutz!
+32	39	Seht nun, dass ich, ich es bin, und kein Gott ist bei mir. Ich bringe zu Tode und mache lebendig, ich habe niedergestreckt, und ich, ich mache heil, und keiner ist, der aus meiner Hand befreit.
+32	40	Denn ich hebe meine Hand zum Himmel und sage: ‹Ich lebe für immer!›
+32	41	Wenn ich den Blitz meines Schwertes wetze und meine Hand das Recht ergreift, lasse ich Rache zurückkehren auf meine Bedränger, und denen, die mich hassen, erstatte ich es.
+32	42	Ich mache meine Pfeile betrunken von Blut, und mein Schwert frisst Fleisch, vom Blut des Erschlagenen und der Weggeführten, vom lockenhaarigen Haupt des Feindes.»
+32	43	Bejubelt, ihr Völker, sein Volk! Denn das Blut seiner Knechte rächt er, und Rache lässt er zurückkehren auf seine Bedränger, und er schafft Sühne für seinen Boden, sein Volk.
+32	44	Und Mose kam und redete alle Worte dieses Liedes vor den Ohren des Volkes, er und Hoschea, der Sohn Nuns.
+32	45	Und Mose war damit zu Ende, alle diese Worte zu ganz Israel zu reden.
+32	46	Und er sagte zu ihnen: «Setzt euer Herz auf alle Worte, mit denen ich heute Zeugnis gebe gegen euch, die ihr euren Kindern gebieten sollt, dass sie bewahren, um alle Worte dieser Weisung zu tun.
+32	47	Denn es ist kein leeres Wort für euch, sondern es ist euer Leben; und durch dieses Wort werdet ihr die Tage verlängern auf dem Boden, wohin ihr den Jordan überschreitet, um ihn in Besitz zu nehmen.»
+32	48	Und der HERR redete zu Mose an eben diesem Tag:
+32	49	«Steig auf diesen Berg Abarim hinauf, den Berg Nebo, der im Land Moab liegt, gegenüber Jericho, und sieh das Land Kanaan, das ich den Kindern Israels zum Besitz gebe.
+32	50	Und stirb auf dem Berg, auf den du hinaufsteigst, und werde zu deinem Volk versammelt, wie Aaron, dein Bruder, auf dem Berg Hor gestorben ist und zu seinem Volk versammelt wurde,
+32	51	weil ihr an mir Untreue begangen habt mitten unter den Kindern Israels bei den Wassern von Meriba bei Kadesch in der Wüste Zin, weil ihr mich nicht geheiligt habt mitten unter den Kindern Israels.
+32	52	Denn von gegenüber wirst du das Land sehen, aber dorthin wirst du nicht kommen, in das Land, das ich den Kindern Israels gebe.»
+33	1	Und dies ist der Segen, mit dem Mose, der Mann Gottes, die Kinder Israels gesegnet hat vor seinem Tod.
+33	2	Und er sagte: «Der HERR kam vom Sinai und ging ihnen auf von Seïr; er strahlte auf vom Bergland Paran und kam aus heiligen Zehntausenden; zu seiner Rechten ein Feuer des Gesetzes für sie.
+33	3	Ja, er ist den Völkern zugeneigt; alle seine Heiligen sind in deiner Hand, und sie, sie kauern zu deinen Füssen; er trägt von deinen Worten davon.
+33	4	Eine Weisung hat Mose uns geboten, ein Erbe der Versammlung Jakobs.
+33	5	Und er wurde König in Jeschurun, als sich die Häupter des Volkes versammelten, allesamt die Stämme Israels.
+33	6	«Ruben lebe und sterbe nicht, und seine Leute seien von geringer Zahl!»
+33	7	Und dies für Juda; und er sagte: «Höre, HERR, die Stimme Judas, und zu seinem Volk bringe ihn! Mit seinen Händen streitet er für sich, und Hilfe gegen seine Bedränger sollst du sein.»
+33	8	Und für Levi sagte er: «Deine Tummim und deine Urim gehören dem Mann, deinem Getreuen, den du versucht hast in Massa, mit dem du gestritten hast an den Wassern von Meriba;
+33	9	der von seinem Vater und seiner Mutter sagte: ‹Ich habe ihn nicht gesehen›, und seine Brüder nicht beachtete und seine Söhne nicht kannte. Denn sie haben deinen Spruch bewahrt, und deinen Bund befolgen sie.
+33	10	Sie unterweisen Jakob in deinen Rechtsentscheiden und Israel in deiner Weisung; sie legen Räucherwerk vor deine Nase und Ganzopfer auf deinen Altar.
+33	11	Segne, HERR, seine Tapferkeit, und am Wirken seiner Hände habe Wohlgefallen! Strecke die Hüften derer nieder, die gegen ihn aufstehen, und derer, die ihn hassen, dass sie nicht aufstehen!»
+33	12	Für Benjamin sagte er: «Der Geliebte des HERRN wohnt sicher bei ihm; er beschirmt ihn den ganzen Tag, und zwischen seinen Schultern wohnt er.»
+33	13	Und für Josef sagte er: «Gesegnet vom HERRN sei sein Land mit dem Kleinod des Himmels, mit dem Tau, und mit der Urflut, die drunten niederliegt,
+33	14	mit dem Kleinod der Erträge der Sonne und mit dem Kleinod dessen, was die Monate hervortreiben,
+33	15	mit dem Haupt der Berge der Vorzeit und mit dem Kleinod der Hügel der Urzeit,
+33	16	mit dem Kleinod der Erde und ihrer Fülle und mit dem Wohlgefallen dessen, der im Dornbusch wohnt. Es komme auf das Haupt Josefs und auf den Scheitel des Abgesonderten unter seinen Brüdern.
+33	17	Der Erstgeborene seines Ochsen — Glanz ist an ihm, und Hörner eines Wildrinds sind seine Hörner; mit ihnen nimmt er Völker auf die Hörner, allesamt, die Grenzen der Erde. Und das sind die Zehntausende Efraims, und das sind die Tausende Manasses.»
+33	18	Und für Sebulon sagte er: «Freue dich, Sebulon, wenn du ausziehst, und Issachar, in deinen Zelten!
+33	19	Völker rufen sie zum Berg; dort bringen sie Schlachtopfer der Gerechtigkeit dar. Denn die Überfülle der Meere saugen sie und das Zugedeckte, versteckt im Sand.»
+33	20	Und für Gad sagte er: «Gesegnet, der Gad weit macht! Wie eine Löwin wohnt er und reisst den Arm, ja, den Scheitel.
+33	21	Und er ersah sich den Erstling, denn dort ist das Landstück eines Zepterträgers zugedeckt; und er kam zu den Häuptern des Volkes, die Gerechtigkeit des HERRN hat er geschaffen und seine Rechtsentscheide mit Israel.»
+33	22	Und für Dan sagte er: «Dan ist ein junger Löwe, der aus dem Baschan hervorspringt.»
+33	23	Und für Naftali sagte er: «Naftali, satt an Wohlgefallen und voll vom Segen des HERRN — Meer und Süden nimm in Besitz!»
+33	24	Und für Ascher sagte er: «Gesegnet unter den Söhnen sei Ascher; an ihm sollen seine Brüder Wohlgefallen haben, und er tauche seinen Fuss in Öl!
+33	25	Eisen und Erz seien deine Verschlüsse, und wie deine Tage, so deine Lebenskraft.
+33	26	«Keiner ist wie Gott, Jeschurun, der die Himmel reitet, dir zu Hilfe, und in seiner Pracht die Lüfte.
+33	27	Eine Behausung ist der Gott der Vorzeit, und drunten sind die ewigen Arme. Und er vertrieb den Feind vor dir und sagte: ‹Vernichte!›
+33	28	Und Israel wohnte sicher, allein die Quelle Jakobs, in einem Land von Korn und Most; ja, seine Himmel lassen Tau rieseln.
+33	29	Wohl dir, Israel! Wer ist wie du, ein Volk, gerettet durch den HERRN, den Schild deiner Hilfe und der das Schwert deiner Pracht ist! Und deine Feinde werden dir schmeicheln, und du — auf ihre Bergrücken wirst du treten.»
+34	1	Und Mose stieg aus den Steppen Moabs auf den Berg Nebo hinauf, auf das Haupt des Pisga, das gegenüber Jericho liegt. Und der HERR liess ihn das ganze Land sehen: Gilead bis Dan
+34	2	und ganz Naftali und das Land Efraim und Manasse und das ganze Land Juda bis zum hinteren Meer
+34	3	und den Negeb und das Umland, die Niederung von Jericho, der Palmenstadt, bis Zoar.
+34	4	Und der HERR sagte zu ihm: «Dies ist das Land, das ich Abraham, Isaak und Jakob zugeschworen habe: ‹Deinen Nachkommen will ich es geben.› Ich habe es dich mit deinen Augen sehen lassen; aber dorthin wirst du nicht hinüberziehen.»
+34	5	Und dort starb Mose, der Knecht des HERRN, im Land Moab nach dem Mund des HERRN.
+34	6	Und er begrub ihn in der Schlucht im Land Moab, gegenüber Bet-Pegor; und keiner kennt sein Grab bis zu diesem Tag.
+34	7	Und Mose war hundertzwanzig Jahre alt, als er starb; sein Auge war nicht trübe geworden, und seine Frische war nicht geflohen.
+34	8	Und die Kinder Israels beweinten Mose in den Steppen Moabs dreissig Tage lang. Und die Tage des Weinens, der Trauer um Mose, waren aus.
+34	9	Und Josua, der Sohn Nuns, war erfüllt mit dem Geist der Weisheit; denn Mose hatte seine Hände auf ihn gestützt. Und die Kinder Israels hörten auf ihn und taten, wie der HERR Mose geboten hatte.
+34	10	Und es stand kein Prophet mehr in Israel auf wie Mose, den der HERR Angesicht zu Angesicht kannte,
+34	11	in all den Zeichen und den Wundern, zu denen der HERR ihn gesandt hatte, sie im Land Ägypten zu tun, am Pharao und an allen seinen Knechten und an seinem ganzen Land,
+34	12	und in all der starken Hand und in all dem grossen Grauen, das Mose getan hatte vor den Augen von ganz Israel.
