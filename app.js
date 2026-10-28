@@ -81,7 +81,7 @@ document.addEventListener('click',function(ev){var a=ev.target.closest&&ev.targe
  if(war)return;a.classList.add('gew');var k=+a.getAttribute('data-k'),vs=verse(b,k),ziel=b.datei+'#'+b.abk+'-'+k;
  var vp=el('div','vp offen js'),kp=el('div','vf-kopf'),l=el('a','vf-lesen',b.wort==='Psalm'?'Psalm lesen':'Kapitel lesen'),g=el('div','gitter verse');
  kp.appendChild(el('span','vf-titel',kapname(b,k)+' · '+vs.length+(vs.length===1?' Vers':' Verse')));l.href=ziel;kp.appendChild(l);vp.appendChild(kp);
- vs.forEach(function(v){var x=el('a',null,v);x.href=ziel+'-'+v;g.appendChild(x);});vp.appendChild(g);a.parentNode.insertBefore(vp,a.nextSibling);});
+ vs.forEach(function(v){var x=el('a',null,v);x.href=ziel+'-'+v;g.appendChild(x);});vp.appendChild(g);a.parentNode.appendChild(vp);});
 
 // Sprungziel hervorheben
 function hebe(e){if(!e.matches('sup.v,span.initiale'))return;var sec=e.closest('.kapitel-text');if(!sec)return;
