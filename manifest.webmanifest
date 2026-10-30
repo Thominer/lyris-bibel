@@ -3,7 +3,7 @@
  "short_name": "LYRIS-BIBEL",
  "lang": "de",
  "dir": "ltr",
- "description": "Eigenständige deutsche Übersetzung aus den Grundsprachen. Vorläufige Teilausgabe: Die Genesis, das Buch Exodus, das Buch Levitikus, das Buch Numeri, das Deuteronomium, das Buch Rut, die Psalmen, das Buch Jesaja und das Neue Testament.",
+ "description": "Eigenständige deutsche Übersetzung aus den Grundsprachen. Vorläufige Teilausgabe: Die Genesis, das Buch Exodus, das Buch Levitikus, das Buch Numeri, das Deuteronomium, das Buch Rut, die Psalmen, das Buch Kohelet, das Buch Jesaja und das Neue Testament.",
  "id": "./",
  "start_url": "./?start",
  "scope": "./",

@@ -594,13 +594,13 @@
 39	3	Ich bin stumm geworden in Stille, ich habe mich stillgehalten, dem Guten entzogen, und mein Schmerz wurde aufgestört.
 39	4	Heiss wurde mein Herz in meinem Innern, bei meinem Sinnen brennt ein Feuer; ich redete mit meiner Zunge:
 39	5	Tu mir, HERR, mein Ende kund und das Mass meiner Tage, was es ist; ich will erkennen, wie hinfällig ich bin.
-39	6	Siehe, Handbreiten hast du meine Tage gemacht, und meine Erdenzeit ist wie nichts vor dir; ja, lauter Nichtigkeit ist jeder Mensch, wie er dasteht. Sela
-39	7	Ja, als ein Bild geht der Mensch umher, ja, um Nichtigkeit sind sie unruhig; er häuft an und weiss nicht, wer es einbringt.
+39	6	Siehe, Handbreiten hast du meine Tage gemacht, und meine Erdenzeit ist wie nichts vor dir; ja, lauter Hauch ist jeder Mensch, wie er dasteht. Sela
+39	7	Ja, als ein Bild geht der Mensch umher, ja, um Hauch sind sie unruhig; er häuft an und weiss nicht, wer es einbringt.
 39	8	Und nun, worauf hoffe ich, Herr? Mein Harren — dir gehört es.
 39	9	Aus all meinen Verbrechen befreie mich, zur Schmach des Toren mache mich nicht!
 39	10	Ich bin stumm geworden, ich öffne meinen Mund nicht, denn du bist es, der es getan hat.
 39	11	Lass deine Plage von mir weichen! Unter dem Angriff deiner Hand gehe ich zu Ende.
-39	12	Mit Zurechtweisungen um der Schuld willen züchtigst du einen Menschen, und wie die Motte bringst du sein Begehrtes zum Schmelzen; ja, Nichtigkeit ist jeder Mensch. Sela
+39	12	Mit Zurechtweisungen um der Schuld willen züchtigst du einen Menschen, und wie die Motte bringst du sein Begehrtes zum Schmelzen; ja, Hauch ist jeder Mensch. Sela
 39	13	Erhöre mein Gebet, HERR, und vernimm mein Rufen um Hilfe, zu meinen Tränen schweige nicht! Denn ein Fremder bin ich bei dir, ein Beisasse wie alle meine Väter.
 39	14	Blick weg von mir, dass ich mich aufheitere, bevor ich gehe und nicht mehr bin.
 40	1	Dem Chormeister. Von David. Ein Psalm.
@@ -938,7 +938,7 @@
 62	7	Nur er ist mein Fels und meine Rettung, meine Burg — ich werde nicht wanken.
 62	8	Auf Gott — meine Rettung und meine Herrlichkeit; der Fels meiner Stärke, meine Zuflucht — in Gott.
 62	9	Vertraut auf ihn zu jeder Zeit, Volk, giesst vor seinem Angesicht euer Herz aus! Gott ist uns Zuflucht. Sela
-62	10	Nur Nichtigkeit sind die Menschenkinder, Lüge die Männer; auf der Waage steigen sie auf, weniger als Nichtigkeit sind sie allesamt.
+62	10	Nur Hauch sind die Menschenkinder, Lüge die Männer; auf der Waage steigen sie auf, weniger als Hauch sind sie allesamt.
 62	11	Vertraut nicht auf Erpressung, und durch Raub werdet nicht nichtig! Wenn Wohlstand sprosst, setzt das Herz nicht darauf!
 62	12	Eines hat Gott geredet, zwei sind es, die ich gehört habe: dass Gott die Stärke gehört
 62	13	und dir, Herr, die Güte; denn du erstattest jedem nach seinem Werk.
@@ -1258,7 +1258,7 @@
 78	30	Noch hatten sie sich ihrem Begehren nicht entfremdet, noch war ihre Speise in ihrem Mund,
 78	31	da stieg Gottes Zorn gegen sie auf, und er tötete unter ihren Feisten, und die jungen Männer Israels liess er in die Knie sinken.
 78	32	Bei alledem sündigten sie weiter und glaubten nicht an seine wunderbaren Taten.
-78	33	Da liess er ihre Tage in Nichtigkeit zu Ende gehen und ihre Jahre im Erschrecken.
+78	33	Da liess er ihre Tage im Hauch zu Ende gehen und ihre Jahre im Erschrecken.
 78	34	Wenn er sie tötete, dann fragten sie nach ihm, kehrten um und ersehnten Gott
 78	35	und gedachten daran, dass Gott ihr Fels ist und Gott, der Höchste, ihr Erlöser.
 78	36	Doch sie betörten ihn mit ihrem Mund, und mit ihrer Zunge logen sie ihn an;
@@ -2433,7 +2433,7 @@
 144	1	Von David. Gepriesen sei der HERR, mein Fels, der meine Hände die Schlacht lehrt, meine Finger den Krieg,
 144	2	meine Güte und meine Bergfeste, meine Burg und der mich entrinnen lässt, mir zu eigen, mein Schild, bei dem ich mich berge, der mein Volk unter mich niedertritt.
 144	3	HERR, was ist der Mensch, dass du ihn kennst, das Menschenkind, dass du auf es bedacht bist?
-144	4	Der Mensch ist der Nichtigkeit ähnlich, seine Tage sind wie ein Schatten, der vorübergeht.
+144	4	Der Mensch ist dem Hauch ähnlich, seine Tage sind wie ein Schatten, der vorübergeht.
 144	5	HERR, neige deinen Himmel und steig hinab, berühre die Berge, und sie rauchen!
 144	6	Lass den Blitz blitzen und zerstreue sie, sende deine Pfeile und verwirre sie!
 144	7	Strecke aus der Höhe deine Hände aus, hol mich heraus und befreie mich aus vielen Wassern, aus der Hand derer aus der Fremde,
