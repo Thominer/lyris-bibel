@@ -56,7 +56,9 @@ a,label{-webkit-tap-highlight-color:transparent;touch-action:manipulation}
 .js .schwebe.versteckt{opacity:0;transform:scale(.85);pointer-events:none}
 .schwebe svg{width:1.25rem;height:1.25rem;stroke:currentColor;fill:none;stroke-width:1.8;stroke-linecap:round}
 @media print{.schwebe{display:none!important}}
-.marke{color:var(--text);text-decoration:none;font-variant:small-caps;letter-spacing:.09em;white-space:nowrap;font-size:1.05rem}
+.marke{display:inline-flex;align-items:center;gap:.4em;color:var(--text);text-decoration:none;font-variant:small-caps;letter-spacing:.09em;white-space:nowrap;font-size:1.05rem}
+.marke .signet{flex:none;height:1.5em;width:auto}.marke .lyra{opacity:.62}
+@media (max-width:350px){.marke span{display:none}.marke .signet{height:1.65em}}
 .ort,.aa{display:inline-flex;align-items:center;min-height:2.5rem;border:1px solid var(--linie);border-radius:999px;background:var(--feld);
  color:var(--text);text-decoration:none;font-size:1rem;cursor:pointer}
 .ort{gap:.45rem;max-width:22rem;min-width:0;padding:0 .85rem 0 .95rem}
