@@ -56,9 +56,16 @@ a,label{-webkit-tap-highlight-color:transparent;touch-action:manipulation}
 .js .schwebe.versteckt{opacity:0;transform:scale(.85);pointer-events:none}
 .schwebe svg{width:1.25rem;height:1.25rem;stroke:currentColor;fill:none;stroke-width:1.8;stroke-linecap:round}
 @media print{.schwebe{display:none!important}}
-.marke{display:inline-flex;align-items:center;gap:.4em;color:var(--text);text-decoration:none;font-variant:small-caps;letter-spacing:.09em;white-space:nowrap;font-size:1.05rem}
-.marke .signet{flex:none;height:1.5em;width:auto}.marke .lyra{opacity:.62}
-@media (max-width:350px){.marke span{display:none}.marke .signet{height:1.65em}}
+/* Signet, Grossbuchstaben des Schriftzugs und Rahmen der Auswahl gleich hoch (--h; Wunsch des Übersetzers vom
+   01.11.2026): Versalhöhe der Cardo 0,689 em (Schriftmetrik), also Schriftgrösse --h / 0,689; der Schriftzug auf die Versalien beschnitten */
+.marke{--h:calc(2.5rem + 2px);display:inline-flex;align-items:center;gap:calc(var(--h) * .3);color:var(--text);text-decoration:none;
+ font-variant:small-caps;letter-spacing:.09em;white-space:nowrap;font-size:calc(var(--h) / .689);line-height:1}
+.marke span{display:block;text-box:trim-both cap alphabetic}
+@supports not (text-box:trim-both cap alphabetic){.marke span{position:relative;top:.04em}}
+.marke .signet{flex:none;height:var(--h);width:auto}.marke .lyra{opacity:.62}
+@media (max-width:720px){.marke{--h:clamp(1.6rem,calc((100vw - 15.5rem) / 11.4),calc(2.5rem + 2px))}}
+/* auf dem Telefon reicht die Breite nicht für beides in Rahmenhöhe: dort das Signet allein, so hoch wie der Rahmen */
+@media (max-width:560px){.marke span{display:none}.marke{--h:calc(2.5rem + 2px)}}
 .ort,.aa{display:inline-flex;align-items:center;min-height:2.5rem;border:1px solid var(--linie);border-radius:999px;background:var(--feld);
  color:var(--text);text-decoration:none;font-size:1rem;cursor:pointer}
 .ort{gap:.45rem;max-width:22rem;min-width:0;padding:0 .85rem 0 .95rem}
@@ -168,7 +175,7 @@ sup.v:target,.initiale:target{background:var(--hl);border-radius:3px}
  body{font-size:1.08rem}
  .babk{display:none}
 }
-@media (max-width:370px){.ort-lang{display:none}.ort-kurz{display:inline}.marke{font-size:.95rem}}
+@media (max-width:370px){.ort-lang{display:none}.ort-kurz{display:inline}}
 
 /* Text */
 h1{font-size:2rem;margin:3.5rem 0 .5rem;font-weight:normal;letter-spacing:.02em}
