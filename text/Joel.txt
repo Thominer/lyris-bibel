@@ -1,0 +1,73 @@
+1	1	Das Wort des HERRN, das an Joel, den Sohn Petuëls, erging.
+1	2	Hört dies, ihr Ältesten, und vernehmt, alle Bewohner des Landes! Ist dies geschehen in euren Tagen oder in den Tagen eurer Väter?
+1	3	Davon erzählt euren Kindern, und eure Kinder ihren Kindern, und ihre Kinder einem anderen Geschlecht.
+1	4	Den Rest des Nagers hat die Heuschrecke gefressen, und den Rest der Heuschrecke hat die Larve gefressen, und den Rest der Larve hat der Abfresser gefressen.
+1	5	Wacht auf, ihr Betrunkenen, und weint, und heult, alle, die ihr Wein trinkt, über den Rebensaft; denn er ist ausgerottet von eurem Mund.
+1	6	Denn ein Volk ist heraufgekommen über mein Land, stark und ohne Zahl; seine Zähne sind Zähne eines Löwen, und das Gebiss einer Löwin hat es.
+1	7	Es hat meinen Weinstock zur Verwüstung gemacht und meinen Feigenbaum zu Bruchholz; entblösst hat es ihn und hingeworfen, weiss geworden sind seine Triebe.
+1	8	Klage wie eine junge Frau, mit Sacktuch gegürtet, um den Ehemann ihrer Jugend!
+1	9	Ausgerottet sind Speiseopfer und Trankopfer vom Haus des HERRN; es trauern die Priester, die dem HERRN Dienst tun.
+1	10	Verheert ist das Feld, es trauert der Boden; denn verheert ist das Korn, vertrocknet ist der Most, entkräftet das frische Öl.
+1	11	Werdet zuschanden, ihr Ackerleute, heult, ihr Winzer, über den Weizen und über die Gerste; denn umgekommen ist die Ernte des Feldes.
+1	12	Der Weinstock ist verdorrt, und der Feigenbaum ist entkräftet; Granatapfel, auch Palme und Apfelbaum, alle Bäume des Feldes sind verdorrt; denn verdorrt ist die Wonne, fort von den Menschenkindern.
+1	13	Gürtet euch und wehklagt, ihr Priester, heult, die ihr dem Altar Dienst tut! Kommt, übernachtet in Sacktüchern, die ihr meinem Gott Dienst tut! Denn verweigert ist dem Haus eures Gottes Speiseopfer und Trankopfer.
+1	14	Heiligt ein Fasten, ruft einen Feiertag aus! Versammelt die Ältesten, alle Bewohner des Landes, zum Haus des HERRN, eures Gottes, und schreit zum HERRN!
+1	15	Ach über den Tag! Denn nahe ist der Tag des HERRN, und wie Verheerung vom Allmächtigen kommt er.
+1	16	Ist nicht vor unseren Augen die Speise ausgerottet, vom Haus unseres Gottes Freude und Jauchzen?
+1	17	Eingeschrumpft sind die Saatkörner unter ihren Erdschollen, verwüstet sind die Vorratskammern, abgebrochen die Scheunen; denn verdorrt ist das Korn.
+1	18	Wie seufzt das Vieh! Verstört sind die Rinderherden, denn sie haben keine Weide; auch die Schafherden büssen.
+1	19	Zu dir, HERR, rufe ich; denn Feuer hat die Weidegründe der Wüste gefressen, und eine Flamme hat alle Bäume des Feldes lodern lassen.
+1	20	Auch das Vieh des Feldes lechzt nach dir; denn vertrocknet sind die Wasserrinnen, und Feuer hat die Weidegründe der Wüste gefressen.
+2	1	Stosst ins Widderhorn auf dem Zion, und stimmt den Kriegsruf an auf meinem heiligen Berg! Erregen sollen sich alle Bewohner des Landes; denn der Tag des HERRN kommt, denn er ist nahe,
+2	2	ein Tag der Finsternis und Düsternis, ein Tag der Wolke und des Wetterdunkels, wie Morgenröte ausgebreitet über die Berge. Ein Volk, zahlreich und stark: seinesgleichen hat es nie gegeben von Urzeit her, und nach ihm wird es nie mehr eines geben bis in die Jahre von Geschlecht zu Geschlecht.
+2	3	Vor ihm frisst ein Feuer, und hinter ihm lodert eine Flamme; wie der Garten Eden ist das Land vor ihm, und hinter ihm eine Wüste der Verwüstung, und auch ein Entrinnen gibt es vor ihm nicht.
+2	4	Wie Rosse anzusehen sind, so ist es anzusehen, und wie Reiter, so rennen sie.
+2	5	Wie die Stimme von Wagen hüpfen sie auf den Häuptern der Berge, wie das Prasseln einer Feuerflamme, die Stoppeln frisst, wie ein starkes Volk, zum Krieg geordnet.
+2	6	Vor ihm winden sich Völker, alle Angesichter verfärben sich.
+2	7	Wie Helden rennen sie, wie Männer des Krieges steigen sie auf die Mauer; und jeder geht auf seinen Wegen, und sie verflechten ihre Pfade nicht.
+2	8	Und keiner schiebt seinen Bruder, jeder Mann geht auf seinem Hochweg; und mitten durch die Wurfspiesse fallen sie ein und lassen sich nicht unterbrechen.
+2	9	Auf die Stadt rennen sie an, auf der Mauer rennen sie, in die Häuser steigen sie hinauf, durch die Fenster kommen sie herein wie der Dieb.
+2	10	Vor ihm erregt sich die Erde, beben die Himmel; Sonne und Mond sind umdunkelt, und die Sterne sammeln ihren Schein ein.
+2	11	Und der HERR lässt seine Stimme ertönen vor seinem Heer; denn sehr zahlreich ist sein Lager, denn stark ist, der sein Wort tut. Denn gross ist der Tag des HERRN und sehr furchtgebietend, und wer übersteht ihn?
+2	12	Doch auch jetzt, Ausspruch des HERRN: Kehrt um zu mir mit eurem ganzen Herzen, mit Fasten und mit Weinen und mit Wehklage!
+2	13	Und zerreisst euer Herz und nicht eure Kleider, und kehrt um zum HERRN, eurem Gott! Denn gnädig und barmherzig ist er, langmütig und reich an Güte, und ihn reut das Böse.
+2	14	Wer weiss, vielleicht kehrt er um, und es reut ihn, und er lässt hinter sich Segen übrig: Speiseopfer und Trankopfer für den HERRN, euren Gott.
+2	15	Stosst ins Widderhorn auf dem Zion, heiligt ein Fasten, ruft einen Feiertag aus!
+2	16	Versammelt das Volk, heiligt eine Versammlung, schart die Alten zusammen, versammelt die Unmündigen und die Säuglinge an den Brüsten! Der Bräutigam gehe hervor aus seiner Kammer und die Braut aus ihrem Gemach!
+2	17	Zwischen der Vorhalle und dem Altar sollen die Priester weinen, die dem HERRN Dienst tun, und sollen sagen: «Es tue dir leid, HERR, um dein Volk, und mach dein Erbe nicht zur Schmach, dass Völker über sie herrschen! Warum soll man unter den Völkern sagen: ‹Wo ist ihr Gott?›»
+2	18	Da eiferte der HERR für sein Land und hatte Mitleid mit seinem Volk.
+2	19	Und der HERR antwortete und sagte zu seinem Volk: Siehe, ich sende euch das Korn und den Most und das frische Öl, und ihr werdet davon satt werden; und ich mache euch nicht mehr zur Schmach unter den Völkern.
+2	20	Und den aus dem Norden rücke ich fern von euch und versprenge ihn in ein dürres Land und in die Verwüstung, sein Angesicht zum vorderen Meer und seinen Schluss zum hinteren Meer; und sein Gestank wird aufsteigen, und sein Verwesungsgeruch wird aufsteigen; denn gross hat er gehandelt.
+2	21	Fürchte dich nicht, Boden, jauchze und freue dich; denn gross hat der HERR gehandelt!
+2	22	Fürchtet euch nicht, Vieh des Feldes; denn es grünen die Weidegründe der Wüste, denn der Baum trägt seine Frucht, Feigenbaum und Weinstock geben ihren Ertrag.
+2	23	Und ihr Kinder Zions, jauchzt und freut euch über den HERRN, euren Gott! Denn er hat euch den Frühregen gegeben nach Gerechtigkeit, und er hat euch zuerst Regen herabgebracht, Frühregen und Spätregen.
+2	24	Und die Tennen werden voll von Getreide, und die Keltern laufen über von Most und frischem Öl.
+2	25	Und ich erstatte euch die Jahre, die gefressen hat die Heuschrecke, die Larve und der Abfresser und der Nager, mein grosses Heer, das ich gegen euch gesandt habe.
+2	26	Und ihr werdet reichlich essen und satt werden und den Namen des HERRN, eures Gottes, loben, der an euch wunderbar gehandelt hat; und mein Volk wird nicht zuschanden werden für immer.
+2	27	Und ihr werdet erkennen, dass ich in der Mitte Israels bin und dass ich der HERR bin, euer Gott, und es gibt keinen anderen; und mein Volk wird nicht zuschanden werden für immer.
+3	1	Und es wird geschehen danach: Ich werde meinen Geist ausgiessen auf alles Fleisch, und eure Söhne und eure Töchter werden weissagen; eure Alten werden Träume träumen, eure jungen Männer werden Schauungen sehen.
+3	2	Und auch auf die Sklaven und auf die Sklavinnen werde ich in jenen Tagen meinen Geist ausgiessen.
+3	3	Und ich werde Wunder geben am Himmel und auf der Erde: Blut und Feuer und Rauchsäulen.
+3	4	Die Sonne wird sich in Finsternis verwandeln und der Mond in Blut, bevor der Tag des HERRN kommt, der grosse und furchtgebietende.
+3	5	Und es wird geschehen: Jeder, der den Namen des HERRN anruft, wird davonkommen; denn auf dem Berg Zion und in Jerusalem wird Entrinnen sein, wie der HERR gesagt hat, und unter den Überlebenden, die der HERR ruft.
+4	1	Denn siehe, in jenen Tagen und zu jener Zeit, wenn ich das Geschick Judas und Jerusalems wende,
+4	2	dann schare ich alle Völker zusammen und bringe sie hinab ins Tal Joschafat; und ich gehe dort mit ihnen ins Gericht wegen meines Volkes und meines Erbes Israel, das sie unter die Völker verstreut haben; und mein Land haben sie verteilt.
+4	3	Und um mein Volk haben sie gelost; und den Knaben gaben sie für eine Hure, und das Mädchen verkauften sie für Wein, und sie tranken.
+4	4	Und was seid auch ihr mir, Tyrus und Sidon und alle Bezirke Philistäas? Erstattet ihr mir eine Vergeltung? Und wenn ihr mir vergeltet, lasse ich rasch, eilends eure Vergeltung zurückkehren auf euer Haupt.
+4	5	Denn mein Silber und mein Gold habt ihr genommen, und mein Begehrenswertes, das Gute, habt ihr in eure Tempel gebracht.
+4	6	Und die Kinder Judas und die Kinder Jerusalems habt ihr den Kindern Jawans verkauft, um sie fern von ihrem Gebiet zu rücken.
+4	7	Siehe, ich wecke sie von dem Ort her, wohin ihr sie verkauft habt, und lasse eure Vergeltung zurückkehren auf euer Haupt.
+4	8	Und ich verkaufe eure Söhne und eure Töchter in die Hand der Kinder Judas, und sie verkaufen sie an die Sabäer, an ein fernes Volk; denn der HERR hat geredet.
+4	9	Ruft dies aus unter den Völkern: Heiligt einen Krieg, weckt die Helden! Herankommen, heraufkommen sollen alle Männer des Krieges!
+4	10	Schmiedet eure Pflugscharen zu Schwertern um und eure Winzermesser zu Spiessen! Der Schwache sage: «Ein Held bin ich!»
+4	11	Eilt und kommt, alle Völker ringsum, und sie sollen sich zusammenscharen! Dorthin lass niederfahren, HERR, deine Helden!
+4	12	Erwachen sollen die Völker und heraufkommen ins Tal Joschafat; denn dort werde ich sitzen, um alle Völker ringsum zu richten.
+4	13	Sendet die Sichel, denn reif ist die Ernte! Kommt, steigt hinab, denn voll ist die Kelter; die Keltern laufen über, denn gross ist ihre Bosheit.
+4	14	Getümmel, Getümmel im Tal der Entscheidung! Denn nahe ist der Tag des HERRN im Tal der Entscheidung.
+4	15	Sonne und Mond sind umdunkelt, und die Sterne sammeln ihren Schein ein.
+4	16	Und der HERR brüllt vom Zion und lässt aus Jerusalem seine Stimme ertönen, und Himmel und Erde beben. Doch der HERR ist eine Zuflucht für sein Volk und ein Bollwerk für die Kinder Israels.
+4	17	Und ihr werdet erkennen, dass ich der HERR bin, euer Gott, der auf dem Zion wohnt, meinem heiligen Berg. Und Jerusalem wird heilig sein, und fremde Leute werden nicht mehr hindurchziehen.
+4	18	Und es wird geschehen an jenem Tag: Die Berge tropfen von Rebensaft, und die Hügel fliessen von Milch, und alle Rinnen Judas fliessen von Wasser; und eine Quelle geht aus dem Haus des HERRN hervor und gibt dem Bachtal Schittim zu trinken.
+4	19	Ägypten wird zur Verwüstung werden, und Edom wird zur Wüste der Verwüstung werden wegen der Gewalttat an den Kindern Judas, weil sie unschuldiges Blut vergossen haben in ihrem Land.
+4	20	Juda aber wird für immer bewohnt werden und Jerusalem von Geschlecht zu Geschlecht.
+4	21	Und ich spreche ihr Blut unschuldig, das ich nicht unschuldig gesprochen habe; und der HERR wohnt auf dem Zion.
