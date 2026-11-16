@@ -1,0 +1,695 @@
+1	1	Und es geschah nach dem Tod Sauls, als David vom Schlagen Amaleks zurückgekehrt war, da blieb David zwei Tage in Ziklag.
+1	2	Und es geschah am dritten Tag: Siehe, da kam ein Mann aus dem Lager, von Saul her; seine Kleider waren zerrissen, und Erde war auf seinem Haupt. Und es geschah, als er zu David kam, da fiel er zur Erde und warf sich nieder.
+1	3	Und David sagte zu ihm: «Woher kommst du?» Und er sagte zu ihm: «Aus dem Lager Israels bin ich davongekommen.»
+1	4	Und David sagte zu ihm: «Was ist geschehen? Sag es mir doch!» Und er sagte: «Das Volk ist aus dem Krieg geflohen, und auch viele vom Volk sind gefallen und gestorben; und auch Saul und Jonatan, sein Sohn, sind tot.»
+1	5	Und David sagte zu dem jungen Menschen, der es ihm gesagt hatte: «Wie weisst du, dass Saul tot ist und Jonatan, sein Sohn?»
+1	6	Und der junge Mensch, der es ihm gesagt hatte, sagte: «Ich geriet unversehens auf den Berg Gilboa, und siehe, Saul lehnte sich auf seinen Speer; und siehe, die Wagen und die Herren der Reiter hatten ihn ereilt.
+1	7	Da wandte er sich hinter sich und sah mich und rief mich, und ich sagte: ‹Hier bin ich.›
+1	8	Und er sagte zu mir: ‹Wer bist du?› Und ich sagte zu ihm: ‹Ein Amalekiter bin ich.›
+1	9	Und er sagte zu mir: ‹Stell dich doch über mich und bring mich zu Tode; denn die Starre hat mich befallen, denn noch ist mein Leben ganz in mir.›
+1	10	Da stellte ich mich über ihn und brachte ihn zu Tode, denn ich wusste, dass er nicht leben würde, nachdem er gefallen war. Und ich nahm das Diadem, das auf seinem Haupt war, und die Armkette, die an seinem Arm war, und ich habe sie hierher zu meinem Herrn gebracht.»
+1	11	Da fasste David seine Kleider und zerriss sie, und auch alle Männer, die bei ihm waren.
+1	12	Und sie wehklagten und weinten und fasteten bis zum Abend über Saul und über Jonatan, seinen Sohn, und über das Volk des HERRN und über das Haus Israel, weil sie durch das Schwert gefallen waren.
+1	13	Und David sagte zu dem jungen Menschen, der es ihm gesagt hatte: «Woher bist du?» Und er sagte: «Der Sohn eines Fremden, eines Amalekiters, bin ich.»
+1	14	Und David sagte zu ihm: «Wie hast du dich nicht gefürchtet, deine Hand auszustrecken, um den Gesalbten des HERRN zu verderben?»
+1	15	Und David rief einen von den jungen Menschen und sagte: «Tritt heran, triff ihn!» Und er schlug ihn, und er starb.
+1	16	Und David sagte zu ihm: «Dein Blut über dein Haupt! Denn dein Mund hat gegen dich ausgesagt: ‹Ich habe den Gesalbten des HERRN zu Tode gebracht.›»
+1	17	Und David klagte dieses Klagelied über Saul und über Jonatan, seinen Sohn,
+1	18	und er sagte, man solle die Kinder Judas den Bogen lehren — siehe, es ist geschrieben im Buch des Redlichen:
+1	19	Die Anmut, Israel, auf deinen Bergrücken erschlagen! Wie sind die Helden gefallen!
+1	20	Kündet es nicht in Gat, verkündet nicht die Botschaft in den Gassen Aschkelons, sonst freuen sich die Töchter der Philister, sonst frohlocken die Töchter der Unbeschnittenen.
+1	21	Ihr Berge auf dem Gilboa, kein Tau und kein Regen sei auf euch, noch Felder der Abgaben! Denn dort ist der Schild der Helden zum Ekel geworden, der Schild Sauls, nicht gesalbt mit Öl.
+1	22	Vom Blut der Erschlagenen, vom Fett der Helden wich der Bogen Jonatans nicht zurück, und das Schwert Sauls kehrte nicht leer zurück.
+1	23	Saul und Jonatan, die man liebte, die lieblich waren in ihrem Leben, und in ihrem Tod haben sie sich nicht getrennt; rascher als Adler waren sie, mächtiger als Löwen.
+1	24	Ihr Töchter Israels, um Saul weint, der euch Karmesin anzog samt Entzücken, der goldenen Schmuck auf eure Kleidung hinaufhob.
+1	25	Wie sind die Helden gefallen inmitten des Krieges! Jonatan, auf deinen Bergrücken erschlagen!
+1	26	Bedrängt bin ich um dich, mein Bruder Jonatan; sehr lieblich warst du mir. Wunderbarer war deine Liebe zu mir als die Liebe der Frauen.
+1	27	Wie sind die Helden gefallen, und das Kriegsgerät ist verloren!
+2	1	Und es geschah danach, da befragte David den HERRN: «Soll ich in eine der Städte Judas hinaufsteigen?» Und der HERR sagte zu ihm: «Steig hinauf!» Und David sagte: «Wohin soll ich hinaufsteigen?» Und er sagte: «Nach Hebron.»
+2	2	Und David stieg dorthin hinauf, und auch seine beiden Frauen, Ahinoam, die Jesreeliterin, und Abigajil, die Frau Nabals, des Karmeliters.
+2	3	Und seine Männer, die bei ihm waren, holte David hinauf, jeden mit seinem Haus; und sie wohnten in den Städten Hebrons.
+2	4	Und die Männer Judas kamen und salbten dort David zum König über das Haus Juda. Und man sagte David: «Die Männer von Jabesch-Gilead sind es, die Saul begraben haben.»
+2	5	Da sandte David Boten zu den Männern von Jabesch-Gilead und sagte zu ihnen: «Gesegnet seid ihr vom HERRN, die ihr diese Güte an eurem Herrn, an Saul, geübt und ihn begraben habt!
+2	6	Und nun übe der HERR an euch Güte und Treue; und auch ich will euch dieses Gute tun, weil ihr dies getan habt.
+2	7	Und nun: Stark seien eure Hände, und seid tüchtige Männer! Denn tot ist euer Herr Saul; und auch mich hat das Haus Juda zum König über sich gesalbt.»
+2	8	Abner aber, der Sohn Ners, der Heerführer Sauls, nahm Isch-Boschet, den Sohn Sauls, und liess ihn hinüberziehen nach Mahanajim.
+2	9	Und er machte ihn zum König über Gilead und über die Aschuriter und über Jesreel und über Efraim und über Benjamin und über ganz Israel.
+2	10	Isch-Boschet, der Sohn Sauls, war vierzig Jahre alt, als er König über Israel wurde, und zwei Jahre war er König. Nur das Haus Juda schloss sich David an.
+2	11	Und die Zahl der Tage, die David in Hebron König war über das Haus Juda, war sieben Jahre und sechs Monate.
+2	12	Und Abner, der Sohn Ners, zog aus, und die Knechte Isch-Boschets, des Sohnes Sauls, von Mahanajim nach Gibeon.
+2	13	Und Joab, der Sohn der Zeruja, und die Knechte Davids zogen aus, und sie begegneten einander am Teich von Gibeon; und sie setzten sich, die einen am Teich hüben und die andern am Teich drüben.
+2	14	Und Abner sagte zu Joab: «Die jungen Menschen sollen doch aufstehen und vor uns spielen!» Und Joab sagte: «Sie sollen aufstehen!»
+2	15	Und sie standen auf und gingen nach der Zahl hinüber: zwölf für Benjamin und für Isch-Boschet, den Sohn Sauls, und zwölf von den Knechten Davids.
+2	16	Und sie fassten einer den andern beim Haupt, jeder sein Schwert in der Seite des andern, und sie fielen miteinander. Und man nannte jenen Ort, der in Gibeon ist, Helkat-Hazzurim.
+2	17	Und der Krieg war über die Massen hart an jenem Tag; und Abner und die Männer Israels wurden vor den Knechten Davids niedergestreckt.
+2	18	Und dort waren die drei Söhne der Zeruja: Joab, Abischai und Asaël. Und Asaël war rasch auf seinen Füssen wie eine der Gazellen, die auf dem Feld sind.
+2	19	Und Asaël verfolgte Abner, und er bog nicht ab, um zur Rechten oder zur Linken zu gehen, fort von Abner.
+2	20	Und Abner wandte sich hinter sich und sagte: «Bist du das, Asaël?» Und er sagte: «Ich bin es.»
+2	21	Und Abner sagte zu ihm: «Bieg ab zu deiner Rechten oder zu deiner Linken, ergreif dir einen von den jungen Menschen und nimm dir, was er anhat!» Aber Asaël wollte nicht abweichen, fort von ihm.
+2	22	Und Abner sagte noch einmal zu Asaël: «Weiche, fort von mir! Warum soll ich dich zur Erde schlagen? Und wie sollte ich mein Angesicht zu Joab, deinem Bruder, heben?»
+2	23	Doch er wollte nicht abweichen. Da schlug ihn Abner mit dem hinteren Speerende in die Weichen, und der Speer trat hinten aus ihm heraus; und er fiel dort und starb auf der Stelle. Und es geschah: Jeder, der an den Ort kam, wo Asaël gefallen und gestorben war, blieb stehen.
+2	24	Und Joab und Abischai verfolgten Abner; und die Sonne ging unter, als sie zum Hügel Amma kamen, der gegenüber Giach liegt, auf dem Weg zur Wüste Gibeon.
+2	25	Und die Kinder Benjamins scharten sich hinter Abner zusammen und wurden zu einem Bündel, und sie stellten sich auf das Haupt eines Hügels.
+2	26	Und Abner rief zu Joab und sagte: «Soll das Schwert für alle Zeit fressen? Weisst du nicht, dass es zuletzt bitter sein wird? Und wie lange noch sagst du dem Volk nicht, umzukehren, fort von ihren Brüdern?»
+2	27	Und Joab sagte: «Gott lebt! Hättest du nicht geredet, dann wäre das Volk erst am Morgen abgezogen, jeder fort von seinem Bruder.»
+2	28	Und Joab stiess ins Widderhorn, und das ganze Volk blieb stehen; und sie verfolgten Israel nicht mehr, und sie kämpften nicht länger.
+2	29	Und Abner und seine Männer gingen jene ganze Nacht durch die Steppe; und sie überschritten den Jordan und gingen durch den ganzen Bitron und kamen nach Mahanajim.
+2	30	Und Joab kehrte um, fort von Abner, und versammelte das ganze Volk; und von den Knechten Davids wurden neunzehn Mann vermisst, und Asaël.
+2	31	Die Knechte Davids aber hatten von Benjamin und unter den Männern Abners geschlagen: Dreihundertsechzig Mann waren tot.
+2	32	Und sie hoben Asaël auf und begruben ihn im Grab seines Vaters, das in Betlehem ist. Und Joab und seine Männer gingen die ganze Nacht, und es wurde ihnen licht in Hebron.
+3	1	Und der Krieg zwischen dem Haus Saul und dem Haus David war lang. Und David wurde immer stärker, das Haus Saul aber wurde immer geringer.
+3	2	Und David wurden Söhne geboren in Hebron. Und sein Erstgeborener war Amnon, von Ahinoam, der Jesreeliterin;
+3	3	und sein Zweiter Kilab, von Abigajil, der Frau Nabals, des Karmeliters; und der Dritte Abschalom, der Sohn Maachas, der Tochter Talmais, des Königs von Geschur;
+3	4	und der Vierte Adonija, der Sohn Haggits; und der Fünfte Schefatja, der Sohn Abitals;
+3	5	und der Sechste Jitream, von Egla, der Frau Davids. Diese wurden David in Hebron geboren.
+3	6	Und es geschah, solange der Krieg zwischen dem Haus Saul und dem Haus David war, da zeigte sich Abner stark im Haus Saul.
+3	7	Und Saul hatte eine Nebenfrau, und ihr Name war Rizpa, die Tochter Ajas. Und er sagte zu Abner: «Warum bist du zur Nebenfrau meines Vaters eingegangen?»
+3	8	Da entbrannte Abner sehr über die Worte Isch-Boschets, und er sagte: «Bin ich ein Hundekopf, der zu Juda gehört? Heute übe ich Güte am Haus Sauls, deines Vaters, an seinen Brüdern und an seinem Vertrauten, und ich habe dich nicht in die Hand Davids geraten lassen; und heute suchst du an mir die Schuld wegen der Frau heim!
+3	9	So tue Gott Abner, und so füge er ihm hinzu: Wie der HERR David geschworen hat, so will ich ihm tun:
+3	10	das Königreich vom Haus Saul zu übertragen und den Thron Davids erstehen zu lassen über Israel und über Juda, von Dan bis Beerscheba.»
+3	11	Und er konnte Abner kein Wort mehr zurückbringen, aus Furcht vor ihm.
+3	12	Und Abner sandte an seiner Stelle Boten zu David und liess sagen: «Wem gehört das Land?» Und er liess sagen: «Schliess deinen Bund mit mir, und siehe, meine Hand ist mit dir, um ganz Israel dir zuzuwenden.»
+3	13	Und er sagte: «Gut, ich will einen Bund mit dir schliessen. Nur ein Wort erbitte ich von dir: Du sollst mein Angesicht nicht sehen, es sei denn, du bringst zuvor Michal, die Tochter Sauls, wenn du kommst, um mein Angesicht zu sehen.»
+3	14	Und David sandte Boten zu Isch-Boschet, dem Sohn Sauls, und liess sagen: «Gib meine Frau heraus, Michal, mit der ich verlobt bin um hundert Vorhäute der Philister.»
+3	15	Da sandte Isch-Boschet hin und holte sie vom Mann, von Paltiël, dem Sohn des Lajisch.
+3	16	Und ihr Mann ging mit ihr; er ging und weinte hinter ihr her bis Bahurim. Da sagte Abner zu ihm: «Geh, kehr um!» Und er kehrte um.
+3	17	Und Abner redete mit den Ältesten Israels und sagte: «Schon gestern und schon vorgestern habt ihr David als König über euch gesucht.
+3	18	Und nun, tut es! Denn der HERR hat zu David gesagt: ‹Durch die Hand Davids, meines Knechtes, will ich mein Volk Israel retten aus der Hand der Philister und aus der Hand all ihrer Feinde.›»
+3	19	Und auch Abner redete vor den Ohren Benjamins. Und auch Abner ging hin, um vor den Ohren Davids in Hebron alles zu reden, was gut war in den Augen Israels und in den Augen des ganzen Hauses Benjamin.
+3	20	Und Abner kam zu David nach Hebron, und mit ihm zwanzig Männer; und David machte Abner und den Männern, die bei ihm waren, ein Mahl.
+3	21	Und Abner sagte zu David: «Ich will aufstehen und gehen und ganz Israel zu meinem Herrn, dem König, versammeln, dass sie einen Bund mit dir schliessen und du König bist über alles, was deine Seele begehrt.» Und David liess Abner ziehen, und er ging in Frieden.
+3	22	Und siehe, die Knechte Davids und Joab kamen von der Rotte, und viel Beute brachten sie mit sich. Abner aber war nicht mehr bei David in Hebron; denn er hatte ihn ziehen lassen, und er war in Frieden gegangen.
+3	23	Und Joab und das ganze Heer, das bei ihm war, kamen. Und man sagte Joab: «Abner, der Sohn Ners, ist zum König gekommen, und er hat ihn ziehen lassen, und er ist in Frieden gegangen.»
+3	24	Da kam Joab zum König und sagte: «Was hast du getan? Siehe, Abner ist zu dir gekommen! Warum denn hast du ihn ziehen lassen, und er ist gegangen?
+3	25	Du kennst Abner, den Sohn Ners: Um dich zu betören, ist er gekommen, und um dein Hinausgehen und dein Hineingehen zu kennen und alles zu wissen, was du tust.»
+3	26	Und Joab ging von David hinaus und sandte Boten hinter Abner her, und sie brachten ihn von der Zisterne Sira zurück; David aber wusste es nicht.
+3	27	Und Abner kehrte nach Hebron zurück. Da nahm Joab ihn beiseite, mitten ins Tor hinein, um vertraulich mit ihm zu reden; und er schlug ihn dort in die Weichen, und er starb, um des Blutes Asaëls, seines Bruders, willen.
+3	28	Und David hörte es danach und sagte: «Unschuldig bin ich und mein Königreich vor dem HERRN auf ewig am Blut Abners, des Sohnes Ners!
+3	29	Es wirble nieder auf das Haupt Joabs und auf das ganze Haus seines Vaters! Und nie soll im Haus Joabs aussterben einer, der den Fluss hat, und ein Aussätziger und einer, der die Spindel fasst, und einer, der durch das Schwert fällt, und einer, dem es an Brot fehlt!»
+3	30	Joab aber und Abischai, sein Bruder, hatten Abner getötet, weil er Asaël, ihren Bruder, bei Gibeon im Krieg zu Tode gebracht hatte.
+3	31	Und David sagte zu Joab und zu allem Volk, das bei ihm war: «Zerreisst eure Kleider und gürtet euch mit Sacktuch und wehklagt vor Abner!» Und der König David ging hinter dem Bett her.
+3	32	Und sie begruben Abner in Hebron. Und der König hob seine Stimme und weinte am Grab Abners, und das ganze Volk weinte.
+3	33	Und der König klagte über Abner und sagte: Sollte Abner sterben, wie ein Tor stirbt?
+3	34	Deine Hände waren nicht gebunden, deine Füsse nicht in Fesseln aus Erz gebracht; wie man fällt vor denen, die zum Unrecht gehören, bist du gefallen. Und das ganze Volk weinte wieder über ihn.
+3	35	Und das ganze Volk kam, um David Brot essen zu lassen, solange es noch Tag war. Aber David schwor und sagte: «So tue mir Gott, und so füge er hinzu: Nie koste ich Brot oder irgendetwas, bevor die Sonne untergeht!»
+3	36	Und das ganze Volk beachtete es, und es war gut in ihren Augen, wie alles, was der König tat, in den Augen des ganzen Volkes gut war.
+3	37	Und das ganze Volk und ganz Israel erkannten an jenem Tag, dass es nicht vom König ausgegangen war, Abner, den Sohn Ners, zu Tode zu bringen.
+3	38	Und der König sagte zu seinen Knechten: «Wisst ihr nicht, dass ein Herrscher und ein Grosser an diesem Tag in Israel gefallen ist?
+3	39	Ich aber bin heute zart und doch zum König gesalbt, und diese Männer, die Söhne der Zeruja, sind härter als ich. Der HERR erstatte dem, der das Böse tut, nach seinem Bösen!»
+4	1	Und der Sohn Sauls hörte, dass Abner in Hebron tot war; da wurden seine Hände schlaff, und ganz Israel erschrak.
+4	2	Und zwei Männer, Vorsteher über Rotten, hatte der Sohn Sauls; der Name des einen war Baana, und der Name des zweiten Rechab, die Söhne Rimmons, des Beerotiters, von den Kindern Benjamins. Denn auch Beerot wird zu Benjamin gerechnet.
+4	3	Und die Beerotiter flohen nach Gittajim und waren dort zu Gast bis zu diesem Tag.
+4	4	Und Jonatan, der Sohn Sauls, hatte einen Sohn, an den Füssen geschlagen. Fünf Jahre alt war er, als die Kunde von Saul und Jonatan aus Jesreel kam; da hob ihn seine Pflegerin auf und floh. Und es geschah, als sie hastete, um zu fliehen, da fiel er und wurde lahm. Und sein Name war Mefi-Boschet.
+4	5	Und die Söhne Rimmons, des Beerotiters, Rechab und Baana, gingen hin und kamen in der Hitze des Tages zum Haus Isch-Boschets; und er lag, wie man am Mittag liegt.
+4	6	Und sie kamen bis mitten ins Haus, wie Leute, die Weizen holen, und schlugen ihn in die Weichen; und Rechab und Baana, sein Bruder, kamen davon.
+4	7	Und sie kamen ins Haus, und er lag auf seinem Bett in der Kammer, in der er lag; und sie schlugen ihn und brachten ihn zu Tode und taten ihm das Haupt weg. Und sie nahmen sein Haupt und gingen den Weg der Steppe, die ganze Nacht.
+4	8	Und sie brachten das Haupt Isch-Boschets zu David nach Hebron und sagten zum König: «Siehe, das Haupt Isch-Boschets, des Sohnes Sauls, deines Feindes, der dein Leben suchte! Und der HERR hat meinem Herrn, dem König, an diesem Tag Rache gegeben an Saul und an seinen Nachkommen.»
+4	9	Da antwortete David Rechab und Baana, seinem Bruder, den Söhnen Rimmons, des Beerotiters, und sagte zu ihnen: «Der HERR lebt, der meine Seele aus aller Bedrängnis losgekauft hat:
+4	10	Den, der es mir sagte: ‹Siehe, Saul ist tot›, und der in seinen Augen wie einer war, der die Botschaft verkündet, den ergriff ich und tötete ihn in Ziklag — das war es, was ich ihm für die Botschaft gab.
+4	11	Wie viel mehr, wenn frevlerische Männer einen gerechten Mann in seinem Haus auf seinem Bett getötet haben! Und nun, sollte ich nicht sein Blut von eurer Hand fordern und euch von der Erde entfernen?»
+4	12	Und David gebot den jungen Menschen, und sie töteten sie und hieben ihnen die Hände und die Füsse ab und hängten sie am Teich in Hebron auf. Das Haupt Isch-Boschets aber nahmen sie und begruben es im Grab Abners in Hebron.
+5	1	Und alle Stämme Israels kamen zu David nach Hebron und sagten: «Siehe, wir sind dein Knochen und dein Fleisch.
+5	2	Schon gestern und schon vorgestern, als Saul König über uns war, warst du es, der Israel hinausführte und hineinbrachte. Und der HERR hat zu dir gesagt: ‹Du sollst mein Volk Israel weiden, und du sollst Herrscher über Israel werden.›»
+5	3	Und alle Ältesten Israels kamen zum König nach Hebron, und der König David schloss mit ihnen einen Bund in Hebron vor dem HERRN; und sie salbten David zum König über Israel.
+5	4	David war dreissig Jahre alt, als er König wurde; vierzig Jahre war er König.
+5	5	In Hebron war er König über Juda sieben Jahre und sechs Monate, und in Jerusalem war er König dreiunddreissig Jahre über ganz Israel und Juda.
+5	6	Und der König und seine Männer gingen nach Jerusalem, zum Jebusiter, dem Bewohner des Landes. Der sagte zu David: «Du wirst nicht hierher kommen; vielmehr werden die Blinden und die Lahmen dich abwehren!» Das bedeutete: «David wird nicht hierher kommen.»
+5	7	Und David nahm die Bergfeste Zion ein; das ist die Stadt Davids.
+5	8	Und David sagte an jenem Tag: «Jeder, der einen Jebusiter schlägt, der gelange an den Schacht — und die Lahmen und die Blinden, die Davids Seele hasst!» Darum sagt man: «Ein Blinder und ein Lahmer kommt nicht in das Haus.»
+5	9	Und David wohnte in der Bergfeste und nannte sie die Stadt Davids. Und David baute ringsum, vom Millo an nach innen.
+5	10	Und David wurde grösser und grösser, und der HERR, der Gott der Heerscharen, war mit ihm.
+5	11	Und Hiram, der König von Tyrus, sandte Boten zu David, dazu Zedernholz und Künstler in Holz und Künstler in Stein für die Wände; und sie bauten David ein Haus.
+5	12	Und David erkannte, dass der HERR ihn als König über Israel hatte feststehen lassen und dass er sein Königreich emporgehoben hatte um seines Volkes Israel willen.
+5	13	Und David nahm noch Nebenfrauen und Frauen aus Jerusalem, nachdem er aus Hebron gekommen war, und es wurden David noch Söhne und Töchter geboren.
+5	14	Und dies sind die Namen derer, die ihm in Jerusalem geboren wurden: Schammua und Schobab und Natan und Salomo
+5	15	und Jibhar und Elischua und Nefeg und Jafia
+5	16	und Elischama und Eljada und Elifelet.
+5	17	Und die Philister hörten, dass man David zum König über Israel gesalbt hatte, und alle Philister stiegen herauf, um David zu suchen. Und David hörte es und stieg hinab in die Bergfeste.
+5	18	Die Philister aber waren gekommen und machten sich breit im Tal der Rafaïter.
+5	19	Und David befragte den HERRN: «Soll ich gegen die Philister hinaufsteigen? Wirst du sie in meine Hand geben?» Und der HERR sagte zu David: «Steig hinauf! Denn ich gebe die Philister in deine Hand.»
+5	20	Und David kam nach Baal-Perazim, und David schlug sie dort und sagte: «Der HERR hat vor mir eine Bresche in meine Feinde geschlagen, wie Wasser eine Bresche schlägt.» Darum nannte man den Namen jenes Ortes Baal-Perazim.
+5	21	Und sie liessen dort ihre Götzen zurück, und David und seine Männer trugen sie weg.
+5	22	Und die Philister stiegen noch einmal herauf und machten sich breit im Tal der Rafaïter.
+5	23	Und David befragte den HERRN, und er sagte: «Du sollst nicht hinaufsteigen. Zieh herum, hinter sie, und komm an sie heran gegenüber den Bakabäumen.
+5	24	Und es soll geschehen: Wenn du das Geräusch eines Schreitens in den Häuptern der Bakabäume hörst, dann handle entschlossen; denn dann ist der HERR vor dir ausgezogen, um das Lager der Philister zu schlagen.»
+5	25	Und David tat so, wie der HERR ihm geboten hatte, und er schlug die Philister von Geba bis auf Geser zu.
+6	1	Und David versammelte noch einmal alle Auserlesenen in Israel, dreissigtausend.
+6	2	Und David stand auf und ging hin, und das ganze Volk, das bei ihm war, von Baale-Juda, um von dort die Lade Gottes hinaufzuholen, über der der Name ausgerufen ist, der Name des HERRN der Heerscharen, der auf den Keruben sitzt.
+6	3	Und sie setzten die Lade Gottes auf einen neuen Karren und trugen sie aus dem Haus Abinadabs, das auf dem Hügel ist; und Usa und Achjo, die Söhne Abinadabs, führten den neuen Karren.
+6	4	Und sie trugen sie aus dem Haus Abinadabs, das auf dem Hügel ist, mit der Lade Gottes; und Achjo ging vor der Lade her.
+6	5	Und David und das ganze Haus Israel spielten vor dem HERRN mit allerlei Zypressenholz und mit Leiern und mit Harfen und mit Pauken und mit Rasseln und mit Zimbeln.
+6	6	Und sie kamen bis zur Tenne Nachons. Da streckte sich Usa nach der Lade Gottes aus und ergriff sie; denn die Rinder waren ins Rutschen geraten.
+6	7	Da entbrannte der Zorn des HERRN gegen Usa, und Gott schlug ihn dort wegen der Nachlässigkeit; und er starb dort bei der Lade Gottes.
+6	8	Da entbrannte David, weil der HERR eine Bresche in Usa geschlagen hatte; und man nannte jenen Ort Perez-Usa, bis zu diesem Tag.
+6	9	Und David fürchtete den HERRN an jenem Tag und sagte: «Wie soll die Lade des HERRN zu mir kommen?»
+6	10	Und David wollte die Lade des HERRN nicht zu sich abbiegen lassen in die Stadt Davids; und David liess sie abbiegen in das Haus Obed-Edoms, des Gatiters.
+6	11	Und die Lade des HERRN blieb im Haus Obed-Edoms, des Gatiters, drei Monate; und der HERR segnete Obed-Edom und sein ganzes Haus.
+6	12	Und es wurde dem König David gesagt: «Der HERR hat das Haus Obed-Edoms gesegnet und alles, was ihm gehört, um der Lade Gottes willen.» Da ging David hin und holte die Lade Gottes aus dem Haus Obed-Edoms hinauf in die Stadt Davids, mit Freude.
+6	13	Und es geschah, als die, die die Lade des HERRN trugen, sechsmal geschritten waren, da brachte er einen Ochsen und ein Masttier als Schlachtopfer dar.
+6	14	Und David tanzte mit aller Stärke vor dem HERRN, und David war gegürtet mit einem leinenen Efod.
+6	15	Und David und das ganze Haus Israel holten die Lade des HERRN hinauf mit Jubelschall und mit der Stimme des Widderhorns.
+6	16	Und es geschah, als die Lade des HERRN in die Stadt Davids kam, da blickte Michal, die Tochter Sauls, durch das Fenster herab und sah den König David, wie er gelenkig vor dem HERRN tanzte; und sie verachtete ihn in ihrem Herzen.
+6	17	Und sie brachten die Lade des HERRN hinein und stellten sie an ihrem Ort auf, inmitten des Zeltes, das David für sie aufgespannt hatte. Und David liess Brandopfer vor dem HERRN aufsteigen, und Friedensopfer.
+6	18	Und als David damit zu Ende war, das Brandopfer und die Friedensopfer aufsteigen zu lassen, segnete er das Volk im Namen des HERRN der Heerscharen.
+6	19	Und er verteilte an das ganze Volk, an das ganze Getümmel Israels, vom Mann bis zur Frau, an jeden ein Ringbrot und einen Dattelkuchen und einen Rosinenkuchen. Und das ganze Volk ging weg, jeder zu seinem Haus.
+6	20	Und David kehrte zurück, um sein Haus zu segnen. Und Michal, die Tochter Sauls, ging hinaus, David entgegen, und sagte: «Wie geehrt war heute der König Israels, der sich heute vor den Augen der Mägde seiner Knechte aufgedeckt hat, wie sich einer von den Leeren aufdeckt!»
+6	21	Und David sagte zu Michal: «Vor dem HERRN, der mich erwählt hat vor deinem Vater und vor seinem ganzen Haus, um mir zu gebieten, Herrscher zu sein über das Volk des HERRN, über Israel — vor dem HERRN will ich spielen!
+6	22	Und ich will noch weniger gelten als dies, und ich will niedrig sein in meinen Augen; aber bei den Mägden, von denen du gesagt hast — bei ihnen will ich geehrt sein.»
+6	23	Und Michal, die Tochter Sauls, hatte kein Kind bis zum Tag ihres Todes.
+7	1	Und es geschah, als der König in seinem Haus wohnte und der HERR ihn zur Ruhe gebracht hatte ringsum vor all seinen Feinden,
+7	2	da sagte der König zu Natan, dem Propheten: «Sieh doch: Ich wohne in einem Haus aus Zedern, und die Lade Gottes wohnt inmitten der Zeltbahn.»
+7	3	Und Natan sagte zu dem König: «Alles, was in deinem Herzen ist, geh, tu es; denn der HERR ist mit dir.»
+7	4	Und es geschah in jener Nacht, da erging das Wort des HERRN an Natan:
+7	5	«Geh und sag zu meinem Knecht, zu David: So spricht der HERR: Willst du mir ein Haus bauen, damit ich darin wohne?
+7	6	Denn ich habe nicht in einem Haus gewohnt vom Tag an, da ich die Kinder Israels aus Ägypten heraufholte, bis zu diesem Tag, und ich bin umhergegangen in einem Zelt und in einer Wohnung.
+7	7	Wo ich auch umhergegangen bin unter allen Kindern Israels — habe ich mit einem der Stämme Israels, dem ich geboten habe, mein Volk, Israel, zu weiden, ein Wort geredet: ‹Warum habt ihr mir kein Haus aus Zedern gebaut?› «
+7	8	Und nun sollst du so zu meinem Knecht, zu David, sagen: So spricht der HERR der Heerscharen: Ich habe dich vom Weidegrund genommen, hinter den Schafen weg, um Herrscher zu sein über mein Volk, über Israel.
+7	9	Und ich war mit dir, wohin du auch gegangen bist, und habe alle deine Feinde vor dir ausgerottet. Und ich will dir einen grossen Namen machen wie den Namen der Grossen, die auf der Erde sind.
+7	10	Und ich will für mein Volk, für Israel, einen Ort festlegen und es pflanzen, und es wird an seiner Stelle wohnen und sich nicht mehr erregen; und die zum Unrecht gehören, sollen es nicht wieder beugen wie früher
+7	11	und seit dem Tag, an dem ich Richtern über mein Volk Israel gebot. Und ich will dich zur Ruhe bringen vor all deinen Feinden. Und der HERR kündet dir, dass der HERR dir ein Haus machen wird. «
+7	12	Wenn deine Tage voll werden und du dich zu deinen Vätern legst, dann will ich deinen Nachkommen nach dir erstehen lassen, der aus deinem Leib herauskommen wird, und will sein Königreich feststehen lassen.
+7	13	Er wird ein Haus bauen für meinen Namen, und ich will den Thron seines Königreichs feststehen lassen auf ewig.
+7	14	Ich werde ihm Vater sein, und er wird mir Sohn sein. Wenn er Schuld begeht, will ich ihn zurechtweisen mit dem Stab von Menschen und mit den Plagen der Menschenkinder.
+7	15	Aber meine Güte soll nicht von ihm weichen, wie ich sie von Saul habe weichen lassen, den ich vor dir habe weichen lassen.
+7	16	Und dein Haus und dein Königreich sollen Bestand haben auf ewig vor dir; dein Thron wird feststehen auf ewig.»
+7	17	Nach all diesen Worten und nach dieser ganzen Schauung, so redete Natan zu David.
+7	18	Da kam der König David und setzte sich vor den HERRN und sagte: «Wer bin ich, Herr, HERR, und wer ist mein Haus, dass du mich bis hierher gebracht hast?
+7	19	Und noch war dies zu klein in deinen Augen, Herr, HERR, und du hast auch über das Haus deines Knechtes geredet auf ferne Zeit hin; und das ist die Weisung für den Menschen, Herr, HERR!
+7	20	Und was soll David noch weiter zu dir reden? Du aber kennst deinen Knecht, Herr, HERR.
+7	21	Um deines Wortes willen und nach deinem Herzen hast du all diese Grösse getan, um sie deinem Knecht kundzutun. «
+7	22	Darum bist du gross, Herr, HERR; denn keiner ist wie du, und es gibt keinen Gott ausser dir, nach allem, was wir mit unseren Ohren gehört haben.
+7	23	Und wer ist wie dein Volk, wie Israel, das eine Volk auf der Erde, das Gott hinging, sich als Volk loszukaufen und sich einen Namen zu machen und für euch die Grösse zu tun und Furchtgebietendes für dein Land, vor deinem Volk, das du dir aus Ägypten losgekauft hast — Völker und seine Götter?
+7	24	Und du hast dir dein Volk Israel feststehen lassen, für dich als Volk auf ewig, und du, HERR, bist ihnen Gott geworden. «
+7	25	Und nun, HERR Gott: Das Wort, das du über deinen Knecht und über sein Haus geredet hast, lass bestehen auf ewig, und tu, wie du geredet hast.
+7	26	Und gross werde dein Name auf ewig, dass man sagt: ‹Der HERR der Heerscharen ist Gott über Israel!› Und das Haus deines Knechtes David soll vor dir feststehen.
+7	27	Denn du, HERR der Heerscharen, Gott Israels, hast das Ohr deines Knechtes aufgedeckt: ‹Ein Haus will ich dir bauen.› Darum hat dein Knecht sein Herz gefunden, dieses Gebet zu dir zu beten.
+7	28	Und nun, Herr, HERR, du bist Gott, und deine Worte sind Wahrheit, und du hast zu deinem Knecht dieses Gute geredet.
+7	29	Und nun entschliesse dich und segne das Haus deines Knechtes, dass es für immer vor dir sei; denn du, Herr, HERR, hast geredet, und von deinem Segen wird das Haus deines Knechtes gesegnet sein für immer.»
+8	1	Und es geschah danach, da schlug David die Philister und beugte sie, und David nahm Meteg-Amma aus der Hand der Philister.
+8	2	Und er schlug Moab und mass sie mit der Messschnur aus, indem er sie sich auf die Erde hinlegen liess; und er mass zwei Messschnüre aus, um zu Tode zu bringen, und eine volle Messschnur, um am Leben zu erhalten. Und Moab wurde David zu Sklaven, die Gaben trugen.
+8	3	Und David schlug Hadad-Eser, den Sohn Rehobs, den König von Zoba, als er hinging, um seine Hand an den Strom Eufrat zurückzubringen.
+8	4	Und David fing von ihm tausendsiebenhundert Reiter und zwanzigtausend Mann zu Fuss. Und David hieb allen Wagenrossen die Flechsen durch; hundert Wagen aber liess er davon übrig.
+8	5	Und Aram-Damaskus kam, um Hadad-Eser, dem König von Zoba, zu helfen; und David schlug unter Aram zweiundzwanzigtausend Mann.
+8	6	Und David legte Besatzungen in Aram-Damaskus, und Aram wurde David zu Sklaven, die Gaben trugen. Und der HERR rettete David, wohin er auch ging.
+8	7	Und David nahm die Pfeiltaschen aus Gold, die an den Knechten Hadad-Esers waren, und brachte sie nach Jerusalem.
+8	8	Und aus Betach und aus Berotai, den Städten Hadad-Esers, nahm der König David sehr viel Erz.
+8	9	Und Toï, der König von Hamat, hörte, dass David das ganze Heer Hadad-Esers geschlagen hatte.
+8	10	Da sandte Toï Joram, seinen Sohn, zum König David, um ihn nach seinem Frieden zu fragen und ihn zu segnen dafür, dass er gegen Hadad-Eser gekämpft und ihn geschlagen hatte; denn Hadad-Eser war ein Mann der Kriege Toïs gewesen. Und in seiner Hand waren Gefässe aus Silber und Gefässe aus Gold und Gefässe aus Erz.
+8	11	Auch sie weihte der König David dem HERRN, samt dem Silber und dem Gold, das er geweiht hatte von allen Völkern, die er unterworfen hatte:
+8	12	von Aram und von Moab und von den Kindern Ammons und von den Philistern und von Amalek und von der Beute Hadad-Esers, des Sohnes Rehobs, des Königs von Zoba.
+8	13	Und David machte sich einen Namen, als er vom Schlagen Arams im Salztal zurückkehrte, achtzehntausend.
+8	14	Und er legte Besatzungen in Edom; in ganz Edom legte er Besatzungen, und ganz Edom wurde David zu Sklaven. Und der HERR rettete David, wohin er auch ging.
+8	15	Und David war König über ganz Israel, und David schaffte Recht und Gerechtigkeit für sein ganzes Volk.
+8	16	Und Joab, der Sohn der Zeruja, war über dem Heer, und Joschafat, der Sohn Ahiluds, war Kanzler,
+8	17	und Zadok, der Sohn Ahitubs, und Ahimelech, der Sohn Abjatars, waren Priester, und Seraja war Schreiber,
+8	18	und Benaja, der Sohn Jojadas, und die Kreter und die Pleter; und die Söhne Davids waren Priester.
+9	1	Und David sagte: «Gibt es denn noch jemanden, der übrig geblieben ist vom Haus Sauls, damit ich Güte an ihm übe um Jonatans willen?»
+9	2	Und das Haus Sauls hatte einen Knecht, und sein Name war Ziba; und man rief ihn zu David. Und der König sagte zu ihm: «Bist du Ziba?» Und er sagte: «Dein Knecht.»
+9	3	Und der König sagte: «Ist keiner mehr da vom Haus Sauls, damit ich die Güte Gottes an ihm übe?» Und Ziba sagte zum König: «Es ist noch ein Sohn Jonatans da, an den Füssen geschlagen.»
+9	4	Und der König sagte zu ihm: «Wo ist er?» Und Ziba sagte zum König: «Siehe, er ist im Haus Machirs, des Sohnes Ammiëls, in Lo-Dabar.»
+9	5	Da sandte der König David hin und holte ihn aus dem Haus Machirs, des Sohnes Ammiëls, aus Lo-Dabar.
+9	6	Und Mefi-Boschet, der Sohn Jonatans, des Sohnes Sauls, kam zu David und fiel auf sein Angesicht und warf sich nieder. Und David sagte: «Mefi-Boschet!» Und er sagte: «Siehe, dein Knecht.»
+9	7	Und David sagte zu ihm: «Fürchte dich nicht! Denn ich will Güte an dir üben um Jonatans, deines Vaters, willen, und ich will dir alle Felder Sauls, deines Vaters, zurückgeben; du aber sollst beständig Brot essen an meinem Tisch.»
+9	8	Da warf er sich nieder und sagte: «Was ist dein Knecht, dass du dich einem toten Hund zugewandt hast, wie ich einer bin?»
+9	9	Da rief der König Ziba, den jungen Menschen Sauls, und sagte zu ihm: «Alles, was Saul und seinem ganzen Haus gehörte, habe ich dem Sohn deines Herrn gegeben.
+9	10	Und du sollst ihm den Boden bearbeiten, du und deine Söhne und deine Knechte, und du sollst einbringen, damit der Sohn deines Herrn Brot hat und es isst. Mefi-Boschet aber, der Sohn deines Herrn, soll beständig Brot essen an meinem Tisch.» Und Ziba hatte fünfzehn Söhne und zwanzig Knechte.
+9	11	Und Ziba sagte zum König: «Nach allem, was mein Herr, der König, seinem Knecht gebietet, so wird dein Knecht tun.» «Und Mefi-Boschet isst an meinem Tisch wie einer von den Söhnen des Königs.»
+9	12	Und Mefi-Boschet hatte einen kleinen Sohn, und sein Name war Micha. Und alle, die im Haus Zibas wohnten, waren Knechte Mefi-Boschets.
+9	13	Und Mefi-Boschet wohnte in Jerusalem; denn am Tisch des Königs ass er beständig. Und er war lahm an seinen beiden Füssen.
+10	1	Und es geschah danach, da starb der König der Kinder Ammons, und Hanun, sein Sohn, wurde König an seiner Stelle.
+10	2	Und David sagte: «Ich will Güte an Hanun, dem Sohn des Nahasch, üben, wie sein Vater Güte an mir geübt hat.» Und David sandte hin, um ihn durch seine Knechte über seinen Vater zu trösten; und die Knechte Davids kamen in das Land der Kinder Ammons.
+10	3	Da sagten die Herrscher der Kinder Ammons zu Hanun, ihrem Herrn: «Ehrt David deinen Vater in deinen Augen, weil er dir Tröster gesandt hat? Hat David nicht seine Knechte zu dir gesandt, um die Stadt zu erforschen und sie auszukundschaften und sie umzustürzen?»
+10	4	Da nahm Hanun die Knechte Davids und rasierte die Hälfte ihres Bartes ab und schnitt ihre Überwürfe zur Hälfte ab, bis an ihr Gesäss, und liess sie ziehen.
+10	5	Und man sagte es David, und er sandte ihnen entgegen; denn die Männer waren sehr in Schande. Und der König sagte: «Bleibt in Jericho, bis euer Bart gesprosst ist, und dann kehrt zurück!»
+10	6	Und die Kinder Ammons sahen, dass sie sich bei David stinkend gemacht hatten. Da sandten die Kinder Ammons hin und warben Aram-Bet-Rehob und Aram-Zoba an, zwanzigtausend Mann zu Fuss, und den König von Maacha, tausend Mann, und die Männer von Tob, zwölftausend Mann.
+10	7	Und David hörte es und sandte Joab und das ganze Heer, die Helden.
+10	8	Und die Kinder Ammons zogen aus und ordneten sich zum Krieg am Eingang des Tores; Aram-Zoba aber und Rehob und die Männer von Tob und Maacha waren allein auf dem Feld.
+10	9	Und Joab sah, dass das Angesicht des Krieges gegen ihn war, von vorn und von hinten. Da erwählte er aus allen Auserlesenen Israels und ordnete sich Aram entgegen.
+10	10	Den Rest des Volkes aber gab er in die Hand Abischais, seines Bruders, und er ordnete sich den Kindern Ammons entgegen.
+10	11	Und er sagte: «Wenn Aram mir zu stark wird, so sollst du mir zur Rettung werden; und wenn die Kinder Ammons dir zu stark werden, so will ich hingehen, dich zu retten.
+10	12	Sei stark, und zeigen wir uns stark für unser Volk und für die Städte unseres Gottes! Und der HERR tue, was gut ist in seinen Augen!»
+10	13	Und Joab kam heran, und das Volk, das bei ihm war, zum Krieg gegen Aram; und sie flohen vor ihm.
+10	14	Und als die Kinder Ammons sahen, dass Aram floh, flohen sie vor Abischai und kamen in die Stadt. Und Joab kehrte von den Kindern Ammons zurück und kam nach Jerusalem.
+10	15	Und als Aram sah, dass es vor Israel niedergestreckt war, versammelten sie sich miteinander.
+10	16	Und Hadad-Eser sandte hin und führte Aram hinaus, das jenseits des Stroms war; und sie kamen nach Helam, und Schobach, der Heerführer Hadad-Esers, war vor ihnen.
+10	17	Und es wurde David gesagt. Da versammelte er ganz Israel und überschritt den Jordan und kam nach Helam. Und Aram ordnete sich David entgegen, und sie kämpften mit ihm.
+10	18	Und Aram floh vor Israel, und David tötete von Aram siebenhundert Wagen und vierzigtausend Reiter; und Schobach, seinen Heerführer, schlug er, und er starb dort.
+10	19	Und alle Könige, die Knechte Hadad-Esers, sahen, dass sie vor Israel niedergestreckt waren; und sie schlossen Frieden mit Israel und dienten ihnen. Und Aram fürchtete sich, die Kinder Ammons noch einmal zu retten.
+11	1	Und es geschah zur Wende des Jahres, zur Zeit, da die Könige ausziehen, da sandte David Joab und seine Knechte mit ihm und ganz Israel; und sie verderbten die Kinder Ammons und belagerten Rabba. David aber blieb in Jerusalem.
+11	2	Und es geschah zur Zeit des Abends, da stand David von seinem Bett auf und ging auf dem Dach des Hauses des Königs umher; und er sah vom Dach aus eine Frau, die badete; und die Frau war sehr gut anzusehen.
+11	3	Und David sandte hin und fragte nach der Frau; und man sagte: «Ist das nicht Batseba, die Tochter Eliams, die Frau Urijas, des Hetiters?»
+11	4	Und David sandte Boten und nahm sie, und sie kam zu ihm, und er legte sich zu ihr — sie hatte sich von ihrer Unreinheit geheiligt —; und sie kehrte in ihr Haus zurück.
+11	5	Und die Frau empfing. Da sandte sie hin und liess es David sagen; sie sagte: «Ich bin schwanger.»
+11	6	Da sandte David zu Joab: «Sende mir Urija, den Hetiter!» Und Joab sandte Urija zu David.
+11	7	Und Urija kam zu ihm, und David fragte nach dem Frieden Joabs und nach dem Frieden des Volkes und nach dem Frieden des Krieges.
+11	8	Und David sagte zu Urija: «Steig hinab in dein Haus und wasch deine Füsse!» Und Urija ging hinaus aus dem Haus des Königs, und hinter ihm her ging eine Portion des Königs hinaus.
+11	9	Aber Urija legte sich am Eingang des Hauses des Königs hin, bei allen Knechten seines Herrn, und stieg nicht hinab in sein Haus.
+11	10	Und man sagte es David: «Urija ist nicht in sein Haus hinabgestiegen.» Da sagte David zu Urija: «Kommst du nicht von einem Weg? Warum bist du nicht in dein Haus hinabgestiegen?»
+11	11	Da sagte Urija zu David: «Die Lade und Israel und Juda wohnen in Hütten, und mein Herr Joab und die Knechte meines Herrn lagern auf dem Angesicht des Feldes — und ich soll in mein Haus kommen, um zu essen und zu trinken und mich zu meiner Frau zu legen? Bei deinem Leben, und beim Leben deiner Seele: Nie tue ich das!»
+11	12	Da sagte David zu Urija: «Bleib auch heute hier, und morgen will ich dich ziehen lassen.» So blieb Urija in Jerusalem an jenem Tag und am nächsten Tag.
+11	13	Und David rief ihn, und er ass vor ihm und trank, und er machte ihn betrunken. Und am Abend ging er hinaus, um sich auf seinem Bett hinzulegen bei den Knechten seines Herrn; aber in sein Haus stieg er nicht hinab.
+11	14	Und es geschah am Morgen, da schrieb David ein Schreiben an Joab und sandte es durch die Hand Urijas.
+11	15	Und er schrieb in dem Schreiben: «Stellt Urija nach vorn, an die Vorderseite, wo der Krieg stark ist, und kehrt um, fort von ihm, dass er geschlagen wird und stirbt!»
+11	16	Und es geschah, als Joab auf die Stadt achtete, da stellte er Urija an den Ort, von dem er wusste, dass dort tüchtige Männer waren.
+11	17	Und die Männer der Stadt zogen aus und kämpften gegen Joab, und es fielen einige vom Volk, von den Knechten Davids; und auch Urija, der Hetiter, starb.
+11	18	Und Joab sandte hin und liess David alles vom Krieg sagen.
+11	19	Und er gebot dem Boten: «Wenn du damit zu Ende bist, dem König alles vom Krieg zu reden,
+11	20	und es geschieht, dass der Grimm des Königs aufsteigt und er zu dir sagt: ‹Warum seid ihr an die Stadt herangekommen, um zu kämpfen? Wusstet ihr nicht, dass sie von der Mauer herab schiessen?
+11	21	Wer hat Abimelech, den Sohn Jerubbeschets, geschlagen? Hat nicht eine Frau die Scheibe eines oberen Mühlsteins auf ihn geworfen, von der Mauer herab, dass er in Tebez starb? Warum seid ihr an die Mauer herangekommen?›, dann sollst du sagen: ‹Auch dein Knecht Urija, der Hetiter, ist tot.›»
+11	22	Und der Bote ging hin, und er kam und sagte David alles, wozu Joab ihn gesandt hatte.
+11	23	Und der Bote sagte zu David: «Die Männer wurden mächtig über uns und zogen zu uns heraus ins Feld; da waren wir über ihnen bis an den Eingang des Tores.
+11	24	Da schossen die Schiessenden von der Mauer herab auf deine Knechte, und es starben einige von den Knechten des Königs; und auch dein Knecht Urija, der Hetiter, ist tot.»
+11	25	Da sagte David zu dem Boten: «So sollst du zu Joab sagen: ‹Dies sei kein Übel in deinen Augen; denn bald so, bald so frisst das Schwert. Verstärke deinen Krieg gegen die Stadt und brich sie ab!› Und mach ihn stark!»
+11	26	Und die Frau Urijas hörte, dass Urija, ihr Mann, tot war, und sie wehklagte über ihren Ehemann.
+11	27	Und als die Trauer vorübergegangen war, sandte David hin und nahm sie zu sich in sein Haus, und sie wurde ihm zur Frau und gebar ihm einen Sohn. Aber was David getan hatte, war ein Übel in den Augen des HERRN.
+12	1	Und der HERR sandte Natan zu David. Und er kam zu ihm und sagte zu ihm: «Zwei Männer waren in einer Stadt, der eine reich und der andere darbend.
+12	2	Der Reiche hatte sehr viele Schafe und Rinder.
+12	3	Der Darbende aber hatte gar nichts als nur ein kleines Lamm, das er erworben hatte; und er erhielt es am Leben, und es wurde gross bei ihm und bei seinen Kindern zusammen. Von seinem Bissen ass es, und aus seinem Becher trank es, und in seinem Schoss lag es, und es war ihm wie eine Tochter.
+12	4	Da kam ein Reisender zu dem reichen Mann; und er hatte Mitleid, von seinen Schafen und von seinen Rindern zu nehmen, um es dem Wanderer zuzubereiten, der zu ihm gekommen war. Und er nahm das Lamm des darbenden Mannes und bereitete es dem Mann zu, der zu ihm gekommen war.»
+12	5	Da entbrannte der Zorn Davids sehr gegen den Mann, und er sagte zu Natan: «Der HERR lebt: Der Mann, der dies getan hat, ist dem Tod geweiht!
+12	6	Und das Lamm soll er vierfach erstatten, dafür, dass er dies getan hat, und weil er kein Mitleid hatte.»
+12	7	Da sagte Natan zu David: «Du bist der Mann! So spricht der HERR, der Gott Israels: Ich habe dich zum König über Israel gesalbt, und ich habe dich aus der Hand Sauls befreit.
+12	8	Und ich habe dir das Haus deines Herrn gegeben und die Frauen deines Herrn in deinen Schoss, und ich habe dir das Haus Israel und Juda gegeben; und wenn das zu wenig war, so hätte ich dir noch dies und jenes hinzugefügt.
+12	9	Warum hast du das Wort des HERRN verachtet, das Böse zu tun in meinen Augen? Urija, den Hetiter, hast du mit dem Schwert geschlagen, und seine Frau hast du dir zur Frau genommen; ihn aber hast du getötet durch das Schwert der Kinder Ammons.
+12	10	Und nun soll das Schwert nicht weichen von deinem Haus auf ewig, dafür, dass du mich verachtet und die Frau Urijas, des Hetiters, genommen hast, dass sie deine Frau sei. «
+12	11	So spricht der HERR: Siehe, ich lasse gegen dich Böses erstehen aus deinem Haus, und ich nehme deine Frauen vor deinen Augen und gebe sie deinem Nächsten, und er wird sich zu deinen Frauen legen vor den Augen dieser Sonne.
+12	12	Denn du hast es im Verborgenen getan; ich aber will dies tun vor ganz Israel und vor der Sonne.»
+12	13	Da sagte David zu Natan: «Ich habe gegen den HERRN gesündigt.» Und Natan sagte zu David: «Auch hat der HERR deine Sünde vorübergehen lassen; du wirst nicht sterben.
+12	14	Nur: Weil du damit die Feinde des HERRN verschmäht hast, wird auch der Sohn, der dir geboren ist, sterben.»
+12	15	Und Natan ging zu seinem Haus. Da streckte der HERR den Knaben nieder, den die Frau Urijas David geboren hatte, und er wurde unheilbar krank.
+12	16	Und David suchte Gott für den Knaben, und David fastete, und er kam herein und übernachtete und lag auf der Erde.
+12	17	Und die Ältesten seines Hauses traten zu ihm, um ihn von der Erde aufstehen zu lassen; aber er wollte nicht, und er ass kein Brot mit ihnen.
+12	18	Und es geschah am siebten Tag, da starb der Knabe. Und die Knechte Davids fürchteten sich, ihm zu sagen, dass der Knabe tot war; denn sie sagten: «Siehe, als der Knabe noch lebte, haben wir zu ihm geredet, und er hat nicht auf unsere Stimme gehört. Und wie sollen wir zu ihm sagen: ‹Der Knabe ist tot›? Er wird Böses tun!»
+12	19	Und David sah, dass seine Knechte miteinander flüsterten, und David verstand, dass der Knabe tot war. Und David sagte zu seinen Knechten: «Ist der Knabe tot?» Und sie sagten: «Er ist tot.»
+12	20	Da stand David von der Erde auf und badete sich und salbte sich und tauschte seine Umhänge aus und kam in das Haus des HERRN und warf sich nieder. Und er kam in sein Haus und erbat sich Brot, und man setzte es ihm vor, und er ass.
+12	21	Da sagten seine Knechte zu ihm: «Was ist das, was du getan hast? Um des Knaben willen hast du gefastet und geweint, als er lebte; und als der Knabe tot war, bist du aufgestanden und hast Brot gegessen.»
+12	22	Und er sagte: «Als der Knabe noch lebte, habe ich gefastet und geweint; denn ich sagte: ‹Wer weiss, vielleicht ist der HERR mir gnädig, und der Knabe bleibt am Leben.›
+12	23	Und nun ist er tot — warum soll ich da fasten? Kann ich ihn noch zurückkehren lassen? Ich gehe zu ihm, aber er kehrt nicht zu mir zurück.»
+12	24	Und David tröstete Batseba, seine Frau, und er kam zu ihr und legte sich zu ihr; und sie gebar einen Sohn, und sie nannte seinen Namen Salomo. Und der HERR liebte ihn
+12	25	und sandte durch die Hand Natans, des Propheten, und er nannte seinen Namen Jedidja, um des HERRN willen.
+12	26	Und Joab kämpfte gegen Rabba der Kinder Ammons und nahm die Stadt des Königtums ein.
+12	27	Und Joab sandte Boten zu David und sagte: «Ich habe gegen Rabba gekämpft; auch habe ich die Stadt des Wassers eingenommen.
+12	28	Und nun versammle den Rest des Volkes und lagere gegen die Stadt und nimm sie ein, damit nicht ich die Stadt einnehme und mein Name über ihr ausgerufen wird.»
+12	29	Da versammelte David das ganze Volk und ging nach Rabba und kämpfte gegen sie und nahm sie ein.
+12	30	Und er nahm die Krone ihres Königs von seinem Haupt, und ihr Gewicht war ein Talent Gold, dazu ein kostbarer Stein; und sie kam auf das Haupt Davids. Und die Beute der Stadt brachte er heraus, sehr viel.
+12	31	Und das Volk, das darin war, führte er heraus; und er setzte sie an die Säge und an die eisernen Pickel und an die eisernen Hippen, und er liess sie durch die Ziegelform gehen. Und so tat er an allen Städten der Kinder Ammons. Und David und das ganze Volk kehrten nach Jerusalem zurück.
+13	1	Und es geschah danach: Abschalom, der Sohn Davids, hatte eine schöne Schwester, und ihr Name war Tamar; und Amnon, der Sohn Davids, liebte sie.
+13	2	Und Amnon war bedrängt, bis er krank wurde um Tamars, seiner Schwester, willen; denn sie war eine Jungfrau, und es war in den Augen Amnons zu wunderbar, ihr irgendetwas zu tun.
+13	3	Und Amnon hatte einen Freund, und sein Name war Jonadab, der Sohn Schimas, des Bruders Davids; und Jonadab war ein sehr weiser Mann.
+13	4	Und er sagte zu ihm: «Warum bist du so gering, Sohn des Königs, Morgen für Morgen? Willst du es mir nicht sagen?» Und Amnon sagte zu ihm: «Tamar, die Schwester Abschaloms, meines Bruders, liebe ich.»
+13	5	Und Jonadab sagte zu ihm: «Leg dich auf dein Bett und stell dich krank. Und kommt dein Vater, um dich zu sehen, so sag zu ihm: ‹Tamar, meine Schwester, komme doch und lasse mich Brot essen; und sie bereite vor meinen Augen die Speise zu, damit ich es sehe und aus ihrer Hand esse.›»
+13	6	Und Amnon legte sich hin und stellte sich krank. Und der König kam, um ihn zu sehen, und Amnon sagte zum König: «Tamar, meine Schwester, komme doch und mache vor meinen Augen zwei Herzkuchen, damit ich aus ihrer Hand esse.»
+13	7	Da sandte David zu Tamar ins Haus und liess sagen: «Geh doch in das Haus Amnons, deines Bruders, und bereite ihm die Speise zu!»
+13	8	Und Tamar ging in das Haus Amnons, ihres Bruders; er aber lag da. Und sie nahm den Teig und knetete ihn und machte vor seinen Augen Herzkuchen und kochte die Herzkuchen.
+13	9	Und sie nahm die Backpfanne und goss sie vor ihm aus; er aber wollte nicht essen. Und Amnon sagte: «Führt jeden hinaus, weg von mir!» Und jeder ging von ihm hinaus.
+13	10	Und Amnon sagte zu Tamar: «Bring die Speise in die Kammer, damit ich aus deiner Hand esse.» Und Tamar nahm die Herzkuchen, die sie gemacht hatte, und brachte sie Amnon, ihrem Bruder, in die Kammer.
+13	11	Und sie brachte sie ihm heran, damit er esse. Da fasste er sie und sagte zu ihr: «Komm, leg dich zu mir, meine Schwester!»
+13	12	Und sie sagte zu ihm: «Nicht doch, mein Bruder, vergewaltige mich nicht! Denn so wird es nicht getan in Israel. Tu nicht diese Untat!
+13	13	Und ich — wohin sollte ich meine Schmach mitnehmen? Und du — du wirst wie einer der Toren in Israel sein. Und nun rede doch zum König; denn er wird mich dir nicht verweigern.»
+13	14	Er aber wollte nicht auf ihre Stimme hören; und er war stärker als sie, und er vergewaltigte sie und legte sich zu ihr.
+13	15	Da hasste Amnon sie mit einem sehr grossen Hass; denn grösser war der Hass, mit dem er sie hasste, als die Liebe, mit der er sie geliebt hatte. Und Amnon sagte zu ihr: «Steh auf, geh!»
+13	16	Und sie sagte zu ihm: «Nicht doch! Dieses grosse Böse, mich fortzusenden, ist grösser als das andere, das du mit mir getan hast!» Er aber wollte nicht auf sie hören.
+13	17	Und er rief seinen jungen Menschen, der ihm Dienst tat, und sagte: «Sendet doch diese da fort von mir, nach draussen, und verriegle die Tür hinter ihr!»
+13	18	Sie aber hatte ein langes Untergewand mit Ärmeln an; denn so zogen sich die Töchter des Königs, die Jungfrauen, an: mit Oberkleidern. Und der ihm Dienst tat, führte sie hinaus, nach draussen, und verriegelte die Tür hinter ihr.
+13	19	Da nahm Tamar Asche auf ihr Haupt, und das lange Untergewand mit Ärmeln, das sie anhatte, zerriss sie; und sie legte ihre Hand auf ihr Haupt und ging und schrie.
+13	20	Und Abschalom, ihr Bruder, sagte zu ihr: «Ist Aminon, dein Bruder, bei dir gewesen? Und nun, meine Schwester, schweig! Er ist dein Bruder. Setze dein Herz nicht darauf!» Und Tamar blieb, erstarrt, im Haus Abschaloms, ihres Bruders.
+13	21	Und der König David hörte alle diese Worte, und er entbrannte sehr.
+13	22	Und Abschalom redete mit Amnon nicht, vom Bösen bis zum Guten; denn Abschalom hasste Amnon wegen dessen, dass er Tamar, seine Schwester, vergewaltigt hatte.
+13	23	Und es geschah nach zwei vollen Jahren, da hatte Abschalom Scherer in Baal-Hazor, das bei Efraim ist; und Abschalom rief alle Söhne des Königs.
+13	24	Und Abschalom kam zum König und sagte: «Siehe doch, dein Knecht hat Scherer! Der König gehe doch, und seine Knechte, mit deinem Knecht.»
+13	25	Und der König sagte zu Abschalom: «Nicht doch, mein Sohn! Lass uns doch nicht alle gehen, damit wir dir nicht schwer werden.» Und er drang in ihn; er aber wollte nicht gehen, und er segnete ihn.
+13	26	Und Abschalom sagte: «Wenn nicht, so gehe doch Amnon, mein Bruder, mit uns!» Und der König sagte zu ihm: «Warum soll er mit dir gehen?»
+13	27	Und Abschalom drang in ihn; und er sandte Amnon und alle Söhne des Königs mit ihm.
+13	28	Und Abschalom gebot seinen jungen Menschen: «Seht doch: Wenn das Herz Amnons guter Dinge ist vom Wein und ich zu euch sage: ‹Schlagt Amnon!›, so bringt ihn zu Tode! Fürchtet euch nicht! Habe nicht ich selbst es euch geboten? Seid stark und seid tüchtige Männer!»
+13	29	Und die jungen Menschen Abschaloms taten Amnon, wie Abschalom geboten hatte. Da standen alle Söhne des Königs auf, und sie ritten jeder auf seinem Maultier und flohen.
+13	30	Und es geschah, während sie auf dem Weg waren, da kam die Kunde zu David: «Abschalom hat alle Söhne des Königs geschlagen, und nicht einer von ihnen ist übrig geblieben.»
+13	31	Da stand der König auf und zerriss seine Kleider und legte sich auf die Erde; und alle seine Knechte standen da mit zerrissenen Kleidern.
+13	32	Da antwortete Jonadab, der Sohn Schimas, des Bruders Davids, und sagte: «Mein Herr sage nicht: ‹Alle jungen Menschen, die Söhne des Königs, haben sie zu Tode gebracht›; denn Amnon allein ist tot. Denn auf dem Mund Abschaloms war es gesetzt seit dem Tag, an dem er Tamar, seine Schwester, vergewaltigt hat.
+13	33	Und nun nehme sich mein Herr, der König, das Wort nicht zu Herzen: ‹Alle Söhne des Königs sind tot›; sondern Amnon allein ist tot.»
+13	34	Abschalom aber floh. Und der junge Mensch, der Späher, hob seine Augen auf und sah, und siehe, viel Volk kam auf dem Weg hinter ihm her, von der Seite des Berges.
+13	35	Und Jonadab sagte zum König: «Siehe, die Söhne des Königs sind gekommen! Wie das Wort deines Knechtes, so ist es geschehen.»
+13	36	Und es geschah, als er damit zu Ende war zu reden, siehe, da kamen die Söhne des Königs, und sie hoben ihre Stimme und weinten; und auch der König und alle seine Knechte weinten mit sehr grossem Weinen.
+13	37	Abschalom aber war geflohen und ging zu Talmai, dem Sohn Ammihuds, dem König von Geschur. Und er trauerte um seinen Sohn alle Tage.
+13	38	Abschalom aber war geflohen und ging nach Geschur, und er war dort drei Jahre.
+13	39	Und die Seele des Königs David ging zu Ende danach, zu Abschalom hinauszugehen; denn er hatte sich trösten lassen über Amnon, dass er tot war.
+14	1	Und Joab, der Sohn der Zeruja, erkannte, dass das Herz des Königs auf Abschalom gerichtet war.
+14	2	Da sandte Joab nach Tekoa und holte von dort eine weise Frau und sagte zu ihr: «Trauere doch und zieh doch Kleider der Trauer an und salbe dich nicht mit Öl, und sei wie eine Frau, die schon viele Tage um einen Toten trauert.
+14	3	Und geh hinein zum König und rede zu ihm nach diesem Wort.» Und Joab legte die Worte in ihren Mund.
+14	4	Und die Frau aus Tekoa sagte zum König — sie fiel auf ihr Gesicht zur Erde und warf sich nieder — und sagte: «Rette, König!»
+14	5	Und der König sagte zu ihr: «Was hast du?» Und sie sagte: «Ja, eine Frau, eine Witwe, bin ich, und mein Mann ist gestorben.
+14	6	Und deine Magd hatte zwei Söhne, und die beiden rangen miteinander auf dem Feld, und keiner war da, der sie voneinander befreite; und der eine schlug den andern und brachte ihn zu Tode.
+14	7	Und siehe, die ganze Sippe ist gegen deine Magd aufgestanden, und sie sagen: ‹Gib den heraus, der seinen Bruder geschlagen hat, damit wir ihn zu Tode bringen für das Leben seines Bruders, den er getötet hat, und auch den vernichten, der beerbt!› So werden sie meine Kohle löschen, die übrig geblieben ist, und meinem Mann weder Namen noch Überrest lassen auf dem Angesicht des Bodens.»
+14	8	Da sagte der König zur Frau: «Geh in dein Haus; ich will deinetwegen gebieten.»
+14	9	Und die Frau aus Tekoa sagte zum König: «Auf mir, mein Herr, der König, liege die Schuld und auf dem Haus meines Vaters; der König aber und sein Thron sind unschuldig.»
+14	10	Und der König sagte: «Wer zu dir redet, den bring zu mir; und er wird dich nicht noch einmal berühren.»
+14	11	Und sie sagte: «Der König gedenke doch des HERRN, deines Gottes, damit der Erlöser des Blutes nicht noch mehr verderbe und sie meinen Sohn nicht vernichten!» Und er sagte: «Der HERR lebt! Nie soll von den Haaren deines Sohnes eines zu Boden fallen!»
+14	12	Da sagte die Frau: «Lass doch deine Magd ein Wort zu meinem Herrn, dem König, reden!» Und er sagte: «Rede!»
+14	13	Und die Frau sagte: «Und warum hast du so etwas gegen das Volk Gottes ersonnen? Und indem der König dieses Wort redet, ist er wie einer, der sich verschuldet hat, da der König seinen Versprengten nicht zurückbringt.
+14	14	Denn wir werden sterben, und wie Wasser, das zur Erde hingegossen ist und nicht eingesammelt wird, sind wir. Und Gott nimmt das Leben nicht weg, und er ersinnt Absichten, damit der Versprengte nicht von ihm versprengt bleibe. «
+14	15	Und nun, da ich gekommen bin, um dieses Wort zum König, meinem Herrn, zu reden: Es ist, weil das Volk mich fürchten liess. Da sagte deine Magd: ‹Ich will doch zum König reden; vielleicht tut der König das Wort seiner Magd.
+14	16	Denn der König wird hören, um seine Magd aus der Hand des Mannes zu befreien, der mich und meinen Sohn miteinander aus dem Erbe Gottes vernichten will.›
+14	17	Und deine Magd sagte: ‹Das Wort meines Herrn, des Königs, werde doch zur Ruhe! Denn wie der Engel Gottes, so ist mein Herr, der König, um das Gute und das Böse zu hören.› Und der HERR, dein Gott, sei mit dir!»
+14	18	Da antwortete der König und sagte zur Frau: «Verheimliche doch nicht vor mir ein Wort, nach dem ich dich frage!» Und die Frau sagte: «Mein Herr, der König, rede doch!»
+14	19	Und der König sagte: «Ist die Hand Joabs mit dir in alledem?» Und die Frau antwortete und sagte: «Beim Leben deiner Seele, mein Herr, der König: Nie kann einer nach rechts gehen oder nach links von allem, was mein Herr, der König, geredet hat! Denn dein Knecht Joab, er hat mir geboten, und er hat alle diese Worte in den Mund deiner Magd gelegt.
+14	20	Um das Angesicht des Wortes umzuwenden, hat dein Knecht Joab dies getan. Aber mein Herr ist weise wie die Weisheit des Engels Gottes, um alles zu wissen, was auf der Erde ist.»
+14	21	Da sagte der König zu Joab: «Siehe doch, ich habe dies getan. So geh, bring den jungen Menschen, Abschalom, zurück!»
+14	22	Da fiel Joab auf sein Angesicht zur Erde und warf sich nieder und segnete den König. Und Joab sagte: «Heute weiss dein Knecht, dass ich Gnade gefunden habe in deinen Augen, mein Herr, der König, da der König das Wort deines Knechtes getan hat.»
+14	23	Und Joab stand auf und ging nach Geschur und brachte Abschalom nach Jerusalem.
+14	24	Und der König sagte: «Er soll sich zu seinem Haus wenden, aber mein Angesicht soll er nicht sehen!» Und Abschalom wandte sich zu seinem Haus, und das Angesicht des Königs sah er nicht.
+14	25	Und wie Abschalom war kein Mann in ganz Israel so schön, sehr zu loben; von seiner Fusssohle bis zu seinem Scheitel war kein Fehl an ihm.
+14	26	Und wenn er sein Haupt rasierte — es geschah jeweils, wenn die Tage um waren, dass er es rasierte; denn es lag schwer auf ihm, und so rasierte er es —, dann wog er das Haar seines Hauptes: zweihundert Schekel nach dem Stein des Königs.
+14	27	Und Abschalom wurden drei Söhne geboren und eine Tochter, und ihr Name war Tamar; sie war eine Frau, schön anzusehen.
+14	28	Und Abschalom wohnte in Jerusalem zwei volle Jahre, und das Angesicht des Königs sah er nicht.
+14	29	Da sandte Abschalom zu Joab, um ihn zum König zu senden; er aber wollte nicht zu ihm kommen. Und er sandte noch ein zweites Mal; er aber wollte nicht kommen.
+14	30	Da sagte er zu seinen Knechten: «Seht, das Landstück Joabs liegt neben meinem, und er hat dort Gerste. Geht und zündet es mit Feuer an!» Und die Knechte Abschaloms zündeten das Landstück mit Feuer an.
+14	31	Da stand Joab auf und kam zu Abschalom ins Haus und sagte zu ihm: «Warum haben deine Knechte das Landstück, das mir gehört, mit Feuer angezündet?»
+14	32	Und Abschalom sagte zu Joab: «Siehe, ich habe zu dir gesandt und gesagt: ‹Komm her, damit ich dich zum König sende, um zu sagen: Warum bin ich aus Geschur gekommen? Es wäre gut für mich, ich wäre noch dort.› Und nun will ich das Angesicht des Königs sehen; und wenn Schuld an mir ist, so bringe er mich zu Tode!»
+14	33	Da kam Joab zum König und sagte es ihm. Und er rief Abschalom, und er kam zum König und warf sich vor ihm nieder auf sein Gesicht zur Erde, vor dem König. Und der König küsste Abschalom.
+15	1	Und es geschah danach, da machte sich Abschalom einen Wagen und Rosse und fünfzig Mann, die vor ihm herliefen.
+15	2	Und Abschalom stand jeweils früh am Morgen auf und stellte sich neben den Weg zum Tor. Und es geschah: Jeden Mann, der einen Rechtsstreit hatte, um damit zum König zu kommen zum Gericht, den rief Abschalom zu sich und sagte: «Aus welcher Stadt bist du?» Und sagte er: «Aus einem der Stämme Israels ist dein Knecht»,
+15	3	so sagte Abschalom zu ihm: «Sieh, deine Worte sind gut und richtig; aber vom König her hast du keinen, der hört.»
+15	4	Und Abschalom sagte: «Wer setzte mich doch zum Richter im Land! Dann käme zu mir jeder, der einen Rechtsstreit und ein Recht hat, und ich spräche ihn gerecht.»
+15	5	Und es geschah, wenn ein Mann nahe kam, um sich vor ihm niederzuwerfen, so streckte er seine Hand aus und fasste ihn und küsste ihn.
+15	6	Und Abschalom tat nach diesem Wort an ganz Israel, das zum Gericht zum König kam; und Abschalom stahl das Herz der Männer Israels.
+15	7	Und es geschah am Ende von vierzig Jahren, da sagte Abschalom zum König: «Lass mich doch hingehen und mein Gelübde einlösen, das ich dem HERRN gelobt habe, in Hebron.
+15	8	Denn dein Knecht hat ein Gelübde gelobt, als ich in Geschur in Aram wohnte: ‹Wenn der HERR mich nach Jerusalem zurückbringt, so will ich dem HERRN dienen.›»
+15	9	Und der König sagte zu ihm: «Geh in Frieden!» Und er stand auf und ging nach Hebron.
+15	10	Und Abschalom sandte Kundschafter in alle Stämme Israels und liess sagen: «Wenn ihr die Stimme des Widderhorns hört, so sagt: ‹Abschalom ist König geworden in Hebron!›»
+15	11	Und mit Abschalom gingen zweihundert Mann aus Jerusalem, Geladene; und sie gingen in ihrer Rechtschaffenheit und wussten von nichts.
+15	12	Und Abschalom sandte nach Ahitofel, dem Giloniter, dem Berater Davids, aus seiner Stadt, aus Gilo, als er die Schlachtopfer darbrachte. Und die Verschwörung wurde kräftig, und das Volk bei Abschalom wurde immer zahlreicher.
+15	13	Und es kam einer zu David, der es ihm sagte: «Das Herz der Männer Israels hat sich Abschalom angeschlossen.»
+15	14	Da sagte David zu allen seinen Knechten, die bei ihm in Jerusalem waren: «Steht auf, lasst uns fliehen! Denn für uns wird es kein Entrinnen geben vor Abschalom. Eilt zu gehen, damit er nicht eilt und uns einholt und das Böse über uns hereinstösst und die Stadt schlägt mit der Schneide des Schwertes!»
+15	15	Und die Knechte des Königs sagten zum König: «Nach allem, was mein Herr, der König, erwählt — siehe, deine Knechte!»
+15	16	Und der König zog hinaus, und sein ganzes Haus in seinem Gefolge; und der König liess zehn Frauen, Nebenfrauen, zurück, um das Haus zu bewahren.
+15	17	Und der König zog hinaus, und das ganze Volk in seinem Gefolge; und sie blieben stehen bei Bet-Merhak.
+15	18	Und alle seine Knechte zogen neben ihm vorüber; und alle Kreter und alle Pleter und alle Gatiter, sechshundert Mann, die in seinem Gefolge aus Gat gekommen waren, zogen vor dem Angesicht des Königs vorüber.
+15	19	Und der König sagte zu Ittai, dem Gatiter: «Warum willst auch du mit uns gehen? Kehr um und bleib beim König! Denn du bist einer aus der Fremde, und auch ein Verbannter bist du aus deinem Ort.
+15	20	Gestern bist du gekommen, und heute soll ich dich unstet umherziehen lassen, mit uns zu gehen? Ich aber gehe, wohin ich gehe. Kehr um und bring deine Brüder mit dir zurück. Güte und Treue!»
+15	21	Und Ittai antwortete dem König und sagte: «Der HERR lebt, und beim Leben meines Herrn, des Königs: An dem Ort, an dem mein Herr, der König, sein wird, ob zum Tod, ob zum Leben, ja, dort wird dein Knecht sein!»
+15	22	Da sagte David zu Ittai: «Geh und zieh hinüber!» Und Ittai, der Gatiter, zog hinüber, und alle seine Männer und alle kleinen Kinder, die bei ihm waren.
+15	23	Und das ganze Land weinte mit lauter Stimme, und das ganze Volk zog hinüber. Und der König zog durch den Bach Kidron, und das ganze Volk zog hinüber auf den Weg zur Wüste hin.
+15	24	Und siehe, auch Zadok und alle Leviten mit ihm trugen die Lade des Bundes Gottes; und sie legten die Lade Gottes hin, und Abjatar stieg hinauf, bis das ganze Volk damit fertig war, aus der Stadt hinüberzuziehen.
+15	25	Und der König sagte zu Zadok: «Bring die Lade Gottes in die Stadt zurück! Wenn ich Gnade finde in den Augen des HERRN, so wird er mich zurückbringen und mich sie sehen lassen und ihren Weidegrund.
+15	26	Wenn er aber so sagt: ‹Ich habe kein Gefallen an dir›, — hier bin ich: Er tue mit mir, wie es gut ist in seinen Augen.»
+15	27	Und der König sagte zu Zadok, dem Priester: «Bist du ein Sehender? Kehr in Frieden in die Stadt zurück, und Ahimaaz, dein Sohn, und Jonatan, der Sohn Abjatars, eure beiden Söhne mit euch!
+15	28	Seht, ich halte mich auf in den Steppen der Wüste, bis ein Wort von euch kommt, es mir zu sagen.»
+15	29	Da brachten Zadok und Abjatar die Lade Gottes nach Jerusalem zurück, und sie blieben dort.
+15	30	Und David stieg an der Steige der Ölbäume hinauf, stieg hinauf und weinte, und sein Haupt war verhüllt, und er ging barfuss; und das ganze Volk, das bei ihm war, verhüllte jeder sein Haupt, und sie stiegen hinauf und weinten.
+15	31	Und David sagte: «Ahitofel ist unter den Verschworenen mit Abschalom.» Und David sagte: «Mach doch den Rat Ahitofels zur Unbesonnenheit, HERR!»
+15	32	Und es geschah, als David bis zum Haupt kam, wo man sich vor Gott niederwarf, siehe, da kam ihm Huschai, der Arkiter, entgegen; sein Untergewand war zerrissen, und Erde war auf seinem Haupt.
+15	33	Und David sagte zu ihm: «Wenn du mit mir hinüberziehst, so wirst du mir zur Bürde.
+15	34	Wenn du aber in die Stadt zurückkehrst und zu Abschalom sagst: ‹Dein Knecht, König, will ich sein; der Knecht deines Vaters war ich vormals, und nun bin ich dein Knecht›, so wirst du mir den Rat Ahitofels zunichtemachen.
+15	35	Und sind nicht dort bei dir Zadok und Abjatar, die Priester? Und es soll geschehen: Jedes Wort, das du aus dem Haus des Königs hörst, sollst du Zadok und Abjatar, den Priestern, sagen.
+15	36	Siehe, dort sind bei ihnen ihre beiden Söhne, Ahimaaz von Zadok und Jonatan von Abjatar; und durch ihre Hand sollt ihr mir jedes Wort senden, das ihr hört.»
+15	37	Und Huschai, der Freund Davids, kam in die Stadt; und Abschalom kam nach Jerusalem.
+16	1	Und David war vom Haupt ein wenig weitergegangen, und siehe, Ziba, der junge Mensch Mefi-Boschets, kam ihm entgegen mit einem Paar gesattelter Esel, und auf ihnen zweihundert Brote und hundert Rosinen und hundert Sommerfrüchte und ein Vorratskrug Wein.
+16	2	Und der König sagte zu Ziba: «Was sind diese für dich?» Und Ziba sagte: «Die Esel sind für das Haus des Königs zum Reiten, und das Brot und die Sommerfrucht zum Essen für die jungen Menschen, und der Wein zum Trinken für den Matten in der Wüste.»
+16	3	Und der König sagte: «Und wo ist der Sohn deines Herrn?» Und Ziba sagte zum König: «Siehe, er bleibt in Jerusalem; denn er hat gesagt: ‹Heute wird das Haus Israel mir das Königtum meines Vaters zurückgeben.›»
+16	4	Und der König sagte zu Ziba: «Siehe, dir gehört alles, was Mefi-Boschet gehört.» Und Ziba sagte: «Ich werfe mich nieder! Möge ich Gnade finden in deinen Augen, mein Herr, der König!»
+16	5	Und der König David kam bis Bahurim. Und siehe, von dort kam ein Mann heraus aus der Sippe des Hauses Sauls, und sein Name war Schimi, der Sohn Geras; er kam heraus und verwünschte.
+16	6	Und er bewarf David und alle Knechte des Königs David mit Steinen; und das ganze Volk und alle Helden waren zu seiner Rechten und zu seiner Linken.
+16	7	Und so sagte Schimi, als er verwünschte: «Geh hinaus, geh hinaus, du Mann von Blut und du Nichtswürdiger!
+16	8	Der HERR hat alles Blut des Hauses Sauls über dich zurückkehren lassen, an dessen Stelle du König geworden bist, und der HERR hat das Königtum in die Hand Abschaloms, deines Sohnes, gegeben; und siehe, du bist in deinem Unglück, denn ein Mann von Blut bist du!»
+16	9	Und Abischai, der Sohn der Zeruja, sagte zum König: «Warum soll dieser tote Hund meinen Herrn, den König, verwünschen? Lass mich doch hinüberziehen und ihm das Haupt wegtun!»
+16	10	Und der König sagte: «Was habe ich mit euch zu schaffen, ihr Söhne der Zeruja? So mag er verwünschen! Und wenn der HERR zu ihm gesagt hat: ‹Verwünsche David!›, wer soll dann sagen: ‹Warum hast du so getan?›»
+16	11	Und David sagte zu Abischai und zu allen seinen Knechten: «Siehe, mein Sohn, der aus meinem Leib herausgekommen ist, sucht mein Leben; und wie viel mehr nun der Benjaminiter! Lasst ihn, er mag verwünschen; denn der HERR hat es ihm gesagt.
+16	12	Vielleicht sieht der HERR auf mein Auge, und der HERR gibt mir Gutes zurück für seine Verwünschung an diesem Tag.»
+16	13	Und David und seine Männer gingen auf dem Weg. Schimi aber ging an der Flanke des Berges neben ihm her; er ging und verwünschte, und er bewarf ihn mit Steinen, neben ihm her, und stäubte mit Staub.
+16	14	Und der König und das ganze Volk, das bei ihm war, kamen matt an; und er atmete dort auf.
+16	15	Abschalom aber und das ganze Volk, die Männer Israels, kamen nach Jerusalem, und Ahitofel mit ihm.
+16	16	Und es geschah, als Huschai, der Arkiter, der Freund Davids, zu Abschalom kam, da sagte Huschai zu Abschalom: «Es lebe der König! Es lebe der König!»
+16	17	Und Abschalom sagte zu Huschai: «Ist das deine Güte an deinem Freund? Warum bist du nicht mit deinem Freund gegangen?»
+16	18	Und Huschai sagte zu Abschalom: «Nein, sondern: Wen der HERR erwählt hat und dieses Volk und alle Männer Israels — ihm will ich gehören, und bei ihm will ich bleiben.
+16	19	Und zum Zweiten: Wem sollte ich dienen? Nicht vor seinem Sohn? Wie ich vor deinem Vater gedient habe, so will ich vor dir sein.»
+16	20	Und Abschalom sagte zu Ahitofel: «Gebt euren Rat: Was sollen wir tun?»
+16	21	Und Ahitofel sagte zu Abschalom: «Geh ein zu den Nebenfrauen deines Vaters, die er gelassen hat, um das Haus zu bewahren; dann wird ganz Israel hören, dass du dich bei deinem Vater stinkend gemacht hast, und die Hände aller, die bei dir sind, werden stark sein.»
+16	22	Da spannten sie für Abschalom das Zelt auf dem Dach auf, und Abschalom ging ein zu den Nebenfrauen seines Vaters vor den Augen ganz Israels.
+16	23	Und der Rat Ahitofels, den er in jenen Tagen beriet, war, wie wenn man das Wort Gottes befragt; so war jeder Rat Ahitofels, sowohl für David als auch für Abschalom.
+17	1	Und Ahitofel sagte zu Abschalom: «Lass mich doch zwölftausend Mann erwählen, und ich will aufstehen und David verfolgen in dieser Nacht.
+17	2	Und ich komme über ihn, während er erschöpft ist und schlaff an den Händen, und ich lasse ihn zusammenfahren, und alles Volk, das bei ihm ist, wird fliehen; und ich schlage den König allein.
+17	3	Und ich bringe alles Volk zu dir zurück. Wie die Rückkehr des Ganzen ist der Mann, den du suchst; das ganze Volk wird Frieden haben.»
+17	4	Und das Wort war recht in den Augen Abschaloms und in den Augen aller Ältesten Israels.
+17	5	Und Abschalom sagte: «Ruf doch auch Huschai, den Arkiter, und wir wollen hören, was auch in seinem Mund ist.»
+17	6	Und Huschai kam zu Abschalom, und Abschalom sagte zu ihm: «Nach diesem Wort hat Ahitofel geredet. Sollen wir sein Wort tun? Wenn nicht, so rede du!»
+17	7	Und Huschai sagte zu Abschalom: «Nicht gut ist der Rat, den Ahitofel diesmal beraten hat.»
+17	8	Und Huschai sagte: «Du kennst deinen Vater und seine Männer, dass sie Helden sind und bitterer Seele, wie eine Bärin, der die Jungen genommen sind, auf dem Feld; und dein Vater ist ein Mann des Krieges, und er übernachtet nicht mit dem Volk.
+17	9	Siehe, jetzt hat er sich verborgen in einem der Schlünde oder an einem der Orte. Und es wird geschehen: Fallen anfangs welche unter ihnen, so hört es, wer es hört, und sagt: ‹Ein Schlag ist geschehen unter dem Volk, das hinter Abschalom ist.›
+17	10	Und auch er, ein tüchtiger Mann, dessen Herz wie das Herz des Löwen ist — er wird zerschmelzen; denn ganz Israel weiss, dass dein Vater ein Held ist und dass die, die bei ihm sind, tüchtige Männer sind. «
+17	11	Darum berate ich: Versammeln soll sich zu dir ganz Israel, von Dan bis Beerscheba, wie der Sand, der am Meer ist, in Fülle; und dein Angesicht geht in die Schlacht.
+17	12	Und kommen wir zu ihm an einem der Orte, wo er sich findet, so ruhen wir auf ihm, wie der Tau auf den Boden fällt; und es bleibt von ihm und von allen Männern, die bei ihm sind, auch nicht einer übrig.
+17	13	Und begibt er sich in eine Stadt, so tragen alle in Israel Seile an jene Stadt heran, und wir zerren sie bis ins Bachtal, bis dort auch kein Steinchen mehr gefunden wird.»
+17	14	Da sagten Abschalom und alle Männer Israels: «Besser ist der Rat Huschais, des Arkiters, als der Rat Ahitofels.» Der HERR aber hatte geboten, den guten Rat Ahitofels zunichtezumachen, damit der HERR das Böse über Abschalom bringe.
+17	15	Und Huschai sagte zu Zadok und zu Abjatar, den Priestern: «So und so hat Ahitofel Abschalom und die Ältesten Israels beraten, und so und so habe ich beraten.
+17	16	Und nun sendet eilends und sagt David: ‹Übernachte nicht in dieser Nacht in den Steppen der Wüste, sondern zieh hinüber, damit der König und alles Volk, das bei ihm ist, nicht verschlungen werden.›»
+17	17	Jonatan aber und Ahimaaz standen bei En-Rogel; und die Sklavin sollte hingehen und es ihnen sagen, und sie sollten hingehen und es dem König David sagen; denn sie konnten nicht zu sehen sein, wie sie in die Stadt kamen.
+17	18	Aber ein junger Mensch sah sie und sagte es Abschalom. Da gingen die beiden eilends und kamen in das Haus eines Mannes in Bahurim; und der hatte einen Brunnen in seinem Hof, und sie stiegen dort hinab.
+17	19	Und die Frau nahm die Decke und breitete sie über das Angesicht des Brunnens und spannte Grütze darauf aus; und es wurde nichts bekannt.
+17	20	Und die Knechte Abschaloms kamen zu der Frau ins Haus und sagten: «Wo sind Ahimaaz und Jonatan?» Und die Frau sagte zu ihnen: «Sie sind über das Wasserrinnsal gezogen.» Und sie suchten und fanden nicht und kehrten nach Jerusalem zurück.
+17	21	Und es geschah, nachdem sie gegangen waren, da stiegen sie aus dem Brunnen herauf und gingen und sagten es dem König David; und sie sagten zu David: «Steht auf und zieht eilends über das Wasser; denn so hat Ahitofel über euch beraten.»
+17	22	Da stand David auf und alles Volk, das bei ihm war, und sie zogen über den Jordan. Bis zum Licht des Morgens fehlte nicht einer, der nicht über den Jordan gezogen war.
+17	23	Ahitofel aber sah, dass sein Rat nicht getan wurde; und er sattelte den Esel und stand auf und ging in sein Haus, in seine Stadt, und gebot seinem Haus und erhängte sich; und er starb und wurde im Grab seines Vaters begraben.
+17	24	David aber war nach Mahanajim gekommen; und Abschalom zog über den Jordan, er und alle Männer Israels mit ihm.
+17	25	Und Abschalom hatte Amasa an der Stelle Joabs über das Heer gesetzt. Und Amasa war der Sohn eines Mannes, und sein Name war Jitra, der Israelit, der zu Abigal eingegangen war, der Tochter des Nahasch, der Schwester der Zeruja, der Mutter Joabs.
+17	26	Und Israel und Abschalom lagerten im Land Gilead.
+17	27	Und es geschah, als David nach Mahanajim kam: Schobi, der Sohn des Nahasch, aus Rabba der Kinder Ammons, und Machir, der Sohn Ammiëls, aus Lo-Dabar, und Barsillai, der Gileaditer, aus Rogelim,
+17	28	Betten und Schalen und Töpfergefässe und Weizen und Gerste und Mehl und Geröstetes und Bohnen und Linsen und Geröstetes
+17	29	und Honig und Butter und Schafe und Käse von den Rindern brachten sie David und dem Volk, das bei ihm war, heran zum Essen; denn sie sagten: «Das Volk ist hungrig und matt und durstig in der Wüste.»
+18	1	Und David musterte das Volk, das bei ihm war, und setzte über sie Vorsteher über tausend und Vorsteher über hundert.
+18	2	Und David sandte das Volk aus: ein Drittel in die Hand Joabs, und ein Drittel in die Hand Abischais, des Sohnes der Zeruja, des Bruders Joabs, und ein Drittel in die Hand Ittais, des Gatiters. Und der König sagte zum Volk: «Auch ich will mit euch ausziehen.»
+18	3	Aber das Volk sagte: «Du sollst nicht ausziehen! Denn wenn wir fliehen, werden sie ihr Herz nicht auf uns setzen; und wenn die Hälfte von uns stirbt, werden sie ihr Herz nicht auf uns setzen; denn jetzt sind zehntausend wie wir. Und nun ist es gut, dass du von der Stadt aus für uns da bist, um zu helfen.»
+18	4	Und der König sagte zu ihnen: «Was gut ist in euren Augen, das will ich tun.» Und der König stellte sich neben das Tor, und das ganze Volk zog aus nach Hundertschaften und nach Tausendschaften.
+18	5	Und der König gebot Joab und Abischai und Ittai: «Seid mir behutsam mit dem jungen Menschen, mit Abschalom!» Und das ganze Volk hörte es, als der König allen Vorstehern wegen Abschalom gebot.
+18	6	Und das Volk zog aus aufs Feld, Israel entgegen; und der Krieg war im Wald Efraim.
+18	7	Und das Volk Israels wurde dort vor den Knechten Davids niedergestreckt, und der Schlag war dort gross an jenem Tag: zwanzigtausend.
+18	8	Und der Krieg war dort zerstreut über das Angesicht des ganzen Landes; und der Wald frass mehr vom Volk, als das Schwert frass an jenem Tag.
+18	9	Und Abschalom geriet vor die Knechte Davids. Und Abschalom ritt auf dem Maultier, und das Maultier kam unter das Gestrüpp der grossen Terebinthe, und sein Haupt blieb in der Terebinthe stecken, und er wurde zwischen Himmel und Erde gegeben; und das Maultier, das unter ihm war, zog weiter.
+18	10	Und ein Mann sah es und sagte es Joab und sagte: «Siehe, ich habe Abschalom in der Terebinthe hängen sehen.»
+18	11	Und Joab sagte zu dem Mann, der es ihm sagte: «Und siehe, du hast es gesehen! Und warum hast du ihn nicht dort zur Erde geschlagen? Dann hätte es an mir gelegen, dir zehn Silberstücke und einen Gürtel zu geben.»
+18	12	Und der Mann sagte zu Joab: «Und wöge ich auch tausend Silberstücke auf meinen Händen, ich würde meine Hand nicht gegen den Sohn des Königs ausstrecken; denn vor unseren Ohren hat der König dir und Abischai und Ittai geboten: ‹Achtet, wer ihr auch seid, auf den jungen Menschen, auf Abschalom!›
+18	13	Oder hätte ich gegen mein Leben Falschheit getan — und kein Wort ist vor dem König verheimlicht —, so würdest du dich von gegenüber aufstellen.»
+18	14	Da sagte Joab: «Nicht so will ich vor dir harren!» Und er nahm drei Stäbe in seine Hand und stiess sie Abschalom ins Herz, während er noch lebendig war, im Herzen der Terebinthe.
+18	15	Und zehn junge Menschen, die die Geräte Joabs trugen, umgaben Abschalom und schlugen ihn und brachten ihn zu Tode.
+18	16	Da stiess Joab ins Widderhorn, und das Volk kehrte um vom Verfolgen Israels; denn Joab hielt das Volk zurück.
+18	17	Und sie nahmen Abschalom und warfen ihn im Wald in den grossen Schlund und stellten über ihm einen sehr grossen Steinhaufen hin. Und ganz Israel war geflohen, jeder zu seinen Zelten.
+18	18	Abschalom aber hatte zu seinen Lebzeiten das Steinmal, das im Königstal ist, genommen und sich hingestellt; denn er sagte: «Ich habe keinen Sohn, um meinen Namen nennen zu lassen.» Und er nannte das Steinmal nach seinem Namen, und es wird Abschaloms Denkmal genannt, bis zu diesem Tag.
+18	19	Und Ahimaaz, der Sohn Zadoks, sagte: «Ich will doch rennen und dem König die Botschaft verkünden, dass der HERR ihn aus der Hand seiner Feinde heraus gerichtet hat.»
+18	20	Und Joab sagte zu ihm: «Du bist an diesem Tag kein Mann der Botschaft; an einem anderen Tag sollst du die Botschaft verkünden, an diesem Tag aber sollst du keine Botschaft verkünden; denn der Sohn des Königs ist ja tot.»
+18	21	Und Joab sagte zum Kuschiter: «Geh, sag dem König, was du gesehen hast!» Und der Kuschiter warf sich vor Joab nieder und rannte.
+18	22	Und Ahimaaz, der Sohn Zadoks, sagte noch einmal zu Joab: «Es sei, was es sei: Ich will doch auch rennen, hinter dem Kuschiter her!» Und Joab sagte: «Warum rennst du denn, mein Sohn? Für dich gibt es keine Botschaft, die etwas einbringt.»
+18	23	«Es sei, was es sei: Ich will rennen!» Und er sagte zu ihm: «Renn!» Und Ahimaaz rannte den Weg des Umlands und zog am Kuschiter vorüber.
+18	24	David aber sass zwischen den beiden Toren. Und der Späher ging auf das Dach des Tores, auf die Mauer, und hob seine Augen auf und sah, und siehe, ein Mann rannte allein.
+18	25	Und der Späher rief und sagte es dem König. Und der König sagte: «Wenn er allein ist, ist Botschaft in seinem Mund.» Und er kam immer näher.
+18	26	Und der Späher sah einen anderen Mann rennen; und der Späher rief zum Torhüter und sagte: «Siehe, ein Mann rennt allein!» Und der König sagte: «Auch dieser ist einer, der die Botschaft verkündet.»
+18	27	Und der Späher sagte: «Ich sehe den Lauf des ersten wie den Lauf des Ahimaaz, des Sohnes Zadoks.» Und der König sagte: «Das ist ein guter Mann, und mit guter Botschaft kommt er.»
+18	28	Und Ahimaaz rief und sagte zum König: «Frieden!» Und er warf sich vor dem König nieder, mit seinem Gesicht zur Erde, und sagte: «Gepriesen sei der HERR, dein Gott, der die Männer ausgeliefert hat, die ihre Hand gegen meinen Herrn, den König, gehoben haben!»
+18	29	Und der König sagte: «Hat er Frieden, der junge Mensch, Abschalom?» Und Ahimaaz sagte: «Ich sah das grosse Getümmel, als Joab den Knecht des Königs und deinen Knecht sandte, und ich weiss nicht, was es war.»
+18	30	Und der König sagte: «Wende dich um, stell dich hier auf!» Und er wandte sich um und blieb stehen.
+18	31	Und siehe, der Kuschiter kam, und der Kuschiter sagte: «Mein Herr, der König, lasse sich die Botschaft verkünden, dass der HERR dich heute aus der Hand aller heraus gerichtet hat, die gegen dich aufgestanden sind.»
+18	32	Und der König sagte zum Kuschiter: «Hat er Frieden, der junge Mensch, Abschalom?» Und der Kuschiter sagte: «Wie der junge Mensch sollen die Feinde meines Herrn, des Königs, werden und alle, die gegen dich aufgestanden sind zum Bösen!»
+19	1	Da erregte sich der König, und er stieg hinauf in das Obergemach des Tores und weinte; und so sagte er, als er ging: «Mein Sohn Abschalom, mein Sohn, mein Sohn Abschalom! Wer gäbe, dass ich gestorben wäre, ich an deiner Stelle, Abschalom, mein Sohn, mein Sohn!»
+19	2	Und es wurde Joab gesagt: «Siehe, der König weint und trauert um Abschalom.»
+19	3	Und die Rettung wurde an jenem Tag zur Trauer für das ganze Volk; denn das Volk hörte an jenem Tag sagen: «Es tut dem König weh um seinen Sohn.»
+19	4	Und das Volk stahl sich an jenem Tag in die Stadt hinein, wie sich das Volk davonstiehlt, das in Schande geraten ist, wenn es im Krieg flieht.
+19	5	Der König aber umflorte sein Angesicht, und der König schrie mit lauter Stimme: «Mein Sohn Abschalom! Abschalom, mein Sohn, mein Sohn!»
+19	6	Da kam Joab zum König ins Haus und sagte: «Du hast heute das Angesicht aller deiner Knechte zuschanden gemacht, die heute deine Seele davongebracht haben und die Seele deiner Söhne und deiner Töchter und die Seele deiner Frauen und die Seele deiner Nebenfrauen,
+19	7	indem du die liebst, die dich hassen, und die hasst, die dich lieben. Denn du hast heute gesagt, dass es für dich keine Vorsteher und Knechte gibt; denn ich weiss heute: Wenn Abschalom lebendig wäre und wir alle heute tot, dann wäre es recht in deinen Augen. «
+19	8	Und nun steh auf, geh hinaus und rede deinen Knechten zu Herzen! Denn ich habe beim HERRN geschworen: Wenn du nicht hinausgehst — nie wird diese Nacht ein Mann bei dir übernachten! Und das wird für dich ein grösseres Übel sein als alles Übel, das über dich gekommen ist von deiner Jugend an bis jetzt.»
+19	9	Da stand der König auf und setzte sich ins Tor. Und man sagte dem ganzen Volk: «Siehe, der König sitzt im Tor!» Und das ganze Volk kam vor den König. Israel aber war geflohen, jeder zu seinen Zelten.
+19	10	Und das ganze Volk in allen Stämmen Israels urteilte untereinander: «Der König hat uns aus der Hand unserer Feinde befreit, und er hat uns aus der Hand der Philister davongebracht; und nun ist er vor Abschalom aus dem Land geflohen.
+19	11	Und Abschalom, den wir über uns gesalbt haben, ist im Krieg gestorben. Und nun, warum schweigt ihr, den König zurückzubringen?»
+19	12	Und der König David sandte zu Zadok und zu Abjatar, den Priestern, und liess sagen: «Redet zu den Ältesten Judas: ‹Warum wollt ihr die Letzten sein, den König in sein Haus zurückzubringen? Und das Wort ganz Israels ist zum König gekommen, in sein Haus.
+19	13	Meine Brüder seid ihr, mein Knochen und mein Fleisch seid ihr! Und warum wollt ihr die Letzten sein, den König zurückzubringen?› «
+19	14	Und zu Amasa sollt ihr sagen: ‹Bist du nicht mein Knochen und mein Fleisch? So tue mir Gott, und so füge er hinzu: Wahrlich, Heerführer sollst du vor mir sein alle Tage an der Stelle Joabs!›»
+19	15	Und er neigte das Herz aller Männer Judas wie das eines Mannes; und sie sandten zum König: «Kehr zurück, du und alle deine Knechte!»
+19	16	Da kehrte der König zurück und kam bis an den Jordan. Und Juda war nach Gilgal gekommen, um dem König entgegenzugehen, um den König über den Jordan hinüberziehen zu lassen.
+19	17	Und Schimi, der Sohn Geras, der Benjaminiter, der aus Bahurim war, eilte und stieg mit den Männern Judas hinab, dem König David entgegen,
+19	18	und tausend Mann mit ihm aus Benjamin, und Ziba, der junge Mensch des Hauses Sauls, und seine fünfzehn Söhne und seine zwanzig Knechte mit ihm; und sie drangen vor dem König in den Jordan.
+19	19	Und die Fähre zog hinüber, um das Haus des Königs hinüberziehen zu lassen und zu tun, was gut ist in seinen Augen. Und Schimi, der Sohn Geras, fiel vor dem König nieder, als er durch den Jordan zog.
+19	20	Und er sagte zum König: «Mein Herr rechne mir keine Schuld an, und gedenke nicht, wie dein Knecht Schuld begangen hat an dem Tag, als mein Herr, der König, aus Jerusalem hinausging; der König nehme es nicht zu Herzen!
+19	21	Denn dein Knecht weiss, dass ich gesündigt habe; und siehe, ich bin heute als Erster vom ganzen Haus Josef gekommen, um hinabzusteigen, meinem Herrn, dem König, entgegen.»
+19	22	Da antwortete Abischai, der Sohn der Zeruja, und sagte: «Soll Schimi nicht dafür zu Tode gebracht werden, dass er den Gesalbten des HERRN verwünscht hat?»
+19	23	Aber David sagte: «Was habe ich mit euch zu schaffen, ihr Söhne der Zeruja, dass ihr mir heute zum Widersacher werdet? Soll heute ein Mann in Israel zu Tode gebracht werden? Denn weiss ich etwa nicht, dass ich heute König über Israel bin?»
+19	24	Und der König sagte zu Schimi: «Du wirst nicht sterben.» Und der König schwor es ihm.
+19	25	Und Mefi-Boschet, der Sohn Sauls, stieg hinab, dem König entgegen. Und er hatte seine Füsse nicht gemacht und seinen Lippenbart nicht gemacht, und seine Kleider hatte er nicht gewaschen von dem Tag an, da der König gegangen war, bis zu dem Tag, an dem er in Frieden kam.
+19	26	Und es geschah, als er nach Jerusalem kam, dem König entgegen, da sagte der König zu ihm: «Warum bist du nicht mit mir gegangen, Mefi-Boschet?»
+19	27	Und er sagte: «Mein Herr, der König, mein Knecht hat mich getäuscht! Denn dein Knecht sagte: ‹Ich will mir den Esel satteln und auf ihm reiten und mit dem König gehen›; denn dein Knecht ist lahm.
+19	28	Und er hat deinen Knecht bei meinem Herrn, dem König, in Verruf gebracht. Aber mein Herr, der König, ist wie der Engel Gottes; so tu, was gut ist in deinen Augen.
+19	29	Denn das ganze Haus meines Vaters war nichts anderes als Männer des Todes vor meinem Herrn, dem König; und doch hast du deinen Knecht unter die gesetzt, die an deinem Tisch essen. Und was habe ich noch an Gerechtigkeit, um noch zum König zu schreien?»
+19	30	Und der König sagte zu ihm: «Warum redest du noch deine Worte? Ich sage: Du und Ziba, ihr sollt das Feld verteilen.»
+19	31	Und Mefi-Boschet sagte zum König: «Er mag auch alles nehmen, nachdem mein Herr, der König, in Frieden in sein Haus gekommen ist!»
+19	32	Und Barsillai, der Gileaditer, war von Rogelim herabgestiegen und zog mit dem König über den Jordan, um ihn über den Jordan zu begleiten.
+19	33	Und Barsillai war sehr alt, achtzig Jahre alt; und er hatte den König durchgebracht, als er in Mahanajim wohnte; denn er war ein sehr grosser Mann.
+19	34	Und der König sagte zu Barsillai: «Zieh du mit mir hinüber, und ich will dich bei mir in Jerusalem durchbringen.»
+19	35	Aber Barsillai sagte zum König: «Wie viele sind die Tage der Jahre meines Lebens, dass ich mit dem König nach Jerusalem hinaufsteigen sollte?
+19	36	Achtzig Jahre alt bin ich heute. Weiss ich, was gut und was böse ist? Oder schmeckt dein Knecht, was ich esse und was ich trinke? Oder höre ich noch die Stimme der Sänger und Sängerinnen? Und warum sollte dein Knecht noch meinem Herrn, dem König, zur Bürde sein?
+19	37	Nur ein wenig will dein Knecht mit dem König über den Jordan ziehen. Und warum sollte der König mir mit diesem Wohltun wohltun?
+19	38	Dein Knecht soll doch umkehren, und ich will in meiner Stadt sterben, beim Grab meines Vaters und meiner Mutter. Und siehe, dein Knecht Kimham soll mit meinem Herrn, dem König, hinüberziehen; und tu ihm, was gut ist in deinen Augen.»
+19	39	Und der König sagte: «Mit mir soll Kimham hinüberziehen, und ich will ihm tun, was gut ist in deinen Augen; und alles, was du dir bei mir erwählst, will ich dir tun.»
+19	40	Und das ganze Volk zog über den Jordan, und der König zog hinüber. Und der König küsste Barsillai und segnete ihn, und er kehrte an seinen Ort zurück.
+19	41	Und der König zog hinüber nach Gilgal, und Kimhan zog mit ihm hinüber; und das ganze Volk Judas liess den König hinüberziehen, und auch die Hälfte des Volkes Israel.
+19	42	Und siehe, alle Männer Israels kamen zum König und sagten zum König: «Warum haben dich unsere Brüder, die Männer Judas, gestohlen und haben den König und sein Haus über den Jordan hinüberziehen lassen, und alle Männer Davids mit ihm?»
+19	43	Da antworteten alle Männer Judas den Männern Israels: «Weil der König mir nahe ist! Und warum bist du denn über dieses Wort entbrannt? Haben wir etwa vom König gegessen, oder ist uns etwas getragen worden?»
+19	44	Da antworteten die Männer Israels den Männern Judas und sagten: «Zehn Hände habe ich am König, und auch an David habe ich mehr als du. Und warum hast du mich wenig gelten lassen? Und war nicht mein Wort das erste, meinen König zurückzubringen?» Aber das Wort der Männer Judas war härter als das Wort der Männer Israels.
+20	1	Und dorthin war ein Nichtswürdiger geraten, und sein Name war Scheba, der Sohn Bichris, ein Benjaminiter. Und er stiess ins Widderhorn und sagte: «Wir haben keinen Anteil an David und kein Erbe am Sohn Isais! Jeder zu seinen Zelten, Israel!»
+20	2	Da stiegen alle Männer Israels hinauf, fort von David, hinter Scheba, dem Sohn Bichris, her; die Männer Judas aber hingen ihrem König an, vom Jordan bis Jerusalem.
+20	3	Und David kam zu seinem Haus nach Jerusalem. Und der König nahm die zehn Frauen, Nebenfrauen, die er gelassen hatte, um das Haus zu bewahren, und gab sie in ein Haus, wo sie bewahrt wurden, und brachte sie durch; zu ihnen aber ging er nicht ein. Und sie waren eingebunden bis zum Tag ihres Todes, in Witwenschaft des Lebens.
+20	4	Und der König sagte zu Amasa: «Ruf mir die Männer Judas zusammen, in drei Tagen; und du, steh hier!»
+20	5	Und Amasa ging, um Juda zusammenzurufen; aber er verweilte über die bestimmte Zeit hinaus, die er ihm angesetzt hatte.
+20	6	Da sagte David zu Abischai: «Nun wird Scheba, der Sohn Bichris, für uns böser sein als Abschalom. Nimm du die Knechte deines Herrn und verfolge ihn, damit er nicht befestigte Städte für sich findet und sich unserem Auge entreisst.»
+20	7	Da zogen hinter ihm her aus: die Männer Joabs und die Kreter und die Pleter und alle Helden; und sie zogen aus von Jerusalem, um Scheba, den Sohn Bichris, zu verfolgen.
+20	8	Sie waren bei dem grossen Stein, der in Gibeon ist, und Amasa kam vor sie hin. Und Joab war gegürtet in seinem Überwurf, seiner Kleidung, und darüber ein Gürtel mit einem Schwert, angeknüpft an seinen Hüften, in seiner Scheide; und als er hinausging, fiel es heraus.
+20	9	Und Joab sagte zu Amasa: «Hast du Frieden, mein Bruder?» Und die rechte Hand Joabs ergriff Amasa beim Bart, um ihn zu küssen.
+20	10	Amasa aber nahm sich nicht in Acht vor dem Schwert, das in der Hand Joabs war; und er schlug ihn damit in die Weichen und goss seine Eingeweide zur Erde aus, und ein zweites Mal tat er es nicht bei ihm; und er starb. Und Joab und Abischai, sein Bruder, verfolgten Scheba, den Sohn Bichris.
+20	11	Und ein Mann von den jungen Menschen Joabs stand über ihm und sagte: «Wer Gefallen hat an Joab und wer für David ist — hinter Joab her!»
+20	12	Amasa aber wälzte sich im Blut mitten auf dem Hochweg. Und der Mann sah, dass das ganze Volk stehen blieb, und er wandte Amasa vom Hochweg ab aufs Feld und warf ein Kleid über ihn, weil er sah, dass jeder, der zu ihm kam, stehen blieb.
+20	13	Als er vom Hochweg fortgeschafft war, zog jeder weiter, hinter Joab her, um Scheba, den Sohn Bichris, zu verfolgen.
+20	14	Und er zog durch alle Stämme Israels nach Abel und Bet-Maacha; und alle Beriter versammelten sich und kamen auch hinter ihm her.
+20	15	Und sie kamen und belagerten ihn in Abel-Bet-Maacha und schütteten einen Wall gegen die Stadt auf, und er stand an der Vormauer; und das ganze Volk, das bei Joab war, zerstörte, um die Mauer fallen zu lassen.
+20	16	Da rief eine weise Frau aus der Stadt: «Hört, hört! Sagt doch zu Joab: ‹Tritt heran bis hierher, ich will zu dir reden!›»
+20	17	Und er trat zu ihr heran, und die Frau sagte: «Bist du Joab?» Und er sagte: «Ich.» Und sie sagte zu ihm: «Hör die Worte deiner Magd!» Und er sagte: «Ich höre.»
+20	18	Und sie sagte: «Früher redete man: ‹Man befrage Abel!›, und so hatte man es fertig.
+20	19	Ich gehöre zu den Friedlichen, den Verlässlichen Israels; du suchst eine Stadt und Mutter in Israel zu Tode zu bringen. Warum verschlingst du das Erbe des HERRN?»
+20	20	Und Joab antwortete und sagte: «Fern, fern sei es von mir, dass ich verschlinge und dass ich zerstöre!
+20	21	Nicht so ist es; sondern ein Mann aus dem Bergland Efraim — Scheba, der Sohn Bichris, ist sein Name — hat seine Hand gegen den König, gegen David, gehoben. Gebt ihn allein heraus, und ich will von der Stadt weggehen.» Und die Frau sagte zu Joab: «Siehe, sein Haupt wird zu dir über die Mauer hingeworfen werden.»
+20	22	Und die Frau kam in ihrer Weisheit zum ganzen Volk; und sie hieben Scheba, dem Sohn Bichris, das Haupt ab und warfen es Joab zu. Und er stiess ins Widderhorn, und sie zerstreuten sich von der Stadt weg, jeder zu seinen Zelten. Und Joab kehrte nach Jerusalem zum König zurück.
+20	23	Und Joab war über dem ganzen Heer Israels, und Benaja, der Sohn Jojadas, war über den Kretern und über den Pletern,
+20	24	und Adoram war über der Fron, und Joschafat, der Sohn Ahiluds, war der Kanzler,
+20	25	und Schewa war Schreiber, und Zadok und Abjatar waren Priester,
+20	26	und auch Ira, der Jaïriter, war Priester Davids.
+21	1	Und es war eine Hungersnot in den Tagen Davids, drei Jahre, Jahr nach Jahr; und David suchte das Angesicht des HERRN. Und der HERR sagte: «An Saul und an dem Haus des Blutes liegt es, weil er die Gibeoniter zu Tode gebracht hat.»
+21	2	Da rief der König die Gibeoniter und sagte zu ihnen — die Gibeoniter aber waren nicht von den Kindern Israels, sondern vom Rest der Amoriter, und die Kinder Israels hatten es ihnen zugeschworen; aber Saul suchte sie zu schlagen, als er für die Kinder Israels und Juda eiferte —,
+21	3	und David sagte zu den Gibeonitern: «Was soll ich für euch tun, und womit soll ich Sühne schaffen, dass ihr das Erbe des HERRN segnet?»
+21	4	Und die Gibeoniter sagten zu ihm: «Es geht uns nicht um Silber und Gold bei Saul und bei seinem Haus, und es ist nicht an uns, einen Mann in Israel zu Tode zu bringen.» Und er sagte: «Was ihr sagt, will ich für euch tun.»
+21	5	Da sagten sie zum König: «Der Mann, der uns aufgerieben hat und der gegen uns vorhatte, dass wir vernichtet würden und uns im ganzen Gebiet Israels nicht mehr aufstellen könnten —
+21	6	von seinen Söhnen sollen uns sieben Männer gegeben werden, und wir wollen sie für den HERRN pfählen in Gibea Sauls, des Erwählten des HERRN.» Und der König sagte: «Ich will sie geben.»
+21	7	Aber der König schonte Mefi-Boschet, den Sohn Jonatans, des Sohnes Sauls, wegen des Eides des HERRN, der zwischen ihnen war, zwischen David und Jonatan, dem Sohn Sauls.
+21	8	Und der König nahm die zwei Söhne Rizpas, der Tochter Ajas, die sie Saul geboren hatte, Armoni und Mefi-Boschet, und die fünf Söhne Michals, der Tochter Sauls, die sie Adriël geboren hatte, dem Sohn Barsillais, dem Meholatiter,
+21	9	und er gab sie in die Hand der Gibeoniter; und sie pfählten sie auf dem Berg vor dem HERRN, und die sieben fielen zugleich. Sie aber wurden in den ersten Tagen der Ernte zu Tode gebracht, zu Beginn der Gerstenernte.
+21	10	Da nahm Rizpa, die Tochter Ajas, das Sacktuch und spannte es sich auf dem Fels auf, vom Beginn der Ernte, bis Wasser vom Himmel auf sie strömte; und sie liess die Vögel des Himmels nicht auf ihnen ruhen bei Tag noch die Tiere des Feldes bei Nacht.
+21	11	Und es wurde David gesagt, was Rizpa, die Tochter Ajas, die Nebenfrau Sauls, getan hatte.
+21	12	Da ging David hin und nahm die Knochen Sauls und die Knochen Jonatans, seines Sohnes, von den Herren von Jabesch-Gilead, die sie von der Strasse von Bet-Schean gestohlen hatten, wo die Philister sie aufgehängt hatten am Tag, als die Philister Saul auf dem Gilboa schlugen.
+21	13	Und er holte von dort die Knochen Sauls und die Knochen Jonatans, seines Sohnes, herauf; und man sammelte die Knochen der Gepfählten ein.
+21	14	Und man begrub die Knochen Sauls und Jonatans, seines Sohnes, im Land Benjamin, in Zela, im Grab des Kisch, seines Vaters; und man tat alles, was der König geboten hatte. Und danach liess Gott sich für das Land erbitten.
+21	15	Und wieder hatten die Philister Krieg mit Israel. Und David stieg hinab und seine Knechte mit ihm, und sie kämpften mit den Philistern; und David wurde matt.
+21	16	Und Jischbi-Benob, der von den Geborenen des Rafa war — das Gewicht seiner Speerspitze war dreihundert an Erzgewicht, und er war mit Neuem gegürtet —, wollte David schlagen.
+21	17	Aber Abischai, der Sohn der Zeruja, half ihm und schlug den Philister und brachte ihn zu Tode. Damals schworen die Männer Davids ihm: «Du sollst nicht mehr mit uns in den Krieg ausziehen, und die Lampe Israels sollst du nicht löschen!»
+21	18	Und es geschah danach, da war wieder Krieg in Gob mit den Philistern. Damals schlug Sibbechai, der Huschatiter, Saf, der von den Geborenen des Rafa war.
+21	19	Und wieder war Krieg in Gob mit den Philistern. Und Elhanan, der Sohn Jaare-Oregims, der Betlehemiter, schlug Goliat, den Gatiter; und das Holz seines Speers war wie ein Weberbaum.
+21	20	Und wieder war Krieg in Gat. Und da war ein Mann von hohem Mass, und die Finger seiner Hände und die Zehen seiner Füsse waren je sechs und sechs, vierundzwanzig an der Zahl; und auch er war dem Rafa geboren.
+21	21	Und er beschimpfte Israel; da schlug ihn Jonatan, der Sohn Schimas, des Bruders Davids.
+21	22	Diese vier waren dem Rafa in Gat geboren; und sie fielen durch die Hand Davids und durch die Hand seiner Knechte.
+22	1	Und David redete zum HERRN die Worte dieses Liedes an dem Tag, als der HERR ihn befreit hatte aus der Hand aller seiner Feinde und aus der Hand Sauls.
+22	2	Er sprach: Der HERR ist meine Klippe und meine Bergfeste und der mich entrinnen lässt,
+22	3	der Gott meines Felsens, bei dem ich mich berge, mein Schild und das Horn meiner Rettung, meine Burg und mein Entkommen, mein Retter — von Gewalttat rettest du mich.
+22	4	Zu loben ist er — so rufe ich den HERRN an, und vor meinen Feinden werde ich gerettet.
+22	5	Denn mich umfingen die Brecher des Todes, die Bäche der Nichtswürdigkeit überfielen mich.
+22	6	Die Wehen des Totenreichs umgaben mich, die Fallstricke des Todes stellten sich mir entgegen.
+22	7	In der Enge rief ich den HERRN an, und zu meinem Gott rief ich; und er erhörte aus seinem Tempel meine Stimme, und mein Rufen um Hilfe war in seinen Ohren.
+22	8	Da taumelte und bebte die Erde, der Grund des Himmels erregte sich und taumelte, denn er war entbrannt.
+22	9	Rauch stieg auf in seiner Nase, und Feuer aus seinem Mund frass; Kohlen brannten von ihm aus.
+22	10	Er neigte den Himmel und stieg hinab, und Wetterdunkel war unter seinen Füssen.
+22	11	Er ritt auf einem Kerub und flog, er erschien auf den Flügeln des Windes.
+22	12	Er setzte Finsternis rings um sich zu Hütten, Ballung der Wasser, Gewölk der Lüfte.
+22	13	Aus dem Schein vor ihm brannten Feuerkohlen.
+22	14	Da donnerte vom Himmel der HERR, der Höchste liess seine Stimme ertönen.
+22	15	Er sandte Pfeile und zerstreute sie, einen Blitz, und er verwirrte sie.
+22	16	Da wurden sichtbar die Rinnen des Meeres, aufgedeckt wurde der Grund des Erdkreises durch das Anfahren des HERRN, vor dem Atem des Windes seiner Nase.
+22	17	Er langte aus der Höhe herab, er nahm mich, er zog mich heraus aus vielen Wassern.
+22	18	Er befreite mich von meinem starken Feind, von denen, die mich hassen, denn sie waren gewaltiger als ich.
+22	19	Sie stellten sich mir entgegen am Tag meines Verhängnisses, aber der HERR wurde mir zur Stütze.
+22	20	Er führte mich hinaus in den weiten Raum, er riss mich heraus, denn an mir hat er Gefallen.
+22	21	Der HERR vergalt mir nach meiner Gerechtigkeit, nach der Reinheit meiner Hände liess er es zu mir zurückkehren.
+22	22	Denn ich habe die Wege des HERRN bewahrt und habe nicht gefrevelt gegen meinen Gott.
+22	23	Denn alle seine Rechtsentscheide sind vor mir, und von seinen Satzungen weiche ich nicht.
+22	24	Ich war rechtschaffen ihm gegenüber und nahm mich in Acht vor meiner Schuld.
+22	25	So liess der HERR es zu mir zurückkehren nach meiner Gerechtigkeit, nach meiner Reinheit vor seinen Augen.
+22	26	Mit dem Getreuen zeigst du dich getreu, mit dem rechtschaffenen Helden zeigst du dich rechtschaffen,
+22	27	mit dem Reinen zeigst du dich rein, mit dem Verkehrten aber zeigst du dich gewunden.
+22	28	Und ein elendes Volk rettest du, und deine Augen sind auf den Erhobenen — du erniedrigst sie.
+22	29	Denn du bist meine Lampe, HERR, und der HERR bringt Schein in meine Finsternis.
+22	30	Denn mit dir renne ich gegen eine Rotte an, mit meinem Gott setze ich über eine Mauer.
+22	31	Gott — sein Weg ist rechtschaffen; der Spruch des HERRN ist geläutert; ein Schild ist er allen, die sich bei ihm bergen.
+22	32	Denn wer ist Gott ausser dem HERRN, und wer ist ein Fels ausser unserem Gott?
+22	33	Der Gott ist mein Bollwerk der Tapferkeit, und er machte meinen Weg los, rechtschaffen —
+22	34	der meine Füsse macht wie die der Hirschkühe und mich auf meinen Bergrücken stehen lässt,
+22	35	der meine Hände den Krieg lehrt, dass meine Arme den Bogen aus Erz biegen.
+22	36	Du gabst mir den Schild deiner Rettung, und dein Antworten mehrt mich.
+22	37	Du machst Raum meinem Schreiten unter mir, und meine Knöchel sind nicht ausgeglitten.
+22	38	Ich verfolgte meine Feinde und vernichtete sie und kehrte nicht um, bis ich sie aufgerieben hatte.
+22	39	Ich rieb sie auf und streckte sie nieder, und sie standen nicht auf; sie fielen unter meine Füsse.
+22	40	Du hast mich mit Tapferkeit zum Krieg gegürtet, du lässt in die Knie sinken unter mich, die gegen mich aufstehen.
+22	41	Und meine Feinde — du gabst mir ihren Nacken; die mich hassen, die rottete ich aus.
+22	42	Sie blicken, doch da ist kein Retter, auf den HERRN — doch er antwortet ihnen nicht.
+22	43	Ich zerreibe sie wie den Staub der Erde, wie Kot, der draussen liegt, zermalme ich sie, stampfe sie.
+22	44	Du hast mich entrinnen lassen aus den Händeln meines Volkes, du behütest mich zum Haupt der Völker; ein Volk, das ich nicht kannte, dient mir.
+22	45	Die aus der Fremde schmeicheln mir, auf das blosse Hören hin gehorchen sie mir.
+22	46	Die aus der Fremde welken dahin und kommen gegürtet hervor aus ihren Verschanzungen.
+22	47	Der HERR lebt, und gepriesen sei mein Fels, und erhoben sei der Gott des Felsens meiner Rettung,
+22	48	der Gott, der mir Rache gibt und Völker unter mich hinabsteigen lässt,
+22	49	und der mich hinausführt, weg von meinen Feinden; und über die, die gegen mich aufstehen, erhebst du mich, von dem Mann der Gewalttaten befreist du mich.
+22	50	Darum will ich dir danken, HERR, unter den Völkern, und deinem Namen will ich lobsingen —
+22	51	er, ein Turm der Rettungen seines Königs, und der Güte erweist seinem Gesalbten, David und seinen Nachkommen, auf ewig.
+23	1	Und dies sind die letzten Worte Davids: Ausspruch Davids, des Sohnes Isais, und Ausspruch des Mannes, der nach oben gestellt wurde, des Gesalbten des Gottes Jakobs und des Lieblichen im Lobsingen Israels:
+23	2	Der Geist des HERRN hat durch mich geredet, und sein Wort ist auf meiner Zunge.
+23	3	Gesagt hat der Gott Israels, zu mir geredet hat der Fels Israels: Einer, der über die Menschen herrscht, ein Gerechter, einer, der herrscht in der Furcht Gottes —
+23	4	und wie das Licht des Morgens, wenn die Sonne aufgeht, ein Morgen ohne Gewölk; vom Schein, vom Regen junges Grün aus der Erde.
+23	5	Ja, ist nicht so mein Haus bei Gott? Denn einen ewigen Bund hat er mir gesetzt, geordnet in allem und bewahrt. Denn all meine Rettung und alles Gefallen — sollte er es nicht keimen lassen?
+23	6	Die Nichtswürdigen aber sind wie Dornen, weggescheucht, sie alle; denn mit der Hand nimmt man sie nicht.
+23	7	Und der Mann, der sie berührt, versieht sich mit Eisen und dem Holz eines Speers; und im Feuer werden sie verbrannt, da, wo sie sitzen.
+23	8	Dies sind die Namen der Helden, die David hatte: Joscheb-Baschebet, der Tachkemoniter, das Haupt der Wagenkämpfer; er, Adino, der Ezniter, über achthundert Erschlagene auf einmal.
+23	9	Und nach ihm Eleasar, der Sohn Dodos, des Sohnes eines Ahohiters, unter den drei Helden mit David, als sie die Philister beschimpften, die sich dort zum Krieg versammelt hatten; und die Männer Israels stiegen hinauf.
+23	10	Er stand auf und schlug auf die Philister ein, bis seine Hand erschöpft war und seine Hand am Schwert klebte; und der HERR tat eine grosse Rettung an jenem Tag. Und das Volk kehrte um, hinter ihm her, nur um auszuziehen.
+23	11	Und nach ihm Schamma, der Sohn Ages, der Harariter. Und die Philister versammelten sich zu einem Rudel; und dort war ein Feldstück voll Linsen, und das Volk floh vor den Philistern.
+23	12	Da stellte er sich mitten auf dem Landstück auf und entriss es und schlug die Philister; und der HERR tat eine grosse Rettung.
+23	13	Und drei Häupter von den Dreissig stiegen hinab und kamen zur Ernte zu David, zur Höhle Adullam; und das Rudel der Philister lagerte im Tal der Rafaïter.
+23	14	David aber war damals in der Bergfeste, und der Posten der Philister war damals in Betlehem.
+23	15	Und David begehrte und sagte: «Wer gibt mir Wasser zu trinken aus der Zisterne von Betlehem, die am Tor ist?»
+23	16	Da spalteten die drei Helden das Lager der Philister und schöpften Wasser aus der Zisterne von Betlehem, die am Tor ist, und trugen es und brachten es zu David. Er aber wollte es nicht trinken und spendete es dem HERRN.
+23	17	Und er sagte: «Fern sei es von mir, HERR, dies zu tun! Ist das nicht das Blut der Männer, die mit ihrer Seele gegangen sind?» Und er wollte es nicht trinken. Dies taten die drei Helden.
+23	18	Und Abischai, der Bruder Joabs, der Sohn der Zeruja, er war das Haupt der Drei; und er weckte seinen Speer über dreihundert Erschlagene, und er hatte einen Namen unter den Dreien.
+23	19	War er nicht geehrter als die Drei? Und er wurde ihr Vorsteher; aber bis zu den Dreien kam er nicht.
+23	20	Und Benaja, der Sohn Jojadas, der Sohn eines tüchtigen Mannes, gross an Wirken, aus Kabzeel: Er schlug die zwei Kühnen Moabs; und er stieg hinab und schlug den Löwen mitten in der Grube am Tag des Schnees.
+23	21	Und er schlug einen ägyptischen Mann, einen Mann, der anzusehen war; und in der Hand des Ägypters war ein Speer. Er aber stieg zu ihm hinab mit dem Stab und raubte den Speer aus der Hand des Ägypters und tötete ihn mit seinem Speer.
+23	22	Dies tat Benaja, der Sohn Jojadas, und er hatte einen Namen unter den drei Helden.
+23	23	Er war geehrter als die Dreissig, aber zu den Dreien kam er nicht. Und David setzte ihn über die, die auf ihn hörten.
+23	24	Asaël, der Bruder Joabs, war unter den Dreissig; Elhanan, der Sohn Dodos, aus Betlehem;
+23	25	Schamma, der Haroditer; Elika, der Haroditer;
+23	26	Helez, der Paltiter; Ira, der Sohn des Ikkesch, der Tekoiter;
+23	27	Abiëser, der Anatotiter; Mebunnai, der Huschatiter;
+23	28	Zalmon, der Ahohiter; Mahrai, der Netofatiter;
+23	29	Heleb, der Sohn Baanas, der Netofatiter; Ittai, der Sohn Ribais, aus Gibea der Kinder Benjamins;
+23	30	Benaja, der Piratoniter; Hiddai, von den Bachtälern Gaasch;
+23	31	Abi-Albon, der Arbatiter; Asmawet, der Barhumiter;
+23	32	Eljachba, der Schaalboniter; die Söhne Jaschens: Jonatan;
+23	33	Schamma, der Harariter; Ahiam, der Sohn Scharars, der Harariter;
+23	34	Elifelet, der Sohn Ahasbais, des Sohnes des Maachatiters; Eliam, der Sohn Ahitofels, der Giloniter;
+23	35	Hezrai, der Karmeliter; Paarai, der Arbiter;
+23	36	Jigal, der Sohn Natans, aus Zoba; Bani, der Gaditer;
+23	37	Zelek, der Ammoniter; Nachrai, der Beerotiter, der die Geräte Joabs, des Sohnes der Zeruja, trug;
+23	38	Ira, der Jitriter; Gareb, der Jitriter;
+23	39	Urija, der Hetiter. Zusammen siebenunddreissig.
+24	1	Und der Zorn des HERRN entbrannte wieder gegen Israel, und er verführte David gegen sie: «Geh, zähle Israel und Juda!»
+24	2	Und der König sagte zu Joab, dem Heerführer, der bei ihm war: «Schweif doch umher in allen Stämmen Israels, von Dan bis Beerscheba, und mustert das Volk, damit ich die Zahl des Volkes weiss.»
+24	3	Und Joab sagte zum König: «Der HERR, dein Gott, füge zum Volk, so viele sie auch sind, hundertmal hinzu, während die Augen meines Herrn, des Königs, es sehen! Aber mein Herr, der König — warum hat er Gefallen an diesem Wort?»
+24	4	Doch das Wort des Königs war stärker als Joab und als die Heerführer. Und Joab und die Heerführer zogen vor dem König hinaus, um das Volk, Israel, zu mustern.
+24	5	Und sie zogen über den Jordan und lagerten in Aroër, im Süden der Stadt, die mitten im Bachtal liegt, gegen Gad hin, und nach Jaser.
+24	6	Und sie kamen nach Gilead und in das Land Tachtim-Hodschi; und sie kamen nach Dan-Jaan und ringsum nach Sidon.
+24	7	Und sie kamen zur Befestigung Tyrus und zu allen Städten der Hiwiter und der Kanaaniter; und sie zogen hinaus in den Negeb Judas, nach Beerscheba.
+24	8	Und sie schweiften umher im ganzen Land und kamen am Ende von neun Monaten und zwanzig Tagen nach Jerusalem.
+24	9	Und Joab gab dem König die Zahl der Musterung des Volkes: Israel waren achthunderttausend tüchtige Männer, die das Schwert zogen, und die Männer Judas fünfhunderttausend Mann.
+24	10	Da schlug Davids Herz ihn, nachdem er das Volk gezählt hatte. Und David sagte zum HERRN: «Ich habe sehr gesündigt mit dem, was ich getan habe. Und nun, HERR, lass doch die Schuld deines Knechtes vorübergehen; denn ich habe sehr unbesonnen gehandelt.»
+24	11	Und David stand am Morgen auf. Und das Wort des HERRN erging an Gad, den Propheten, den Seher Davids:
+24	12	«Geh und rede zu David: So spricht der HERR: Dreierlei lege ich dir auf; erwähle dir eines davon, und ich will es dir tun.»
+24	13	Und Gad kam zu David und sagte es ihm, und er sagte zu ihm: «Sollen dir sieben Jahre Hungersnot in deinem Land kommen? Oder drei Monate, in denen du vor deinen Bedrängern fliehst, und er verfolgt dich? Oder sollen drei Tage Pest in deinem Land sein? Nun wisse und sieh, welches Wort ich dem zurückbringen soll, der mich gesandt hat.»
+24	14	Und David sagte zu Gad: «Bedrängt bin ich sehr. Lass uns doch in die Hand des HERRN fallen, denn viel ist sein Erbarmen; aber in die Hand eines Menschen will ich nicht fallen!»
+24	15	Und der HERR gab eine Pest in Israel, vom Morgen bis zur bestimmten Zeit; und es starben vom Volk, von Dan bis Beerscheba, siebzigtausend Mann.
+24	16	Und der Engel streckte seine Hand gegen Jerusalem aus, um es zu verderben. Da reute den HERRN das Böse, und er sagte zu dem Engel, dem Verderber unter dem Volk: «Genug jetzt! Lass deine Hand abstehen!» Und der Engel des HERRN war bei der Tenne Araunas, des Jebusiters.
+24	17	Und David sagte zum HERRN, als er den Engel sah, der unter dem Volk schlug — er sagte: «Siehe, ich habe gesündigt, und ich habe Schuld begangen; diese aber, die Schafe, was haben sie getan? Deine Hand sei doch gegen mich und gegen das Haus meines Vaters!»
+24	18	Und Gad kam an jenem Tag zu David und sagte zu ihm: «Steig hinauf, stelle dem HERRN auf der Tenne Araunas, des Jebusiters, einen Altar auf!»
+24	19	Und David stieg hinauf nach dem Wort Gads, wie der HERR geboten hatte.
+24	20	Und Arauna blickte herab und sah den König und seine Knechte zu ihm herüberkommen. Und Arauna ging hinaus und warf sich vor dem König nieder, mit seinem Gesicht zur Erde.
+24	21	Und Arauna sagte: «Warum ist mein Herr, der König, zu seinem Knecht gekommen?» Und David sagte: «Um die Tenne von dir zu erwerben, um dem HERRN einen Altar zu bauen, damit der Schlag aufgehalten werde, fort vom Volk.»
+24	22	Und Arauna sagte zu David: «Mein Herr, der König, nehme und lasse aufsteigen, was gut ist in seinen Augen. Sieh, die Rinder zum Brandopfer, und die Dreschbretter und die Geräte der Rinder zum Holz!
+24	23	Das alles gibt Arauna, o König, dem König.» Und Arauna sagte zum König: «Der HERR, dein Gott, habe Wohlgefallen an dir!»
+24	24	Und der König sagte zu Arauna: «Nein, sondern erwerben will ich es von dir um einen Kaufpreis; und ich will dem HERRN, meinem Gott, nicht Brandopfer aufsteigen lassen, die umsonst sind.» Und David erwarb die Tenne und die Rinder um fünfzig Schekel Silber.
+24	25	Und David baute dort dem HERRN einen Altar und liess Brandopfer und Friedensopfer aufsteigen. Und der HERR liess sich für das Land erbitten, und der Schlag wurde aufgehalten, fort von Israel.
