@@ -16,12 +16,12 @@
 
 :root{--kopf:3.2rem}
 .seite{--text:#1d1b19;--leise:#6b645c;--linie:#ddd5c9;--grund:#fbf9f5;--feld:#f3efe7;--akzent:#7a3b2e;
- --hl:rgba(122,59,46,.13);--schatten:0 14px 44px rgba(40,25,10,.2);--fs:1;
+ --hl:rgba(122,59,46,.13);--schatten:0 14px 44px rgba(40,25,10,.2);--fs:1;--sg:#F6F0E4;--sm:#282A2E;
  color:var(--text);background:var(--grund);min-height:100vh}
 #e-t-sepia:checked~.seite{--text:#3b2f22;--leise:#7a6a55;--linie:#d9cbb2;--grund:#f4ecd8;--feld:#ebe0c6;--akzent:#8a4a2b;--hl:rgba(138,74,43,.16)}
-#e-t-anthrazit:checked~.seite{--text:#ece5d8;--leise:#b9b2a6;--linie:#4c5056;--grund:#303338;--feld:#3a3d43;--akzent:#cfb07a;--hl:rgba(207,176,122,.2);--schatten:0 14px 44px rgba(0,0,0,.5)}
-#e-t-dunkel:checked~.seite{--text:#e6e0d6;--leise:#a39a8e;--linie:#3a3530;--grund:#1c1a17;--feld:#28241f;--akzent:#d39a82;--hl:rgba(211,154,130,.22);--schatten:0 14px 44px rgba(0,0,0,.55)}
-@media (prefers-color-scheme:dark){html{background:#1c1a17}#e-t-auto:checked~.seite{--text:#e6e0d6;--leise:#a39a8e;--linie:#3a3530;--grund:#1c1a17;--feld:#28241f;--akzent:#d39a82;--hl:rgba(211,154,130,.22);--schatten:0 14px 44px rgba(0,0,0,.55)}}
+#e-t-anthrazit:checked~.seite{--text:#ece5d8;--leise:#b9b2a6;--linie:#4c5056;--grund:#303338;--feld:#3a3d43;--akzent:#cfb07a;--hl:rgba(207,176,122,.2);--schatten:0 14px 44px rgba(0,0,0,.5);--sg:#2D2E31;--sm:#E9E2D5}
+#e-t-dunkel:checked~.seite{--text:#e6e0d6;--leise:#a39a8e;--linie:#3a3530;--grund:#1c1a17;--feld:#28241f;--akzent:#d39a82;--hl:rgba(211,154,130,.22);--schatten:0 14px 44px rgba(0,0,0,.55);--sg:#2D2E31;--sm:#E9E2D5}
+@media (prefers-color-scheme:dark){html{background:#1c1a17}#e-t-auto:checked~.seite{--text:#e6e0d6;--leise:#a39a8e;--linie:#3a3530;--grund:#1c1a17;--feld:#28241f;--akzent:#d39a82;--hl:rgba(211,154,130,.22);--schatten:0 14px 44px rgba(0,0,0,.55);--sg:#2D2E31;--sm:#E9E2D5}}
 [hidden]{display:none!important}
 :root:not(.js) .nur-js{display:none!important}
 :root:not(.vollbild-ok) .nur-vollbild{display:none!important}
@@ -57,7 +57,9 @@ a,label{-webkit-tap-highlight-color:transparent;touch-action:manipulation}
 .schwebe svg{width:1.25rem;height:1.25rem;stroke:currentColor;fill:none;stroke-width:1.8;stroke-linecap:round}
 @media print{.schwebe{display:none!important}}
 /* Schriftzug fein (Cormorant Garamond Light, Pfade aus dem Logopaket; Versalhöhe --h), davor das quadratische Signet
-   in passender Grösse (Wünsche des Übersetzers vom 01.11.2026); auf dem Telefon das Signet allein, so hoch wie der Rahmen */
+   in passender Grösse (Wünsche des Übersetzers vom 01.11.2026); auf dem Telefon das Signet allein, so hoch wie der Rahmen.
+   Das Signet ist seit dem 20.11.2026 einfarbig: Grund --sg, Motiv --sm, hell oder dunkel nach dem Hintergrund der Seite */
+.signet{background:var(--sg);fill:var(--sm)}
 .marke{--h:1.15rem;display:inline-flex;align-items:center;gap:calc(var(--h) * .55);color:var(--text);text-decoration:none;white-space:nowrap}
 .marke .name{flex:none;height:var(--h);width:auto;overflow:visible}
 .marke .signet{flex:none;height:calc(var(--h) * 1.6);width:auto;display:block;box-shadow:0 0 0 1px var(--linie)}
@@ -267,6 +269,7 @@ a[href^="mailto:"]{color:var(--akzent)}
  main{max-width:none;padding:0}
  body{font-size:10.5pt;line-height:1.45}
  .seite{background:#fff;color:#000}
+ .signet{--sg:#F6F0E4;--sm:#282A2E}
  section.buch-text{break-before:page}
  h2,.zt{break-after:avoid}
  .fussnote{break-inside:avoid}
