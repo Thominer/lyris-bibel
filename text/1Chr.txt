@@ -1,0 +1,943 @@
+1	1	Adam, Set, Enosch,
+1	2	Kenan, Mahalalel, Jered,
+1	3	Henoch, Metuschelach, Lamech,
+1	4	Noach, Sem, Ham und Jafet.
+1	5	Die Söhne Jafets: Gomer und Magog und Madai und Jawan und Tubal und Meschech und Tiras.
+1	6	Und die Söhne Gomers: Aschkenas und Difat und Togarma.
+1	7	Und die Söhne Jawans: Elischa und Tarschisch, die Kittäer und die Rodaniter.
+1	8	Die Söhne Hams: Kusch und Ägypten, Put und Kanaan.
+1	9	Und die Söhne Kuschs: Seba und Hawila und Sabta und Ragma und Sabtecha; und die Söhne Ragmas: Saba und Dedan.
+1	10	Und Kusch zeugte Nimrod; er begann, ein Held zu sein auf der Erde.
+1	11	Und Ägypten zeugte die Luditer und die Anamiter und die Lehabiter und die Naftuhiter
+1	12	und die Patrusiter und die Kasluhiter, von wo die Philister hinausgegangen sind, und die Kaftoriter.
+1	13	Und Kanaan zeugte Sidon, seinen Erstgeborenen, und Het
+1	14	und die Jebusiter und die Amoriter und die Girgaschiter
+1	15	und die Hiwiter und die Arkiter und die Siniter
+1	16	und die Arwaditer und die Zemariter und die Hamatiter.
+1	17	Die Söhne Sems: Elam und Assur und Arpachschad und Lud und Aram und Uz und Hul und Geter und Meschech.
+1	18	Und Arpachschad zeugte Schelach, und Schelach zeugte Eber.
+1	19	Und dem Eber wurden zwei Söhne geboren: Der Name des einen war Peleg, denn in seinen Tagen wurde die Erde gespalten; und der Name seines Bruders war Joktan.
+1	20	Und Joktan zeugte Almodad und Schelef und Hazarmawet und Jerach
+1	21	und Hadoram und Usal und Dikla
+1	22	und Ebal und Abimaël und Saba
+1	23	und Ofir und Hawila und Jobab; alle diese sind Söhne Joktans.
+1	24	Sem, Arpachschad, Schelach,
+1	25	Eber, Peleg, Regu,
+1	26	Serug, Nahor, Terach,
+1	27	Abram, das ist Abraham.
+1	28	Die Söhne Abrahams: Isaak und Ismael.
+1	29	Dies ist ihr Ursprung: der Erstgeborene Ismaels, Nebajot, und Kedar und Adbeël und Mibsam,
+1	30	Mischma und Duma, Massa, Hadad und Tema,
+1	31	Jetur, Nafisch und Kedma. Dies sind die Söhne Ismaels.
+1	32	Und die Söhne der Ketura, der Nebenfrau Abrahams: Sie gebar Simran und Jokschan und Medan und Midian und Jischbak und Schuach; und die Söhne Jokschans: Saba und Dedan.
+1	33	Und die Söhne Midians: Efa und Efer und Henoch und Abida und Eldaa. Alle diese sind Söhne der Ketura.
+1	34	Und Abraham zeugte Isaak. Die Söhne Isaaks: Esau und Israel.
+1	35	Die Söhne Esaus: Elifas, Reguël und Jëusch und Jalam und Korach.
+1	36	Die Söhne des Elifas: Teman und Omar, Zefi und Gatam, Kenas und Timna und Amalek.
+1	37	Die Söhne Reguëls: Nahat, Serach, Schamma und Misa.
+1	38	Und die Söhne Seïrs: Lotan und Schobal und Zibon und Ana und Dischon und Ezer und Dischan.
+1	39	Und die Söhne Lotans: Hori und Homam; und die Schwester Lotans: Timna.
+1	40	Die Söhne Schobals: Aljan und Manahat und Ebal, Schefi und Onam. Und die Söhne Zibons: Aja und Ana.
+1	41	Die Söhne Anas: Dischon. Und die Söhne Dischons: Hamran und Eschban und Jitran und Keran.
+1	42	Die Söhne Ezers: Bilhan und Saawan, Jaakan. Die Söhne Dischons: Uz und Aran.
+1	43	Und dies sind die Könige, die im Land Edom König waren, bevor ein König über die Kinder Israels König war: Bela, der Sohn Beors; und der Name seiner Stadt war Dinhaba.
+1	44	Und Bela starb, und an seiner Stelle wurde Jobab König, der Sohn Serachs, aus Bozra.
+1	45	Und Jobab starb, und an seiner Stelle wurde Huscham König, aus dem Land der Temaniter.
+1	46	Und Huscham starb, und an seiner Stelle wurde Hadad König, der Sohn Bedads, der Midian schlug im Feld Moabs; und der Name seiner Stadt war Awit.
+1	47	Und Hadad starb, und an seiner Stelle wurde Samla König, aus Masreka.
+1	48	Und Samla starb, und an seiner Stelle wurde Schaul König, aus Rehobot am Strom.
+1	49	Und Schaul starb, und an seiner Stelle wurde Baal-Hanan König, der Sohn Achbors.
+1	50	Und Baal-Hanan starb, und an seiner Stelle wurde Hadad König; und der Name seiner Stadt war Pagi, und der Name seiner Frau war Mehetabel, die Tochter Matreds, der Tochter Me-Sahabs.
+1	51	Und Hadad starb. Und die Stammesfürsten Edoms waren: der Stammesfürst Timna, der Stammesfürst Alwa, der Stammesfürst Jetet,
+1	52	der Stammesfürst Oholibama, der Stammesfürst Ela, der Stammesfürst Pinon,
+1	53	der Stammesfürst Kenas, der Stammesfürst Teman, der Stammesfürst Mibzar,
+1	54	der Stammesfürst Magdiël, der Stammesfürst Iram. Das sind die Stammesfürsten Edoms.
+2	1	Das sind die Söhne Israels: Ruben, Simeon, Levi und Juda, Issachar und Sebulon,
+2	2	Dan, Josef und Benjamin, Naftali, Gad und Ascher.
+2	3	Die Söhne Judas: Er und Onan und Schela; drei wurden ihm von der Tochter Schuas, der Kanaaniterin, geboren. Und Er, der Erstgeborene Judas, war böse in den Augen des HERRN; und er brachte ihn zu Tode.
+2	4	Und Tamar, seine Schwiegertochter, gebar ihm Perez und Serach. Alle Söhne Judas waren fünf.
+2	5	Die Söhne des Perez: Hezron und Hamul.
+2	6	Und die Söhne Serachs: Simri und Etan und Heman und Kalkol und Dara; zusammen fünf.
+2	7	Und die Söhne Karmis: Achar, der Israel ins Unglück brachte, der Untreue beging am Gebannten.
+2	8	Und die Söhne Etans: Asarja.
+2	9	Und die Söhne Hezrons, die ihm geboren wurden: Jerachmeel und Ram und Kelubai.
+2	10	Und Ram zeugte Amminadab, und Amminadab zeugte Nachschon, den Fürsten der Kinder Judas.
+2	11	Und Nachschon zeugte Salma, und Salma zeugte Boas.
+2	12	Und Boas zeugte Obed, und Obed zeugte Isai.
+2	13	Und Isai zeugte seinen Erstgeborenen, Eliab, und Abinadab, den Zweiten, und Schima, den Dritten,
+2	14	Netanel, den Vierten, Raddai, den Fünften,
+2	15	Ozem, den Sechsten, David, den Siebten.
+2	16	Und ihre Schwestern: Zeruja und Abigajil. Und die Söhne der Zeruja: Abischai und Joab und Asaël, drei.
+2	17	Und Abigajil gebar Amasa; und der Vater Amasas war Jeter, der Ismaeliter.
+2	18	Und Kaleb, der Sohn Hezrons, zeugte mit Asuba, seiner Frau, und mit Jeriot; und dies sind ihre Söhne: Jescher und Schobab und Ardon.
+2	19	Und Asuba starb; und Kaleb nahm sich Efrat, und sie gebar ihm Hur.
+2	20	Und Hur zeugte Uri, und Uri zeugte Bezalel.
+2	21	Und danach ging Hezron ein zur Tochter Machirs, des Vaters Gileads, und er nahm sie, als er sechzig Jahre alt war; und sie gebar ihm Segub.
+2	22	Und Segub zeugte Jaïr; und er hatte dreiundzwanzig Städte im Land Gilead.
+2	23	Und Geschur und Aram nahmen Hawwot-Jaïr von ihnen, Kenat und seine Tochterstädte, sechzig Städte. Alle diese sind Söhne Machirs, des Vaters Gileads.
+2	24	Und nach dem Tod Hezrons in Kaleb-Efrata — und die Frau Hezrons war Abija — gebar sie ihm Aschhur, den Vater Tekoas.
+2	25	Und die Söhne Jerachmeels, des Erstgeborenen Hezrons, waren: der Erstgeborene, Ram, und Buna und Oren und Ozem, Ahija.
+2	26	Und Jerachmeel hatte eine andere Frau, und ihr Name war Atara; sie ist die Mutter Onams.
+2	27	Und die Söhne Rams, des Erstgeborenen Jerachmeels, waren: Maaz und Jamin und Eker.
+2	28	Und die Söhne Onams waren: Schammai und Jada. Und die Söhne Schammais: Nadab und Abischur.
+2	29	Und der Name der Frau Abischurs war Abihajil, und sie gebar ihm Achban und Molid.
+2	30	Und die Söhne Nadabs: Seled und Appajim. Und Seled starb ohne Söhne.
+2	31	Und die Söhne Appajims: Jischi. Und die Söhne Jischis: Scheschan. Und die Söhne Scheschans: Achlai.
+2	32	Und die Söhne Jadas, des Bruders Schammais: Jeter und Jonatan. Und Jeter starb ohne Söhne.
+2	33	Und die Söhne Jonatans: Pelet und Sasa. Das waren die Söhne Jerachmeels.
+2	34	Und Scheschan hatte keine Söhne, sondern Töchter. Und Scheschan hatte einen ägyptischen Sklaven, und sein Name war Jarha.
+2	35	Und Scheschan gab Jarha, seinem Sklaven, seine Tochter zur Frau, und sie gebar ihm Attai.
+2	36	Und Attai zeugte Natan, und Natan zeugte Sabad.
+2	37	Und Sabad zeugte Eflal, und Eflal zeugte Obed.
+2	38	Und Obed zeugte Jehu, und Jehu zeugte Asarja.
+2	39	Und Asarja zeugte Helez, und Helez zeugte Elasa.
+2	40	Und Elasa zeugte Sismai, und Sismai zeugte Schallum.
+2	41	Und Schallum zeugte Jekamja, und Jekamja zeugte Elischama.
+2	42	Und die Söhne Kalebs, des Bruders Jerachmeels: Mescha, sein Erstgeborener; er ist der Vater Sifs. Und die Söhne Mareschas, des Vaters Hebrons.
+2	43	Und die Söhne Hebrons: Korach und Tappuach und Rekem und Schema.
+2	44	Und Schema zeugte Raham, den Vater Jorkeams; und Rekem zeugte Schammai.
+2	45	Und der Sohn Schammais: Maon; und Maon ist der Vater Bet-Zurs.
+2	46	Und Efa, die Nebenfrau Kalebs, gebar Haran und Moza und Gases; und Haran zeugte Gases.
+2	47	Und die Söhne Jahdais: Regem und Jotam und Geschan und Pelet und Efa und Schaaf.
+2	48	Die Nebenfrau Kalebs, Maacha, gebar Scheber und Tirhana.
+2	49	Und sie gebar Schaaf, den Vater Madmannas, Schewa, den Vater Machbenas und den Vater Gibeas. Und die Tochter Kalebs: Achsa.
+2	50	Das waren die Söhne Kalebs. Der Sohn Hurs, des Erstgeborenen Efratas: Schobal, der Vater Kirjat-Jearims,
+2	51	Salma, der Vater Betlehems, Haref, der Vater Bet-Gaders.
+2	52	Und Schobal, der Vater Kirjat-Jearims, hatte Söhne: Haroe, die Hälfte der Menuhot.
+2	53	Und die Sippen Kirjat-Jearims: die Jitriter und die Putiter und die Schumatiter und die Mischraiter; von diesen sind die Zoratiter und die Eschtaoliter hinausgegangen.
+2	54	Die Söhne Salmas: Betlehem und die Netofatiter, Atrot-Bet-Joab und die Hälfte der Manahatiter, die Zoriter.
+2	55	Und die Sippen der Schreiber, der Bewohner von Jabez: die Tiratiter, die Schimatiter, die Suchatiter. Das sind die Keniter, die von Hammat gekommen sind, dem Vater des Hauses Rechab.
+3	1	Und dies waren die Söhne Davids, die ihm in Hebron geboren wurden: der Erstgeborene Amnon, von Ahinoam, der Jesreeliterin; der Zweite Daniel, von Abigajil, der Karmeliterin;
+3	2	der Dritte Abschalom, der Sohn Maachas, der Tochter Talmais, des Königs von Geschur; der Vierte Adonija, der Sohn Haggits;
+3	3	der Fünfte Schefatja, von Abital; der Sechste Jitream, von Egla, seiner Frau.
+3	4	Sechs wurden ihm in Hebron geboren; und er war dort König sieben Jahre und sechs Monate, und dreiunddreissig Jahre war er König in Jerusalem.
+3	5	Und diese wurden ihm in Jerusalem geboren: Schima und Schobab und Natan und Salomo, vier, von Batschua, der Tochter Ammiëls;
+3	6	und Jibhar und Elischama und Elifelet
+3	7	und Nogah und Nefeg und Jafia
+3	8	und Elischama und Eljada und Elifelet, neun.
+3	9	Alle sind Söhne Davids, ausser den Söhnen der Nebenfrauen; und Tamar, ihre Schwester.
+3	10	Und der Sohn Salomos: Rehabeam; Abija, sein Sohn; Asa, sein Sohn; Joschafat, sein Sohn;
+3	11	Joram, sein Sohn; Ahasja, sein Sohn; Joasch, sein Sohn;
+3	12	Amazja, sein Sohn; Asarja, sein Sohn; Jotam, sein Sohn;
+3	13	Ahas, sein Sohn; Hiskija, sein Sohn; Manasse, sein Sohn;
+3	14	Amon, sein Sohn; Joschija, sein Sohn.
+3	15	Und die Söhne Joschijas: der Erstgeborene Johanan, der Zweite Jojakim, der Dritte Zidkija, der Vierte Schallum.
+3	16	Und die Söhne Jojakims: Jechonja, sein Sohn; Zidkija, sein Sohn.
+3	17	Und die Söhne Jechonjas, des Gefangenen: Schealtiël, sein Sohn,
+3	18	und Malkiram und Pedaja und Schenazzar, Jekamja, Hoschama und Nedabja.
+3	19	Und die Söhne Pedajas: Serubbabel und Schimi. Und der Sohn Serubbabels: Meschullam und Hananja und Schelomit, ihre Schwester,
+3	20	und Haschuba und Ohel und Berechja und Hasadja, Juschab-Hesed, fünf.
+3	21	Und der Sohn Hananjas: Pelatja und Jeschaja; die Söhne Refajas, die Söhne Arnans, die Söhne Obadjas, die Söhne Schechanjas.
+3	22	Und die Söhne Schechanjas: Schemaja. Und die Söhne Schemajas: Hattusch und Jigal und Bariach und Nearja und Schafat, sechs.
+3	23	Und der Sohn Nearjas: Eljoënai und Hiskija und Asrikam, drei.
+3	24	Und die Söhne Eljoënais: Hodawja und Eljaschib und Pelaja und Akkub und Johanan und Delaja und Anani, sieben.
+4	1	Die Söhne Judas: Perez, Hezron und Karmi und Hur und Schobal.
+4	2	Und Reaja, der Sohn Schobals, zeugte Jahat; und Jahat zeugte Ahumai und Lahad. Das sind die Sippen der Zoratiter.
+4	3	Und diese sind der Vater Etams: Jesreel und Jischma und Jidbasch; und der Name ihrer Schwester war Hazlelponi.
+4	4	Und Penuël, der Vater Gedors, und Eser, der Vater Huschas. Das sind die Söhne Hurs, des Erstgeborenen Efratas, des Vaters Betlehems.
+4	5	Und Aschhur, der Vater Tekoas, hatte zwei Frauen: Hela und Naara.
+4	6	Und Naara gebar ihm Ahusam und Hefer und Temni und Ahaschtari. Das sind die Söhne Naaras.
+4	7	Und die Söhne Helas: Zeret und Zohar und Etnan.
+4	8	Und Koz zeugte Anub und Zobeba und die Sippen Aharhels, des Sohnes Harums.
+4	9	Und Jabez war geehrter als seine Brüder; und seine Mutter nannte seinen Namen Jabez: «Denn ich habe mit Schmerz geboren.»
+4	10	Und Jabez rief zum Gott Israels: «Wenn du mich doch segnest und mein Gebiet mehrst und deine Hand mit mir ist und du es machst, dass das Böse mir nicht wehtut!» Und Gott brachte, was er erbeten hatte.
+4	11	Und Kelub, der Bruder Schuhas, zeugte Mehir; er ist der Vater Eschtons.
+4	12	Und Eschton zeugte Bet-Rafa und Paseach und Tehinna, den Vater Ir-Nahaschs. Das sind die Männer von Recha.
+4	13	Und die Söhne des Kenas: Otniël und Seraja; und die Söhne Otniëls: Hatat.
+4	14	Und Meonotai zeugte Ofra; und Seraja zeugte Joab, den Vater Ge-Haraschims; denn sie waren Künstler.
+4	15	Und die Söhne Kalebs, des Sohnes Jefunnes: Iru, Ela und Naam; und die Söhne Elas: und Kenas.
+4	16	Und die Söhne Jehallelels: Sif und Sifa, Tirja und Asarel.
+4	17	Und der Sohn Esras: Jeter und Mered und Efer und Jalon. Und sie empfing Mirjam und Schammai und Jischbach, den Vater Eschtemoas.
+4	18	Und seine Frau, die Jüdin, gebar Jered, den Vater Gedors, und Heber, den Vater Sochos, und Jekutiël, den Vater Sanoachs. Und das sind die Söhne Bitjas, der Tochter des Pharao, die Mered genommen hatte.
+4	19	Und die Söhne der Frau Hodijas, der Schwester Nahams: der Vater Keïlas, der Garmiter, und Eschtemoa, der Maachatiter.
+4	20	Und die Söhne Schimons: Amnon und Rinna, Ben-Hanan und Tilon. Und die Söhne Jischis: Sohet und Ben-Sohet.
+4	21	Die Söhne Schelas, des Sohnes Judas: Er, der Vater Lechas, und Lada, der Vater Mareschas, und die Sippen des Hauses, das den Byssus bearbeitete, vom Haus Aschbea,
+4	22	und Jokim und die Männer von Koseba und Joasch und Saraf, die über Moab regierten, und Jaschubi-Lehem. Und die Worte sind alt.
+4	23	Sie waren die Töpfer und die Bewohner von Netaim und Gedera; beim König, in seiner Arbeit, wohnten sie dort.
+4	24	Die Söhne Simeons: Nemuël und Jamin, Jarib, Serach, Schaul;
+4	25	Schallum, sein Sohn; Mibsam, sein Sohn; Mischma, sein Sohn.
+4	26	Und die Söhne Mischmas: Hammuël, sein Sohn; Sakkur, sein Sohn; Schimi, sein Sohn.
+4	27	Und Schimi hatte sechzehn Söhne und sechs Töchter; seine Brüder aber hatten nicht viele Söhne, und ihre ganze Sippe mehrte sich nicht so wie die Kinder Judas.
+4	28	Und sie wohnten in Beerscheba und Molada und Hazar-Schual
+4	29	und in Bilha und in Ezem und in Tolad
+4	30	und in Betuël und in Horma und in Ziklag
+4	31	und in Bet-Markabot und in Hazar-Susim und in Bet-Biri und in Schaarajim. Das waren ihre Städte, bis David König wurde.
+4	32	Und ihre Gehöfte: Etam und Ajin, Rimmon und Tochen und Aschan — fünf Städte;
+4	33	und alle ihre Gehöfte, die rings um diese Städte waren, bis Baal. Das waren ihre Sitze, und ihre Geschlechterfolge hatten sie für sich.
+4	34	Und Meschobab und Jamlech und Joscha, der Sohn Amazjas,
+4	35	und Joel und Jehu, der Sohn Joschibjas, des Sohnes Serajas, des Sohnes Asiëls,
+4	36	und Eljoënai und Jaakoba und Jeschohaja und Asaja und Adiël und Jesimiël und Benaja
+4	37	und Sisa, der Sohn Schifis, des Sohnes Allons, des Sohnes Jedajas, des Sohnes Schimris, des Sohnes Schemajas —
+4	38	diese, die mit Namen aufgeführt sind, waren Fürsten in ihren Sippen; und das Haus ihrer Väter griff in Fülle aus.
+4	39	Und sie gingen bis an den Einlass von Gedor, bis zum Osten der Schlucht, um Weide für ihre Schafe zu suchen.
+4	40	Und sie fanden fette und gute Weide, und das Land war weit nach allen Seiten und ruhig und sorglos; denn die, die einst dort wohnten, waren von Ham.
+4	41	Und es kamen diese, die mit Namen geschrieben sind, in den Tagen Hiskijas, des Königs von Juda, und schlugen ihre Zelte und die Meuniter, die dort gefunden wurden, und bannten sie bis zu diesem Tag und wohnten an ihrer Stelle; denn dort war Weide für ihre Schafe.
+4	42	Und von ihnen, von den Kindern Simeons, gingen fünfhundert Männer zum Bergland Seïr; und Pelatja und Nearja und Refaja und Usiël, die Söhne Jischis, waren an ihrer Spitze.
+4	43	Und sie schlugen den Überrest dessen, was von Amalek entronnen war, und wohnten dort bis zu diesem Tag.
+5	1	Und die Söhne Rubens, des Erstgeborenen Israels — denn er war der Erstgeborene; aber weil er die Liegestatt seines Vaters entweiht hatte, wurde sein Erstgeburtsrecht den Söhnen Josefs, des Sohnes Israels, gegeben, doch nicht so, dass er nach dem Erstgeburtsrecht in die Stammliste eingetragen wurde;
+5	2	denn Juda wurde mächtig unter seinen Brüdern, und aus ihm kam der Herrscher; das Erstgeburtsrecht aber gehörte Josef.
+5	3	Die Söhne Rubens, des Erstgeborenen Israels: Henoch und Pallu, Hezron und Karmi.
+5	4	Die Söhne Joels: Schemaja, sein Sohn; Gog, sein Sohn; Schimi, sein Sohn;
+5	5	Micha, sein Sohn; Reaja, sein Sohn; Baal, sein Sohn;
+5	6	Beera, sein Sohn, den Tiglat-Pileser, der König von Assur, in die Verbannung führte; er war Fürst für die Rubeniter.
+5	7	Und seine Brüder nach seinen Sippen, als sie nach ihrem Ursprung in die Stammliste eingetragen wurden: das Haupt Jeïël, und Secharja
+5	8	und Bela, der Sohn des Asas, des Sohnes Schemas, des Sohnes Joels; der wohnte in Aroër und bis Nebo und Baal-Meon.
+5	9	Und nach Osten hin wohnte er bis dahin, wo man in die Wüste kommt, vom Strom Eufrat her; denn ihre Habe hatte sich gemehrt im Land Gilead.
+5	10	Und in den Tagen Sauls machten sie Krieg mit den Hagritern, und diese fielen in ihre Hand; und sie wohnten in ihren Zelten auf dem ganzen Angesicht des Ostens Gileads.
+5	11	Und die Kinder Gads wohnten ihnen gegenüber im Land Baschan bis Salcha:
+5	12	Joel, das Haupt, und Schafam, der Zweite, und Janai und Schafat in Baschan.
+5	13	Und ihre Brüder nach dem Haus ihrer Väter: Michael und Meschullam und Scheba und Jorai und Jakan und Sia und Eber, sieben.
+5	14	Das sind die Söhne Abihajils, des Sohnes Huris, des Sohnes Jaroachs, des Sohnes Gileads, des Sohnes Michaels, des Sohnes Jeschischais, des Sohnes Jachdos, des Sohnes des Bus.
+5	15	Ahi, der Sohn Abdiëls, des Sohnes Gunis, war Haupt des Hauses ihrer Väter.
+5	16	Und sie wohnten in Gilead, in Baschan und in seinen Tochterstädten und auf allen Weideländern Scharons bis an ihre Ausgänge.
+5	17	Sie alle wurden in die Stammliste eingetragen in den Tagen Jotams, des Königs von Juda, und in den Tagen Jerobeams, des Königs von Israel.
+5	18	Die Kinder Rubens und die Gaditer und der halbe Stamm Manasses hatten an tüchtigen Männern, Männern, die Schild und Schwert trugen und den Bogen spannten und den Krieg gelernt hatten, vierundvierzigtausendsiebenhundertsechzig, die mit dem Heer auszogen.
+5	19	Und sie machten Krieg mit den Hagritern und Jetur und Nafisch und Nodab.
+5	20	Und ihnen wurde gegen sie geholfen, und die Hagriter wurden in ihre Hand gegeben und alle, die mit ihnen waren; denn zu Gott schrien sie im Krieg, und er liess sich von ihnen erbitten, weil sie auf ihn vertrauten.
+5	21	Und sie führten ihre Habe weg: ihre Kamele, fünfzigtausend, und Schafe, zweihundertfünfzigtausend, und Esel, zweitausend, und Menschenseelen, hunderttausend.
+5	22	Denn viele Erschlagene waren gefallen, denn von Gott war der Krieg. Und sie wohnten an ihrer Stelle bis zur Verbannung.
+5	23	Und die Kinder des halben Stammes Manasses wohnten im Land, von Baschan bis Baal-Hermon und Senir und zum Berg Hermon; sie hatten sich gemehrt.
+5	24	Und dies sind die Häupter des Hauses ihrer Väter: Efer und Jischi und Eliël und Asriël und Jirmeja und Hodawja und Jachdiël, Männer, Helden an Tapferkeit, Männer von Namen, Häupter des Hauses ihrer Väter.
+5	25	Und sie begingen Untreue am Gott ihrer Väter und hurten den Göttern der Völker des Landes nach, die Gott vor ihnen vernichtet hatte.
+5	26	Da weckte der Gott Israels den Geist Puls, des Königs von Assur, und den Geist Tiglat-Pilesers, des Königs von Assur, und er führte sie in die Verbannung, die Rubeniter und die Gaditer und den halben Stamm Manasses, und brachte sie nach Halach und Habor und Hara und zum Strom Gosans, bis zu diesem Tag.
+5	27	Die Söhne Levis: Gerschon, Kehat und Merari.
+5	28	Und die Söhne Kehats: Amram, Jizhar und Hebron und Usiël.
+5	29	Und die Söhne Amrams: Aaron und Mose und Mirjam. Und die Söhne Aarons: Nadab und Abihu, Eleasar und Itamar.
+5	30	Eleasar zeugte Pinhas, Pinhas zeugte Abischua,
+5	31	und Abischua zeugte Bukki, und Bukki zeugte Usi,
+5	32	und Usi zeugte Serachja, und Serachja zeugte Merajot,
+5	33	Merajot zeugte Amarja, und Amarja zeugte Ahitub,
+5	34	und Ahitub zeugte Zadok, und Zadok zeugte Ahimaaz,
+5	35	und Ahimaaz zeugte Asarja, und Asarja zeugte Johanan,
+5	36	und Johanan zeugte Asarja; das ist der, der Priester war in dem Haus, das Salomo in Jerusalem gebaut hatte.
+5	37	Und Asarja zeugte Amarja, und Amarja zeugte Ahitub,
+5	38	und Ahitub zeugte Zadok, und Zadok zeugte Schallum,
+5	39	und Schallum zeugte Hilkija, und Hilkija zeugte Asarja,
+5	40	und Asarja zeugte Seraja, und Seraja zeugte Jozadak.
+5	41	Und Jozadak ging, als der HERR Juda und Jerusalem durch die Hand Nebukadnezzars in die Verbannung führte.
+6	1	Die Söhne Levis: Gerschom, Kehat und Merari.
+6	2	Und dies sind die Namen der Söhne Gerschoms: Libni und Schimi.
+6	3	Und die Söhne Kehats: Amram und Jizhar und Hebron und Usiël.
+6	4	Die Söhne Meraris: Machli und Muschi. Und dies sind die Sippen der Leviten nach ihren Vätern.
+6	5	Von Gerschom: Libni, sein Sohn; Jahat, sein Sohn; Simma, sein Sohn;
+6	6	Joach, sein Sohn; Iddo, sein Sohn; Serach, sein Sohn; Jeatrai, sein Sohn.
+6	7	Die Söhne Kehats: Amminadab, sein Sohn; Korach, sein Sohn; Assir, sein Sohn;
+6	8	Elkana, sein Sohn, und Ebjasaf, sein Sohn, und Assir, sein Sohn;
+6	9	Tahat, sein Sohn; Uriël, sein Sohn; Usija, sein Sohn, und Schaul, sein Sohn.
+6	10	Und die Söhne Elkanas: Amasai und Ahimot.
+6	11	Elkana — die Söhne Elkanas: Zofai, sein Sohn, und Nahat, sein Sohn;
+6	12	Eliab, sein Sohn; Jeroham, sein Sohn; Elkana, sein Sohn.
+6	13	Und die Söhne Samuels: der Erstgeborene Waschni und Abija.
+6	14	Die Söhne Meraris: Machli; Libni, sein Sohn; Schimi, sein Sohn; Usa, sein Sohn;
+6	15	Schima, sein Sohn; Haggija, sein Sohn; Asaja, sein Sohn.
+6	16	Und dies sind die, die David für das Lied im Haus des HERRN hinstellte, seit die Lade zur Rast gekommen war.
+6	17	Und sie taten Dienst vor der Wohnung des Zeltes der Begegnung mit dem Lied, bis Salomo das Haus des HERRN in Jerusalem gebaut hatte; und sie standen nach ihrem Recht in ihrem Dienst.
+6	18	Und dies sind die, die standen, und ihre Söhne. Von den Kindern der Kehatiter: Heman, der Sänger, der Sohn Joels, des Sohnes Samuels,
+6	19	des Sohnes Elkanas, des Sohnes Jerohams, des Sohnes Eliëls, des Sohnes Toachs,
+6	20	des Sohnes Zufs, des Sohnes Elkanas, des Sohnes Mahats, des Sohnes Amasais,
+6	21	des Sohnes Elkanas, des Sohnes Joels, des Sohnes Asarjas, des Sohnes Zefanjas,
+6	22	des Sohnes Tahats, des Sohnes Assirs, des Sohnes Ebjasafs, des Sohnes Korachs,
+6	23	des Sohnes Jizhars, des Sohnes Kehats, des Sohnes Levis, des Sohnes Israels.
+6	24	Und sein Bruder Asaf, der zu seiner Rechten stand: Asaf, der Sohn Berechjas, des Sohnes Schimas,
+6	25	des Sohnes Michaels, des Sohnes Baasejas, des Sohnes Malkijas,
+6	26	des Sohnes Etnis, des Sohnes Serachs, des Sohnes Adajas,
+6	27	des Sohnes Etans, des Sohnes Simmas, des Sohnes Schimis,
+6	28	des Sohnes Jahats, des Sohnes Gerschoms, des Sohnes Levis.
+6	29	Und die Kinder Meraris, ihre Brüder, zur Linken: Etan, der Sohn Kischis, des Sohnes Abdis, des Sohnes Malluchs,
+6	30	des Sohnes Haschabjas, des Sohnes Amazjas, des Sohnes Hilkijas,
+6	31	des Sohnes Amzis, des Sohnes Banis, des Sohnes Schemers,
+6	32	des Sohnes Machlis, des Sohnes Muschis, des Sohnes Meraris, des Sohnes Levis.
+6	33	Und ihre Brüder, die Leviten, waren gegeben für allen Dienst an der Wohnung des Hauses Gottes.
+6	34	Und Aaron und seine Söhne liessen in Rauch aufgehen auf dem Brandopferaltar und auf dem Räucheraltar, für alle Arbeit am Allerheiligsten und um Sühne zu schaffen für Israel, nach allem, was Mose, der Knecht Gottes, geboten hatte.
+6	35	Und dies sind die Söhne Aarons: Eleasar, sein Sohn; Pinhas, sein Sohn; Abischua, sein Sohn;
+6	36	Bukki, sein Sohn; Usi, sein Sohn; Serachja, sein Sohn;
+6	37	Merajot, sein Sohn; Amarja, sein Sohn; Ahitub, sein Sohn;
+6	38	Zadok, sein Sohn; Ahimaaz, sein Sohn.
+6	39	Und dies sind ihre Sitze nach ihren Zeltringen in ihrem Gebiet: für die Söhne Aarons, für die Sippe der Kehatiter, denn für sie war das Los.
+6	40	Und sie gaben ihnen Hebron im Land Juda und ihr Weideland rings um sie her.
+6	41	Das Feld der Stadt aber und ihre Gehöfte hatten sie Kaleb, dem Sohn Jefunnes, gegeben.
+6	42	Und den Söhnen Aarons gaben sie die Städte der Freistatt, Hebron, und Libna und ihr Weideland und Jattir und Eschtemoa und ihr Weideland
+6	43	und Hilez und ihr Weideland, Debir und ihr Weideland
+6	44	und Aschan und ihr Weideland und Bet-Schemesch und ihr Weideland.
+6	45	Und vom Stamm Benjamin: Geba und ihr Weideland und Alemet und ihr Weideland und Anatot und ihr Weideland. Alle ihre Städte: dreizehn Städte, in ihren Sippen.
+6	46	Und für die übrigen Kinder Kehats: aus der Sippe des Stammes, aus der Hälfte des Stammes, des halben Manasse, durch das Los zehn Städte.
+6	47	Und für die Kinder Gerschoms nach ihren Sippen: vom Stamm Issachar und vom Stamm Ascher und vom Stamm Naftali und vom Stamm Manasse in Baschan dreizehn Städte.
+6	48	Für die Kinder Meraris nach ihren Sippen: vom Stamm Ruben und vom Stamm Gad und vom Stamm Sebulon durch das Los zwölf Städte.
+6	49	Und die Kinder Israels gaben den Leviten die Städte und ihr Weideland.
+6	50	Und sie gaben durch das Los vom Stamm der Kinder Judas und vom Stamm der Kinder Simeons und vom Stamm der Kinder Benjamins diese Städte, die man mit Namen nennt.
+6	51	Und von den Sippen der Kinder Kehats: Die Städte ihres Gebiets waren vom Stamm Efraim.
+6	52	Und sie gaben ihnen die Städte der Freistatt, Sichem, und ihr Weideland im Bergland Efraim, und Geser und ihr Weideland
+6	53	und Jokmeam und ihr Weideland und Bet-Horon und ihr Weideland
+6	54	und Ajalon und ihr Weideland und Gat-Rimmon und ihr Weideland.
+6	55	Und von der Hälfte des Stammes Manasse: Aner und ihr Weideland und Bileam und ihr Weideland, für die Sippe der übrigen Kinder Kehats.
+6	56	Den Kindern Gerschoms, aus der Sippe des halben Stammes Manasse: Golan in Baschan und ihr Weideland und Aschtarot und ihr Weideland.
+6	57	Und vom Stamm Issachar: Kedesch und ihr Weideland, Daberat und ihr Weideland
+6	58	und Ramot und ihr Weideland und Anem und ihr Weideland.
+6	59	Und vom Stamm Ascher: Maschal und ihr Weideland und Abdon und ihr Weideland
+6	60	und Hukkok und ihr Weideland und Rehob und ihr Weideland.
+6	61	Und vom Stamm Naftali: Kedesch in Galiläa und ihr Weideland und Hammon und ihr Weideland und Kirjatajim und ihr Weideland.
+6	62	Den übrigen Kindern Meraris, vom Stamm Sebulon: Rimmono und ihr Weideland, Tabor und ihr Weideland.
+6	63	Und jenseits des Jordan bei Jericho, im Osten des Jordan, vom Stamm Ruben: Bezer in der Wüste und ihr Weideland und Jahaz und ihr Weideland
+6	64	und Kedemot und ihr Weideland und Mefaat und ihr Weideland.
+6	65	Und vom Stamm Gad: Ramot in Gilead und ihr Weideland und Mahanajim und ihr Weideland
+6	66	und Heschbon und ihr Weideland und Jaser und ihr Weideland.
+7	1	Und von den Söhnen Issachars: Tola und Pua, Jaschub und Schimron, vier.
+7	2	Und die Söhne Tolas: Usi und Refaja und Jeriël und Jachmai und Jibsam und Samuel, Häupter des Hauses ihrer Väter, von Tola, Helden an Tapferkeit nach ihrem Ursprung; ihre Zahl in den Tagen Davids: zweiundzwanzigtausendsechshundert.
+7	3	Und die Söhne Usis: Jisrachja. Und die Söhne Jisrachjas: Michael und Obadja und Joel, Jischija, fünf; Häupter waren sie alle.
+7	4	Und bei ihnen waren nach ihrem Ursprung, nach dem Haus ihrer Väter, Rotten des Kriegsheeres, sechsunddreissigtausend; denn sie hatten viele Frauen und Söhne.
+7	5	Und ihre Brüder nach allen Sippen Issachars, Helden an Tapferkeit: siebenundachtzigtausend, alle in die Stammliste eingetragen.
+7	6	Benjamin: Bela und Beker und Jediaël, drei.
+7	7	Und die Söhne Belas: Ezbon und Usi und Usiël und Jerimot und Iri, fünf, Häupter des Hauses der Väter, Helden an Tapferkeit; und in die Stammliste eingetragen waren zweiundzwanzigtausendvierunddreissig.
+7	8	Und die Söhne Bekers: Semira und Joasch und Eliëser und Eljoënai und Omri und Jeremot und Abija und Anatot und Alemet. Alle diese sind Söhne Bekers.
+7	9	Und als sie nach ihrem Ursprung in die Stammliste eingetragen wurden, Häupter des Hauses ihrer Väter, Helden an Tapferkeit: zwanzigtausendzweihundert.
+7	10	Und die Söhne Jediaëls: Bilhan. Und die Söhne Bilhans: Jëusch und Benjamin und Ehud und Kenaana und Setan und Tarschisch und Ahischahar.
+7	11	Alle diese sind Söhne Jediaëls, nach den Häuptern der Väter, Helden an Tapferkeit: siebzehntausendzweihundert, die mit dem Heer zum Krieg auszogen.
+7	12	Und Schuppim und Huppim, die Söhne Irs; Huschim, die Söhne Ahers.
+7	13	Die Söhne Naftalis: Jachziël und Guni und Jezer und Schallum, die Söhne Bilhas.
+7	14	Die Söhne Manasses: Asriël, den sie gebar; seine Nebenfrau, die Aramäerin, gebar Machir, den Vater Gileads.
+7	15	Und Machir nahm eine Frau für Huppim und für Schuppim, und der Name seiner Schwester war Maacha; und der Name des zweiten war Zelofhad, und Zelofhad hatte Töchter.
+7	16	Und Maacha, die Frau Machirs, gebar einen Sohn, und sie nannte seinen Namen Peresch; und der Name seines Bruders war Scharesch, und seine Söhne: Ulam und Rekem.
+7	17	Und die Söhne Ulams: Bedan. Das sind die Söhne Gileads, des Sohnes Machirs, des Sohnes Manasses.
+7	18	Und seine Schwester, Hammolechet, gebar Ischhod und Abiëser und Machla.
+7	19	Und die Söhne Schemidas waren: Achjan und Sichem und Likchi und Aniam.
+7	20	Und die Söhne Efraims: Schutelach, und Bered, sein Sohn, und Tahat, sein Sohn, und Elada, sein Sohn, und Tahat, sein Sohn,
+7	21	und Sabad, sein Sohn, und Schutelach, sein Sohn, und Eser und Elad. Und die Männer von Gat, die im Land geboren waren, töteten sie, denn sie waren hinabgestiegen, um ihre Habe zu nehmen.
+7	22	Und Efraim, ihr Vater, trauerte viele Tage, und seine Brüder kamen, um ihn zu trösten.
+7	23	Und er ging ein zu seiner Frau, und sie empfing und gebar einen Sohn; und er nannte seinen Namen Beria, denn Unglück war in seinem Haus.
+7	24	Und seine Tochter: Scheëra; und sie baute das untere Bet-Horon und das obere und Usen-Scheëra.
+7	25	Und Refach, sein Sohn, und Reschef, und Telach, sein Sohn, und Tahan, sein Sohn;
+7	26	Ladan, sein Sohn; Ammihud, sein Sohn; Elischama, sein Sohn;
+7	27	Non, sein Sohn; Josua, sein Sohn.
+7	28	Und ihr Besitz und ihre Sitze: Bet-El und seine Tochterstädte, und im Osten Naaran, und im Westen Geser und seine Tochterstädte, und Sichem und seine Tochterstädte, bis Aja und seine Tochterstädte.
+7	29	Und längs der Kinder Manasses: Bet-Schean und seine Tochterstädte, Taanach und seine Tochterstädte, Megiddo und seine Tochterstädte, Dor und seine Tochterstädte. In diesen wohnten die Kinder Josefs, des Sohnes Israels.
+7	30	Die Söhne Aschers: Jimna und Jischwa und Jischwi und Beria, und Serach, ihre Schwester.
+7	31	Und die Söhne Berias: Heber und Malkiël; das ist der Vater Birsajits.
+7	32	Und Heber zeugte Jaflet und Schomer und Hotam und Schua, ihre Schwester.
+7	33	Und die Söhne Jaflets: Pasach und Bimhal und Aschwat. Das sind die Söhne Jaflets.
+7	34	Und die Söhne Schemers: Ahi und Rohga und Hubba und Aram.
+7	35	Und der Sohn Helems, seines Bruders: Zofach und Jimna und Schelesch und Amal.
+7	36	Die Söhne Zofachs: Suach und Harnefer und Schual und Beri und Jimra,
+7	37	Bezer und Hod und Schamma und Schilscha und Jitran und Beera.
+7	38	Und die Söhne Jeters: Jefunne und Pispa und Ara.
+7	39	Und die Söhne Ullas: Arach und Hanniël und Rizja.
+7	40	Alle diese sind Söhne Aschers, Häupter des Hauses der Väter, Ausgelesene, Helden an Tapferkeit, Häupter der Fürsten. Und als sie in die Stammliste eingetragen wurden, im Heer, im Krieg, war ihre Zahl: sechsundzwanzigtausend Männer.
+8	1	Und Benjamin zeugte Bela, seinen Erstgeborenen, Aschbel, den Zweiten, und Achrach, den Dritten,
+8	2	Noha, den Vierten, und Rafa, den Fünften.
+8	3	Und Bela hatte Söhne: Addar und Gera und Abihud
+8	4	und Abischua und Naaman und Ahoach
+8	5	und Gera und Schefufan und Huram.
+8	6	Und dies sind die Söhne Ehuds; dies sind die Häupter der Väter der Bewohner von Geba, und man führte sie in die Verbannung nach Manahat:
+8	7	Naaman und Ahija und Gera — er führte sie in die Verbannung, und er zeugte Usa und Ahihud.
+8	8	Und Schaharajim zeugte im Feld Moabs, nachdem er sie, Huschim und Baara, seine Frauen, entlassen hatte;
+8	9	und er zeugte von Hodesch, seiner Frau, Jobab und Zibja und Mescha und Malkam
+8	10	und Jeuz und Sachja und Mirma. Das sind seine Söhne, Häupter der Väter.
+8	11	Und von Huschim zeugte er Abitub und Elpaal.
+8	12	Und die Söhne Elpaals: Eber und Mischam und Schemed; er baute Ono und Lod und ihre Tochterstädte.
+8	13	Und Beria und Schema — sie waren die Häupter der Väter der Bewohner von Ajalon; sie brachten die Bewohner von Gat zum Fliehen.
+8	14	Und Achjo, Schaschak und Jeremot
+8	15	und Sebadja und Arad und Eder
+8	16	und Michael und Jischpa und Joha, die Söhne Berias.
+8	17	Und Sebadja und Meschullam und Hiski und Heber
+8	18	und Jischmerai und Jislia und Jobab, die Söhne Elpaals.
+8	19	Und Jakim und Sichri und Sabdi
+8	20	und Elienai und Zilletai und Eliël
+8	21	und Adaja und Beraja und Schimrat, die Söhne Schimis.
+8	22	Und Jischpan und Eber und Eliël
+8	23	und Abdon und Sichri und Hanan
+8	24	und Hananja und Elam und Antotija
+8	25	und Jifdeja und Penuël, die Söhne Schaschaks.
+8	26	Und Schamscherai und Scheharja und Atalja
+8	27	und Jaareschja und Elija und Sichri, die Söhne Jerohams.
+8	28	Das sind die Häupter der Väter nach ihrem Ursprung, Häupter; diese wohnten in Jerusalem.
+8	29	Und in Gibeon wohnten der Vater Gibeons — und der Name seiner Frau war Maacha —
+8	30	und sein erstgeborener Sohn Abdon und Zur und Kisch und Baal und Nadab
+8	31	und Gedor und Achjo und Secher.
+8	32	Und Miklot zeugte Schimea. Und auch sie wohnten ihren Brüdern gegenüber in Jerusalem, mit ihren Brüdern.
+8	33	Und Ner zeugte Kisch, und Kisch zeugte Saul, und Saul zeugte Jonatan und Malkischua und Abinadab und Eschbaal.
+8	34	Und der Sohn Jonatans: Merib-Baal; und Merib-Baal zeugte Micha.
+8	35	Und die Söhne Michas: Piton und Melech und Tarea und Ahas.
+8	36	Und Ahas zeugte Joadda, und Joadda zeugte Alemet und Asmawet und Simri, und Simri zeugte Moza.
+8	37	Und Moza zeugte Bina; Rafa, sein Sohn; Elasa, sein Sohn; Azel, sein Sohn.
+8	38	Und Azel hatte sechs Söhne, und dies sind ihre Namen: Asrikam, Bochru und Ismael und Schearja und Obadja und Hanan. Alle diese sind Söhne Azels.
+8	39	Und die Söhne Escheks, seines Bruders: Ulam, sein Erstgeborener, Jëusch, der Zweite, und Elifelet, der Dritte.
+8	40	Und die Söhne Ulams waren Männer, Helden an Tapferkeit, die den Bogen spannten, und hatten viele Söhne und Kindeskinder: hundertfünfzig. Alle diese sind von den Kindern Benjamins.
+9	1	Und ganz Israel wurde in die Stammliste eingetragen, und siehe, sie stehen geschrieben im Buch der Könige Israels. Und Juda wurde nach Babel in die Verbannung geführt wegen seiner Untreue.
+9	2	Und die ersten Bewohner, die in ihrem Besitz in ihren Städten waren: Israel, die Priester, die Leviten und die Gegebenen.
+9	3	Und in Jerusalem wohnten von den Kindern Judas und von den Kindern Benjamins und von den Kindern Efraims und Manasses:
+9	4	Utai, der Sohn Ammihuds, des Sohnes Omris, des Sohnes Imris, des Sohnes Banis, von den Kindern des Perez, des Sohnes Judas;
+9	5	und von den Schilonitern: Asaja, der Erstgeborene, und seine Söhne;
+9	6	und von den Kindern Serachs: Jeuël; und ihre Brüder: sechshundertneunzig.
+9	7	Und von den Kindern Benjamins: Sallu, der Sohn Meschullams, des Sohnes Hodawjas, des Sohnes Hassenuas;
+9	8	und Jibneja, der Sohn Jerohams; und Ela, der Sohn Usis, des Sohnes Michris; und Meschullam, der Sohn Schefatjas, des Sohnes Reguëls, des Sohnes Jibnijas;
+9	9	und ihre Brüder nach ihrem Ursprung: neunhundertsechsundfünfzig. Alle diese Männer waren Häupter der Väter nach dem Haus ihrer Väter.
+9	10	Und von den Priestern: Jedaja und Jojarib und Jachin;
+9	11	und Asarja, der Sohn Hilkijas, des Sohnes Meschullams, des Sohnes Zadoks, des Sohnes Merajots, des Sohnes Ahitubs, der Herrscher des Hauses Gottes;
+9	12	und Adaja, der Sohn Jerohams, des Sohnes Paschhurs, des Sohnes Malkijas; und Maasai, der Sohn Adiëls, des Sohnes Jachseras, des Sohnes Meschullams, des Sohnes Meschillemits, des Sohnes Immers;
+9	13	und ihre Brüder, Häupter des Hauses ihrer Väter: tausendsiebenhundertsechzig, Helden an Tüchtigkeit für die Arbeit des Dienstes am Haus Gottes.
+9	14	Und von den Leviten: Schemaja, der Sohn Haschubs, des Sohnes Asrikams, des Sohnes Haschabjas, von den Kindern Meraris;
+9	15	und Bakbakkar, Heresch und Galal; und Mattanja, der Sohn Michas, des Sohnes Sichris, des Sohnes Asafs;
+9	16	und Obadja, der Sohn Schemajas, des Sohnes Galals, des Sohnes Jedutuns; und Berechja, der Sohn Asas, des Sohnes Elkanas, der in den Gehöften der Netofatiter wohnte.
+9	17	Und die Torhüter: Schallum und Akkub und Talmon und Ahiman; und ihr Bruder Schallum war das Haupt.
+9	18	Und bis hierher sind sie im Tor des Königs, nach Osten hin. Sie sind die Torhüter für die Lager der Kinder Levis.
+9	19	Und Schallum, der Sohn Kores, des Sohnes Ebjasafs, des Sohnes Korachs, und seine Brüder vom Haus seines Vaters, die Korachiter, waren über die Arbeit des Dienstes, Wächter der Schwellen des Zeltes; und ihre Väter waren über das Lager des HERRN, Wächter des Einlasses.
+9	20	Und Pinhas, der Sohn Eleasars, war einst Herrscher über sie; der HERR war mit ihm.
+9	21	Secharja, der Sohn Meschelemjas, war Torhüter am Eingang zum Zelt der Begegnung.
+9	22	Sie alle, die zu Torhütern an den Schwellen ausgelesen waren: zweihundertzwölf. Sie waren in ihren Gehöften in die Stammliste eingetragen. Sie waren es, die David und Samuel, der Sehende, in ihrer Verlässlichkeit gegründet hatten.
+9	23	Und sie und ihre Söhne waren an den Toren des Hauses des HERRN, des Hauses des Zeltes, um zu bewahren.
+9	24	Nach den vier Winden waren die Torhüter: nach Osten, westwärts, nordwärts und südwärts.
+9	25	Und ihre Brüder in ihren Gehöften hatten für die sieben Tage von einer Zeit zur andern mit diesen zu kommen.
+9	26	Denn die vier Helden der Torhüter standen in Verlässlichkeit — sie, die Leviten —, und sie waren über die Säle und über die Vorratskammern des Hauses Gottes.
+9	27	Und rings um das Haus Gottes übernachteten sie, denn ihnen oblag, was zu bewahren war; und sie waren über den Schlüssel, Morgen für Morgen.
+9	28	Und von ihnen waren einige über die Geräte des Dienstes; denn nach der Zahl brachten sie sie, und nach der Zahl brachten sie sie heraus.
+9	29	Und von ihnen waren einige bestellt über die Geräte und über alle heiligen Geräte und über das Feinmehl und den Wein und das Öl und den Weihrauch und den Balsam.
+9	30	Und einige von den Söhnen der Priester waren Salbenmischer; sie mischten, was für den Balsam zu mischen war.
+9	31	Und Mattitja, von den Leviten — er war der Erstgeborene Schallums, des Korachiters —, war in Verlässlichkeit über das Werk der Backplatten.
+9	32	Und von den Kindern der Kehatiter, von ihren Brüdern, waren einige über das Brot der Reihe, um es Sabbat für Sabbat zu bereiten.
+9	33	Und dies sind die Sänger, Häupter der Väter der Leviten, in den Sälen freigestellt; denn Tag und Nacht oblag es ihnen, bei der Arbeit zu sein.
+9	34	Das sind die Häupter der Väter der Leviten nach ihrem Ursprung, Häupter; diese wohnten in Jerusalem.
+9	35	Und in Gibeon wohnten der Vater Gibeons, Jeïël — und der Name seiner Frau war Maacha —
+9	36	und sein erstgeborener Sohn Abdon und Zur und Kisch und Baal und Ner und Nadab
+9	37	und Gedor und Achjo und Secharja und Miklot.
+9	38	Und Miklot zeugte Schimam. Und auch sie wohnten ihren Brüdern gegenüber in Jerusalem, mit ihren Brüdern.
+9	39	Und Ner zeugte Kisch, und Kisch zeugte Saul, und Saul zeugte Jonatan und Malkischua und Abinadab und Eschbaal.
+9	40	Und der Sohn Jonatans: Merib-Baal; und Meri-Baal zeugte Micha.
+9	41	Und die Söhne Michas: Piton und Melech und Tachrea.
+9	42	Und Ahas zeugte Jara, und Jara zeugte Alemet und Asmawet und Simri, und Simri zeugte Moza.
+9	43	Und Moza zeugte Bina; und Refaja, sein Sohn; Elasa, sein Sohn; Azel, sein Sohn.
+9	44	Und Azel hatte sechs Söhne, und dies sind ihre Namen: Asrikam, Bochru und Ismael und Schearja und Obadja und Hanan. Das sind die Söhne Azels.
+10	1	Und die Philister kämpften gegen Israel; und die Männer Israels flohen vor den Philistern, und Erschlagene fielen auf dem Berg Gilboa.
+10	2	Und die Philister ereilten Saul und seine Söhne; und die Philister schlugen Jonatan und Abinadab und Malkischua, die Söhne Sauls.
+10	3	Und der Krieg wurde schwer gegen Saul, und die Schiessenden mit dem Bogen fanden ihn; und er wand sich vor den Schiessenden.
+10	4	Und Saul sagte zu dem, der seine Geräte trug: «Zieh dein Schwert und durchbohre mich damit, sonst kommen diese Unbeschnittenen und treiben ihr Spiel mit mir.» Aber der seine Geräte trug, wollte nicht, denn er fürchtete sich sehr. Da nahm Saul das Schwert und fiel hinein.
+10	5	Und als der, der seine Geräte trug, sah, dass Saul tot war, fiel auch er in das Schwert und starb.
+10	6	So starben Saul und seine drei Söhne, und sein ganzes Haus starb allesamt.
+10	7	Und alle Männer Israels, die im Tal waren, sahen, dass sie geflohen und dass Saul und seine Söhne tot waren; und sie verliessen ihre Städte und flohen, und die Philister kamen und wohnten darin.
+10	8	Und es geschah am nächsten Tag: Die Philister kamen, um die Erschlagenen auszuziehen; und sie fanden Saul und seine Söhne, gefallen auf dem Berg Gilboa.
+10	9	Und sie zogen ihn aus und trugen sein Haupt und seine Geräte fort und sandten im Land der Philister ringsum aus, um ihren Götzen und dem Volk die Botschaft zu verkünden.
+10	10	Und sie legten seine Geräte in das Haus ihrer Götter, und seinen Schädel schlugen sie im Haus Dagons fest.
+10	11	Und ganz Jabesch-Gilead hörte alles, was die Philister Saul angetan hatten.
+10	12	Da standen alle tüchtigen Männer auf und trugen den Leib Sauls und die Leiber seiner Söhne fort und brachten sie nach Jabesch; und sie begruben ihre Knochen unter der Terebinthe in Jabesch und fasteten sieben Tage.
+10	13	So starb Saul in seiner Untreue, die er am HERRN begangen hatte, wegen des Wortes des HERRN, das er nicht bewahrt hatte, und auch, weil er die Totenstimme befragt hatte, um zu fragen;
+10	14	und beim HERRN hatte er nicht gefragt. Da brachte er ihn zu Tode und wandte das Königtum David zu, dem Sohn Isais.
+11	1	Und ganz Israel scharte sich zusammen zu David nach Hebron und sagte: «Siehe, wir sind dein Knochen und dein Fleisch.
+11	2	Schon gestern und schon vorgestern, schon als Saul König war, warst du es, der Israel hinausführte und hineinbrachte. Und der HERR, dein Gott, hat zu dir gesagt: ‹Du sollst mein Volk Israel weiden, und du sollst Herrscher über mein Volk Israel werden.›»
+11	3	Und alle Ältesten Israels kamen zum König nach Hebron, und David schloss mit ihnen einen Bund in Hebron vor dem HERRN; und sie salbten David zum König über Israel nach dem Wort des HERRN durch die Hand Samuels.
+11	4	Und David und ganz Israel gingen nach Jerusalem — das ist Jebus —, und dort war der Jebusiter, die Bewohner des Landes.
+11	5	Und die Bewohner von Jebus sagten zu David: «Du wirst nicht hierher kommen.» Und David nahm die Bergfeste Zion ein; das ist die Stadt Davids.
+11	6	Und David sagte: «Jeder, der einen Jebusiter als Erster schlägt, der soll Haupt und Vorsteher werden.» Und Joab, der Sohn der Zeruja, stieg als Erster hinauf und wurde Haupt.
+11	7	Und David wohnte in der Bergfeste; darum nannte man sie die Stadt Davids.
+11	8	Und er baute die Stadt ringsum, vom Millo an bis zur Umgebung; und Joab erhielt den Rest der Stadt am Leben.
+11	9	Und David wurde grösser und grösser, und der HERR der Heerscharen war mit ihm.
+11	10	Und dies sind die Häupter der Helden, die David hatte, die sich mit ihm stark zeigten in seinem Königtum, mit ganz Israel, um ihn nach dem Wort des HERRN zum König über Israel zu machen.
+11	11	Und dies ist die Zahl der Helden, die David hatte: Jaschobam, der Sohn Hachmonis, das Haupt der Wagenkämpfer; er weckte seinen Speer über dreihundert Erschlagene auf einmal.
+11	12	Und nach ihm Eleasar, der Sohn Dodos, der Ahohiter; er war unter den drei Helden.
+11	13	Er war mit David in Pas-Dammim, und die Philister hatten sich dort zum Krieg versammelt. Und es war ein Feldstück voll Gerste, und das Volk floh vor den Philistern.
+11	14	Da stellten sie sich mitten auf dem Landstück auf und entrissen es und schlugen die Philister; und der HERR rettete mit einer grossen Rettung.
+11	15	Und drei Häupter von den Dreissig stiegen hinab zum Fels, zu David, zur Höhle Adullam; und das Lager der Philister lagerte im Tal der Rafaïter.
+11	16	David aber war damals in der Bergfeste, und die Besatzung der Philister war damals in Betlehem.
+11	17	Und David begehrte und sagte: «Wer gibt mir Wasser zu trinken aus der Zisterne von Betlehem, die am Tor ist?»
+11	18	Da spalteten die Drei das Lager der Philister und schöpften Wasser aus der Zisterne von Betlehem, die am Tor ist, und trugen es und brachten es zu David. David aber wollte es nicht trinken und spendete es dem HERRN.
+11	19	Und er sagte: «Fern sei es von mir vor meinem Gott, dies zu tun! Soll ich das Blut dieser Männer trinken, mit ihrer Seele? Denn mit ihrer Seele haben sie es gebracht.» Und er wollte es nicht trinken. Dies taten die drei Helden.
+11	20	Und Abischai, der Bruder Joabs, er war das Haupt der Drei; und er weckte seinen Speer über dreihundert Erschlagene, und er hatte einen Namen unter den Dreien.
+11	21	Von den Dreien war er vor den Zweien geehrt, und er wurde ihr Vorsteher; aber bis zu den Dreien kam er nicht.
+11	22	Benaja, der Sohn Jojadas, der Sohn eines tüchtigen Mannes, gross an Wirken, aus Kabzeel: Er schlug die zwei Kühnen Moabs; und er stieg hinab und schlug den Löwen mitten in der Grube am Tag des Schnees.
+11	23	Und er schlug den ägyptischen Mann, einen Mann von hohem Mass, fünf Ellen; und in der Hand des Ägypters war ein Speer wie ein Weberbaum. Er aber stieg zu ihm hinab mit dem Stab und raubte den Speer aus der Hand des Ägypters und tötete ihn mit seinem Speer.
+11	24	Dies tat Benaja, der Sohn Jojadas, und er hatte einen Namen unter den drei Helden.
+11	25	Siehe, geehrter als die Dreissig war er, aber zu den Dreien kam er nicht. Und David setzte ihn über die, die auf ihn hörten.
+11	26	Und die Helden an Tapferkeit: Asaël, der Bruder Joabs; Elhanan, der Sohn Dodos, aus Betlehem;
+11	27	Schammot, der Haroriter; Helez, der Peloniter;
+11	28	Ira, der Sohn des Ikkesch, der Tekoiter; Abiëser, der Anatotiter;
+11	29	Sibbechai, der Huschatiter; Ilai, der Ahohiter;
+11	30	Mahrai, der Netofatiter; Heled, der Sohn Baanas, der Netofatiter;
+11	31	Ittai, der Sohn Ribais, aus Gibea der Kinder Benjamins; Benaja, der Piratoniter;
+11	32	Hurai, von den Bachtälern Gaasch; Abiël, der Arbatiter;
+11	33	Asmawet, der Baharumiter; Eljachba, der Schaalboniter;
+11	34	die Söhne Haschems, des Gisoniters; Jonatan, der Sohn Schages, der Harariter;
+11	35	Ahiam, der Sohn Sachars, der Harariter; Elifal, der Sohn Urs;
+11	36	Hefer, der Mecheratiter; Ahija, der Peloniter;
+11	37	Hezro, der Karmeliter; Naarai, der Sohn Esbais;
+11	38	Joel, der Bruder Natans; Mibhar, der Sohn Hagris;
+11	39	Zelek, der Ammoniter; Nachrai, der Berotiter, der die Geräte Joabs, des Sohnes der Zeruja, trug;
+11	40	Ira, der Jitriter; Gareb, der Jitriter;
+11	41	Urija, der Hetiter; Sabad, der Sohn Achlais;
+11	42	Adina, der Sohn Schisas, der Rubeniter, ein Haupt der Rubeniter, und bei ihm dreissig;
+11	43	Hanan, der Sohn Maachas, und Joschafat, der Mitniter;
+11	44	Usija, der Aschtarotiter; Schama und Jeïël, die Söhne Hotams, des Aroëriters;
+11	45	Jediaël, der Sohn Schimris, und Joha, sein Bruder, der Tiziter;
+11	46	Eliël, der Mahawiter, und Jeribai und Joschawja, die Söhne Elnaams, und Jitma, der Moabiter;
+11	47	Eliël und Obed und Jaasiël, der Mezobaiter.
+12	1	Und dies sind die, die zu David nach Ziklag kamen, als er noch vor Saul, dem Sohn des Kisch, zurückgehalten war; und sie waren unter den Helden, Helfer im Krieg,
+12	2	mit dem Bogen gerüstet, die die Rechte und die Linke gebrauchten mit den Steinen und mit den Pfeilen am Bogen; von den Brüdern Sauls, aus Benjamin.
+12	3	Das Haupt: Ahiëser, und Joasch, die Söhne Schemaas, des Gibeatiters; und Jesiël und Pelet, die Söhne Asmawets; und Beracha und Jehu, der Anatotiter;
+12	4	und Jischmaja, der Gibeoniter, ein Held unter den Dreissig und über die Dreissig;
+12	5	und Jirmeja und Jahasiël und Johanan und Josabad, der Gederatiter;
+12	6	Elusai und Jerimot und Bealja und Schemarja und Schefatja, der Harufiter;
+12	7	Elkana und Jischija und Asarel und Joëser und Jaschobam, die Korachiter;
+12	8	und Joëla und Sebadja, die Söhne Jerohams, aus Gedor.
+12	9	Und von den Gaditern trennten sich zu David, zur Bergfeste zur Wüste hin, Helden an Tapferkeit, Männer des Heeres für den Krieg, die Langschild und Spiess rüsteten; und ihr Angesicht war das Angesicht eines Löwen, und wie Gazellen auf den Bergen eilten sie.
+12	10	Eser, das Haupt; Obadja, der Zweite; Eliab, der Dritte;
+12	11	Mischmanna, der Vierte; Jirmeja, der Fünfte;
+12	12	Attai, der Sechste; Eliël, der Siebte;
+12	13	Johanan, der Achte; Elsabad, der Neunte;
+12	14	Jirmeja, der Zehnte; Machbannai, der Elfte.
+12	15	Das sind von den Kindern Gads die Häupter des Heeres: der Kleine einer für hundert, und der Grosse für tausend.
+12	16	Dies sind die, die im ersten Monat den Jordan überschritten, als er voll war über alle seine Böschungen, und sie brachten alle Täler zum Fliehen, nach Osten und nach Westen.
+12	17	Und es kamen von den Kindern Benjamins und Judas bis zur Bergfeste, zu David.
+12	18	Und David ging hinaus vor sie hin und antwortete und sagte zu ihnen: «Wenn ihr in Frieden zu mir gekommen seid, um mir zu helfen, so wird mein Herz mit euch eins sein; wenn aber, um mich zu täuschen zugunsten meiner Bedränger, obwohl keine Gewalttat an meinen Händen ist, so sehe es der Gott unserer Väter und schlichte.»
+12	19	Und der Geist zog Amasai an, das Haupt der Wagenkämpfer: «Dein, David, und mit dir, Sohn Isais! Friede, Friede dir, und Friede deinem Helfer; denn dir hat dein Gott geholfen.» Und David nahm sie an und setzte sie unter die Häupter der Rotte.
+12	20	Und von Manasse liefen einige zu David über, als er mit den Philistern gegen Saul in den Krieg kam; aber sie halfen ihnen nicht, denn nach einem Rat sandten ihn die Stadtfürsten der Philister fort und sagten: «Mit unseren Häuptern wird er zu seinem Herrn Saul überlaufen!»
+12	21	Als er nach Ziklag ging, liefen von Manasse zu ihm über: Adnach und Josabad und Jediaël und Michael und Josabad und Elihu und Zilletai, Häupter der Tausendschaften, die Manasse hatte.
+12	22	Und sie halfen David gegen die Rotte; denn Helden an Tapferkeit waren sie alle, und sie wurden Vorsteher im Heer.
+12	23	Denn Tag für Tag kamen sie zu David, um ihm zu helfen, bis zu einem grossen Lager wie das Lager Gottes.
+12	24	Und dies ist die Zahl der Häupter der Gewappneten für das Heer, die zu David nach Hebron kamen, um das Königtum Sauls ihm zuzuwenden nach dem Mund des HERRN:
+12	25	Die Kinder Judas, die Langschild und Spiess trugen: sechstausendachthundert, zum Heer Gewappnete.
+12	26	Von den Kindern Simeons, Helden an Tapferkeit für das Heer: siebentausendeinhundert.
+12	27	Von den Kindern Levis: viertausendsechshundert;
+12	28	und Jojada, der Herrscher für Aaron, und mit ihm dreitausendsiebenhundert;
+12	29	und Zadok, ein junger Mensch, ein Held an Tapferkeit, und das Haus seines Vaters: zweiundzwanzig Vorsteher.
+12	30	Und von den Kindern Benjamins, den Brüdern Sauls: dreitausend; und bis dahin bewahrte die Mehrzahl von ihnen, was am Haus Sauls zu bewahren war.
+12	31	Und von den Kindern Efraims: zwanzigtausendachthundert, Helden an Tapferkeit, Männer von Namen nach dem Haus ihrer Väter.
+12	32	Und vom halben Stamm Manasses: achtzehntausend, die mit Namen benannt worden waren, zu kommen, um David zum König zu machen.
+12	33	Und von den Kindern Issachars, die Einsicht kannten in die Zeiten, um zu wissen, was Israel tun sollte: ihre Häupter zweihundert, und alle ihre Brüder nach ihrem Mund.
+12	34	Von Sebulon, die mit dem Heer auszogen, die sich zum Krieg ordneten mit allem Kriegsgerät: fünfzigtausend, und um zusammenzuhalten ohne zweierlei Herz.
+12	35	Und von Naftali: tausend Vorsteher, und mit ihnen mit Langschild und Speer siebenunddreissigtausend.
+12	36	Und von den Danitern, die sich zum Krieg ordneten: achtundzwanzigtausendsechshundert.
+12	37	Und von Ascher, die mit dem Heer auszogen, um sich zum Krieg zu ordnen: vierzigtausend.
+12	38	Und von jenseits des Jordan, von den Rubenitern und den Gaditern und vom halben Stamm Manasses, mit allem Gerät des Kriegsheeres: hundertzwanzigtausend.
+12	39	Alle diese, Männer des Krieges, die in der Schlachtreihe zusammenhielten, kamen mit ungeteiltem Herzen nach Hebron, um David zum König über ganz Israel zu machen; und auch der ganze Überrest Israels war ein Herz, um David zum König zu machen.
+12	40	Und sie waren dort bei David drei Tage und assen und tranken; denn ihre Brüder hatten für sie bereitet.
+12	41	Und auch die ihnen nahe waren, bis nach Issachar und Sebulon und Naftali, brachten Brot auf Eseln und auf Kamelen und auf Maultieren und auf Rindern, zum Essen Mehl, Feigenkuchen und Rosinen und Wein und Öl und Rinder und Schafe in Fülle; denn es war Freude in Israel.
+13	1	Und David beriet sich mit den Vorstehern der Tausendschaften und der Hundertschaften, mit jedem Herrscher.
+13	2	Und David sagte zur ganzen Versammlung Israels: «Wenn es euch gut ist und wenn es vom HERRN, unserem Gott, ist, so lasst uns ausgreifen, lasst uns senden zu unseren Brüdern und Schwestern, die übrig geblieben sind in allen Ländern Israels, und mit ihnen die Priester und die Leviten in den Städten ihres Weidelands, und sie sollen sich zu uns zusammenscharen;
+13	3	und wir wollen die Lade unseres Gottes uns zuwenden; denn in den Tagen Sauls haben wir nicht nach ihr gefragt.»
+13	4	Und die ganze Versammlung sagte, man solle so tun; denn das Wort war recht in den Augen des ganzen Volkes.
+13	5	Und David versammelte ganz Israel, vom Schihor Ägyptens bis Lebo-Hamat, um die Lade Gottes aus Kirjat-Jearim zu bringen.
+13	6	Und David und ganz Israel stiegen hinauf nach Baala, nach Kirjat-Jearim, das zu Juda gehört, um von dort die Lade Gottes, des HERRN, hinaufzuholen, der auf den Keruben sitzt, wo der Name ausgerufen ist.
+13	7	Und sie setzten die Lade Gottes auf einen neuen Karren, aus dem Haus Abinadabs; und Usa und Achjo führten den Karren.
+13	8	Und David und ganz Israel spielten vor Gott mit aller Stärke und mit Liedern und mit Leiern und mit Harfen und mit Pauken und mit Zimbeln und mit Trompeten.
+13	9	Und sie kamen bis zur Tenne Kidons. Da streckte Usa seine Hand aus, um die Lade zu ergreifen; denn die Rinder waren ins Rutschen geraten.
+13	10	Da entbrannte der Zorn des HERRN gegen Usa, und er schlug ihn, weil er seine Hand nach der Lade ausgestreckt hatte; und er starb dort vor Gott.
+13	11	Da entbrannte David, weil der HERR eine Bresche in Usa geschlagen hatte; und man nannte jenen Ort Perez-Usa, bis zu diesem Tag.
+13	12	Und David fürchtete Gott an jenem Tag und sagte: «Wie soll ich die Lade Gottes zu mir bringen?»
+13	13	Und David liess die Lade nicht zu sich abbiegen in die Stadt Davids; und er liess sie abbiegen in das Haus Obed-Edoms, des Gatiters.
+13	14	Und die Lade Gottes blieb beim Haus Obed-Edoms, in seinem Haus, drei Monate; und der HERR segnete das Haus Obed-Edoms und alles, was ihm gehörte.
+14	1	Und Huram, der König von Tyrus, sandte Boten zu David, dazu Zedernholz und Künstler für die Wände und Künstler in Holz, um ihm ein Haus zu bauen.
+14	2	Und David erkannte, dass der HERR ihn als König über Israel hatte feststehen lassen, dass sein Königtum nach oben gehoben war um seines Volkes Israel willen.
+14	3	Und David nahm noch Frauen in Jerusalem, und David zeugte noch Söhne und Töchter.
+14	4	Und dies sind die Namen der Geborenen, die er in Jerusalem hatte: Schammua und Schobab, Natan und Salomo
+14	5	und Jibhar und Elischua und Elpelet
+14	6	und Nogah und Nefeg und Jafia
+14	7	und Elischama und Beeljada und Elifelet.
+14	8	Und die Philister hörten, dass David zum König über ganz Israel gesalbt worden war, und alle Philister stiegen herauf, um David zu suchen. Und David hörte es und zog hinaus, vor sie hin.
+14	9	Die Philister aber waren gekommen und fielen im Tal der Rafaïter ein.
+14	10	Und David befragte Gott: «Soll ich gegen die Philister hinaufsteigen, und wirst du sie in meine Hand geben?» Und der HERR sagte zu ihm: «Steig hinauf, und ich werde sie in deine Hand geben!»
+14	11	Und sie stiegen hinauf nach Baal-Perazim, und David schlug sie dort, und David sagte: «Gott hat durch meine Hand eine Bresche in meine Feinde geschlagen, wie Wasser eine Bresche schlägt.» Darum nannte man den Namen jenes Ortes Baal-Perazim.
+14	12	Und sie liessen dort ihre Götter zurück; und David sagte es, und sie wurden im Feuer verbrannt.
+14	13	Und die Philister fielen noch einmal im Tal ein.
+14	14	Und David befragte Gott noch einmal, und Gott sagte zu ihm: «Du sollst nicht hinter ihnen hinaufsteigen. Zieh herum, fort von ihnen, und komm an sie heran gegenüber den Bakabäumen.
+14	15	Und es soll geschehen: Wenn du das Geräusch des Schreitens in den Häuptern der Bakabäume hörst, dann zieh hinaus in den Krieg; denn Gott ist vor dir ausgezogen, um das Lager der Philister zu schlagen.»
+14	16	Und David tat, wie Gott ihm geboten hatte, und sie schlugen das Lager der Philister von Gibeon bis nach Geser.
+14	17	Und der Name Davids ging hinaus in alle Länder, und der HERR legte den Schrecken vor ihm auf alle Völker.
+15	1	Und er machte sich Häuser in der Stadt Davids; und er bereitete einen Ort für die Lade Gottes und spannte für sie ein Zelt auf.
+15	2	Damals sagte David: «Die Lade Gottes soll niemand tragen, es sei denn die Leviten; denn sie hat der HERR erwählt, die Lade des HERRN zu tragen und ihm Dienst zu tun auf ewig.»
+15	3	Und David versammelte ganz Israel nach Jerusalem, um die Lade des HERRN hinaufzuholen an ihren Ort, den er für sie bereitet hatte.
+15	4	Und David versammelte die Söhne Aarons und die Leviten:
+15	5	von den Kindern Kehats: Uriël, der Vorsteher, und seine Brüder, hundertzwanzig;
+15	6	von den Kindern Meraris: Asaja, der Vorsteher, und seine Brüder, zweihundertzwanzig;
+15	7	von den Kindern Gerschoms: Joel, der Vorsteher, und seine Brüder, hundertdreissig;
+15	8	von den Kindern Elizafans: Schemaja, der Vorsteher, und seine Brüder, zweihundert;
+15	9	von den Kindern Hebrons: Eliël, der Vorsteher, und seine Brüder, achtzig;
+15	10	von den Kindern Usiëls: Amminadab, der Vorsteher, und seine Brüder, hundertzwölf.
+15	11	Und David rief Zadok und Abjatar, die Priester, und die Leviten Uriël, Asaja und Joel, Schemaja und Eliël und Amminadab
+15	12	und sagte zu ihnen: «Ihr seid die Häupter der Väter der Leviten. Heiligt euch, ihr und eure Brüder, und holt die Lade des HERRN, des Gottes Israels, hinauf zu dem, was ich für sie bereitet habe.
+15	13	Denn weil ihr es zuerst nicht wart, hat der HERR, unser Gott, eine Bresche in uns geschlagen; denn wir haben nicht nach ihm gefragt nach dem Recht.»
+15	14	Da heiligten sich die Priester und die Leviten, um die Lade des HERRN, des Gottes Israels, hinaufzuholen.
+15	15	Und die Kinder der Leviten trugen die Lade Gottes, wie Mose geboten hatte nach dem Wort des HERRN, auf ihren Schultern, mit den Stangen auf sich.
+15	16	Und David sagte zu den Vorstehern der Leviten, sie sollten ihre Brüder, die Sänger, mit den Instrumenten des Liedes, Harfen und Leiern und Zimbeln, hinstellen, dass sie sie erklingen liessen, um die Stimme zu erheben zur Freude.
+15	17	Und die Leviten stellten Heman hin, den Sohn Joels, und von seinen Brüdern Asaf, den Sohn Berechjas; und von den Kindern Meraris, ihren Brüdern, Etan, den Sohn Kuschajas;
+15	18	und mit ihnen ihre Brüder, die Zweiten: Secharja, Ben und Jaasiël und Schemiramot und Jehiël und Unni, Eliab und Benaja und Maaseja und Mattitja und Elifelehu und Mikneja und Obed-Edom und Jeïël, die Torhüter.
+15	19	Und die Sänger Heman, Asaf und Etan mit Zimbeln aus Erz, um sie erklingen zu lassen;
+15	20	und Secharja und Asiël und Schemiramot und Jehiël und Unni und Eliab und Maaseja und Benaja mit Harfen, auf Alamot;
+15	21	und Mattitja und Elifelehu und Mikneja und Obed-Edom und Jeïël und Asasja mit Leiern, auf der Achten, um anzuführen.
+15	22	Und Kenanja, der Vorsteher der Leviten bei der Bürde, unterwies bei der Bürde, denn er verstand sich darauf.
+15	23	Und Berechja und Elkana waren Torhüter für die Lade.
+15	24	Und Schebanja und Joschafat und Netanel und Amasai und Secharja und Benaja und Eliëser, die Priester, bliesen die Trompeten vor der Lade Gottes; und Obed-Edom und Jehija waren Torhüter für die Lade.
+15	25	Und es waren David und die Ältesten Israels und die Vorsteher der Tausendschaften, die hingingen, um die Lade des Bundes des HERRN aus dem Haus Obed-Edoms hinaufzuholen, mit Freude.
+15	26	Und es geschah, als Gott den Leviten half, die die Lade des Bundes des HERRN trugen, da brachten sie sieben Jungstiere und sieben Widder als Schlachtopfer dar.
+15	27	Und David war umgetan mit einem Oberkleid aus Byssus, und alle Leviten, die die Lade trugen, und die Sänger und Kenanja, der Vorsteher bei der Bürde der Sänger; und auf David war ein leinenes Efod.
+15	28	Und ganz Israel holte die Lade des Bundes des HERRN hinauf mit Jubelschall und mit der Stimme des Widderhorns und mit Trompeten und mit Zimbeln und liess Harfen und Leiern erklingen.
+15	29	Und es geschah, als die Lade des Bundes des HERRN bis zur Stadt Davids kam, da blickte Michal, die Tochter Sauls, durch das Fenster herab und sah den König David, wie er hüpfte und spielte; und sie verachtete ihn in ihrem Herzen.
+16	1	Und sie brachten die Lade Gottes hinein und stellten sie auf, inmitten des Zeltes, das David für sie aufgespannt hatte. Und sie brachten Brandopfer und Friedensopfer vor Gott dar.
+16	2	Und als David damit zu Ende war, das Brandopfer und die Friedensopfer aufsteigen zu lassen, segnete er das Volk im Namen des HERRN.
+16	3	Und er verteilte an alle Männer Israels, vom Mann bis zur Frau, an jeden einen Laib Brot und einen Dattelkuchen und einen Rosinenkuchen.
+16	4	Und er setzte vor die Lade des HERRN Diensttuende von den Leviten, um den HERRN, den Gott Israels, ins Gedenken zu bringen und ihm zu danken und ihn zu loben.
+16	5	Asaf, das Haupt, und sein Zweiter, Secharja; Jeïël und Schemiramot und Jehiël und Mattitja und Eliab und Benaja und Obed-Edom und Jeïël mit Instrumenten der Harfen und mit Leiern; und Asaf liess die Zimbeln erklingen.
+16	6	Und Benaja und Jahasiël, die Priester, mit den Trompeten, beständig vor der Lade des Bundes Gottes.
+16	7	An jenem Tag, damals, gab David zum ersten Mal in die Hand Asafs und seiner Brüder, dem HERRN zu danken:
+16	8	Dankt dem HERRN, ruft seinen Namen an, tut unter den Völkern seine Taten kund!
+16	9	Singt ihm, lobsingt ihm, sinnt nach über all seine wunderbaren Taten!
+16	10	Lobt euch in seinem heiligen Namen; das Herz derer, die den HERRN suchen, freue sich!
+16	11	Fragt nach dem HERRN und seiner Stärke, sucht sein Angesicht beständig!
+16	12	Gedenkt seiner wunderbaren Taten, die er getan hat, seiner Wunder und der Rechtsentscheide seines Mundes,
+16	13	ihr Nachkommen Israels, seines Knechtes, ihr Kinder Jakobs, seine Erwählten!
+16	14	Er, der HERR, ist unser Gott; auf der ganzen Erde sind seine Rechtsentscheide.
+16	15	Gedenkt für immer seines Bundes, des Wortes, das er geboten hat für tausend Geschlechter,
+16	16	den er mit Abraham geschlossen hat, und seines Eides an Isaak.
+16	17	Er stellte ihn für Jakob hin als Satzung, für Israel als ewigen Bund,
+16	18	indem er sprach: «Dir gebe ich das Land Kanaan als Messschnur eures Erbes»,
+16	19	als ihr Leute von geringer Zahl wart, ganz wenige, und Fremde darin.
+16	20	Und sie gingen umher von Volk zu Volk, von einem Königreich zu einem anderen Volk.
+16	21	Er liess niemanden sie erpressen, und wies ihretwegen Könige zurecht:
+16	22	«Berührt meine Gesalbten nicht, und meinen Propheten tut nichts Böses!»
+16	23	Singt dem HERRN, ganze Erde, verkündet Tag um Tag seine Rettung!
+16	24	Erzählt unter den Völkern seine Herrlichkeit, unter allen Völkern seine wunderbaren Taten!
+16	25	Denn gross ist der HERR und hoch zu loben, und furchtgebietend ist er über alle Götter.
+16	26	Denn Nichtse sind alle Götter der Völker, der HERR aber hat die Himmel gemacht.
+16	27	Hoheit und Glanz sind vor seinem Angesicht, Stärke und Frohsinn an seinem Ort.
+16	28	Gebt dem HERRN, ihr Sippen der Völker, gebt dem HERRN Herrlichkeit und Stärke!
+16	29	Gebt dem HERRN die Herrlichkeit seines Namens, tragt ein Speiseopfer herbei und kommt vor sein Angesicht! Werft euch nieder vor dem HERRN in heiligem Glanz;
+16	30	windet euch vor seinem Angesicht, ganze Erde! Ja, fest steht der Erdkreis, er wankt nicht.
+16	31	Freuen sollen sich die Himmel, und jauchzen soll die Erde; und unter den Völkern soll man sagen: «Der HERR ist König geworden!»
+16	32	Donnern soll das Meer und seine Fülle. Frohlocken soll das Feld und alles, was darauf ist;
+16	33	dann sollen jubeln die Bäume des Waldes vor dem Angesicht des HERRN, denn er kommt, die Erde zu richten.
+16	34	Dankt dem HERRN, denn er ist gut, denn ewig währt seine Güte!
+16	35	Und sprecht: «Rette uns, Gott unserer Rettung, und versammle uns und befreie uns aus den Völkern, deinem heiligen Namen zu danken, uns deines Lobes zu rühmen!»
+16	36	Gepriesen sei der HERR, der Gott Israels, von Urzeit bis auf ewig! Und das ganze Volk sprach «Amen!» und lobte den HERRN.
+16	37	Und er liess dort vor der Lade des Bundes des HERRN Asaf und seine Brüder, um vor der Lade beständig Dienst zu tun, nach dem, was der Tag fordert, Tag für Tag;
+16	38	und Obed-Edom und ihre Brüder, achtundsechzig, und Obed-Edom, den Sohn Jedutuns, und Hosa als Torhüter.
+16	39	Und Zadok, den Priester, und seine Brüder, die Priester, liess er vor der Wohnung des HERRN auf der Kulthöhe, die in Gibeon ist,
+16	40	um dem HERRN Brandopfer aufsteigen zu lassen auf dem Brandopferaltar, beständig, am Morgen und am Abend, und nach allem, was geschrieben ist in der Weisung des HERRN, die er Israel geboten hat.
+16	41	Und bei ihnen waren Heman und Jedutun und der Rest der Ausgelesenen, die mit Namen benannt worden waren, um dem HERRN zu danken, denn ewig währt seine Güte.
+16	42	Und bei ihnen, Heman und Jedutun, waren Trompeten und Zimbeln für die, die sie erklingen liessen, und Instrumente des Liedes Gottes. Und die Söhne Jedutuns waren für das Tor.
+16	43	Und das ganze Volk ging weg, jeder zu seinem Haus. Und David wandte sich um, um sein Haus zu segnen.
+17	1	Und es geschah, als David in seinem Haus wohnte, da sagte David zu Natan, dem Propheten: «Siehe, ich wohne im Haus aus Zedern, und die Lade des Bundes des HERRN ist unter Zeltbahnen.»
+17	2	Und Natan sagte zu David: «Alles, was in deinem Herzen ist, tu es; denn Gott ist mit dir.»
+17	3	Und es geschah in jener Nacht, da erging das Wort Gottes an Natan:
+17	4	«Geh und sag zu David, meinem Knecht: So spricht der HERR: Nicht du sollst mir das Haus zum Wohnen bauen.
+17	5	Denn ich habe nicht in einem Haus gewohnt vom Tag an, da ich Israel heraufholte, bis zu diesem Tag, und ich bin von Zelt zu Zelt gewesen und von Wohnung zu Wohnung.
+17	6	Wo ich auch umhergegangen bin unter ganz Israel — habe ich mit einem der Richter Israels, dem ich geboten habe, mein Volk zu weiden, ein Wort geredet: ‹Warum habt ihr mir kein Haus aus Zedern gebaut?› «
+17	7	Und nun sollst du so zu meinem Knecht, zu David, sagen: So spricht der HERR der Heerscharen: Ich habe dich vom Weidegrund genommen, hinter den Schafen weg, um Herrscher zu sein über mein Volk Israel.
+17	8	Und ich war mit dir, wohin du auch gegangen bist, und habe alle deine Feinde vor dir ausgerottet. Und ich will dir einen Namen machen wie den Namen der Grossen, die auf der Erde sind.
+17	9	Und ich will für mein Volk Israel einen Ort festlegen und es pflanzen, und es wird an seiner Stelle wohnen und sich nicht mehr erregen; und die zum Unrecht gehören, sollen es nicht wieder verschleissen wie früher
+17	10	und seit den Tagen, an denen ich Richtern über mein Volk Israel gebot. Und ich will alle deine Feinde beugen. Und ich künde dir: Ein Haus wird der HERR dir bauen. «
+17	11	Und es wird geschehen, wenn deine Tage voll geworden sind, mit deinen Vätern zu gehen, dann will ich deinen Nachkommen nach dir erstehen lassen, der von deinen Söhnen sein wird, und will sein Königtum feststehen lassen.
+17	12	Er wird mir ein Haus bauen, und ich will seinen Thron feststehen lassen auf ewig.
+17	13	Ich werde ihm Vater sein, und er wird mir Sohn sein. Und meine Güte will ich nicht von ihm weichen lassen, wie ich sie von dem habe weichen lassen, der vor dir war.
+17	14	Und ich will ihn hinstellen in meinem Haus und in meinem Königtum auf ewig, und sein Thron wird feststehen auf ewig.»
+17	15	Nach all diesen Worten und nach diesem ganzen Gesicht, so redete Natan zu David.
+17	16	Da kam der König David und setzte sich vor den HERRN und sagte: «Wer bin ich, HERR Gott, und wer ist mein Haus, dass du mich bis hierher gebracht hast?
+17	17	Und dies war zu klein in deinen Augen, Gott, und du hast über das Haus deines Knechtes geredet auf ferne Zeit hin, und du hast mich angesehen nach der Reihe des Menschen nach oben hin, HERR Gott.
+17	18	Was soll David noch weiter zu dir hinzufügen zur Herrlichkeit deines Knechtes? Du aber kennst deinen Knecht.
+17	19	HERR, um deines Knechtes willen und nach deinem Herzen hast du all diese Grösse getan, um all das Grosse kundzutun. «
+17	20	HERR, keiner ist wie du, und es gibt keinen Gott ausser dir, nach allem, was wir mit unseren Ohren gehört haben.
+17	21	Und wer ist wie dein Volk Israel, das eine Volk auf der Erde, das Gott hinging, sich als Volk loszukaufen, um dir einen Namen zu machen, Grosses und Furchtgebietendes, um vor deinem Volk, das du aus Ägypten losgekauft hast, Völker zu vertreiben?
+17	22	Und du hast dein Volk Israel für dich zum Volk gemacht auf ewig, und du, HERR, bist ihnen Gott geworden. «
+17	23	Und nun, HERR: Das Wort, das du über deinen Knecht und über sein Haus geredet hast, soll Bestand haben auf ewig, und tu, wie du geredet hast.
+17	24	Und Bestand habe und gross werde dein Name auf ewig, dass man sagt: ‹Der HERR der Heerscharen, der Gott Israels, ist Gott für Israel!› Und das Haus Davids, deines Knechtes, steht fest vor dir.
+17	25	Denn du, mein Gott, hast das Ohr deines Knechtes aufgedeckt, ihm ein Haus zu bauen. Darum hat dein Knecht gefunden, vor dir zu beten.
+17	26	Und nun, HERR, du bist Gott, und du hast über deinen Knecht dieses Gute geredet.
+17	27	Und nun hast du dich entschlossen, das Haus deines Knechtes zu segnen, dass es für immer vor dir sei; denn du, HERR, hast gesegnet, und es ist gesegnet für immer.»
+18	1	Und es geschah danach, da schlug David die Philister und beugte sie, und nahm Gat und ihre Tochterstädte aus der Hand der Philister.
+18	2	Und er schlug Moab, und Moab wurde David zu Sklaven, die Gaben trugen.
+18	3	Und David schlug Hadad-Eser, den König von Zoba, nach Hamat hin, als er hinging, um seine Hand am Strom Eufrat hinzustellen.
+18	4	Und David fing von ihm tausend Wagen und siebentausend Reiter und zwanzigtausend Mann zu Fuss. Und David hieb allen Wagenrossen die Flechsen durch; hundert Wagen aber liess er davon übrig.
+18	5	Und Aram-Damaskus kam, um Hadad-Eser, dem König von Zoba, zu helfen; und David schlug unter Aram zweiundzwanzigtausend Mann.
+18	6	Und David legte in Aram-Damaskus, und Aram wurde David zu Sklaven, die Gaben trugen. Und der HERR rettete für David, wohin er auch ging.
+18	7	Und David nahm die Pfeiltaschen aus Gold, die an den Knechten Hadad-Esers waren, und brachte sie nach Jerusalem.
+18	8	Und aus Tibhat und aus Kun, den Städten Hadad-Esers, nahm David sehr viel Erz. Daraus machte Salomo das Meer aus Erz und die Säulen und die Geräte aus Erz.
+18	9	Und Tou, der König von Hamat, hörte, dass David das ganze Heer Hadad-Esers, des Königs von Zoba, geschlagen hatte.
+18	10	Da sandte er Hadoram, seinen Sohn, zum König David, um ihn nach seinem Frieden zu fragen und ihn zu segnen dafür, dass er gegen Hadad-Eser gekämpft und ihn geschlagen hatte; denn Hadad-Eser war ein Mann der Kriege Tous gewesen. Und alle Gefässe aus Gold und Silber und Erz —
+18	11	auch sie weihte der König David dem HERRN, samt dem Silber und dem Gold, das er weggetragen hatte von allen Völkern: von Edom und von Moab und von den Kindern Ammons und von den Philistern und von Amalek.
+18	12	Und Abischai, der Sohn der Zeruja, schlug Edom im Salztal, achtzehntausend.
+18	13	Und er legte Besatzungen in Edom, und ganz Edom wurde David zu Sklaven. Und der HERR rettete David, wohin er auch ging.
+18	14	Und David war König über ganz Israel, und er schaffte Recht und Gerechtigkeit für sein ganzes Volk.
+18	15	Und Joab, der Sohn der Zeruja, war über dem Heer, und Joschafat, der Sohn Ahiluds, war Kanzler,
+18	16	und Zadok, der Sohn Ahitubs, und Abimelech, der Sohn Abjatars, waren Priester, und Schawscha war Schreiber,
+18	17	und Benaja, der Sohn Jojadas, war über den Kretern und den Pletern; und die Söhne Davids waren die Ersten neben dem König.
+19	1	Und es geschah danach, da starb Nahasch, der König der Kinder Ammons, und sein Sohn wurde König an seiner Stelle.
+19	2	Und David sagte: «Ich will Güte an Hanun, dem Sohn des Nahasch, üben, denn sein Vater hat Güte an mir geübt.» Und David sandte Boten, um ihn über seinen Vater zu trösten; und die Knechte Davids kamen in das Land der Kinder Ammons zu Hanun, um ihn zu trösten.
+19	3	Da sagten die Herrscher der Kinder Ammons zu Hanun: «Ehrt David deinen Vater in deinen Augen, weil er dir Tröster gesandt hat? Sind nicht seine Knechte zu dir gekommen, um das Land zu erforschen und umzustürzen und auszukundschaften?»
+19	4	Da nahm Hanun die Knechte Davids und rasierte sie und schnitt ihre Überwürfe zur Hälfte ab, bis an den Schritt, und liess sie ziehen.
+19	5	Und man ging hin und sagte David von den Männern, und er sandte ihnen entgegen; denn die Männer waren sehr in Schande. Und der König sagte: «Bleibt in Jericho, bis euer Bart gesprosst ist, und dann kehrt zurück!»
+19	6	Und die Kinder Ammons sahen, dass sie sich bei David stinkend gemacht hatten. Da sandten Hanun und die Kinder Ammons tausend Talente Silber, um sich aus Aram-Naharajim und aus Aram-Maacha und aus Zoba Wagen und Reiter anzuwerben.
+19	7	Und sie warben sich zweiunddreissigtausend Wagen an und den König von Maacha und sein Volk; und sie kamen und lagerten vor Medeba. Und die Kinder Ammons versammelten sich aus ihren Städten und kamen zum Krieg.
+19	8	Und David hörte es und sandte Joab und das ganze Heer der Helden.
+19	9	Und die Kinder Ammons zogen aus und ordneten sich zum Krieg am Eingang der Stadt; die Könige aber, die gekommen waren, waren allein auf dem Feld.
+19	10	Und Joab sah, dass das Angesicht des Krieges gegen ihn war, vorn und hinten. Da erwählte er aus allen Auserlesenen in Israel und ordnete sich Aram entgegen.
+19	11	Den Rest des Volkes aber gab er in die Hand Abischais, seines Bruders, und sie ordneten sich den Kindern Ammons entgegen.
+19	12	Und er sagte: «Wenn Aram mir zu stark wird, so sollst du mir zur Rettung werden; und wenn die Kinder Ammons dir zu stark werden, so will ich dich retten.
+19	13	Sei stark, und zeigen wir uns stark für unser Volk und für die Städte unseres Gottes! Und der HERR tue, was gut ist in seinen Augen!»
+19	14	Und Joab kam heran, und das Volk, das bei ihm war, vor Aram zum Krieg; und sie flohen vor ihm.
+19	15	Und als die Kinder Ammons sahen, dass Aram floh, flohen auch sie vor Abischai, seinem Bruder, und kamen in die Stadt. Und Joab kam nach Jerusalem.
+19	16	Und als Aram sah, dass sie vor Israel niedergestreckt waren, sandten sie Boten und führten Aram hinaus, das jenseits des Stroms war; und Schofach, der Heerführer Hadad-Esers, war vor ihnen.
+19	17	Und es wurde David gesagt. Da versammelte er ganz Israel und überschritt den Jordan und kam zu ihnen und ordnete sich gegen sie. Und David ordnete sich zum Krieg Aram entgegen, und sie kämpften mit ihm.
+19	18	Und Aram floh vor Israel, und David tötete von Aram siebentausend Wagen und vierzigtausend Mann zu Fuss; und Schofach, den Heerführer, brachte er zu Tode.
+19	19	Und die Knechte Hadad-Esers sahen, dass sie vor Israel niedergestreckt waren; und sie schlossen Frieden mit David und dienten ihm. Und Aram wollte die Kinder Ammons nicht mehr retten.
+20	1	Und es geschah zur Zeit der Wende des Jahres, zur Zeit, da die Könige ausziehen, da führte Joab die Heeresmacht und verderbte das Land der Kinder Ammons und kam und belagerte Rabba. David aber blieb in Jerusalem. Und Joab schlug Rabba und brach sie ab.
+20	2	Und David nahm die Krone ihres Königs von seinem Haupt, und er fand sie vom Gewicht eines Talents Gold, und an ihr war ein kostbarer Stein; und sie kam auf das Haupt Davids. Und die Beute der Stadt brachte er heraus, sehr viel.
+20	3	Und das Volk, das darin war, führte er heraus; und er sägte sie mit der Säge und mit den eisernen Pickeln und mit den Sägen. Und so tat David an allen Städten der Kinder Ammons. Und David und das ganze Volk kehrten nach Jerusalem zurück.
+20	4	Und es geschah danach, da trat in Geser Krieg mit den Philistern auf. Damals schlug Sibbechai, der Huschatiter, Sippai, einen von den Geborenen der Rafaïter; und sie wurden gebeugt.
+20	5	Und wieder war Krieg mit den Philistern. Und Elhanan, der Sohn Jaïrs, schlug Lachmi, den Bruder Goliats, des Gatiters; und das Holz seines Speers war wie ein Weberbaum.
+20	6	Und wieder war Krieg in Gat. Und da war ein Mann von hohem Mass, und seine Finger waren je sechs und sechs, vierundzwanzig; und auch er war dem Rafa geboren.
+20	7	Und er beschimpfte Israel; da schlug ihn Jonatan, der Sohn Schimas, des Bruders Davids.
+20	8	Diese waren dem Rafa in Gat geboren; und sie fielen durch die Hand Davids und durch die Hand seiner Knechte.
+21	1	Und ein Widersacher trat auf gegen Israel und verführte David, Israel zu zählen.
+21	2	Und David sagte zu Joab und zu den Herrschern des Volkes: «Geht, zählt Israel von Beerscheba bis Dan, und bringt es mir, damit ich ihre Zahl weiss.»
+21	3	Und Joab sagte: «Der HERR füge zu seinem Volk, so viele sie sind, hundertmal hinzu! Sind sie nicht, mein Herr, der König, alle meinem Herrn Knechte? Warum sucht mein Herr dies? Warum soll es Israel zur Verschuldung werden?»
+21	4	Doch das Wort des Königs war stärker als Joab. Und Joab zog hinaus und ging umher in ganz Israel und kam nach Jerusalem.
+21	5	Und Joab gab David die Zahl der Musterung des Volkes: Ganz Israel waren elfhunderttausend Mann, die das Schwert zogen, und Juda vierhundertsiebzigtausend Mann, die das Schwert zogen.
+21	6	Levi und Benjamin aber musterte er nicht unter ihnen; denn das Wort des Königs wurde von Joab verabscheut.
+21	7	Und es war ein Übel in den Augen Gottes wegen dieses Wortes, und er schlug Israel.
+21	8	Und David sagte zu Gott: «Ich habe sehr gesündigt, dass ich dieses Wort getan habe. Und nun lass doch die Schuld deines Knechtes vorübergehen; denn ich habe sehr unbesonnen gehandelt.»
+21	9	Und der HERR redete zu Gad, dem Seher Davids:
+21	10	«Geh und rede zu David: So spricht der HERR: Dreierlei strecke ich über dich aus; erwähle dir eines davon, und ich will es dir tun.»
+21	11	Und Gad kam zu David und sagte zu ihm: «So spricht der HERR: Nimm für dich an:
+21	12	entweder drei Jahre Hungersnot oder drei Monate, in denen du vor deinen Bedrängern weggerafft wirst und das Schwert deiner Feinde dich einholt, oder drei Tage das Schwert des HERRN und Pest im Land und den Engel des HERRN, der im ganzen Gebiet Israels verdirbt. Und nun sieh, welches Wort ich dem zurückbringen soll, der mich gesandt hat.»
+21	13	Und David sagte zu Gad: «Bedrängt bin ich sehr. Lass mich doch in die Hand des HERRN fallen, denn sehr viel ist sein Erbarmen; aber in die Hand eines Menschen will ich nicht fallen!»
+21	14	Und der HERR gab eine Pest in Israel; und es fielen von Israel siebzigtausend Mann.
+21	15	Und Gott sandte einen Engel nach Jerusalem, um es zu verderben. Und als er dabei war zu verderben, sah es der HERR, und es reute ihn das Böse; und er sagte zu dem Engel, dem Verderber: «Genug jetzt! Lass deine Hand abstehen!» Und der Engel des HERRN stand bei der Tenne Ornans, des Jebusiters.
+21	16	Und David hob seine Augen auf und sah den Engel des HERRN zwischen der Erde und dem Himmel stehen, sein gezogenes Schwert in seiner Hand, ausgestreckt über Jerusalem. Und David und die Ältesten, mit Sacktüchern bedeckt, fielen auf ihr Angesicht.
+21	17	Und David sagte zu Gott: «Habe nicht ich gesagt, das Volk zu zählen? Ich bin es, der gesündigt hat, und Böses habe ich getan; diese aber, die Schafe, was haben sie getan? HERR, mein Gott, deine Hand sei doch gegen mich und gegen das Haus meines Vaters, aber gegen dein Volk nicht zum Schlag!»
+21	18	Und der Engel des HERRN sagte zu Gad, er solle zu David sagen, David solle hinaufsteigen, um dem HERRN auf der Tenne Ornans, des Jebusiters, einen Altar aufzustellen.
+21	19	Und David stieg hinauf nach dem Wort Gads, das er im Namen des HERRN geredet hatte.
+21	20	Und Ornan kehrte um und sah den Engel, und seine vier Söhne, die bei ihm waren, verbargen sich; Ornan aber drosch Weizen.
+21	21	Und David kam bis zu Ornan. Und Ornan schaute hin und sah David, und er ging aus der Tenne hinaus und warf sich vor David nieder, mit dem Gesicht zur Erde.
+21	22	Und David sagte zu Ornan: «Gib mir den Ort der Tenne, dass ich darauf dem HERRN einen Altar baue; für volles Silber gib ihn mir, damit der Schlag aufgehalten werde, fort vom Volk.»
+21	23	Und Ornan sagte zu David: «Nimm ihn dir, und mein Herr, der König, tue, was gut ist in seinen Augen! Sieh, ich gebe die Rinder zu den Brandopfern und die Dreschbretter zum Holz und den Weizen zum Speiseopfer; das alles gebe ich.»
+21	24	Und der König David sagte zu Ornan: «Nein, sondern erwerben will ich es für volles Silber; denn ich will nicht, was dir gehört, zum HERRN tragen und ein Brandopfer aufsteigen lassen, das umsonst ist.»
+21	25	Und David gab Ornan für den Ort Gold, sechshundert Schekel an Gewicht.
+21	26	Und David baute dort dem HERRN einen Altar und liess Brandopfer und Friedensopfer aufsteigen. Und er rief zum HERRN, und er antwortete ihm mit Feuer vom Himmel auf den Brandopferaltar.
+21	27	Und der HERR sprach zu dem Engel, und er liess sein Schwert zurückkehren in seine Scheide.
+21	28	Zu jener Zeit, als David sah, dass der HERR ihm auf der Tenne Ornans, des Jebusiters, geantwortet hatte, brachte er dort Schlachtopfer dar.
+21	29	Die Wohnung des HERRN aber, die Mose in der Wüste gemacht hatte, und der Brandopferaltar waren zu jener Zeit auf der Kulthöhe in Gibeon.
+21	30	Und David konnte nicht vor ihn hingehen, um nach Gott zu fragen; denn er war überfallen worden vor dem Schwert des Engels des HERRN.
+22	1	Und David sagte: «Dies ist das Haus des HERRN, Gottes, und dies der Altar zum Brandopfer für Israel.»
+22	2	Und David sagte, man solle die Fremden versammeln, die im Land Israel waren; und er stellte Steinhauer auf, um Quadersteine zu hauen, um das Haus Gottes zu bauen.
+22	3	Und Eisen in Fülle für die Nägel an den Türflügeln der Tore und für die Verbindungsstücke bereitete David, und Erz in Fülle, ohne Gewicht,
+22	4	und Zedernholz ohne Zahl; denn die Sidonier und die Tyrer brachten Zedernholz in Fülle zu David.
+22	5	Und David sagte: «Salomo, mein Sohn, ist jung und zart, und das Haus, das für den HERRN zu bauen ist, soll man nach oben hin gross machen, zum Namen und zur Zierde für alle Länder. So will ich ihm doch bereiten.» Und David bereitete in Fülle vor seinem Tod.
+22	6	Und er rief Salomo, seinen Sohn, und gebot ihm, ein Haus zu bauen für den HERRN, den Gott Israels.
+22	7	Und David sagte zu Salomo: «Mein Sohn, ich — es war in meinem Herzen, ein Haus zu bauen für den Namen des HERRN, meines Gottes.
+22	8	Und das Wort des HERRN erging an mich: ‹Blut in Fülle hast du vergossen, und grosse Kriege hast du gemacht. Du sollst kein Haus bauen für meinen Namen; denn viel Blut hast du zur Erde vergossen vor mir.
+22	9	Siehe, ein Sohn wird dir geboren; er wird ein Mann der Ruhe sein, und ich will ihn zur Ruhe bringen vor all seinen Feinden ringsum. Denn Salomo wird sein Name sein, und Frieden und Ruhigsein will ich über Israel geben in seinen Tagen.
+22	10	Er wird ein Haus bauen für meinen Namen, und er wird mir Sohn sein, und ich ihm Vater; und ich will den Thron seines Königtums über Israel feststehen lassen auf ewig.› «
+22	11	Nun, mein Sohn, der HERR sei mit dir, und es wird dir gelingen, und du wirst das Haus des HERRN, deines Gottes, bauen, wie er über dich geredet hat.
+22	12	Nur gebe dir der HERR Einsicht und Verständnis und gebiete dir für Israel, um die Weisung des HERRN, deines Gottes, zu bewahren.
+22	13	Dann wird es dir gelingen, wenn du bewahrst, um die Satzungen und die Rechtsentscheide zu tun, die der HERR Mose für Israel geboten hat. Sei stark und fasse Mut! Fürchte dich nicht und verzage nicht! «
+22	14	Und siehe, in meiner Niedrigkeit habe ich für das Haus des HERRN bereitet: Gold, hunderttausend Talente, und Silber, tausendmal tausend Talente, und an Erz und an Eisen ohne Gewicht, denn es war in Fülle; und Holz und Steine habe ich bereitet, und du wirst zu ihnen hinzufügen.
+22	15	Und bei dir sind in Fülle, die die Arbeit tun: Steinhauer und Künstler in Stein und Holz und jeder, der weise ist in jeder Arbeit —
+22	16	an Gold, an Silber und an Erz und an Eisen ohne Zahl. Steh auf und tu es, und der HERR sei mit dir!»
+22	17	Und David gebot allen Herrschern Israels, Salomo, seinem Sohn, zu helfen:
+22	18	«Ist nicht der HERR, euer Gott, mit euch? Und er hat euch zur Ruhe gebracht ringsum; denn er hat die Bewohner des Landes in meine Hand gegeben, und das Land ist unterworfen vor dem HERRN und vor seinem Volk.
+22	19	Nun setzt euer Herz und eure Seele daran, nach dem HERRN, eurem Gott, zu fragen. Und steht auf und baut das Heiligtum des HERRN, Gottes, um die Lade des Bundes des HERRN und die heiligen Geräte Gottes in das Haus zu bringen, das für den Namen des HERRN gebaut wird.»
+23	1	Und David war alt und satt an Tagen, und er machte Salomo, seinen Sohn, zum König über Israel.
+23	2	Und er versammelte alle Herrscher Israels und die Priester und die Leviten.
+23	3	Und die Leviten wurden gezählt, dreissig Jahre alt und darüber; und ihre Zahl war, je Kopf, an Männern achtunddreissigtausend.
+23	4	Von diesen, um die Arbeit am Haus des HERRN anzuführen: vierundzwanzigtausend; und Amtleute und Richter: sechstausend;
+23	5	und viertausend Torhüter; und viertausend, die den HERRN loben mit den Instrumenten, die ich gemacht habe, um zu loben.
+23	6	Und David verteilte sie in Abteilungen, nach den Söhnen Levis: Gerschon, Kehat und Merari.
+23	7	Von den Gerschonitern: Ladan und Schimi.
+23	8	Die Söhne Ladans: das Haupt Jehiël, und Setam und Joel, drei.
+23	9	Die Söhne Schimis: Schelomit und Hasiël und Haran, drei. Das sind die Häupter der Väter von Ladan.
+23	10	Und die Söhne Schimis: Jahat, Sina und Jëusch und Beria. Das sind die Söhne Schimis, vier.
+23	11	Und Jahat war das Haupt, und Sisa der Zweite; Jëusch und Beria aber hatten nicht viele Söhne, und sie wurden zu einem Haus der Väter, zu einem Amt.
+23	12	Die Söhne Kehats: Amram, Jizhar, Hebron und Usiël, vier.
+23	13	Die Söhne Amrams: Aaron und Mose. Und Aaron wurde ausgesondert, damit er als Hochheiliges geweiht werde, er und seine Söhne, auf ewig, um vor dem HERRN in Rauch aufgehen zu lassen, ihm Dienst zu tun und in seinem Namen zu segnen auf ewig.
+23	14	Und Mose, der Mann Gottes: Seine Söhne wurden nach dem Stamm Levi genannt.
+23	15	Die Söhne des Mose: Gerschom und Eliëser.
+23	16	Die Söhne Gerschoms: Schebuël, das Haupt.
+23	17	Und die Söhne Eliësers waren: Rehabja, das Haupt; und Eliëser hatte keine anderen Söhne, die Söhne Rehabjas aber wurden zahlreich nach oben hin.
+23	18	Die Söhne Jizhars: Schelomit, das Haupt.
+23	19	Die Söhne Hebrons: Jerija, das Haupt; Amarja, der Zweite; Jahasiël, der Dritte; und Jekamam, der Vierte.
+23	20	Die Söhne Usiëls: Micha, das Haupt; und Jischija, der Zweite.
+23	21	Die Söhne Meraris: Machli und Muschi. Die Söhne Machlis: Eleasar und Kisch.
+23	22	Und Eleasar starb, und er hatte keine Söhne, sondern Töchter; und die Söhne des Kisch, ihre Brüder, nahmen sie zur Frau.
+23	23	Die Söhne Muschis: Machli und Eder und Jeremot, drei.
+23	24	Das sind die Kinder Levis nach dem Haus ihrer Väter, die Häupter der Väter, nach ihren Gemusterten, nach der Zahl der Namen, je Kopf, die die Arbeit taten für den Dienst am Haus des HERRN, zwanzig Jahre alt und darüber.
+23	25	Denn David sagte: «Der HERR, der Gott Israels, hat sein Volk zur Ruhe gebracht, und er wohnt in Jerusalem auf ewig.
+23	26	Und auch die Leviten haben die Wohnung und alle ihre Geräte für ihren Dienst nicht mehr zu tragen.»
+23	27	Denn nach den letzten Worten Davids war dies die Zahl der Kinder Levis, zwanzig Jahre alt und darüber.
+23	28	Denn ihr Stand war neben den Söhnen Aarons für den Dienst am Haus des HERRN: über die Höfe und über die Säle und über die Reinigung alles Heiligen, und das Werk des Dienstes am Haus Gottes;
+23	29	und für das Brot der Reihe und für das Feinmehl zum Speiseopfer und für die ungesäuerten Fladen und für die Backplatte und für das Eingerührte und für jedes Hohlmass und Mass;
+23	30	und um Morgen für Morgen zu stehen, um dem HERRN zu danken und ihn zu loben, und ebenso am Abend;
+23	31	und bei allen Brandopfern, die man dem HERRN aufsteigen lässt, an den Sabbaten, an den Neumonden und an den bestimmten Zeiten, nach der Zahl, nach dem Recht, das für sie gilt, beständig vor dem HERRN.
+23	32	Und sie sollten bewahren, was am Zelt der Begegnung zu bewahren ist, und was am Heiligtum zu bewahren ist, und was die Söhne Aarons, ihre Brüder, zu bewahren haben, für den Dienst am Haus des HERRN.
+24	1	Und für die Söhne Aarons ihre Abteilungen. Die Söhne Aarons: Nadab und Abihu, Eleasar und Itamar.
+24	2	Und Nadab und Abihu starben vor ihrem Vater, und Söhne hatten sie keine. Und Eleasar und Itamar waren Priester.
+24	3	Und David verteilte sie, und Zadok von den Söhnen Eleasars und Ahimelech von den Söhnen Itamars, nach ihrem Amt in ihrem Dienst.
+24	4	Und die Söhne Eleasars fanden sich zahlreicher an Häuptern der Männer als die Söhne Itamars; und sie verteilten sie: für die Söhne Eleasars Häupter des Hauses der Väter, sechzehn, und für die Söhne Itamars nach dem Haus ihrer Väter, acht.
+24	5	Und sie verteilten sie durch Lose, diese mit jenen; denn es gab heilige Herrscher und Herrscher Gottes aus den Söhnen Eleasars und unter den Söhnen Itamars.
+24	6	Und Schemaja, der Sohn Netanels, der Schreiber, von den Leviten, schrieb sie nieder vor dem König und den Herrschern und Zadok, dem Priester, und Ahimelech, dem Sohn Abjatars, und den Häuptern der Väter der Priester und der Leviten: ein Haus der Väter herausgegriffen für Eleasar, und herausgegriffen, herausgegriffen für Itamar.
+24	7	Und das erste Los kam heraus für Jojarib, für Jedaja das zweite,
+24	8	für Harim das dritte, für Seorim das vierte,
+24	9	für Malkija das fünfte, für Mijamin das sechste,
+24	10	für Koz das siebte, für Abija das achte,
+24	11	für Jeschua das neunte, für Schechanja das zehnte,
+24	12	für Eljaschib das elfte, für Jakim das zwölfte,
+24	13	für Huppa das dreizehnte, für Jeschebab das vierzehnte,
+24	14	für Bilga das fünfzehnte, für Immer das sechzehnte,
+24	15	für Hesir das siebzehnte, für Pizzez das achtzehnte,
+24	16	für Petachja das neunzehnte, für Jeheskel das zwanzigste,
+24	17	für Jachin das einundzwanzigste, für Gamul das zweiundzwanzigste,
+24	18	für Delaja das dreiundzwanzigste, für Maasja das vierundzwanzigste.
+24	19	Das ist ihr Amt für ihren Dienst, um in das Haus des HERRN hineinzugehen nach ihrem Recht, durch die Hand Aarons, ihres Vaters, wie der HERR, der Gott Israels, ihm geboten hatte.
+24	20	Und für die übrigen Kinder Levis: für die Söhne Amrams: Schubaël; für die Söhne Schubaëls: Jechdeja;
+24	21	für Rehabja: für die Söhne Rehabjas das Haupt Jischija;
+24	22	für die Jizhariter: Schelomot; für die Söhne Schelomots: Jahat.
+24	23	Und die Söhne: Jerija; Amarja, der Zweite; Jahasiël, der Dritte; Jekamam, der Vierte.
+24	24	Die Söhne Usiëls: Micha; für die Söhne Michas: Schamir.
+24	25	Der Bruder Michas: Jischija; für die Söhne Jischijas: Secharja.
+24	26	Die Söhne Meraris: Machli und Muschi; die Söhne Jaasijas: Beno.
+24	27	Die Söhne Meraris, für Jaasija: Beno und Schoham und Sakkur und Ibri.
+24	28	Für Machli: Eleasar; und er hatte keine Söhne.
+24	29	Für Kisch, die Söhne des Kisch: Jerachmeel.
+24	30	Und die Söhne Muschis: Machli und Eder und Jerimot. Das sind die Kinder der Leviten nach dem Haus ihrer Väter.
+24	31	Und auch sie losten entsprechend ihren Brüdern, den Söhnen Aarons, vor David, dem König, und Zadok und Ahimelech und den Häuptern der Väter der Priester und der Leviten: die Väter, das Haupt entsprechend seinem jüngeren Bruder.
+25	1	Und David und die Heerführer sonderten für den Dienst die Söhne Asafs und Hemans und Jedutuns aus, die weissagten mit Leiern, mit Harfen und mit Zimbeln. Und ihre Zahl an Männern der Arbeit für ihren Dienst war:
+25	2	Für die Söhne Asafs: Sakkur und Josef und Netanja und Asarela, die Söhne Asafs, unter der Hand Asafs, der weissagte unter der Hand des Königs.
+25	3	Für Jedutun: die Söhne Jedutuns: Gedalja und Zeri und Jeschaja, Haschabja und Mattitja, sechs, unter der Hand ihres Vaters Jedutun, der mit der Leier weissagte, um dem HERRN zu danken und ihn zu loben.
+25	4	Für Heman: die Söhne Hemans: Bukkija, Mattanja, Usiël, Schebuël und Jerimot, Hananja, Hanani, Eliata, Giddalti und Romamti-Eser, Joschbekascha, Malloti, Hotir, Mahasiot.
+25	5	Alle diese sind Söhne Hemans, des Sehers des Königs in den Worten Gottes, um das Horn zu erhöhen. Und Gott gab Heman vierzehn Söhne und drei Töchter.
+25	6	Alle diese waren unter der Hand ihres Vaters beim Lied im Haus des HERRN, mit Zimbeln, Harfen und Leiern, für den Dienst am Haus Gottes, unter der Hand des Königs: Asaf und Jedutun und Heman.
+25	7	Und ihre Zahl mit ihren Brüdern, die im Lied für den HERRN gelehrt waren, alle, die sich darauf verstanden, war zweihundertachtundachtzig.
+25	8	Und sie losten um das, was zu bewahren war, entsprechend, der Kleine wie der Grosse, wer sich darauf verstand, mit dem Lernenden.
+25	9	Und das erste Los kam heraus für Asaf, für Josef; für Gedalja das zweite, er und seine Brüder und seine Söhne, zwölf;
+25	10	das dritte für Sakkur, seine Söhne und seine Brüder, zwölf;
+25	11	das vierte für Jizri, seine Söhne und seine Brüder, zwölf;
+25	12	das fünfte für Netanja, seine Söhne und seine Brüder, zwölf;
+25	13	das sechste für Bukkija, seine Söhne und seine Brüder, zwölf;
+25	14	das siebte für Jesarela, seine Söhne und seine Brüder, zwölf;
+25	15	das achte für Jeschaja, seine Söhne und seine Brüder, zwölf;
+25	16	das neunte für Mattanja, seine Söhne und seine Brüder, zwölf;
+25	17	das zehnte für Schimi, seine Söhne und seine Brüder, zwölf;
+25	18	das elfte für Asarel, seine Söhne und seine Brüder, zwölf;
+25	19	das zwölfte für Haschabja, seine Söhne und seine Brüder, zwölf;
+25	20	das dreizehnte für Schubaël, seine Söhne und seine Brüder, zwölf;
+25	21	das vierzehnte für Mattitja, seine Söhne und seine Brüder, zwölf;
+25	22	das fünfzehnte für Jeremot, seine Söhne und seine Brüder, zwölf;
+25	23	das sechzehnte für Hananja, seine Söhne und seine Brüder, zwölf;
+25	24	das siebzehnte für Joschbekascha, seine Söhne und seine Brüder, zwölf;
+25	25	das achtzehnte für Hanani, seine Söhne und seine Brüder, zwölf;
+25	26	das neunzehnte für Malloti, seine Söhne und seine Brüder, zwölf;
+25	27	das zwanzigste für Eliata, seine Söhne und seine Brüder, zwölf;
+25	28	das einundzwanzigste für Hotir, seine Söhne und seine Brüder, zwölf;
+25	29	das zweiundzwanzigste für Giddalti, seine Söhne und seine Brüder, zwölf;
+25	30	das dreiundzwanzigste für Mahasiot, seine Söhne und seine Brüder, zwölf;
+25	31	das vierundzwanzigste für Romamti-Eser, seine Söhne und seine Brüder, zwölf.
+26	1	Für die Abteilungen der Torhüter: Für die Korachiter: Meschelemja, der Sohn Kores, von den Söhnen Asafs.
+26	2	Und Meschelemja hatte Söhne: Secharja, der Erstgeborene; Jediaël, der Zweite; Sebadja, der Dritte; Jatniël, der Vierte;
+26	3	Elam, der Fünfte; Johanan, der Sechste; Eljehoënai, der Siebte.
+26	4	Und Obed-Edom hatte Söhne: Schemaja, der Erstgeborene; Josabad, der Zweite; Joach, der Dritte; und Sachar, der Vierte; und Netanel, der Fünfte;
+26	5	Ammiël, der Sechste; Issachar, der Siebte; Pëulletai, der Achte; denn Gott hatte ihn gesegnet.
+26	6	Und Schemaja, seinem Sohn, wurden Söhne geboren, die über das Haus ihres Vaters herrschten; denn Helden an Tüchtigkeit waren sie.
+26	7	Die Söhne Schemajas: Otni und Refaël und Obed, Elsabad; seine Brüder, tüchtige Männer: Elihu und Semachja.
+26	8	Alle diese waren von den Söhnen Obed-Edoms, sie und ihre Söhne und ihre Brüder, tüchtige Männer an Kraft für den Dienst: zweiundsechzig für Obed-Edom.
+26	9	Und Meschelemja hatte Söhne und Brüder, tüchtige Männer: achtzehn.
+26	10	Und Hosa, von den Kindern Meraris, hatte Söhne: Schimri, das Haupt — denn er war nicht der Erstgeborene, doch sein Vater setzte ihn zum Haupt —;
+26	11	Hilkija, der Zweite; Tebalja, der Dritte; Secharja, der Vierte. Alle Söhne und Brüder Hosas: dreizehn.
+26	12	Diesen, den Abteilungen der Torhüter, den Häuptern der Männer, oblag, was zu bewahren war, entsprechend ihren Brüdern, um im Haus des HERRN Dienst zu tun.
+26	13	Und sie losten, der Kleine wie der Grosse, nach dem Haus ihrer Väter, für Tor um Tor.
+26	14	Und das Los fiel nach Osten hin für Schelemja. Und Secharja, sein Sohn, ein Berater mit Einsicht — sie losten, und sein Los kam heraus nordwärts.
+26	15	Für Obed-Edom südwärts, und für seine Söhne das Haus der Einsammlungen.
+26	16	Für Schuppim und für Hosa nach Westen, beim Tor Schallechet, am Hochweg, der hinaufsteigt: Bewachung neben Bewachung.
+26	17	Für den Osten sechs Leviten, nach Norden jeden Tag vier, nach Süden jeden Tag vier, und für die Einsammlungen je zwei.
+26	18	Für den Parbar, nach Westen: vier für den Hochweg, zwei für den Parbar.
+26	19	Das sind die Abteilungen der Torhüter, für die Kinder der Korachiter und für die Kinder Meraris.
+26	20	Und die Leviten: Ahija war über die Vorratskammern des Hauses Gottes und über die Vorratskammern der heiligen Dinge.
+26	21	Die Söhne Ladans, die Kinder der Gerschoniter, für Ladan, die Häupter der Väter, für Ladan, den Gerschoniter: Jehiëli.
+26	22	Die Söhne Jehiëlis: Setam und Joel, sein Bruder, waren über die Vorratskammern des Hauses des HERRN.
+26	23	Für die Amramiter, für die Jizhariter, für die Hebroniter, für die Usiëliter:
+26	24	Und Schebuël, der Sohn Gerschoms, des Sohnes des Mose, war Herrscher über die Vorratskammern.
+26	25	Und seine Brüder, von Eliëser: Rehabja, sein Sohn; und Jeschaja, sein Sohn; und Joram, sein Sohn; und Sichri, sein Sohn; und Schelomit, sein Sohn.
+26	26	Dieser Schelomot und seine Brüder waren über alle Vorratskammern der heiligen Dinge, die David, der König, geweiht hatte, und die Häupter der Väter, für die Vorsteher der Tausendschaften und der Hundertschaften, und die Heerführer.
+26	27	Von den Kriegen und von der Beute hatten sie geweiht, um das Haus des HERRN zu festigen.
+26	28	Und alles, was Samuel, der Sehende, geweiht hatte, und Saul, der Sohn des Kisch, und Abner, der Sohn Ners, und Joab, der Sohn der Zeruja: alles, was geweiht war, stand unter der Hand Schelomits und seiner Brüder.
+26	29	Für die Jizhariter: Kenanja und seine Söhne für die äussere Arbeit über Israel, als Amtleute und als Richter.
+26	30	Für die Hebroniter: Haschabja und seine Brüder, tüchtige Männer, tausendsiebenhundert, über das Amt Israels jenseits des Jordan nach Westen hin, für alle Arbeit des HERRN und für den Dienst des Königs.
+26	31	Für die Hebroniter: Jerija, das Haupt, für die Hebroniter nach seinem Ursprung, nach Vätern. Im vierzigsten Jahr des Königtums Davids wurde nach ihnen gefragt, und es fanden sich unter ihnen Helden an Tüchtigkeit in Jaser in Gilead.
+26	32	Und seine Brüder, tüchtige Männer: zweitausendsiebenhundert, Häupter der Väter. Und David, der König, setzte sie ein über die Rubeniter und die Gaditer und den halben Stamm der Manassiter, für jedes Wort Gottes und Wort des Königs.
+27	1	Und die Kinder Israels nach ihrer Zahl, die Häupter der Väter und die Vorsteher der Tausendschaften und der Hundertschaften und ihre Amtleute, die dem König Dienst taten in allem, was die Abteilungen betraf, die hineinging und hinausging, Monat für Monat, für alle Monate des Jahres: die eine Abteilung vierundzwanzigtausend.
+27	2	Über die erste Abteilung, für den ersten Monat, war Jaschobam, der Sohn Sabdiëls; und in seiner Abteilung waren vierundzwanzigtausend.
+27	3	Er war von den Söhnen des Perez, das Haupt aller Heerführer für den ersten Monat.
+27	4	Und über die Abteilung des zweiten Monats war Dodai, der Ahohiter, und seine Abteilung, und Miklot war der Herrscher; und in seiner Abteilung waren vierundzwanzigtausend.
+27	5	Der dritte Heerführer, für den dritten Monat, war Benaja, der Sohn Jojadas, des Priesters, als Haupt; und in seiner Abteilung waren vierundzwanzigtausend.
+27	6	Das ist Benaja, der Held der Dreissig und über die Dreissig; und seine Abteilung: Ammisabad, sein Sohn.
+27	7	Der vierte, für den vierten Monat, war Asaël, der Bruder Joabs, und Sebadja, sein Sohn, nach ihm; und in seiner Abteilung waren vierundzwanzigtausend.
+27	8	Der fünfte, für den fünften Monat, war der Vorsteher Schamhut, der Jisrachiter; und in seiner Abteilung waren vierundzwanzigtausend.
+27	9	Der sechste, für den sechsten Monat, war Ira, der Sohn des Ikkesch, der Tekoiter; und in seiner Abteilung waren vierundzwanzigtausend.
+27	10	Der siebte, für den siebten Monat, war Helez, der Peloniter, von den Kindern Efraims; und in seiner Abteilung waren vierundzwanzigtausend.
+27	11	Der achte, für den achten Monat, war Sibbechai, der Huschatiter, von den Serachitern; und in seiner Abteilung waren vierundzwanzigtausend.
+27	12	Der neunte, für den neunten Monat, war Abiëser, der Anatotiter, von den Benjaminitern; und in seiner Abteilung waren vierundzwanzigtausend.
+27	13	Der zehnte, für den zehnten Monat, war Mahrai, der Netofatiter, von den Serachitern; und in seiner Abteilung waren vierundzwanzigtausend.
+27	14	Der elfte, für den elften Monat, war Benaja, der Piratoniter, von den Kindern Efraims; und in seiner Abteilung waren vierundzwanzigtausend.
+27	15	Der zwölfte, für den zwölften Monat, war Heldai, der Netofatiter, von Otniël; und in seiner Abteilung waren vierundzwanzigtausend.
+27	16	Und über die Stämme Israels: Für die Rubeniter war Herrscher Eliëser, der Sohn Sichris; für die Simeoniter Schefatja, der Sohn Maachas;
+27	17	für Levi Haschabja, der Sohn Kemuëls; für Aaron Zadok;
+27	18	für Juda Elihu, von den Brüdern Davids; für Issachar Omri, der Sohn Michaels;
+27	19	für Sebulon Jischmaja, der Sohn Obadjas; für Naftali Jerimot, der Sohn Asriëls;
+27	20	für die Kinder Efraims Hoschea, der Sohn Asasjas; für den halben Stamm Manasses Joel, der Sohn Pedajas;
+27	21	für die Hälfte Manasses in Gilead Jiddo, der Sohn Secharjas; für Benjamin Jaasiël, der Sohn Abners;
+27	22	für Dan Asarel, der Sohn Jerohams. Das sind die Vorsteher der Stämme Israels.
+27	23	Und David stellte ihre Zahl nicht fest von denen, die zwanzig Jahre alt und darunter waren; denn der HERR hatte gesagt, er werde Israel mehren wie die Sterne des Himmels.
+27	24	Joab, der Sohn der Zeruja, hatte begonnen zu zählen, doch er vollendete es nicht; und deswegen kam Wut über Israel. Und die Zahl stieg nicht auf in die Zahl der Tagesgeschichte des Königs David.
+27	25	Und über die Vorratskammern des Königs war Asmawet, der Sohn Adiëls; und über die Vorratskammern auf dem Feld, in den Städten und in den Dörfern und in den Türmen Jonatan, der Sohn Usijas.
+27	26	Und über die, die die Arbeit des Feldes taten, für die Bearbeitung des Bodens, war Esri, der Sohn Kelubs.
+27	27	Und über die Weinberge war Schimi, der Ramatiter; und über das, was in den Weinbergen für die Vorratskammern des Weins war, Sabdi, der Schifmiter.
+27	28	Und über die Ölbäume und die Maulbeerfeigenbäume, die in der Schefela waren, war Baal-Hanan, der Gederiter; und über die Vorratskammern des Öls Joasch.
+27	29	Und über die Rinder, die im Scharon weideten, war Schirtai, der Scharoniter; und über die Rinder in den Tälern Schafat, der Sohn Adlais.
+27	30	Und über die Kamele war Obil, der Ismaeliter; und über die Eselinnen Jechdeja, der Meronotiter.
+27	31	Und über die Schafe war Jasis, der Hagriter. Alle diese waren Vorsteher der Habe, die dem König David gehörte.
+27	32	Und Jonatan, der Onkel Davids, war Berater, ein Mann, der sich darauf verstand, und Schreiber war er; und Jehiël, der Sohn Hachmonis, war bei den Söhnen des Königs.
+27	33	Und Ahitofel war Berater des Königs; und Huschai, der Arkiter, war der Freund des Königs.
+27	34	Und nach Ahitofel waren es Jojada, der Sohn Benajas, und Abjatar; und Heerführer des Königs war Joab.
+28	1	Und David versammelte alle Herrscher Israels nach Jerusalem: die Vorsteher der Stämme und die Vorsteher der Abteilungen, die dem König Dienst taten, und die Vorsteher der Tausendschaften und die Vorsteher der Hundertschaften und die Vorsteher über alle Habe und allen Viehbesitz des Königs und seiner Söhne, mit den Hofbeamten und den Helden und jedem Helden an Tapferkeit.
+28	2	Und David, der König, stand auf, auf seine Füsse, und sagte: «Hört mich, meine Brüder und mein Volk! Ich — es war in meinem Herzen, ein Haus der Ruhe zu bauen für die Lade des Bundes des HERRN und für den Schemel der Füsse unseres Gottes, und ich habe bereitet, um zu bauen.
+28	3	Aber Gott hat zu mir gesagt: ‹Du sollst kein Haus bauen für meinen Namen; denn ein Mann der Kriege bist du, und Blut hast du vergossen.› «
+28	4	Und der HERR, der Gott Israels, hat mich erwählt aus dem ganzen Haus meines Vaters, König zu sein über Israel auf ewig. Denn Juda hat er zum Herrscher erwählt, und im Haus Juda das Haus meines Vaters, und unter den Söhnen meines Vaters hatte er an mir Wohlgefallen, mich zum König zu machen über ganz Israel.
+28	5	Und von allen meinen Söhnen — denn viele Söhne hat mir der HERR gegeben — hat er Salomo, meinen Sohn, erwählt, zu sitzen auf dem Thron des Königtums des HERRN über Israel.
+28	6	Und er hat zu mir gesagt: ‹Salomo, dein Sohn, er wird mein Haus und meine Höfe bauen; denn ich habe ihn mir zum Sohn erwählt, und ich werde ihm Vater sein.
+28	7	Und ich will sein Königtum feststehen lassen auf ewig, wenn er stark ist, meine Gebote und meine Rechtsentscheide zu tun, wie es an diesem Tag ist.› «
+28	8	Und nun, vor den Augen ganz Israels, der Versammlung des HERRN, und vor den Ohren unseres Gottes: Bewahrt und fragt nach allen Geboten des HERRN, eures Gottes, damit ihr das gute Land in Besitz nehmt und es euren Kindern nach euch erben lasst auf ewig. «
+28	9	Und du, Salomo, mein Sohn, erkenne den Gott deines Vaters und diene ihm mit ungeteiltem Herzen und mit einer Seele, die Gefallen daran hat! Denn nach allen Herzen fragt der HERR, und alles, was an Absichten gebildet wird, versteht er. Wenn du nach ihm fragst, wird er sich von dir finden lassen; und wenn du ihn verlässt, wird er dich von sich stossen für immer.
+28	10	Sieh nun: Der HERR hat dich erwählt, ein Haus zu bauen zum Heiligtum. Sei stark und handle!»
+28	11	Und David gab Salomo, seinem Sohn, das Muster der Vorhalle und ihrer Häuser und ihrer Schatzräume und ihrer Obergemächer und ihrer inneren Kammern und des Hauses des Sühnedeckels,
+28	12	und das Muster von allem, was im Geist bei ihm war: für die Höfe des Hauses des HERRN und für alle Säle ringsum, für die Vorratskammern des Hauses Gottes und für die Vorratskammern der heiligen Dinge,
+28	13	und für die Abteilungen der Priester und der Leviten und für alle Arbeit des Dienstes am Haus des HERRN und für alle Geräte des Dienstes am Haus des HERRN;
+28	14	für das Gold, nach dem Gewicht für das Gold, für alle Geräte jedes Dienstes; für alle Geräte aus Silber nach Gewicht, für alle Geräte jedes Dienstes;
+28	15	und das Gewicht für die goldenen Leuchter und ihre Lampen aus Gold, nach dem Gewicht jedes einzelnen Leuchters und seiner Lampen, und für die silbernen Leuchter nach Gewicht, für einen Leuchter und seine Lampen, nach dem Dienst jedes einzelnen Leuchters;
+28	16	und das Gold nach Gewicht für die Tische der Reihe, für jeden einzelnen Tisch, und Silber für die silbernen Tische;
+28	17	und die Gabeln und die Sprengschalen und die Kannen aus reinem Gold; und für die goldenen Deckelschalen nach Gewicht für jede einzelne Deckelschale, und für die silbernen Deckelschalen nach Gewicht für jede einzelne Deckelschale;
+28	18	und für den Räucheraltar geklärtes Gold nach Gewicht; und für das Muster des Wagens: die Keruben aus Gold, die ausbreiten und überdecken über der Lade des Bundes des HERRN.
+28	19	«Das alles in einer Schrift von der Hand des HERRN, die auf mir lag: Er hat mich einsichtig gemacht in alle Arbeiten des Musters.»
+28	20	Und David sagte zu Salomo, seinem Sohn: «Sei stark und fasse Mut und handle! Fürchte dich nicht und verzage nicht! Denn der HERR Gott, mein Gott, ist mit dir. Er wird dich nicht loslassen und dich nicht verlassen, bis alle Arbeit für den Dienst am Haus des HERRN vollendet ist.
+28	21	Und siehe, da sind die Abteilungen der Priester und der Leviten für allen Dienst am Haus Gottes; und mit dir ist bei aller Arbeit jeder Edle mit Weisheit für allen Dienst, und die Herrscher und das ganze Volk für alle deine Worte.»
+29	1	Und David, der König, sagte zur ganzen Versammlung: «Salomo, mein Sohn, der eine, den Gott erwählt hat, ist jung und zart, und die Arbeit ist gross; denn nicht für einen Menschen ist der Königssitz, sondern für den HERRN, Gott.
+29	2	Und mit all meiner Kraft habe ich für das Haus meines Gottes bereitet: das Gold für das Goldene und das Silber für das Silberne und das Erz für das Eherne, das Eisen für das Eiserne und das Holz für das Hölzerne, Schohamsteine und Steine zum Besetzen, Steine der Augenschminke und Buntgewirktes und kostbare Steine jeder Art und Marmorsteine in Fülle. «
+29	3	Und weiter: Weil ich Wohlgefallen habe am Haus meines Gottes, gebe ich, was ich als Eigentum habe an Gold und Silber, für das Haus meines Gottes, über alles hinaus, was ich für das heilige Haus bereitet habe:
+29	4	dreitausend Talente Gold vom Gold Ofirs und siebentausend Talente geklärtes Silber, um die Wände der Häuser zu verputzen,
+29	5	das Gold für das Goldene und das Silber für das Silberne, und für jede Arbeit durch die Hand der Künstler. Und wer gibt freiwillig, um heute seine Hand für den HERRN zu füllen?»
+29	6	Da gaben freiwillig die Vorsteher der Väter und die Vorsteher der Stämme Israels und die Vorsteher der Tausendschaften und der Hundertschaften und die Vorsteher der Arbeit des Königs.
+29	7	Und sie gaben für den Dienst am Haus Gottes: an Gold fünftausend Talente und zehntausend Dariken, und an Silber zehntausend Talente, und an Erz achtzehntausend Talente, und an Eisen hunderttausend Talente.
+29	8	Und die, bei denen sich Steine fanden, gaben sie in die Vorratskammer des Hauses des HERRN, unter der Hand Jehiëls, des Gerschoniters.
+29	9	Und das Volk freute sich über ihr freiwilliges Geben, denn mit ungeteiltem Herzen gaben sie dem HERRN freiwillig; und auch David, der König, freute sich mit grosser Freude.
+29	10	Und David pries den HERRN vor den Augen der ganzen Versammlung, und David sagte: «Gepriesen bist du, HERR, Gott Israels, unseres Vaters, von Urzeit bis auf ewig!
+29	11	Dein, HERR, ist die Grösse und die Macht und die Zierde und die Dauer und die Hoheit; denn alles im Himmel und auf der Erde ist dein. Dein, HERR, ist das Königreich, und du bist es, der sich emporhebt über alles als Haupt.
+29	12	Und der Reichtum und das Ansehen kommen von dir, und du herrschst über alles; und in deiner Hand sind Kraft und Macht, und in deiner Hand liegt es, alles gross und stark zu machen.
+29	13	Und nun, unser Gott, wir danken dir und loben den Namen deiner Zierde. «
+29	14	Und wer bin ich, und wer ist mein Volk, dass wir Kraft aufbringen sollten, so freiwillig zu geben? Denn von dir kommt alles, und aus deiner Hand haben wir dir gegeben.
+29	15	Denn Fremde sind wir vor dir und Beisassen wie alle unsere Väter; wie ein Schatten sind unsere Tage auf der Erde, und da ist keine Hoffnung.
+29	16	HERR, unser Gott, all dieser Reichtum, den wir bereitet haben, um dir ein Haus zu bauen für deinen heiligen Namen: Aus deiner Hand ist er, und dein ist alles. «
+29	17	Und ich weiss, mein Gott, dass du das Herz prüfst und an Aufrichtigkeit Wohlgefallen hast. Ich habe in der Redlichkeit meines Herzens all dies freiwillig gegeben; und nun habe ich dein Volk, das sich hier findet, mit Freude gesehen, wie es dir freiwillig gibt.
+29	18	HERR, Gott Abrahams, Isaaks und Israels, unserer Väter, bewahre dies auf ewig in dem, was das Herz deines Volkes an Absichten bildet, und lenke ihr Herz auf dich!
+29	19	Und Salomo, meinem Sohn, gib ein ungeteiltes Herz, um deine Gebote, deine Zeugnisse und deine Satzungen zu bewahren und alles zu tun und den Königssitz zu bauen, den ich bereitet habe.»
+29	20	Und David sagte zur ganzen Versammlung: «Preist doch den HERRN, euren Gott!» Und die ganze Versammlung pries den HERRN, den Gott ihrer Väter, und sie verneigten sich und warfen sich nieder vor dem HERRN und vor dem König.
+29	21	Und sie brachten dem HERRN Schlachtopfer dar und liessen dem HERRN Brandopfer aufsteigen am Tag nach jenem Tag: tausend Jungstiere, tausend Widder, tausend Lämmer und ihre Trankopfer, und Schlachtopfer in Fülle für ganz Israel.
+29	22	Und sie assen und tranken vor dem HERRN an jenem Tag mit grosser Freude. Und sie machten Salomo, den Sohn Davids, zum zweiten Mal zum König und salbten ihn dem HERRN zum Herrscher, und Zadok zum Priester.
+29	23	Und Salomo setzte sich auf den Thron des HERRN als König an der Stelle Davids, seines Vaters, und es gelang ihm; und ganz Israel hörte auf ihn.
+29	24	Und alle Herrscher und die Helden und auch alle Söhne des Königs David gaben die Hand unter Salomo, den König.
+29	25	Und der HERR machte Salomo nach oben hin gross vor den Augen ganz Israels und legte auf ihn eine Hoheit des Königtums, wie sie auf keinem König vor ihm über Israel gewesen war.
+29	26	Und David, der Sohn Isais, war König über ganz Israel.
+29	27	Und die Tage, die er über Israel König war, waren vierzig Jahre: In Hebron war er König sieben Jahre, und in Jerusalem war er König dreiunddreissig.
+29	28	Und er starb in gutem grauem Haar, satt an Tagen, Reichtum und Ansehen; und Salomo, sein Sohn, wurde König an seiner Stelle.
+29	29	Und die Geschichte Davids, des Königs, die erste und die letzte, siehe, das steht geschrieben in der Geschichte Samuels, des Sehenden, und in der Geschichte Natans, des Propheten, und in der Geschichte Gads, des Sehers,
+29	30	mit all seinem Königtum und seiner Macht und den Zeiten, die über ihn hingegangen sind und über Israel und über alle Königreiche der Länder.
