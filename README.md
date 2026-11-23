@@ -10,4 +10,5 @@ LYRIS-BIBEL erarbeitet; LYRIS arbeitet sämtliche Texte von Hand durch.
 Die LYRIS-BIBEL soll grundsätzlich frei zugänglich sein; eine Lizenz wird geprüft. Grundtexte und Rechte:
 im Anhang der App. Kontakt: info@lyris.ch
 
-Schrift: Cardo von David J. Perry, unter der SIL Open Font License 1.1 (schrift/OFL.txt).
+Schriften: Cardo von David J. Perry (schrift/OFL.txt); Cormorant Garamond, Spectral, Inter, Jost und Alegreya Sans
+von ihren Projektautoren (schrift/OFL-*.txt) — alle unter der SIL Open Font License 1.1.
