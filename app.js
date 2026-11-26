@@ -186,6 +186,32 @@ document.addEventListener('keydown',function(ev){
  if(!im&&!ev.metaKey&&!ev.ctrlKey&&!ev.altKey&&(ev.key==='/'||ev.key==='g')){ev.preventDefault();location.hash='navi';}});
 var ft;if(document.fonts&&document.fonts.addEventListener)document.fonts.addEventListener('loadingdone',function(){clearTimeout(ft);ft=setTimeout(function(){if(R.classList.contains('mit-rand'))rand();},150);});
 var rt;window.addEventListener('resize',function(){clearTimeout(rt);rt=setTimeout(function(){kopf();rand();ort();},250);});
+// Drehen: Wechselt die Breite (Hochformat, Querformat, geteilter Bildschirm), bleibt dieselbe Textstelle
+// an derselben Höhe. Gemerkt wird der Buchstabe am oberen Rand, nicht bloss der Absatz.
+var LAGE=null,DREH=0,dEnde,lPlan=false;
+function lagePunkt(){var m=document.querySelector('main');if(!m)return null;var r=m.getBoundingClientRect(),w=window.innerWidth;
+ var x=Math.max(2,Math.min(w-2,r.left+r.width/2)),ys=[12,40,80,140,220];
+ for(var i=0;i<ys.length;i++){var y=ys[i],n=null,o=0,c;
+  try{if(document.caretPositionFromPoint){c=document.caretPositionFromPoint(x,y);if(c){n=c.offsetNode;o=c.offset;}}
+   else if(document.caretRangeFromPoint){c=document.caretRangeFromPoint(x,y);if(c){n=c.startContainer;o=c.startOffset;}}}catch(z){}
+  if(n&&n.nodeType===3&&m.contains(n)){var a={n:n,o:o,w:w},t=lageOben(a);if(t!=null){a.y=t;return a;}}
+  var e=document.elementFromPoint(x,y);e=e&&e.closest('main p,main h1,main h2,main h3,main li,main section');
+  if(e)return{e:e,y:e.getBoundingClientRect().top,w:w};}
+ return null;}
+function lageOben(a){if(a.e)return a.e.isConnected?a.e.getBoundingClientRect().top:null;if(!a.n.isConnected)return null;
+ var l=a.n.length,r=document.createRange();try{r.setStart(a.n,Math.min(a.o,l));r.setEnd(a.n,Math.min(a.o+1,l));}catch(z){return null;}
+ var q=r.getClientRects();return q.length?q[0].top:r.getBoundingClientRect().top;}
+function lageMerken(){lPlan=false;if(DREH)return;if(LAGE&&window.innerWidth!==LAGE.w)return;LAGE=lagePunkt();}
+function drehen(){if(!LAGE||window.innerWidth===LAGE.w)return;var a=LAGE;DREH=1;
+ var setz=function(){if(!DREH)return;var t=lageOben(a);if(t==null)return;var d=Math.round(t-a.y);if(d)window.scrollBy(0,d);};
+ setz();requestAnimationFrame(function(){setz();requestAnimationFrame(setz);});
+ [60,150,300,500,800,1200].forEach(function(z){setTimeout(setz,z);});
+ clearTimeout(dEnde);dEnde=setTimeout(function(){setz();DREH=0;LAGE=lagePunkt();ort();leiste();},1400);}
+window.addEventListener('scroll',function(){if(!lPlan&&!DREH){lPlan=true;requestAnimationFrame(lageMerken);}},{passive:true});
+window.addEventListener('resize',drehen);window.addEventListener('orientationchange',drehen);
+if(window.visualViewport)window.visualViewport.addEventListener('resize',drehen);
+['touchstart','wheel','keydown','mousedown'].forEach(function(n){window.addEventListener(n,function(){if(DREH){DREH=0;clearTimeout(dEnde);LAGE=lagePunkt();}},{passive:true});});
+window.addEventListener('load',function(){setTimeout(lageMerken,700);});setTimeout(lageMerken,400);
 
 // Offline-Speicher (Service Worker); jedes Buch wird beim ersten Öffnen gespeichert, auf Wunsch alle auf einmal
 var OK=$('offline-knopf');
